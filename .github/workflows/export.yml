@@ -17,7 +17,7 @@ jobs:
       - id: version
         run: echo "version=$(cat version.txt)" >> "$GITHUB_OUTPUT"
       - id: autocommit
-        uses: stefanzweifel/git-auto-commit-action@v6.0.1
+        uses: stefanzweifel/git-auto-commit-action@v7.0.0
         with:
           commit_message: "[skip ci] Version ${{ steps.version.outputs.version }}"
     outputs:
@@ -60,7 +60,7 @@ jobs:
       - run: poetry run repoe all -l all --poe2 -o ../poe2/data
         working-directory: RePoE
       - id: autocommit
-        uses: stefanzweifel/git-auto-commit-action@v6.0.1
+        uses: stefanzweifel/git-auto-commit-action@v7.0.0
         with:
           repository: poe2
           branch: master
