@@ -14492,6 +14492,117 @@
     "packs": null,
     "terrain_plugins": null
   },
+  "HideoutBlankIce": {
+    "act": 1,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": "HideoutBlankIce",
+    "has_waypoint": false,
+    "id": "HideoutBlankIce",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "Frozen Lake Hideout",
+    "tags": [],
+    "topologies": [
+      {
+        "file": "Metadata/Terrain/Hideouts/BlankIce/Graphs/hideout.dgr",
+        "id": "HideoutBlankIce",
+        "unknown": [
+          100,
+          50,
+          100,
+          [],
+          [
+            0
+          ],
+          85,
+          56
+        ]
+      }
+    ],
+    "area_type_tags": null,
+    "parent_town": null,
+    "packs": null,
+    "terrain_plugins": null
+  },
+  "HideoutBlankFire": {
+    "act": 1,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": "HideoutBlankFire",
+    "has_waypoint": false,
+    "id": "HideoutBlankFire",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "Wildfire Clearing Hideout",
+    "tags": [],
+    "topologies": [
+      {
+        "file": "Metadata/Terrain/Hideouts/BlankFire/Graphs/hideout.dgr",
+        "id": "HideoutBlankFire",
+        "unknown": [
+          100,
+          50,
+          100,
+          [],
+          [
+            0
+          ],
+          85,
+          56
+        ]
+      }
+    ],
+    "area_type_tags": null,
+    "parent_town": null,
+    "packs": null,
+    "terrain_plugins": null
+  },
+  "HideoutShip": {
+    "act": 1,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": "HideoutShip",
+    "has_waypoint": false,
+    "id": "HideoutShip",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "The Sovereign Hideout",
+    "tags": [],
+    "topologies": [
+      {
+        "file": "Metadata/Terrain/Hideouts/Ship/Graphs/hideout_ship.dgr",
+        "id": "HideoutShip",
+        "unknown": [
+          100,
+          50,
+          100,
+          [],
+          [
+            0
+          ],
+          85,
+          56
+        ]
+      }
+    ],
+    "area_type_tags": null,
+    "parent_town": null,
+    "packs": null,
+    "terrain_plugins": null
+  },
   "MapHideoutFarmlands_Claimable": {
     "act": 10,
     "area_level": 65,

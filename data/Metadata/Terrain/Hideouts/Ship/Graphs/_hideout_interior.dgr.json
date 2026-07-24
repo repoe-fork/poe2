@@ -1,0 +1,171 @@
+{
+  "data": {
+    "Default%": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Hideouts/Ship/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Ship/Tiles/Hideout_OceanFill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Ship/Hideout_OceanFill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "DeepOceanGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Ship/Tiles/Hideout_OceanFill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Ship/Hideout_OceanFill.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": "combination.ecf",
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Hideouts/Ship/Tiles/deep_ocean_ground.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": [
+      0
+    ],
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "boat_interior",
+      "strings": [
+        "teleport1",
+        "telepad2"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/Ship/Rooms/hideout.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "boat",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Ship/Rooms/hideout_interior.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "boat_interior",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    2,
+    1
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/Ship/Tiles/Ship_Hideout_Interior.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Inner",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Ship/Ship_Hideout_Interior.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Ship/Tiles/Ship_Hideout_Top.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Top",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Ship/Ship_Hideout_Top.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Ship/Tiles/Hideout_OceanFill.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Ship/Hideout_OceanFill.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}

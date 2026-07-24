@@ -491077,6 +491077,4862 @@
     "stereo": null,
     "video": null
   },
+  "DavinBossHeadTrader_ApproachFirst_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come on, kid... don't be afraid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachFirst_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachFirst_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come on, kid... don't be afraid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachFirst_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachFirst_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come on, kid... don't be afraid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachFirst_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachFirst_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Oi, oi... down here. On the table.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachFirst_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachFirst_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Oi, oi... down here. On the table.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachFirst_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachFirst_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Oi, oi... down here. On the table.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachFirst_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Whatcha need doin'?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Whatcha need doin'?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Whatcha need doin'?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Got something to move?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Got something to move?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Got something to move?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Step on up, kid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Step on up, kid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Step on up, kid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Need a deal?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Need a deal?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Need a deal?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You after some coin?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You after some coin?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You after some coin?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'm ahead of the competition!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'm ahead of the competition!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'm ahead of the competition!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_19": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ready to deal?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_07_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_20": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ready to deal?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_07_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_21": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ready to deal?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_07_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_22": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Don't look at him! Look at me!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_08_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_23": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Don't look at him! Look at me!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_08_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_24": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Don't look at Theo! Look at me!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_08_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_25": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Don't mind Theo. Pretend he ain't here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_09_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_26": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Don't mind Theo. Pretend he ain't here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_09_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_ApproachSubsequent_27": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Don't mind Theo. Pretend he ain't here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_ApproachSubsequent_09_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You heard the man! Get it done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_01Man_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You heard the man! Get it done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_01Man_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You heard the man! Get it done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_01Man_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You heard the lady! Get it sold.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_01Woman_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You heard the lady! Get it sold.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_01Woman_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You heard the lady! Get it sold.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_01Woman_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Davin's got you covered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Davin's got you covered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Davin's got you covered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We'll move it. One way or another.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We'll move it. One way or another.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We'll move it. One way or another.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Pretty little thing. Should sell.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Pretty little thing. Should sell.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Pretty little thing. Should sell.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It's as good as gone.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It's as good as gone.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It's as good as gone.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_19": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Yeah... reckon we can shift that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_20": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Yeah... reckon we can shift that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Listing_21": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Yeah... reckon we can shift that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Listing_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That oughta do it.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That oughta do it.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That oughta do it.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "After a quick sale, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "After a quick sale, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "After a quick sale, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Should sell quicker at that price.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Should sell quicker at that price.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Should sell quicker at that price.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Should fly out the door now.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Should fly out the door now.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Should fly out the door now.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wise move, that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wise move, that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wise move, that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If I can't shift it... no one can.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If I can't shift it... no one can.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If I can't shift it... no one can.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_19": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If I can't shift it... no one can.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_06_04.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_20": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Thought you were bein' a bit greedy with that one.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_07_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_21": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Thought you were bein' a bit greedy with that one.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_07_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustLower_22": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Thought you were bein' a bit greedy with that one.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustLower_07_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Too cheap, it was!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Too cheap, it was!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Too cheap, it was!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good thing it hadn't sold already, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good thing it hadn't sold already, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good thing it hadn't sold already, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good thing it hadn't sold already, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_02_04.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That seems reasonable.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That seems reasonable.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That seems reasonable.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You know it's true value, I can see that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You know it's true value, I can see that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You know it's true value, I can see that.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Let the buggers pay more. Why not?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Let the buggers pay more. Why not?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Let the buggers pay more. Why not?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Take 'em for everythin' they're worth!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Take 'em for everythin' they're worth!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_AdjustHigher_19": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Take 'em for everythin' they're worth!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_AdjustHigher_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The Boss never disappoints!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The Boss never disappoints!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The Boss never disappoints!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I've got good news, mate.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I've got good news, mate.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I've got good news, mate.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've done it again. Looky here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've done it again. Looky here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've done it again. Looky here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've done it again. Looky here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_03_04.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Sold! Haha! If only they knew...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Sold! Haha! If only they knew...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Sold! Haha! If only they knew...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Sold! Haha! If only they knew...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Deal's done!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Deal's done!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Deal's done!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It's your lucky day.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_07_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_19": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It's your lucky day.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_07_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Sold_20": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It's your lucky day.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Sold_07_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Moved some cargo while you were gone.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Moved some cargo while you were gone.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Moved some cargo while you were gone.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "There you are! Sold something for ya.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "There you are! Sold something for ya.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "There you are! Sold something for ya.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good! You're back. We moved that piece for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good! You're back. We moved that piece for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good! You're back. We moved that piece for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Over here! Good news for ya.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Over here! Good news for ya.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Over here! Good news for ya.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Made some dough while you were away.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Made some dough while you were away.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Made some dough while you were away.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Made a sale.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Made a sale.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_SoldWhileAway_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Made a sale.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_SoldWhileAway_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Someone'll bite. They always do.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Someone'll bite. They always do.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Someone'll bite. They always do.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Leave it to ol' Davin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Leave it to ol' Davin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Leave it to ol' Davin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'll run that one up the flagpole.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'll run that one up the flagpole.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'll run that one up the flagpole.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If there's a deal out there, I'll find it.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If there's a deal out there, I'll find it.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If there's a deal out there, I'll find it.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'll make it happen.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'll make it happen.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "I'll make it happen.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Someone'll snap that right up.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Someone'll snap that right up.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyPlaceOrder_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Someone'll snap that right up.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyPlaceOrder_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "What'd I tell ya?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "What'd I tell ya?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "What'd I tell ya?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Easy as you like.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Easy as you like.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Easy as you like.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Won't find a better salesman than me.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Won't find a better salesman than me.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Won't find a better salesman than me.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Got it done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Got it done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Got it done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Done and dusted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Done and dusted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Done and dusted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ask and you shall receive... ya greedy tosser.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ask and you shall receive... ya greedy tosser.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_CurrencyReceived_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ask and you shall receive... ya greedy tosser.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_CurrencyReceived_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Turn me the other way, would ya? Get sick of looking at the same bloody thing all the time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Turn me the other way, would ya? Get sick of looking at the same bloody thing all the time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Scratch my back and I'll scratch yours... You'll just have to find it first! Hah!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Scratch my back and I'll scratch yours... You'll just have to find it first! Hah!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "What I wouldn't give for a foot rub...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "What I wouldn't give for a foot rub...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You think <i>{you've} got it bad? Just the other day, some drunkard mistook me for his chamber pot.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You think <i>{you've} got it bad? Just the other day, some drunkard mistook me for his chamber pot.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Won't <i>{someone} pour some ale in here? Or at least a bloody tea bag.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Won't <i>{someone} pour some ale in here? Or at least a bloody tea bag.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Think I'm due a change of water... Gettin' a bit <i>{briny} in here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Think I'm due a change of water... Gettin' a bit <i>{briny} in here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "People always wanna know how I got this way... until they hear the answer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_07_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "People always wanna know how I got this way... until they hear the answer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_07_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ahh, life is good! The view from here, less good... Do something about that, would ya, Theo?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_08_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ahh, life is good! The view from here, less good... Do something about that, would ya, Theo?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_08_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Do I have regrets, you ask? Not a one.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_09_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Do I have regrets, you ask? Not a one.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_09_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_19": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Careful not to tip me over. You won't like what happens next.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_10_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_20": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Careful not to tip me over. You won't like what happens next.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_10_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_21": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Tell you what, it ain't easy maintainin' this moustache in here...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_11_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Idles_22": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Tell you what, it ain't easy maintainin' this moustache in here...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Idles_11_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Gossip_Introduction": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Before we begin, some ground rules: <i>{I'm} allowed to make jokes about it. <i>{You}... are not. \r\n<continue>That means no 'mind your <i>{head}', no '<i>{heads} up'... no <i>{any} of that bottom-of-the-barrel shite. <continue>Last bloke who tried that ended up just as legless as I am.  <continue>You keep to all that, and we'll get along just fine. Now... let's make some coin, shall we? ",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_Introduction_01.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_Introduction_02.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_Introduction_03.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_Introduction_04.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Gossip_ThisIsTheLife": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You might think me the result of some ritual-gone-wrong, but no, I chose this life – and what a life it is.  <continue>Got back pain? Not me. What about a gimpy leg? Ain't got that either.  <continue>Now, that's not to say I don't sometimes miss my body. But from where I'm standin' – yes, I said <i>{standin}' – the good outweighs the bad.  <continue>See, it used to be I had more competition. But when <i>{you} get to live on, long after your competitors turn to dust... well, it don't take a genius to figure out how that swings things in your favour.  <continue>Now if I could just find a way to scratch what needs scratchin', I'd be the happiest head in all o' Wraeclast.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_ThisIsTheLife_01.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_ThisIsTheLife_02.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_ThisIsTheLife_03.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_ThisIsTheLife_04.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_ThisIsTheLife_05.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Gossip_OnTheo": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Oh, him? He works for me – and me only. <continue><i>{You} don't control him. <i>{You} don't command him. As far as you're concerned, he's an extension o' me. \r\n<continue>Not my eyes and ears, but my...  <i>{hands and feet,} savvy? <continue>And before you get all bleedin' heart on me ... he wants to be here. Don't believe me? Ask him yourself. Go on. Ask him.  <continue>He won't answer, o' course. Hasn't said a word since he was... <i>{separated}... from his tongue a while back. <continue>But I have to assume that was what he wanted, or he wouldn't have talked back in the first place. <continue>Ain't that right, Theo...? <continue>See? Happy as anythin'.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_01.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_02.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_03.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_04.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_05.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_06.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_07.ogg",
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Gossip_OnTheo_08.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Consider it yours.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Consider it yours.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Consider it yours.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Sure thing.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Sure thing.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Sure thing.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Not a bad piece...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Not a bad piece...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Not a bad piece...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That... is rather fine.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That... is rather fine.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "That... is rather fine.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ah, good eye.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Ah, good eye.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good eye.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If you didn't, someone else would've.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If you didn't, someone else would've.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "If you didn't, someone else would've.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_19": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You get buyer's remorse? Tell it to someone who cares.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_20": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You get buyer's remorse? Tell it to someone who cares.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_21": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You get buyer's remorse? Aw... tell it to someone who cares.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_22": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You want it? It's yours.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_23": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You want it? It's yours.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_Bought_24": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You want it? It's yours.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "First come, first served.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "First come, first served.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "First come, first served.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good thing you got here when you did.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good thing you got here when you did.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Good thing you got here when you did.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "By the look of ya, I wouldn't have thought you had that much to spare.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_07_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "By the look of ya, I wouldn't have thought you had that much to spare.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_07_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "By the look of ya, I wouldn't have thought you had that much to spare.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_07_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You're smarter than you look.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You're smarter than you look.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You're smarter than you look.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_BoughtOtherPlayersTrader_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gotta spend money to make money.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gotta spend money to make money.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "DavinBossHeadTrader_OpenAwayShop_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/MobBoss/MobBossTrader",
+        "name": "Davin, The Boss Head",
+        "short_name": "Davin, The Boss Head"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gotta spend money to make money.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/DavinBossHeadMTX/DavinBossHead/DavinBossHeadTrader_Bought_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Open yourself, for the love of Innocence can warm even the darkest of hearts.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_2": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The road less traveled is often the exact path we ought to take.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_3": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "As sight withers, the vibrance of life becomes clearer than ever before.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_4": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fate moves unseen... rather than control it, we must embrace it.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_04.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_5": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "His love is upon you, whether you accept him, is up to you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_05.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_6": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In his light, we can see more. We can see beyond. We can see eternity.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_06.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_7": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A new love grows on your horizon.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_07.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_8": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Failure is but a stepping stone on your way to success.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_08.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_9": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "There are times we must forgive, and times we must forget.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_09.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_10": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Oriath is the one true holy land. It must thrive again once more.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_10.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_11": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Remain steadfast in your faith. Even in utter darkness, he will find you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_11.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_12": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The trials we face only mean to show us another side of our wanting selves.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_12.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_13": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Tomorrow is not promised. But today is yours to own.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_13.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_14": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Step into the light. Bask in his glory. He is your beacon.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_14.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_15": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Darkness grows like a weed. Root it out and cast it back to the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_15.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_16": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Words can cut, it is true. But knives cut deeper. Resilience against those with sour tongues is your strongest ally.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_16.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_17": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The light burns when we need it most. Stare deeply into His radiance.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_17.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_18": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Art weaves his essence into reality. Covering us in a quilt of his abundant understanding.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_18.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_19": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Embrace the unknown. Set out on an adventure. Dare to be more than you are today.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_19.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_20": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The first Spring dawn offers a chance to become someone <i>{better}.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_20.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_21": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The touch of a blade of grass, is sometimes all our soul truly needs.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_ReceivingBlessing_21.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Cecilia_ReceivingBlessing_22": {
+    "npcs": [
+      {
+        "id": "Metadata/MapDevices/FountainHallwayMapDevice/FountainMapDeviceCecilia",
+        "name": "Saint Cecilia",
+        "short_name": "Saint Cecilia"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Blessings be upon you, traveller. Go well, into the light of the Pure One.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/MapDevices/FountainOfCeciliaMapDevice/CeciliaMTX/Cecilia_OnFirstInteraction.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Return to nothing.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_ReturnToNothing_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Return to nothing.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_ReturnToNothing_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Return to nothing.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_ReturnToNothing_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Back you flow.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Back_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Back you flow.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Back_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Back you flow.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Back_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Return!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Return_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Return!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Return_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Return!",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Return_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Eternity awaits you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Eternity_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Eternity awaits you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Eternity_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Eternity awaits you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_Eternity_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Time unwinds.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_TimeUnwinds_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "TimeRewindMTX_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/MarakethSanctumTrial/Boss/ApparitionBoss/ApparitionBoss",
+        "name": "Zarokh, the Temporal",
+        "short_name": "Zarokh, the Temporal"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Time unwinds.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_TimeUnwinds_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
   "Str4b_Cooldown_01_01": {
     "npcs": null,
     "characters": [

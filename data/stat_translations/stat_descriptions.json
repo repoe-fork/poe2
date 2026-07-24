@@ -96343,6 +96343,12 @@
         "text": "#% maximum Player Resistances",
         "type": "explicit",
         "option": null
+      },
+      {
+        "id": "fractured.stat_3376488707",
+        "text": "#% maximum Player Resistances",
+        "type": "fractured",
+        "option": null
       }
     ],
     "hidden": null,

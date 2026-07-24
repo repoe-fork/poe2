@@ -1,0 +1,215 @@
+{
+  "data": {
+    "Default%": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Hideouts/BlankIce/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "200"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "IslandInnerCliff",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Tiles/UnwalkableCliff_FillTall_Stack_02.tdt",
+      "prefix": [
+        "100"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BlankIce/UnwalkableCliff_FillTall_Stack_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "AbyssGround",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Tiles/Abyss_fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BlankIce/Abyss_fill.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Islands/Tiles/Island/island_inner_cliff.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null
+  },
+  "node_count": 1,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "hideout",
+      "strings": [
+        "default"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Rooms/hideout.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "hideout",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    4,
+    4
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Tiles/UnwalkableCliff_Waterfall_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BlankIce/UnwalkableCliff_Waterfall_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Tiles/UnwalkableCliff_Waterfall_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BlankIce/UnwalkableCliff_Waterfall_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Tiles/Abyss_st.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BlankIce/Abyss_fill.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Tiles/UnwalkableCliff_CcMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BlankIce/UnwalkableCliff_CcMM_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/BlankIce/Tiles/UnwalkableCliff_StMM_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/BlankIce/UnwalkableCliff_StMM_01.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": null,
+  "file_groups": null
+}
