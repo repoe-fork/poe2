@@ -10564,5 +10564,8 @@
       "13": "[LegacyOfTopaz|Topaz]"
     },
     "predicate": null
+  },
+  "display_indexable_non_active_support": {
+    "type": "noop"
   }
 }
