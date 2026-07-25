@@ -178473,6 +178473,11 @@
         "id": "map_map_item_drop_chance_+%_final_from_map",
         "max": 35,
         "min": 35
+      },
+      {
+        "id": "map_pack_size_+%_final_from_map",
+        "max": 18,
+        "min": 18
       }
     ],
     "text": "Area has patches of Mana Siphoning Ground",
@@ -303233,6 +303238,11 @@
         "id": "map_monsters_movement_speed_+%",
         "max": 20,
         "min": 20
+      },
+      {
+        "id": "map_extra_content_weighting",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Monsters have Onslaught\n20% increased Quantity of Items found in this Area\n20% increased Monster [Attack] Speed\n20% increased Monster Cast Speed\n20% increased Monster Movement Speed",
@@ -395699,6 +395709,16 @@
         "id": "delve_biome_boss_physical_damage_%_to_gain_as_cold",
         "max": 50,
         "min": 50
+      },
+      {
+        "id": "delve_biome_boss_physical_damage_%_to_gain_as_fire",
+        "max": 50,
+        "min": 50
+      },
+      {
+        "id": "delve_biome_boss_drops_additional_unique_item",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": "19% increased Quantity of Items found in this Area\n11% increased [Rarity] of Items found in this Area\n7% increased Pack size\nArea contains a Unique Boss\nUnique Boss gains 50% of Physical Damage as Extra Lightning Damage\nUnique Boss gains 50% of Physical Damage as Extra Cold Damage",
@@ -415989,6 +416009,11 @@
         "id": "map_experience_gain_+%",
         "max": 20,
         "min": 20
+      },
+      {
+        "id": "is_legion_uber_fragment_karui",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": "20% increased Experience gain",
@@ -416039,6 +416064,11 @@
         "id": "map_experience_gain_+%",
         "max": 20,
         "min": 20
+      },
+      {
+        "id": "is_legion_uber_fragment_maraketh",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": "20% increased Experience gain",
@@ -416089,6 +416119,11 @@
         "id": "map_experience_gain_+%",
         "max": 20,
         "min": 20
+      },
+      {
+        "id": "is_legion_uber_fragment_eternal",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": "20% increased Experience gain",
@@ -416139,6 +416174,11 @@
         "id": "map_experience_gain_+%",
         "max": 20,
         "min": 20
+      },
+      {
+        "id": "is_legion_uber_fragment_templar",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": "20% increased Experience gain",
@@ -416189,6 +416229,11 @@
         "id": "map_experience_gain_+%",
         "max": 20,
         "min": 20
+      },
+      {
+        "id": "is_legion_uber_fragment_vaal",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": "20% increased Experience gain",
@@ -416241,6 +416286,11 @@
       },
       {
         "id": "display_legion_uber_fragment_improved_rewards_+%",
+        "max": 10,
+        "min": 10
+      },
+      {
+        "id": "uber_domain_monster_maximum_life_+%_per_revival",
         "max": 10,
         "min": 10
       }
@@ -416297,6 +416347,11 @@
         "id": "display_legion_uber_fragment_improved_rewards_+%",
         "max": 10,
         "min": 10
+      },
+      {
+        "id": "uber_domain_monster_maximum_life_+%_per_revival",
+        "max": 10,
+        "min": 10
       }
     ],
     "text": "10% more Monster Life\nMonsters gain 10% increased [Attack] and Cast Speed each time they are Revived\nMonsters gain 10% increased Movement Speed each time they are Revived\n10% improved Rewards",
@@ -416349,6 +416404,11 @@
       },
       {
         "id": "display_legion_uber_fragment_improved_rewards_+%",
+        "max": 10,
+        "min": 10
+      },
+      {
+        "id": "uber_domain_monster_maximum_life_+%_per_revival",
         "max": 10,
         "min": 10
       }
@@ -416405,6 +416465,11 @@
         "id": "display_legion_uber_fragment_improved_rewards_+%",
         "max": 10,
         "min": 10
+      },
+      {
+        "id": "uber_domain_monster_maximum_life_+%_per_revival",
+        "max": 10,
+        "min": 10
       }
     ],
     "text": "10% more Monster Life\nMonsters gain 4% additional Physical Damage Reduction each time they are Revived\nMonsters gain 4% additional Resistances each time they are Revived\n10% improved Rewards",
@@ -416457,6 +416522,11 @@
       },
       {
         "id": "display_legion_uber_fragment_improved_rewards_+%",
+        "max": 10,
+        "min": 10
+      },
+      {
+        "id": "uber_domain_monster_maximum_life_+%_per_revival",
         "max": 10,
         "min": 10
       }
@@ -417387,6 +417457,11 @@
         "id": "local_unique_jewel_alternate_tree_internal_revision",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "local_unique_jewel_break_timeless_jewel_calculators",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Bathed in the blood of (100-8000) sacrificed in the name of Doryani\nPassives in radius are Conquered by the Vaal\n[Historic]",
@@ -417439,6 +417514,11 @@
         "id": "local_unique_jewel_alternate_tree_internal_revision",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "local_unique_jewel_break_timeless_jewel_calculators",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Commanded leadership over (10000-18000) warriors under Akoya\nPassives in radius are Conquered by the Karui\n[Historic]",
@@ -417491,6 +417571,11 @@
         "id": "local_unique_jewel_alternate_tree_internal_revision",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "local_unique_jewel_break_timeless_jewel_calculators",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Denoted service of (500-8000) dekhara in the akhara of Nasima\nPassives in radius are Conquered by the Maraketh\n[Historic]",
@@ -417543,6 +417628,11 @@
         "id": "local_unique_jewel_alternate_tree_internal_revision",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "local_unique_jewel_break_timeless_jewel_calculators",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Carved to glorify (2000-10000) new faithful converted by High Templar Avarius\nPassives in radius are Conquered by the Templars\n[Historic]",
@@ -417595,6 +417685,11 @@
         "id": "local_unique_jewel_alternate_tree_internal_revision",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "local_unique_jewel_break_timeless_jewel_calculators",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Commissioned (2000-160000) coins to commemorate Caspiro\nPassives in radius are Conquered by the Eternal Empire\n[Historic]",
@@ -417647,6 +417742,11 @@
         "id": "local_unique_jewel_alternate_tree_internal_revision",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "local_unique_jewel_break_timeless_jewel_calculators",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Remembrancing (100-8000) songworthy deeds by the line of Olroth\nPassives in radius are Conquered by the Kalguur\n[Historic]",
@@ -417699,6 +417799,11 @@
         "id": "local_unique_jewel_alternate_tree_internal_revision",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "local_unique_jewel_break_timeless_jewel_calculators",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Glorifying the defilement of (79-30977) souls in tribute to Ulaman\nPassives in radius are Conquered by the Abyssals\n[UnstableDesecration|Desecration makes this item unstable]\n[Historic]",
@@ -419111,6 +419216,11 @@
         "id": "map_item_level_override",
         "max": 85,
         "min": 85
+      },
+      {
+        "id": "is_uber_blighted_map",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": "Natural inhabitants of this area have been removed\nArea is infested with Fungal Growths\nMap's Item Quantity Modifiers also affect Blight Chest count at 50% value\nCan be Anointed up to 9 times\n20% increased Monster Movement Speed\n200% more Monster Life\nMonster Level: 85",
@@ -428012,6 +428122,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 5,
         "min": 5
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -5,
+        "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": null,
@@ -428234,6 +428354,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -4,
         "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Monsters' Action Speed cannot be modified to below base value\nMonsters cannot be Taunted",
@@ -428409,6 +428534,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters cannot be Stunned\n(5-9)% more Monster Life",
@@ -428467,6 +428597,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters cannot be Stunned\n(10-14)% more Monster Life",
@@ -428525,6 +428660,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters cannot be Stunned\n(15-19)% more Monster Life",
@@ -428583,6 +428723,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters cannot be Stunned\n(20-24)% more Monster Life",
@@ -428641,6 +428786,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters cannot be Stunned\n(25-30)% more Monster Life",
@@ -430486,6 +430636,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Monsters deal (21-25)% of Physical Damage as Extra Chaos\nMonsters Inflict Withered for 2 seconds on Hit",
@@ -430541,6 +430696,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Monsters deal (31-35)% of Physical Damage as Extra Chaos\nMonsters Inflict Withered for 2 seconds on Hit",
@@ -430599,6 +430759,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 7,
+        "min": 7
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -7,
+        "min": -7
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 7,
         "min": 7
       }
@@ -430661,6 +430831,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 7,
         "min": 7
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -7,
+        "min": -7
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 7,
+        "min": 7
       }
     ],
     "text": "(10-15)% increased Monster Movement Speed\n(15-20)% increased Monster [Attack] Speed\n(15-20)% increased Monster Cast Speed",
@@ -430719,6 +430899,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 7,
+        "min": 7
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -7,
+        "min": -7
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 7,
         "min": 7
       }
@@ -430781,6 +430971,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 7,
         "min": 7
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -7,
+        "min": -7
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 7,
+        "min": 7
       }
     ],
     "text": "(20-25)% increased Monster Movement Speed\n(25-35)% increased Monster [Attack] Speed\n(25-35)% increased Monster Cast Speed",
@@ -430839,6 +431039,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 7,
+        "min": 7
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -7,
+        "min": -7
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 7,
         "min": 7
       }
@@ -431590,6 +431800,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "+10% Monster Chaos Resistance\n+15% Monster Elemental Resistances",
@@ -431651,6 +431866,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "+15% Monster Chaos Resistance\n+20% Monster Elemental Resistances",
@@ -431712,6 +431932,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "+20% Monster Chaos Resistance\n+30% Monster Elemental Resistances",
@@ -431773,6 +431998,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "+25% Monster Chaos Resistance\n+40% Monster Elemental Resistances",
@@ -435799,6 +436029,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 6,
         "min": 6
+      },
+      {
+        "id": "map_item_drop_quantity_+%",
+        "max": 16,
+        "min": 16
+      },
+      {
+        "id": "map_item_drop_rarity_+%",
+        "max": 9,
+        "min": 9
       }
     ],
     "text": "Reinforcements have (5-10)% increased Movement Speed\nReinforcements have (10-15)% increased [Attack] Speed\nReinforcements have (10-15)% increased Cast Speed",
@@ -435859,6 +436099,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 6,
         "min": 6
+      },
+      {
+        "id": "map_item_drop_quantity_+%",
+        "max": 16,
+        "min": 16
+      },
+      {
+        "id": "map_item_drop_rarity_+%",
+        "max": 9,
+        "min": 9
       }
     ],
     "text": "Reinforcements have (10-15)% increased Movement Speed\nReinforcements have (15-20)% increased [Attack] Speed\nReinforcements have (15-20)% increased Cast Speed",
@@ -435919,6 +436169,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 6,
         "min": 6
+      },
+      {
+        "id": "map_item_drop_quantity_+%",
+        "max": 16,
+        "min": 16
+      },
+      {
+        "id": "map_item_drop_rarity_+%",
+        "max": 9,
+        "min": 9
       }
     ],
     "text": "Reinforcements have (15-20)% increased Movement Speed\nReinforcements have (20-25)% increased [Attack] Speed\nReinforcements have (20-25)% increased Cast Speed",
@@ -435979,6 +436239,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 6,
         "min": 6
+      },
+      {
+        "id": "map_item_drop_quantity_+%",
+        "max": 16,
+        "min": 16
+      },
+      {
+        "id": "map_item_drop_rarity_+%",
+        "max": 9,
+        "min": 9
       }
     ],
     "text": "Reinforcements have (20-25)% increased Movement Speed\nReinforcements have (25-35)% increased [Attack] Speed\nReinforcements have (25-35)% increased Cast Speed",
@@ -436039,6 +436309,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 6,
         "min": 6
+      },
+      {
+        "id": "map_item_drop_quantity_+%",
+        "max": 16,
+        "min": 16
+      },
+      {
+        "id": "map_item_drop_rarity_+%",
+        "max": 9,
+        "min": 9
       }
     ],
     "text": "Reinforcements have (25-30)% increased Movement Speed\nReinforcements have (35-45)% increased [Attack] Speed\nReinforcements have (35-45)% increased Cast Speed",
@@ -436367,6 +436647,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -437220,6 +437510,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Monsters have (100-125)% increased [Critical|Critical Hit] Chance\nMonsters have +(20-24)% [CriticalDamageBonus|Critical Damage Bonus]",
@@ -437278,6 +437573,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Monsters have (126-150)% increased [Critical|Critical Hit] Chance\nMonsters have +(25-29)% [CriticalDamageBonus|Critical Damage Bonus]",
@@ -437336,6 +437636,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Monsters have (160-200)% increased [Critical|Critical Hit] Chance\nMonsters have +(30-35)% [CriticalDamageBonus|Critical Damage Bonus]",
@@ -437394,6 +437699,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Monsters have (260-300)% increased [Critical|Critical Hit] Chance\nMonsters have +(36-40)% [CriticalDamageBonus|Critical Damage Bonus]",
@@ -437452,6 +437762,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Monsters have (360-400)% increased [Critical|Critical Hit] Chance\nMonsters have +(41-45)% [CriticalDamageBonus|Critical Damage Bonus]",
@@ -437692,6 +438007,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of [IgnitedGround|Ignited Ground]",
@@ -437750,6 +438075,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -437812,6 +438147,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of [IgnitedGround|Ignited Ground]",
@@ -437870,6 +438215,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -437931,6 +438286,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of [ChilledGround|Chilled Ground]",
@@ -437988,6 +438353,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -438049,6 +438424,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of [ChilledGround|Chilled Ground]",
@@ -438106,6 +438491,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -438167,6 +438562,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of [ShockedGround|Shocked Ground] which increase Damage taken by 20%",
@@ -438224,6 +438629,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -438285,6 +438700,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of [ShockedGround|Shocked Ground] which increase Damage taken by 35%",
@@ -438342,6 +438767,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -438403,6 +438838,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of desecrated ground",
@@ -438460,6 +438905,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -438521,6 +438976,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of desecrated ground",
@@ -438580,6 +439045,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of desecrated ground",
@@ -438633,6 +439108,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -438690,6 +439175,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of Consecrated Ground",
@@ -438745,6 +439240,16 @@
         "id": "heist_monster_spawner_alive_limit_+%",
         "max": 4,
         "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 4,
+        "min": 4
       }
     ],
     "text": "Area has patches of Consecrated Ground",
@@ -438798,6 +439303,16 @@
       },
       {
         "id": "heist_monster_spawner_alive_limit_+%",
+        "max": 4,
+        "min": 4
+      },
+      {
+        "id": "heist_contract_alert_level_+%_final",
+        "max": -4,
+        "min": -4
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
         "max": 4,
         "min": 4
       }
@@ -439494,6 +440009,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -6,
         "min": -6
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 6,
+        "min": 6
       }
     ],
     "text": "Cannot Leech from Monsters",
@@ -440311,6 +440831,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Players have 10% reduced Chance to Block\nPlayers have 15% less [Armour]",
@@ -440370,6 +440895,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Players have 20% reduced Chance to Block\nPlayers have 20% less [Armour]",
@@ -440429,6 +440959,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Players have 30% reduced Chance to Block\nPlayers have 25% less [Armour]",
@@ -440488,6 +441023,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Players have 40% reduced Chance to Block\nPlayers have 30% less [Armour]",
@@ -440546,6 +441086,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters have 20% increased Accuracy Rating",
@@ -440604,6 +441149,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters have 30% increased Accuracy Rating",
@@ -440662,6 +441212,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters have 40% increased Accuracy Rating",
@@ -440720,6 +441275,11 @@
         "id": "heist_contract_alert_level_+%_final",
         "max": -5,
         "min": -5
+      },
+      {
+        "id": "heist_contract_lockdown_timer_+%",
+        "max": 5,
+        "min": 5
       }
     ],
     "text": "Monsters have 50% increased Accuracy Rating",
@@ -467444,6 +468004,11 @@
         "id": "royale_monster_unique_drop_chance_permyriad",
         "max": 8,
         "min": 8
+      },
+      {
+        "id": "royale_monster_currency_drop_chance_permyriad",
+        "max": 200,
+        "min": 200
       }
     ],
     "text": null,
@@ -473603,6 +474168,11 @@
         "id": "memory_line_essence_monster_number_of_essences",
         "max": 0,
         "min": 0
+      },
+      {
+        "id": "memory_line_number_of_essences",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -473651,6 +474221,16 @@
       },
       {
         "id": "map_strongbox_monsters_life_+%",
+        "max": 0,
+        "min": 0
+      },
+      {
+        "id": "map_strongbox_monsters_damage_+%",
+        "max": 0,
+        "min": 0
+      },
+      {
+        "id": "map_strongbox_monsters_item_quantity_+%",
         "max": 0,
         "min": 0
       }
@@ -473703,6 +474283,16 @@
         "id": "map_breach_monsters_life_+%",
         "max": 0,
         "min": 0
+      },
+      {
+        "id": "map_breach_monsters_damage_+%",
+        "max": 0,
+        "min": 0
+      },
+      {
+        "id": "map_pack_size_+%",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -473751,6 +474341,11 @@
       },
       {
         "id": "map_breach_monsters_damage_+%",
+        "max": 0,
+        "min": 0
+      },
+      {
+        "id": "map_breach_size_+%",
         "max": 0,
         "min": 0
       }
@@ -484386,6 +484981,11 @@
         "id": "touched_by_primal_spirit",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "monster_difficulty_tankiness_+%",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -484436,6 +485036,11 @@
         "id": "touched_by_wild_spirit",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "monster_difficulty_tankiness_+%",
+        "max": 50,
+        "min": 50
       }
     ],
     "text": null,
@@ -484486,6 +485091,11 @@
         "id": "touched_by_vivid_spirit",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "monster_difficulty_tankiness_+%",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -484536,6 +485146,11 @@
         "id": "touched_by_sacred_spirit",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "monster_difficulty_tankiness_+%",
+        "max": 50,
+        "min": 50
       }
     ],
     "text": null,
@@ -484646,6 +485261,16 @@
         "id": "monster_is_possessed",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "possessed_by_primal_spirit",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "monster_spirit_possessed_power_permyriad",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -484696,6 +485321,16 @@
         "id": "monster_is_possessed",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "possessed_by_wild_spirit",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "monster_spirit_possessed_power_permyriad",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -484746,6 +485381,16 @@
         "id": "monster_is_possessed",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "possessed_by_vivid_spirit",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "monster_spirit_possessed_power_permyriad",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -484796,6 +485441,16 @@
         "id": "monster_is_possessed",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "possessed_by_sacred_spirit",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "monster_spirit_possessed_power_permyriad",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -484846,6 +485501,16 @@
         "id": "monster_is_possessed",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "possessed_by_sacred_spirit",
+        "max": 1,
+        "min": 1
+      },
+      {
+        "id": "monster_spirit_possessed_power_permyriad",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": null,
@@ -526890,6 +527555,11 @@
         "id": "cannot_have_affliction_mods",
         "max": 1,
         "min": 1
+      },
+      {
+        "id": "monster_no_talismans",
+        "max": 1,
+        "min": 1
       }
     ],
     "text": null,
@@ -528752,6 +529422,16 @@
         "id": "base_avoid_chill_%",
         "max": 60,
         "min": 60
+      },
+      {
+        "id": "active_skill_shock_chance_+%_final",
+        "max": 0,
+        "min": 0
+      },
+      {
+        "id": "active_skill_chill_as_though_damage_+%_final",
+        "max": 0,
+        "min": 0
       }
     ],
     "text": "Avoids [Shock|Shocked]\nAvoids [Chill|Chilled]",
@@ -528809,6 +529489,16 @@
         "id": "base_avoid_chill_%",
         "max": 60,
         "min": 60
+      },
+      {
+        "id": "active_skill_shock_chance_+%_final",
+        "max": 100,
+        "min": 100
+      },
+      {
+        "id": "active_skill_chill_as_though_damage_+%_final",
+        "max": 100,
+        "min": 100
       }
     ],
     "text": "Avoids [Shock|Shocked]\nAvoids [Chill|Chilled]",
