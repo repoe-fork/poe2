@@ -577443,5 +577443,30 @@
     "text": null,
     "type": "TamedMonsterIncision",
     "gold_value": null
+  },
+  "MapEverUsedForFogBankOrigin": {
+    "adds_tags": [],
+    "domain": "atlas",
+    "generation_type": "unique",
+    "generation_weights": [],
+    "grants_effects": [],
+    "groups": [
+      "Nothing"
+    ],
+    "implicit_tags": [],
+    "is_essence_only": false,
+    "name": "",
+    "required_level": 1,
+    "spawn_weights": [],
+    "stats": [
+      {
+        "id": "has_map_ever_been_used_for_fog_bank_origin",
+        "max": 1,
+        "min": 1
+      }
+    ],
+    "text": null,
+    "type": "MapEverUsedForFogBankOrigin",
+    "gold_value": null
   }
 }
