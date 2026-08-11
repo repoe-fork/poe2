@@ -1,0 +1,100 @@
+{
+  "Metadata/Items/Gems/SkillGemUncut": {
+    "domain": "undefined",
+    "drop_level": 4,
+    "implicits": [],
+    "inventory_height": 1,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Gems/UncutSkillGem",
+    "item_class": "UncutSkillGem_OLD",
+    "name": "Uncut Skill Gem",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Gems/UncutSkillGem.dds",
+      "id": "UncutSkillGem"
+    },
+    "requirements": null,
+    "grants_buff": null,
+    "skills_granted": null
+  },
+  "Metadata/Items/Gems/SkillGemUncutQuest": {
+    "domain": "undefined",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 1,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Gems/UncutSkillGem",
+    "item_class": "UncutSkillGem_OLD",
+    "name": "Uncut Skill Gem",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Gems/UncutSkillGem.dds",
+      "id": "UncutSkillGem"
+    },
+    "requirements": null,
+    "grants_buff": null,
+    "skills_granted": null
+  }
+}

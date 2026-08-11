@@ -1,0 +1,17 @@
+{
+  "Base": {
+    "base_level": 1,
+    "description_text": "ItemDescriptionUniqueFragment",
+    "tag": {
+      "default": true
+    }
+  },
+  "LocalStats": {},
+  "Mods": {
+    "enable_rarity": {
+      "unique": true
+    },
+    "inventory_type": "maininventory",
+    "stat_description_list": "Data/StatDescriptions/stat_descriptions.csd"
+  }
+}

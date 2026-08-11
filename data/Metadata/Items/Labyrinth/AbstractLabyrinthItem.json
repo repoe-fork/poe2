@@ -1,0 +1,11 @@
+{
+  "Base": {
+    "base_level": 1,
+    "tag": {
+      "default": true
+    }
+  },
+  "Stack": {
+    "max_stack_size": 1
+  }
+}

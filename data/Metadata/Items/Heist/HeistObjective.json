@@ -1,0 +1,10 @@
+{
+  "Base": {
+    "base_level": 1,
+    "description_text": "HeistSellToFenceDescription",
+    "tag": {
+      "default": true
+    }
+  },
+  "HeistObjective": {}
+}

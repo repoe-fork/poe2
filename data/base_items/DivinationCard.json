@@ -1,0 +1,52 @@
+{
+  "Metadata/Items/DivinationCards/DivinationCardBrothersGift": {
+    "domain": "undefined",
+    "drop_level": 35,
+    "implicits": [],
+    "inventory_height": 1,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/DivinationCards/AbstractDivinationCard",
+    "item_class": "DivinationCard",
+    "name": "Brother's Gift",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": "<currencyitem>{5x Divine Orb}",
+      "directions": "",
+      "stack_size": 1,
+      "stack_size_currency_tab": 5000,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "divination_card",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Divination/InventoryIcon.dds",
+      "id": "DivinationCardBrothersGift______"
+    },
+    "requirements": null,
+    "grants_buff": null,
+    "skills_granted": null
+  }
+}

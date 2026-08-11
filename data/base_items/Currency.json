@@ -1,0 +1,52 @@
+{
+  "Metadata/Items/Classic/MysteryLeaguestone": {
+    "domain": "undefined",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 1,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Currency/AbstractCurrency",
+    "item_class": "Currency",
+    "name": "Mystery Leaguestone",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": "Contains an unknown Leaguestone.",
+      "directions": "",
+      "stack_size": 1,
+      "stack_size_currency_tab": 0,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "unreleased",
+    "tags": [
+      "not_for_sale",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Currency/Classic/Mystery.dds",
+      "id": "MysteryLeaguestone"
+    },
+    "requirements": null,
+    "grants_buff": null,
+    "skills_granted": null
+  }
+}

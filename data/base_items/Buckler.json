@@ -1,0 +1,3379 @@
+{
+  "Metadata/Items/Armours/Shields/FourShieldDex1": {
+    "domain": "item",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Leather Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 10,
+        "min": 10
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler01.dds",
+      "id": "FourShieldDex1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 1,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex2": {
+    "domain": "item",
+    "drop_level": 5,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Wooden Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 18,
+        "min": 18
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler02.dds",
+      "id": "FourShieldDex2"
+    },
+    "requirements": {
+      "dexterity": 10,
+      "intelligence": 0,
+      "level": 5,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex3": {
+    "domain": "item",
+    "drop_level": 11,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Plated Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 31,
+        "min": 31
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler03.dds",
+      "id": "FourShieldDex3"
+    },
+    "requirements": {
+      "dexterity": 18,
+      "intelligence": 0,
+      "level": 11,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex4": {
+    "domain": "item",
+    "drop_level": 16,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Iron Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 42,
+        "min": 42
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler04.dds",
+      "id": "FourShieldDex4___"
+    },
+    "requirements": {
+      "dexterity": 25,
+      "intelligence": 0,
+      "level": 16,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex5": {
+    "domain": "item",
+    "drop_level": 22,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Ridged Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 55,
+        "min": 55
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler05.dds",
+      "id": "FourShieldDex5"
+    },
+    "requirements": {
+      "dexterity": 33,
+      "intelligence": 0,
+      "level": 22,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex6": {
+    "domain": "item",
+    "drop_level": 26,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Spiked Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 64,
+        "min": 64
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler06.dds",
+      "id": "FourShieldDex6"
+    },
+    "requirements": {
+      "dexterity": 38,
+      "intelligence": 0,
+      "level": 26,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex7": {
+    "domain": "item",
+    "drop_level": 33,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Ringed Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 79,
+        "min": 79
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "vaal_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler07.dds",
+      "id": "FourShieldDex7"
+    },
+    "requirements": {
+      "dexterity": 48,
+      "intelligence": 0,
+      "level": 33,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex8": {
+    "domain": "item",
+    "drop_level": 39,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Edged Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 92,
+        "min": 92
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "vaal_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler08.dds",
+      "id": "FourShieldDex8_"
+    },
+    "requirements": {
+      "dexterity": 56,
+      "intelligence": 0,
+      "level": 39,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex9": {
+    "domain": "item",
+    "drop_level": 45,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Laminate Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 105,
+        "min": 105
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "karui_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler09.dds",
+      "id": "FourShieldDex9"
+    },
+    "requirements": {
+      "dexterity": 64,
+      "intelligence": 0,
+      "level": 45,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex10": {
+    "domain": "item",
+    "drop_level": 50,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Pearl Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 116,
+        "min": 116
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "karui_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler10.dds",
+      "id": "FourShieldDex10"
+    },
+    "requirements": {
+      "dexterity": 71,
+      "intelligence": 0,
+      "level": 50,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex11": {
+    "domain": "item",
+    "drop_level": 52,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Ornate Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 120,
+        "min": 120
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler11.dds",
+      "id": "FourShieldDex11"
+    },
+    "requirements": {
+      "dexterity": 74,
+      "intelligence": 0,
+      "level": 52,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex12": {
+    "domain": "item",
+    "drop_level": 55,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Array Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 126,
+        "min": 126
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler12.dds",
+      "id": "FourShieldDex12"
+    },
+    "requirements": {
+      "dexterity": 78,
+      "intelligence": 0,
+      "level": 55,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex13": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Aegis Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 148,
+        "min": 148
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler13.dds",
+      "id": "FourShieldDex13"
+    },
+    "requirements": {
+      "dexterity": 91,
+      "intelligence": 0,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex2Cruel": {
+    "domain": "item",
+    "drop_level": 45,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Oak Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 105,
+        "min": 105
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler02.dds",
+      "id": "FourShieldDex2"
+    },
+    "requirements": {
+      "dexterity": 64,
+      "intelligence": 0,
+      "level": 45,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex3Cruel": {
+    "domain": "item",
+    "drop_level": 48,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Painted Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 111,
+        "min": 111
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler03.dds",
+      "id": "FourShieldDex3"
+    },
+    "requirements": {
+      "dexterity": 69,
+      "intelligence": 0,
+      "level": 48,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex5Cruel": {
+    "domain": "item",
+    "drop_level": 51,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Coiled Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 118,
+        "min": 118
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler05.dds",
+      "id": "FourShieldDex5"
+    },
+    "requirements": {
+      "dexterity": 73,
+      "intelligence": 0,
+      "level": 51,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex6Cruel": {
+    "domain": "item",
+    "drop_level": 54,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Spikeward Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 124,
+        "min": 124
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler06.dds",
+      "id": "FourShieldDex6"
+    },
+    "requirements": {
+      "dexterity": 77,
+      "intelligence": 0,
+      "level": 54,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex7Cruel": {
+    "domain": "item",
+    "drop_level": 59,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Jingling Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 135,
+        "min": 135
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler07.dds",
+      "id": "FourShieldDex7"
+    },
+    "requirements": {
+      "dexterity": 83,
+      "intelligence": 0,
+      "level": 59,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex8Cruel": {
+    "domain": "item",
+    "drop_level": 61,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Bladeguard Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 139,
+        "min": 139
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler08.dds",
+      "id": "FourShieldDex8_"
+    },
+    "requirements": {
+      "dexterity": 86,
+      "intelligence": 0,
+      "level": 61,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex3Endgame": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Ornate Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 148,
+        "min": 148
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler03.dds",
+      "id": "FourShieldDex3"
+    },
+    "requirements": {
+      "dexterity": 91,
+      "intelligence": 0,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex6Endgame": {
+    "domain": "item",
+    "drop_level": 70,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Gutspike Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 163,
+        "min": 163
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler06.dds",
+      "id": "FourShieldDex6"
+    },
+    "requirements": {
+      "dexterity": 99,
+      "intelligence": 0,
+      "level": 70,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex8Endgame": {
+    "domain": "item",
+    "drop_level": 75,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Ancient Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 178,
+        "min": 178
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler08.dds",
+      "id": "FourShieldDex8_"
+    },
+    "requirements": {
+      "dexterity": 107,
+      "intelligence": 0,
+      "level": 75,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex9Endgame": {
+    "domain": "item",
+    "drop_level": 80,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Desert Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 192,
+        "min": 192
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "karui_basetype",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler09.dds",
+      "id": "FourShieldDex9"
+    },
+    "requirements": {
+      "dexterity": 115,
+      "intelligence": 0,
+      "level": 80,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex1Verisium": {
+    "domain": "item",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Leather Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 10,
+        "min": 10
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler01.dds",
+      "id": "FourShieldDex1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 1,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex2Verisium": {
+    "domain": "item",
+    "drop_level": 5,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Wooden Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 18,
+        "min": 18
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler02.dds",
+      "id": "FourShieldDex2"
+    },
+    "requirements": {
+      "dexterity": 10,
+      "intelligence": 0,
+      "level": 5,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex3Verisium": {
+    "domain": "item",
+    "drop_level": 11,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Plated Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 31,
+        "min": 31
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler03.dds",
+      "id": "FourShieldDex3"
+    },
+    "requirements": {
+      "dexterity": 18,
+      "intelligence": 0,
+      "level": 11,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex4Verisium": {
+    "domain": "item",
+    "drop_level": 16,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Iron Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 42,
+        "min": 42
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler04.dds",
+      "id": "FourShieldDex4___"
+    },
+    "requirements": {
+      "dexterity": 25,
+      "intelligence": 0,
+      "level": 16,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex5Verisium": {
+    "domain": "item",
+    "drop_level": 22,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Ridged Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 55,
+        "min": 55
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler05.dds",
+      "id": "FourShieldDex5"
+    },
+    "requirements": {
+      "dexterity": 33,
+      "intelligence": 0,
+      "level": 22,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex6Verisium": {
+    "domain": "item",
+    "drop_level": 26,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Spiked Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 64,
+        "min": 64
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler06.dds",
+      "id": "FourShieldDex6"
+    },
+    "requirements": {
+      "dexterity": 38,
+      "intelligence": 0,
+      "level": 26,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex7Verisium": {
+    "domain": "item",
+    "drop_level": 33,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Ringed Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 79,
+        "min": 79
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "vaal_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler07.dds",
+      "id": "FourShieldDex7"
+    },
+    "requirements": {
+      "dexterity": 48,
+      "intelligence": 0,
+      "level": 33,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex8Verisium": {
+    "domain": "item",
+    "drop_level": 39,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Edged Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 92,
+        "min": 92
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "vaal_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler08.dds",
+      "id": "FourShieldDex8_"
+    },
+    "requirements": {
+      "dexterity": 56,
+      "intelligence": 0,
+      "level": 39,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex9Verisium": {
+    "domain": "item",
+    "drop_level": 45,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Laminate Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 105,
+        "min": 105
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "karui_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler09.dds",
+      "id": "FourShieldDex9"
+    },
+    "requirements": {
+      "dexterity": 64,
+      "intelligence": 0,
+      "level": 45,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex10Verisium": {
+    "domain": "item",
+    "drop_level": 50,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Pearl Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 116,
+        "min": 116
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "karui_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler10.dds",
+      "id": "FourShieldDex10"
+    },
+    "requirements": {
+      "dexterity": 71,
+      "intelligence": 0,
+      "level": 50,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex11Verisium": {
+    "domain": "item",
+    "drop_level": 52,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Ornate Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler11.dds",
+      "id": "FourShieldDex11"
+    },
+    "requirements": {
+      "dexterity": 74,
+      "intelligence": 0,
+      "level": 52,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex12Verisium": {
+    "domain": "item",
+    "drop_level": 55,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Array Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler12.dds",
+      "id": "FourShieldDex12"
+    },
+    "requirements": {
+      "dexterity": 78,
+      "intelligence": 0,
+      "level": 55,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex13Verisium": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Aegis Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler13.dds",
+      "id": "FourShieldDex13"
+    },
+    "requirements": {
+      "dexterity": 91,
+      "intelligence": 0,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex6CruelVerisium": {
+    "domain": "item",
+    "drop_level": 54,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Spikeward Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 104,
+        "min": 104
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler06.dds",
+      "id": "FourShieldDex6"
+    },
+    "requirements": {
+      "dexterity": 77,
+      "intelligence": 0,
+      "level": 54,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex7CruelVerisium": {
+    "domain": "item",
+    "drop_level": 59,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Jingling Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 124,
+        "min": 124
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler07.dds",
+      "id": "FourShieldDex7"
+    },
+    "requirements": {
+      "dexterity": 83,
+      "intelligence": 0,
+      "level": 59,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex8CruelVerisium": {
+    "domain": "item",
+    "drop_level": 61,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Bladeguard Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 111,
+        "min": 111
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler08.dds",
+      "id": "FourShieldDex8_"
+    },
+    "requirements": {
+      "dexterity": 86,
+      "intelligence": 0,
+      "level": 61,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex3EndgameVerisium": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Ornate Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 141,
+        "min": 141
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler03.dds",
+      "id": "FourShieldDex3"
+    },
+    "requirements": {
+      "dexterity": 91,
+      "intelligence": 0,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex6EndgameVerisium": {
+    "domain": "item",
+    "drop_level": 70,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Gutspike Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 114,
+        "min": 114
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler06.dds",
+      "id": "FourShieldDex6"
+    },
+    "requirements": {
+      "dexterity": 99,
+      "intelligence": 0,
+      "level": 70,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex8EndgameVerisium": {
+    "domain": "item",
+    "drop_level": 75,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Ancient Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 155,
+        "min": 155
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler08.dds",
+      "id": "FourShieldDex8_"
+    },
+    "requirements": {
+      "dexterity": 107,
+      "intelligence": 0,
+      "level": 75,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex9EndgameVerisium": {
+    "domain": "item",
+    "drop_level": 80,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runeforged Desert Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 87,
+        "min": 87
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "karui_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler09.dds",
+      "id": "FourShieldDex9"
+    },
+    "requirements": {
+      "dexterity": 115,
+      "intelligence": 0,
+      "level": 80,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex1VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 38,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Leather Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 108,
+        "min": 108
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler01.dds",
+      "id": "FourShieldDex1"
+    },
+    "requirements": {
+      "dexterity": 54,
+      "intelligence": 0,
+      "level": 38,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex2VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 38,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Wooden Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 90,
+        "min": 90
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler02.dds",
+      "id": "FourShieldDex2"
+    },
+    "requirements": {
+      "dexterity": 54,
+      "intelligence": 0,
+      "level": 38,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex3VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 38,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Plated Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 67,
+        "min": 67
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "ezomyte_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler03.dds",
+      "id": "FourShieldDex3"
+    },
+    "requirements": {
+      "dexterity": 54,
+      "intelligence": 0,
+      "level": 38,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex4VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 38,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Iron Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 45,
+        "min": 45
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler04.dds",
+      "id": "FourShieldDex4___"
+    },
+    "requirements": {
+      "dexterity": 54,
+      "intelligence": 0,
+      "level": 38,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex5VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 40,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Ridged Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 66,
+        "min": 66
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler05.dds",
+      "id": "FourShieldDex5"
+    },
+    "requirements": {
+      "dexterity": 58,
+      "intelligence": 0,
+      "level": 40,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex6VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 40,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Spiked Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 61,
+        "min": 61
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "maraketh_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler06.dds",
+      "id": "FourShieldDex6"
+    },
+    "requirements": {
+      "dexterity": 58,
+      "intelligence": 0,
+      "level": 40,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex11VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 55,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Ornate Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 114,
+        "min": 114
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler11.dds",
+      "id": "FourShieldDex11"
+    },
+    "requirements": {
+      "dexterity": 78,
+      "intelligence": 0,
+      "level": 55,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldDex12VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 60,
+    "implicits": [],
+    "inventory_height": 2,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Array Buckler",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 103,
+        "min": 103
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "dex_armour",
+      "dex_shield",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Buckler12.dds",
+      "id": "FourShieldDex12"
+    },
+    "requirements": {
+      "dexterity": 85,
+      "intelligence": 0,
+      "level": 60,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemParry"
+    ]
+  },
+  "Metadata/Items/Armours/Shields/FourShieldStrDexUnique1VerisiumUnique3": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Armours/Shields/AbstractBuckler",
+    "item_class": "Buckler",
+    "name": "Runemastered Venerable Defender",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": {
+        "max": 148,
+        "min": 148
+      },
+      "ward": null,
+      "movement_speed": null,
+      "block": 20,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "str_dex_armour",
+      "str_dex_shield",
+      "karui_basetype",
+      "runeforged",
+      "buckler",
+      "shield",
+      "armour",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Offhand/Shields/Shield10.dds",
+      "id": "FourShieldStrDex10"
+    },
+    "requirements": {
+      "dexterity": 107,
+      "intelligence": 0,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemShieldBlock"
+    ]
+  }
+}

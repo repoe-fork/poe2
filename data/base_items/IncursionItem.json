@@ -1,0 +1,100 @@
+{
+  "Metadata/Items/Incursion/IncursionKey": {
+    "domain": "undefined",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 1,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Labyrinth/AbstractLabyrinthItem",
+    "item_class": "IncursionItem",
+    "name": "Stone of Passage",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/QuestItems/Wheel.dds",
+      "id": "IncursionKey"
+    },
+    "requirements": null,
+    "grants_buff": null,
+    "skills_granted": null
+  },
+  "Metadata/Items/Incursion/IncursionBomb": {
+    "domain": "undefined",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 1,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Labyrinth/AbstractLabyrinthItem",
+    "item_class": "IncursionItem",
+    "name": "Flashpowder Keg",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/QuestItems/Bomb.dds",
+      "id": "IncursionKeyBomb"
+    },
+    "requirements": null,
+    "grants_buff": null,
+    "skills_granted": null
+  }
+}

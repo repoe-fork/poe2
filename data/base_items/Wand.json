@@ -1,0 +1,1075 @@
+{
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand1": {
+    "domain": "item",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Withered Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_physical_spell_mods",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.dds",
+      "id": "FourWand1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 1,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemChaosbolt"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand2": {
+    "domain": "item",
+    "drop_level": 2,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Bone Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand02.dds",
+      "id": "FourWand2"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 2,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemBoneBlast"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand3": {
+    "domain": "item",
+    "drop_level": 2,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Attuned Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand03.dds",
+      "id": "FourWand3"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 2,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemManaDrain"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand4": {
+    "domain": "item",
+    "drop_level": 11,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Siphoning Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand04.dds",
+      "id": "FourWand4"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 23,
+      "level": 11,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemPowerSiphon"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand5": {
+    "domain": "item",
+    "drop_level": 16,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Volatile Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand05.dds",
+      "id": "FourWand5"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 31,
+      "level": 16,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemVolatileDead"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand6": {
+    "domain": "item",
+    "drop_level": 25,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Galvanic Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand06.dds",
+      "id": "FourWand6_"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 46,
+      "level": 25,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemGalvanicField"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand7": {
+    "domain": "item",
+    "drop_level": 33,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Acrid Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand07.dds",
+      "id": "FourWand7"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 60,
+      "level": 33,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemCorpseCloud"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand8": {
+    "domain": "item",
+    "drop_level": 38,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Offering Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand08.dds",
+      "id": "FourWand8"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 68,
+      "level": 38,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemExsanguinate"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand9": {
+    "domain": "item",
+    "drop_level": 45,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Frigid Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand10.dds",
+      "id": "FourWand9"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 80,
+      "level": 45,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemChaosbolt"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand10": {
+    "domain": "item",
+    "drop_level": 49,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Torture Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand09.dds",
+      "id": "FourWand10_"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 87,
+      "level": 49,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemChaosbolt"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand11": {
+    "domain": "item",
+    "drop_level": 52,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Critical Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand11.dds",
+      "id": "FourWand11"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 92,
+      "level": 52,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemChaosbolt"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand12": {
+    "domain": "item",
+    "drop_level": 56,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Primordial Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_physical_spell_mods",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand12.dds",
+      "id": "FourWand12"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 99,
+      "level": 56,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemWither"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand13": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Dueling Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand13.dds",
+      "id": "FourWand13__"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemSpellslinger"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWandUnique1": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Twisted Wand",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.dds",
+      "id": "FourWand1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemCoilingBolts"
+    ]
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWandUnique2": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 3,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Runic Fork",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.dds",
+      "id": "FourWand1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": null
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWandUnique2VerisiumUnique1": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [
+      "RuneseekersCallVerisiumImplicitChanceForTwoProjectiles1"
+    ],
+    "inventory_height": 3,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Runemastered Runic Fork",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "runeforged",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.dds",
+      "id": "FourWand1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": null
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWandUnique2VerisiumUnique2": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [
+      "RuneseekersCallVerisiumImplicitManaRegen1"
+    ],
+    "inventory_height": 3,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Runemastered Runic Fork",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "runeforged",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.dds",
+      "id": "FourWand1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": null
+  },
+  "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWandUnique2VerisiumUnique3": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [
+      "RuneseekersCallVerisiumImplicitMaximumRunicWard"
+    ],
+    "inventory_height": 3,
+    "inventory_width": 2,
+    "inherits_from": "Metadata/Items/Wands/AbstractWand",
+    "item_class": "Wand",
+    "name": "Runemastered Runic Fork",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "runeforged",
+      "wand",
+      "onehand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/OneHandWeapons/Wands/Basetypes/Wand01.dds",
+      "id": "FourWand1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": null
+  }
+}

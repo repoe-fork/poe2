@@ -1,0 +1,16 @@
+{
+  "Base": {
+    "base_level": 1,
+    "tag": {
+      "default": true
+    }
+  },
+  "LocalStats": {},
+  "Mods": {
+    "enable_rarity": {
+      "normal": true
+    },
+    "stat_description_list": "Data/StatDescriptions/stat_descriptions.csd"
+  },
+  "Usable": {}
+}

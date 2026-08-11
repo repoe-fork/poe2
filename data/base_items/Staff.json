@@ -1,0 +1,1136 @@
+{
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff1": {
+    "domain": "item",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Ashen Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.dds",
+      "id": "FourStaff1_"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 1,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemFirebolt"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff2": {
+    "domain": "item",
+    "drop_level": 2,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Gelid Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff02.dds",
+      "id": "FourStaff2"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 2,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemFreezingShards"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff3": {
+    "domain": "item",
+    "drop_level": 2,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Voltaic Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff03.dds",
+      "id": "FourStaff3"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 2,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemLightningBolt"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff4": {
+    "domain": "item",
+    "drop_level": 11,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Spriggan Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff04.dds",
+      "id": "FourStaff4"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 23,
+      "level": 11,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemFirebolt"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff5": {
+    "domain": "item",
+    "drop_level": 16,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Pyrophyte Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff05.dds",
+      "id": "FourStaff5"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 31,
+      "level": 16,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemSolarOrb"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff6": {
+    "domain": "item",
+    "drop_level": 25,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Chiming Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff06.dds",
+      "id": "FourStaff6"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 46,
+      "level": 25,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemSigilOfPower"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff7": {
+    "domain": "item",
+    "drop_level": 33,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Rending Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_physical_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff07.dds",
+      "id": "FourStaff7"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 60,
+      "level": 33,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemSoulrend"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff8": {
+    "domain": "item",
+    "drop_level": 38,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Reaping Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff08.dds",
+      "id": "FourStaff8"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 68,
+      "level": 38,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemReap"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff9": {
+    "domain": "item",
+    "drop_level": 45,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Icicle Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_lightning_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff09.dds",
+      "id": "FourStaff9"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 80,
+      "level": 45,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemFirebolt"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff10": {
+    "domain": "item",
+    "drop_level": 49,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Roaring Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff10.dds",
+      "id": "FourStaff10"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 87,
+      "level": 49,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/items/Gems/SkillGemStaffUnleash"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff11": {
+    "domain": "item",
+    "drop_level": 52,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Paralysing Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "no_fire_spell_mods",
+      "no_cold_spell_mods",
+      "no_chaos_spell_mods",
+      "no_physical_spell_mods",
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff11.dds",
+      "id": "FourStaff11"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 92,
+      "level": 52,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemEnervatingNova"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff12": {
+    "domain": "item",
+    "drop_level": 56,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Sanctified Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff12.dds",
+      "id": "FourStaff12"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 99,
+      "level": 56,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/items/Gems/SkillGemStaffConsecrate"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff13": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Dark Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff13.dds",
+      "id": "FourStaff13"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemDarkPact"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff14": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Ravenous Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff01.dds",
+      "id": "FourStaff14"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemFeastOfFlesh"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaffUnique1": {
+    "domain": "item",
+    "drop_level": 75,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Permafrost Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff02.dds",
+      "id": "FourStaff2"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 75,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gem/SkillGemHeartOfIce"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaffUnique2": {
+    "domain": "item",
+    "drop_level": 11,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "[DNT] Cragbreaker Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff02.dds",
+      "id": "FourStaff2"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 23,
+      "level": 11,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemCrushingEarth"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaffUnique3": {
+    "domain": "item",
+    "drop_level": 70,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Reflecting Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff02.dds",
+      "id": "FourStaff2"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 70,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemMirrorOfRefraction"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaffUnique4": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "Perching Staff",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff07.dds",
+      "id": "FourStaff7"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemSpiralingConspiracy"
+    ]
+  },
+  "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaffUnique5": {
+    "domain": "item",
+    "drop_level": 65,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Staves/AbstractStaff",
+    "item_class": "Staff",
+    "name": "[DNT] Driftwood Oar",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": null,
+      "critical_strike_chance": null,
+      "physical_damage_max": null,
+      "physical_damage_min": null,
+      "range": null,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "staff",
+      "twohand",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/Staves/Basetypes/Staff07.dds",
+      "id": "FourStaff7"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 114,
+      "level": 65,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": [
+      "Metadata/Items/Gems/SkillGemAbyssalPact"
+    ]
+  }
+}

@@ -22035,6 +22035,12 @@
         "option": null
       },
       {
+        "id": "fractured.stat_1028592286",
+        "text": "#% chance to Chain an additional time",
+        "type": "fractured",
+        "option": null
+      },
+      {
         "id": "implicit.stat_1028592286",
         "text": "#% chance to Chain an additional time",
         "type": "implicit",

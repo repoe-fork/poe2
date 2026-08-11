@@ -1,0 +1,60 @@
+{
+  "Metadata/Items/Weapons/TwoHandWeapon/FishingRods/FishingRod1": {
+    "domain": "item",
+    "drop_level": 1,
+    "implicits": [],
+    "inventory_height": 4,
+    "inventory_width": 1,
+    "inherits_from": "Metadata/Items/Weapons/TwoHandWeapons/FishingRods/AbstractFishingRod",
+    "item_class": "FishingRod",
+    "name": "Fishing Rod",
+    "properties": {
+      "armour": null,
+      "energy_shield": null,
+      "evasion": null,
+      "ward": null,
+      "movement_speed": null,
+      "block": null,
+      "description": null,
+      "directions": null,
+      "stack_size": null,
+      "stack_size_currency_tab": null,
+      "full_stack_turns_into": null,
+      "charges_max": null,
+      "charges_per_use": null,
+      "duration": null,
+      "life_per_use": null,
+      "mana_per_use": null,
+      "attack_time": 833,
+      "critical_strike_chance": 500,
+      "physical_damage_max": 18,
+      "physical_damage_min": 10,
+      "range": 13,
+      "mana_burn_ms": null,
+      "cooldown_ms": null,
+      "monster_id": null,
+      "monster_ability_text": null,
+      "monster_category": null
+    },
+    "release_state": "released",
+    "tags": [
+      "not_for_sale",
+      "fishing_rod",
+      "twohand",
+      "weapon",
+      "default"
+    ],
+    "visual_identity": {
+      "dds_file": "Art/2DItems/Weapons/TwoHandWeapons/FishingRods/FishingRod1.dds",
+      "id": "FishingRod1"
+    },
+    "requirements": {
+      "dexterity": 0,
+      "intelligence": 0,
+      "level": 1,
+      "strength": 0
+    },
+    "grants_buff": null,
+    "skills_granted": null
+  }
+}
