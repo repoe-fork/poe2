@@ -11,13 +11,16 @@ jobs:
   version:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v7
+        with:
+          sparse-checkout: '*.txt'
+          sparse-checkout-cone-mode: false
       - run: curl --fail 'https://ggpk.exposed/version?poe=2' | sed -r 's|.*/([0-9](\.[0-9]+)+)/$|\1|' > version.txt
       - run: git ls-remote https://github.com/poe-tool-dev/dat-schema.git refs/heads/main > schema.txt
       - id: version
         run: echo "version=$(cat version.txt)" >> "$GITHUB_OUTPUT"
       - id: autocommit
-        uses: stefanzweifel/git-auto-commit-action@v7.1.0
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "[skip ci] Version ${{ steps.version.outputs.version }}"
     outputs:
@@ -31,25 +34,24 @@ jobs:
     if: github.event_name != 'schedule' || needs.version.outputs.changes_detected == 'true'
     steps:
       - name: checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7
         with:
           path: poe2
           ref: ${{ needs.version.outputs.commit_hash }}
       - name: checkout repoe
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7
         with:
           repository: repoe-fork/repoe-fork
           path: RePoE
       - name: checkout pypoe
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v7
         with:
           repository: repoe-fork/pypoe
           path: PyPoE
       - run: pipx install 'poetry~=1.8'
       - name: setup python
-        uses: actions/setup-python@v6.2.0
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.13"
           cache: poetry
       - name: clean poe2 dir
         run: find poe2/data '(' -name '*.json' -not -path '*/pob/*' -o -name '*.html' -o -name '*.txt' ')' -delete -print | wc -l
@@ -60,7 +62,7 @@ jobs:
       - run: poetry run repoe all --poe2 -o ../poe2/data
         working-directory: RePoE
       - id: autocommit
-        uses: stefanzweifel/git-auto-commit-action@v7.1.0
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           repository: poe2
           branch: master
@@ -71,7 +73,7 @@ jobs:
           find data -name index.html -exec sed -i 's|<h1>RePoE|<h1><a href="https://github.com/repoe-fork/repoe-fork">RePoE</a>|' {} \;
           cp *.txt data
         working-directory: poe2
-      - uses: actions/upload-pages-artifact@v5.0.0
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: poe2/data
           retention-days: 90
@@ -87,4 +89,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v5.0.0
+        uses: actions/deploy-pages@v5
