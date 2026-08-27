@@ -32,7 +32,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment": "1_0_login_Island"
   },
   "node_count": 1,
   "numbers": null,

@@ -862,7 +862,13 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "DisableDoors": null,
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "BlendMaskOverride": "Art/Textures/masks/TerrainMask01.dds",
+    "EnvironmentSector": "G4_11_1b_boat\" \"ShipEnvironment"
   },
   "node_count": 30,
   "numbers": [

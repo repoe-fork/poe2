@@ -873,7 +873,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "OverrideChestSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "BoundingBox"
   },
   "node_count": 15,
   "numbers": [

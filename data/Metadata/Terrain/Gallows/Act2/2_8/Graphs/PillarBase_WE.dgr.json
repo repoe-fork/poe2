@@ -569,7 +569,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null,
+    "Environment": "G2_8",
+    "ExtendActivationDistance": "Client",
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 14,
   "numbers": [

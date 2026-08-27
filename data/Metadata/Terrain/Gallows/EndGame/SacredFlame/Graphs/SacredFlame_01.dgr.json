@@ -73,7 +73,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "RoofFadeMode": "Tile"
   },
   "node_count": 3,
   "numbers": [

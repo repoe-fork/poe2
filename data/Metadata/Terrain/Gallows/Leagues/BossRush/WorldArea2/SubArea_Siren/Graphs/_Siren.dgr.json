@@ -416,7 +416,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "Environment": "G4_3_2"
   },
   "node_count": 12,
   "numbers": [

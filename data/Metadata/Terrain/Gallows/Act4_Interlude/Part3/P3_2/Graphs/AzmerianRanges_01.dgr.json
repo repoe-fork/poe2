@@ -133,7 +133,17 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "RemoveOuterEdge": null,
+    "//OuterGroundType": "Metadata/Terrain/Islands/Tiles/Island/island_ocean.gt",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "//Overlays": "overlays.toy",
+    "OverrideMonsterSpawns": "Outdoor",
+    "DefaultKillZone": null,
+    "//RoofFadeMode": "Tile",
+    "DungeonFillRoomHeightOverride": null,
+    "BlendMaskOverride": "Art/Textures/masks/TerrainMask01.dds",
+    "UniqueMeshOverrideSet1": "2"
   },
   "node_count": 2,
   "numbers": [

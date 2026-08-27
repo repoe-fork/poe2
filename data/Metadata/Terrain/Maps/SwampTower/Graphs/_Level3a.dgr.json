@@ -93,7 +93,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "EnvironmentSector": "MapSwampTower_Apex\" \"EnvApex"
   },
   "node_count": 1,
   "numbers": [

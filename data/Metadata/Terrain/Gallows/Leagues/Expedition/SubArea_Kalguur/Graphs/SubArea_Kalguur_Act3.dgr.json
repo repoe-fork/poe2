@@ -411,7 +411,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides_act3.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "UniqueMeshOverrideSet1": "1"
   },
   "node_count": 11,
   "numbers": [

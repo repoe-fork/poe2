@@ -115,7 +115,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null,
+    "TileMaterialOverrides": "Metadata\\Terrain\\Gallows\\Leagues\\Sanctum\\material_overrides.tmo"
   },
   "node_count": 1,
   "numbers": [

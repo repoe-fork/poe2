@@ -1072,7 +1072,10 @@
     "RestrictedGTs": "BeachOceanShallowWet, BeachOceanShallow, BeachOceanShallowNonwalkable, BeachOceanDeep",
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideSpawns": "Outdoor",
+    "DefaultKillZone": null
   },
   "node_count": 28,
   "numbers": null,

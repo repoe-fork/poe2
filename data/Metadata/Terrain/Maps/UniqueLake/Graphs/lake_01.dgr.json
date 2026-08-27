@@ -216,7 +216,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "ForceOuterGT": null,
+    "DoorEdgeType": "Metadata/Terrain/Maps/UniqueLake/Tiles/lake_walkway.et",
+    "DoNotFillOutside": null,
+    "OverrideSpawns": "Outdoor"
   },
   "node_count": 3,
   "numbers": [

@@ -1167,7 +1167,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null,
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 44,
   "numbers": [

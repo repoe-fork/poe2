@@ -1529,7 +1529,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideSpawns": "Outdoor",
+    "EnvironmentSector": "G4_1_1_boat\" \"ShipEnvironment"
   },
   "node_count": 26,
   "numbers": [

@@ -760,7 +760,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "OverrideSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 26,
   "numbers": null,

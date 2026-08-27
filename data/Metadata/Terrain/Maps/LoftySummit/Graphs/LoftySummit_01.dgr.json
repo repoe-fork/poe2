@@ -335,7 +335,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "RemoveOuterEdge": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "DefaultKillZone": null
   },
   "node_count": 10,
   "numbers": [

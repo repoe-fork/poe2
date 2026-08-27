@@ -785,7 +785,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "UseParentMinimapLayer": null
   },
   "node_count": 31,
   "numbers": null,

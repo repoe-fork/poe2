@@ -73,7 +73,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "ExtendActivationDistance": "Client"
   },
   "node_count": 1,
   "numbers": [

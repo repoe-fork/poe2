@@ -1200,7 +1200,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "EnvironmentSector": "G4_9_1_boat\" \"ShipEnvironment"
   },
   "node_count": 29,
   "numbers": [

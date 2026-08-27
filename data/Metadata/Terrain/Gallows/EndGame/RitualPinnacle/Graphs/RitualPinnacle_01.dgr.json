@@ -73,7 +73,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "RoofFadeMode": "Tile",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 2,
   "numbers": [

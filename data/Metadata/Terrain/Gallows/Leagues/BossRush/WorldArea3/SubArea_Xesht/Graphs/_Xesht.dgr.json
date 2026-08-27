@@ -523,7 +523,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "Island",
+    "Environment": "BreachDomain_01",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 14,
   "numbers": [

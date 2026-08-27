@@ -319,7 +319,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment1": "G1_3",
+    "Environment2": "G1_3",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 9,
   "numbers": [

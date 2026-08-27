@@ -1080,7 +1080,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides_crimson.tmo"
   },
   "node_count": 21,
   "numbers": null,

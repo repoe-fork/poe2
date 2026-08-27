@@ -343,7 +343,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "ExtendActivationDistance": "Client"
   },
   "node_count": 12,
   "numbers": [

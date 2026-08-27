@@ -381,7 +381,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "OuterFillHeightOverride": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "DefaultKillZone": null
   },
   "node_count": 8,
   "numbers": [

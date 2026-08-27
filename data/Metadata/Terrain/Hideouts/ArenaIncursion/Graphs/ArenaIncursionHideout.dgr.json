@@ -203,7 +203,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "BlendMaskOverride": "Art/Textures/masks/maskindoor.dds"
   },
   "node_count": 8,
   "numbers": [

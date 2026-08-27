@@ -168,7 +168,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "DisableDoors": null,
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "Environment": "G3_14_indoor"
   },
   "node_count": 1,
   "numbers": [

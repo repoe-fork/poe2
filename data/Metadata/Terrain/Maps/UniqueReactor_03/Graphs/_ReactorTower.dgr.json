@@ -113,7 +113,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "subscene_material_overrides.tmo"
   },
   "node_count": 1,
   "numbers": [

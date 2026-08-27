@@ -32,7 +32,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": "1_0_login3",
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment": "G1_0_login"
   },
   "node_count": 7,
   "numbers": null,

@@ -93,7 +93,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "EnvironmentSector": "G3_town_timechamber_past\" \"time_chamber_past",
+    "EnvMargin": null
   },
   "node_count": 33,
   "numbers": [

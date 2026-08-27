@@ -1295,7 +1295,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "DoNotFillOutside": null,
+    "ForceOuterGT": null
   },
   "node_count": 29,
   "numbers": [

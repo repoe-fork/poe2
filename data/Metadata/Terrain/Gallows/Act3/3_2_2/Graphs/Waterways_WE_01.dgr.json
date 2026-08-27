@@ -637,7 +637,10 @@
     "RestrictedGTs": "JungleWaterway",
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "//OverrideSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "BoundingBox"
   },
   "node_count": 21,
   "numbers": [

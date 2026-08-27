@@ -168,7 +168,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": "G2_13_death_zone",
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TallWallActivationDistanceUpscreen": null,
+    "TallWallActivationDistanceDownscreen": null,
+    "ExtendActivationDistance": "Client",
+    "TileMaterialOverrides": "Metadata/Terrain/Gallows/Leagues/Sanctum/material_overrides.tmo",
+    "EnvironmentSector": "SanctumAirlock\" \"sanctum_airlock"
   },
   "node_count": 1,
   "numbers": [

@@ -439,7 +439,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": "G3_9_pulled",
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "BoundingBox"
   },
   "node_count": 16,
   "numbers": [

@@ -512,7 +512,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "Environment": "MapSwampTower_Level2"
   },
   "node_count": 26,
   "numbers": [

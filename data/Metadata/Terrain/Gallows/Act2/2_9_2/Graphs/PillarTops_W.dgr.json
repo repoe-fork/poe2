@@ -870,7 +870,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null,
+    "Environment": "G2_9_2",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "WalkableGroundMaterialOverride": "Art/Textures/Environment/desert/Pillars/PillarBase/Architecture/PorousRockc.mat"
   },
   "node_count": 24,
   "numbers": [

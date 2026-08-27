@@ -468,7 +468,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "ExtendActivationDistance": "Client",
+    "WalkableGroundMaterialOverride": "Art/Models/Terrain/Jungle/Tiles/Sanctum/Textures/DOR_FloorPanelSlabs01c.mat",
+    "Environment": "MapUberDoryani_holodeck"
   },
   "node_count": 15,
   "numbers": [

@@ -1169,7 +1169,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": "G3_4_storyroom",
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "Environment": "G3_4",
+    "EnvironmentSector": "G3_4_storyroom\"\t\"storyroom"
   },
   "node_count": 19,
   "numbers": [

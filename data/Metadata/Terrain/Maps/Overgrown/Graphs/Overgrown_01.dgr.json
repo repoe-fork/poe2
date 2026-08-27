@@ -842,7 +842,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "AllowInteriorOverlapFixes": null
   },
   "node_count": 16,
   "numbers": [

@@ -887,7 +887,13 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "DoorEdgeType": "Metadata/Terrain/Desert/FarudinCarts/cart_walkway.et",
+    "ExtendActivationDistance": "Client",
+    "WalkableGroundMaterialOverride": "Art/Textures/Environment/desert/Dreadnought/DreadnoughtPanels01ac.mat",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "UseParentMinimapLayer": null,
+    "GraphSectorName": "DreadnoughtSpawns"
   },
   "node_count": 48,
   "numbers": [

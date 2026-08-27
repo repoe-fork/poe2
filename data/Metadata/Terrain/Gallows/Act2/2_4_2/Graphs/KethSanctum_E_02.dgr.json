@@ -681,7 +681,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "RoomOcclusion": null,
+    "EnvironmentSector": "G2_4_3_boss\"    \"EnvBoss",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 23,
   "numbers": [

@@ -416,7 +416,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment": "G1_15_nolight",
+    "EnvironmentSector": "G1_15_arena\" \"arena"
   },
   "node_count": 17,
   "numbers": [

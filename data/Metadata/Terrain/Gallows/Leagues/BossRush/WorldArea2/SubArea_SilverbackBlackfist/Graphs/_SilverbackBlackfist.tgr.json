@@ -853,7 +853,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "BoundingBox",
+    "Environment": "G3_3",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 10,
   "numbers": null,

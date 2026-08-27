@@ -979,7 +979,13 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null,
+    "AllowInteriorOverlapFixes": null,
+    "ExtendActivationDistance": "Client",
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "BlendMaskOverride": "Art/Textures/masks/TerrainMask01.dds"
   },
   "node_count": 35,
   "numbers": [

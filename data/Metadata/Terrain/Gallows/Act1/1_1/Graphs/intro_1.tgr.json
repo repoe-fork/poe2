@@ -1863,7 +1863,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "//Doodads": "doodads.ddt",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "DefaultKillZone": null
   },
   "node_count": 23,
   "numbers": null,

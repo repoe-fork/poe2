@@ -93,7 +93,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "UniqueMeshOverrideSet1": "5"
   },
   "node_count": 3,
   "numbers": [

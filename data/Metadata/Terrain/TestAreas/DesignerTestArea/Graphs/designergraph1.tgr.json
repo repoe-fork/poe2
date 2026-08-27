@@ -469,7 +469,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment1": "design_zone",
+    "Environment2": "design_zone"
   },
   "node_count": 16,
   "numbers": null,

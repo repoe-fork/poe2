@@ -167,7 +167,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "Island",
+    "RoofFadeDistanceUpscreen": null,
+    "RoofFadeDistanceDownscreen": null
   },
   "node_count": 7,
   "numbers": [

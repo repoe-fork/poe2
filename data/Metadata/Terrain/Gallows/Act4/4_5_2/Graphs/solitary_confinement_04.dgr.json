@@ -5,7 +5,8 @@
       0,
       0
     ],
-    "MasterFile": "Metadata/Terrain/Gallows/Act4/4_5_2/master.tsi"
+    "MasterFile": "Metadata/Terrain/Gallows/Act4/4_5_2/master.tsi",
+    "EnvironmentOverride": "G4_5_2_4"
   },
   "edge_count": 17,
   "edge_types": {
@@ -606,7 +607,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "BlendMaskOverride": "Art\\Textures\\masks\\TerrainMask01.dds"
   },
   "node_count": 19,
   "numbers": [

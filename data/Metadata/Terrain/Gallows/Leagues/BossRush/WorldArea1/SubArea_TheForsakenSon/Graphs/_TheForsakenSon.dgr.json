@@ -413,7 +413,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "RoomOcclusion": null,
+    "Environment": "G2_4_3",
+    "EnvironmentSector": "G2_4_3_boss\"    \"EnvBoss",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 14,
   "numbers": [

@@ -73,7 +73,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment": "MapUniqueWildwoodTunnel",
+    "OverrideSpawns": "Dungeon"
   },
   "node_count": 1,
   "numbers": [

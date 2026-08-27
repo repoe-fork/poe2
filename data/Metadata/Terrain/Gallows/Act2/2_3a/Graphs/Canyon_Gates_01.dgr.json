@@ -5,7 +5,8 @@
       0,
       0
     ],
-    "MasterFile": "Metadata/Terrain/Gallows/Act2/2_3a/master.tsi"
+    "MasterFile": "Metadata/Terrain/Gallows/Act2/2_3a/master.tsi",
+    "EnvironmentOverride": "G2_3a"
   },
   "edge_count": 0,
   "edge_types": {},
@@ -137,7 +138,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 1,
   "numbers": [

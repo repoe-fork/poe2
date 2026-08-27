@@ -432,7 +432,14 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "DisableDoors": null,
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "DefaultKillZone": null,
+    "TopStoreyOverride": null,
+    "BottomStoreyOverride": null
   },
   "node_count": 14,
   "numbers": [

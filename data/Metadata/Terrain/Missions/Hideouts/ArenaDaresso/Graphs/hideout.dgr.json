@@ -73,7 +73,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment1": "HideoutDaressoArena1",
+    "Environment2": "HideoutDaressoArena2"
   },
   "node_count": 1,
   "numbers": null,

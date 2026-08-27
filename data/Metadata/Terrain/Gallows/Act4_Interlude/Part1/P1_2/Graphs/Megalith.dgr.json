@@ -770,7 +770,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": "MapUniqueMegalith5",
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "BlendMaskOverride": "Art\\Textures\\masks\\TerrainMask01.dds"
   },
   "node_count": 11,
   "numbers": [

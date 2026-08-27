@@ -223,7 +223,13 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "OuterFillHeightOverride": null,
+    "DungeonFillRoomHeightOverride": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "DefaultKillZone": null,
+    "BlendMaskOverride": "Art/Textures/masks/TerrainMask01.dds"
   },
   "node_count": 8,
   "numbers": [

@@ -384,7 +384,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "BoundingBox"
   },
   "node_count": 2,
   "numbers": [

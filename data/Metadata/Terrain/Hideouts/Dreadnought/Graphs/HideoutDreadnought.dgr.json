@@ -385,7 +385,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "DoorEdgeType": "Metadata/Terrain/Desert/FarudinCarts/cart_walkway.et",
+    "ExtendActivationDistance": "Client",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 7,
   "numbers": [

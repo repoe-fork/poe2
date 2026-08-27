@@ -730,7 +730,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "RoomOcclusion": null,
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 20,
   "numbers": [

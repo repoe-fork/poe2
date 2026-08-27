@@ -5,7 +5,8 @@
       0,
       0
     ],
-    "MasterFile": "Metadata/Terrain/Gallows/Act2/2_3/master.tsi"
+    "MasterFile": "Metadata/Terrain/Gallows/Act2/2_3/master.tsi",
+    "EnvironmentOverride": "G2_3_EW"
   },
   "edge_count": 24,
   "edge_types": {
@@ -854,7 +855,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "TallWallActivationDistanceUpscreen": null,
+    "TallWallActivationDistanceDownscreen": null,
+    "ExtendActivationDistance": "Client",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 29,
   "numbers": [

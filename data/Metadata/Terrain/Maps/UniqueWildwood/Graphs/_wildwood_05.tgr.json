@@ -597,7 +597,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "OverrideChestSpawns": "Dungeon",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "Environment": "MapUniqueWildwood"
   },
   "node_count": 20,
   "numbers": null,

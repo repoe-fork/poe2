@@ -146,7 +146,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "RemoveOuterEdge": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "//Overlays": "overlays.toy",
+    "UniqueMeshOverrideSet1": "1"
   },
   "node_count": 1,
   "numbers": [

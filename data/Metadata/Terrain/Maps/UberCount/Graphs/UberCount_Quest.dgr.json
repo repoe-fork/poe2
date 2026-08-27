@@ -368,7 +368,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "Environment": "MapUberCount",
+    "EnvironmentSector": "MapUberCount_Arena\" \"arena",
+    "DefaultKillZone": null
   },
   "node_count": 15,
   "numbers": [

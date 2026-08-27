@@ -133,7 +133,14 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": "filegroups_graphs.fgp"
+    "FileGroups": "filegroups_graphs.fgp",
+    "RemoveOuterEdge": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "DefaultKillZone": null,
+    "RoofFadeMode": "Tile",
+    "UniqueMeshOverrideSet1": "1",
+    "BlendMaskOverride": "Art\\Textures\\masks\\TerrainMask01.dds"
   },
   "node_count": 2,
   "numbers": [

@@ -362,7 +362,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "DoorEdgeType": "Metadata/Terrain/Islands/Tiles/Boatnaut/raft_walkway.et",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "ExtendActivationDistance": "Client"
   },
   "node_count": 2,
   "numbers": [

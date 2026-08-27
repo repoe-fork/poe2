@@ -177,7 +177,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "BoundingBox",
+    "DefaultKillZone": null
   },
   "node_count": 1,
   "numbers": [

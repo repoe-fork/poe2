@@ -277,7 +277,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "BlendMaskOverride": "Art\\Textures\\masks\\TerrainMask01.dds",
+    "Environment": "G4_5_2",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 4,
   "numbers": [

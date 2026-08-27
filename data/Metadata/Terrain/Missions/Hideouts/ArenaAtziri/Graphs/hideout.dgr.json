@@ -93,7 +93,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment": "HideoutAtziriArena1",
+    "EnvironmentSector": "HideoutAtziriArena3\" \"hideout_Atziri3"
   },
   "node_count": 3,
   "numbers": null,

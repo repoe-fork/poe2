@@ -987,7 +987,13 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TallWallActivationDistanceUpscreen": null,
+    "TallWallActivationDistanceDownscreen": null,
+    "ExtendActivationDistance": "Client",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "DefaultKillZone": null
   },
   "node_count": 31,
   "numbers": [

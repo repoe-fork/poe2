@@ -73,7 +73,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "RoofFadeMode": "Global"
   },
   "node_count": 1,
   "numbers": [

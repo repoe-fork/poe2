@@ -453,7 +453,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "OuterFillHeightOverride": null,
+    "BlendMaskOverride": "Art\\Textures\\masks\\TerrainMask01.dds",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "DefaultKillZone": null
   },
   "node_count": 11,
   "numbers": [

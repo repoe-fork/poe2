@@ -405,7 +405,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "OverrideChestSpawns": "Outdoor",
+    "OverrideMonsterSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "RoofFadeMode": "Tile",
+    "DefaultKillZone": null
   },
   "node_count": 10,
   "numbers": [

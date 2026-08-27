@@ -283,7 +283,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "OuterFillHeightOverride": null,
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 2,
   "numbers": [

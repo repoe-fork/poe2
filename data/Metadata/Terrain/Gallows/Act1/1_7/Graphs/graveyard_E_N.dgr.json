@@ -1115,7 +1115,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 21,
   "numbers": [

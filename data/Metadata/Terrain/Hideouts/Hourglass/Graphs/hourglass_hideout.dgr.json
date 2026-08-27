@@ -278,7 +278,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "EnvironmentSector": "SanctumAirlock\" \"sanctum_airlock",
+    "TileMaterialOverrides": "Metadata\\Terrain\\Gallows\\Leagues\\Sanctum\\material_overrides.tmo",
+    "RoofFadeDistanceDownscreen": null,
+    "WalkableGroundMaterialOverride": "Art/Models/Terrain/Desert/KethAscendancy/Textures/Architecture/KAC_DecorativeGroundTilesA01c.mat"
   },
   "node_count": 1,
   "numbers": [

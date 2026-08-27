@@ -589,7 +589,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "ExtendActivationDistance": "Client",
+    "WalkableGroundMaterialOverride": "Art/Models/Terrain/Jungle/Tiles/Sanctum/Textures/DOR_FloorPanelSlabs01c.mat"
   },
   "node_count": 14,
   "numbers": [

@@ -1085,7 +1085,10 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "ExtendActivationDistance": "Client",
+    "OverrideSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 30,
   "numbers": null,

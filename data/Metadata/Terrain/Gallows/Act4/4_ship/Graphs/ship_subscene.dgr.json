@@ -73,7 +73,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "RoofFadeMode": "Island",
+    "CountAsPrimary": null,
+    "RoofFadeDistanceUpscreen": null,
+    "RoofFadeDistanceDownscreen": null
   },
   "node_count": 1,
   "numbers": [

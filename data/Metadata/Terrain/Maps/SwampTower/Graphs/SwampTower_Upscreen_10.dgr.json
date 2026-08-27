@@ -93,7 +93,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 5,
   "numbers": [

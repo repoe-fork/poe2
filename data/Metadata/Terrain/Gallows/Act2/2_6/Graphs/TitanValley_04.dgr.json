@@ -789,7 +789,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides_titan.tmo",
+    "AllowInteriorOverlapFixes": null,
+    "ExtendActivationDistance": "Client",
+    "OverrideSpawns": "Outdoor"
   },
   "node_count": 18,
   "numbers": [

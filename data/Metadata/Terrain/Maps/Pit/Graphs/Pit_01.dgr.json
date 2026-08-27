@@ -834,7 +834,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "ExtendActivationDistance": "Client"
   },
   "node_count": 18,
   "numbers": [

@@ -133,7 +133,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": "filegroups_graphs.fgp"
+    "FileGroups": "filegroups_graphs.fgp",
+    "RemoveOuterEdge": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "DefaultKillZone": null
   },
   "node_count": 2,
   "numbers": [

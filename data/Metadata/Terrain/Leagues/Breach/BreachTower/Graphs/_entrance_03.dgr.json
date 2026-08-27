@@ -258,7 +258,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "Environment": "BreachTowerDownstairsEnv"
   },
   "node_count": 7,
   "numbers": [

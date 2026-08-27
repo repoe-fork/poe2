@@ -678,7 +678,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null,
+    "Environment": "G2_9_2",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "WalkableGroundMaterialOverride": "Art/Textures/Environment/desert/Pillars/PillarBase/Architecture/PorousRockc.mat",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 17,
   "numbers": [

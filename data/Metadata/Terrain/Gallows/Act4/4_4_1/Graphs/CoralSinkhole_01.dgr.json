@@ -955,7 +955,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "EnvironmentSector": "G4_4_1_intro\" \"sinkhole_intro",
+    "OverrideMonsterSpawns": "Outdoor",
+    "ExtendActivationDistance": "Client"
   },
   "node_count": 55,
   "numbers": [

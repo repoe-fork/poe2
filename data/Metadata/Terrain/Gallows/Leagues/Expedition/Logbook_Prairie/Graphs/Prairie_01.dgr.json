@@ -1119,7 +1119,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "BlendMaskOverride": "Art/Textures/masks/TerrainMask01.dds"
   },
   "node_count": 37,
   "numbers": [

@@ -75,7 +75,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": "HideoutVeritaniaArena",
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null
   },
   "node_count": 1,
   "numbers": null,

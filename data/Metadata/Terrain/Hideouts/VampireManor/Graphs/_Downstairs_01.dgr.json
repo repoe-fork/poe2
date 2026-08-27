@@ -208,7 +208,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "DungeonFillRoomHeightOverride": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "GraphSectorName": "lower",
+    "GraphSectorType": "Objects/LowerSector",
+    "RoofFadeMode": "Global"
   },
   "node_count": 1,
   "numbers": [

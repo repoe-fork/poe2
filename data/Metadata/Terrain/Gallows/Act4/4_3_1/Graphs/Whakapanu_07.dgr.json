@@ -2109,7 +2109,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "ExtendActivationDistance": "Client",
+    "EnvironmentSector": "G4_3_1_boat\" \"ShipEnvironment"
   },
   "node_count": 43,
   "numbers": [

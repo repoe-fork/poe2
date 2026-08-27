@@ -194,7 +194,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "MergeInsideWalls": null,
+    "AllowInteriorOverlapFixes": null,
+    "ExtendActivationDistance": "Client",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 4,
   "numbers": [

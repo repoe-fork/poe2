@@ -636,7 +636,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": "filegroups.fgp"
+    "FileGroups": "filegroups.fgp",
+    "Environment": "G1_15",
+    "EnvironmentSector": "G1_15_arena\" \"arena",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "EnvMargin": null
   },
   "node_count": 24,
   "numbers": [

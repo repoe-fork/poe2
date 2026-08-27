@@ -564,7 +564,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "MergeInsideWalls": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "DungeonFillRoomHeightOverride": null,
+    "OuterFillHeightOverride": null,
+    "DefaultKillZone": null
   },
   "node_count": 19,
   "numbers": [

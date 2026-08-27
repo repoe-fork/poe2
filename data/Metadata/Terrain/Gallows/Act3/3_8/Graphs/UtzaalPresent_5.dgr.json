@@ -1264,7 +1264,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": null
+    "FileGroups": null,
+    "DisableDoors": null,
+    "//OverrideSpawns": "Outdoor",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "UniqueMeshOverrideSet1": "5"
   },
   "node_count": 50,
   "numbers": [

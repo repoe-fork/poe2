@@ -93,7 +93,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "EnvironmentSector": "Expedition_Medved_Entrance\" \"outdoors"
   },
   "node_count": 2,
   "numbers": [

@@ -93,7 +93,8 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": "HideoutLight4",
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_override.tmo"
   },
   "node_count": 1,
   "numbers": null,

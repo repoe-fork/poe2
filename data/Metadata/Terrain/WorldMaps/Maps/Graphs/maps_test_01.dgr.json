@@ -450,7 +450,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "DoNotFillOutside": null,
+    "BlendMaskOverride": "Art/Textures/masks/WorldMapMask01.dds"
   },
   "node_count": 21,
   "numbers": [

@@ -335,7 +335,12 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor",
+    "RoofFadeMode": "Island",
+    "GraphSectorName": "lower",
+    "GraphSectorType": "Objects/LowerSector"
   },
   "node_count": 4,
   "numbers": [

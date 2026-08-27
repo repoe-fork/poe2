@@ -1011,7 +1011,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "DungeonFillRoomHeightOverride": null,
+    "TileMaterialOverrides": "material_overrides.tmo"
   },
   "node_count": 28,
   "numbers": [

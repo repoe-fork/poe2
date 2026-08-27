@@ -237,7 +237,11 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": null,
-    "FileGroups": null
+    "FileGroups": null,
+    "AllowInteriorOverlapFixes": null,
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "ExtendActivationDistance": "Client",
+    "DefaultKillZone": null
   },
   "node_count": 1,
   "numbers": [

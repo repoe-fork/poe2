@@ -900,7 +900,9 @@
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
     "Critters": "critters.clt",
-    "FileGroups": "filegroups_master.fgp"
+    "FileGroups": "filegroups_master.fgp",
+    "TileMaterialOverrides": "material_overrides.tmo",
+    "OverrideMonsterSpawns": "Outdoor"
   },
   "node_count": 32,
   "numbers": [
