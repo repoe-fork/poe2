@@ -3480,7 +3480,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more [HitDamage|Hit] damage when [Chain|Chaining]",
+        "string": "{0}% more [Hit] damage when [Chain|Chaining]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -3500,7 +3500,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less [HitDamage|Hit] damage when [Chain|Chaining]",
+        "string": "{0}% less [Hit] damage when [Chain|Chaining]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -4271,7 +4271,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "[HitDamage|Hits] enemies in range every {0} seconds",
+        "string": "[Hit|Hits] enemies in range every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -8796,7 +8796,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "{0}% increased Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       },
@@ -8816,7 +8816,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "{0}% reduced Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       }
@@ -9188,7 +9188,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+        "string": "{0}% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]",
         "reminder_text": null,
         "is_markup": null
       }

@@ -920,6 +920,15 @@
       "tile_parent": null
     },
     {
+      "file": "Metadata/Terrain/Maps/Sanctuary/Rooms/mission_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
       "file": "Metadata/Terrain/Maps/Sanctuary/Rooms/hall_end_01.arm",
       "prefix": [
         "500"

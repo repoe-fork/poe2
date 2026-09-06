@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Applies [BrokenStance|Broken Stance] on [HitDamage|Hit] against [Daze|Dazed] enemies",
+        "string": "Applies [BrokenStance|Broken Stance] on [Hit] against [Daze|Dazed] enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -89,7 +89,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[BrokenStance|Broken Stance] is removed after the affected enemy takes {0} [HitDamage|Hits]",
+        "string": "[BrokenStance|Broken Stance] is removed after the affected enemy takes {0} [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -107,7 +107,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[BrokenStance|Broken Stance] is removed after the affected enemy takes {0} [HitDamage|Hits]",
+        "string": "[BrokenStance|Broken Stance] is removed after the affected enemy takes {0} [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }

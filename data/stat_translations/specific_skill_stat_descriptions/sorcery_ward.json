@@ -91,7 +91,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[ElementalDamage|Elemental Damage] from [HitDamage|Hits] is taken from the Barrier before your Life, Mana or [EnergyShield|Energy Shield]\nBarrier can take [ElementalDamage|Elemental Damage] equal to {0}% of your [Armour] and [Evasion|Evasion Rating], up to a maximum of 32,000",
+        "string": "[ElementalDamage|Elemental Damage] from [Hit|Hits] is taken from the Barrier before your Life, Mana or [EnergyShield|Energy Shield]\nBarrier can take [ElementalDamage|Elemental Damage] equal to {0}% of your [Armour] and [Evasion|Evasion Rating], up to a maximum of 32,000",
         "reminder_text": null,
         "is_markup": null
       }

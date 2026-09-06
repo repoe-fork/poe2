@@ -38,6 +38,7 @@
     },
     "release_state": "released",
     "tags": [
+      "physical_implicit_skill",
       "sceptre",
       "onehand",
       "default"
@@ -328,6 +329,7 @@
     },
     "release_state": "released",
     "tags": [
+      "fire_implicit_skill",
       "sceptre",
       "onehand",
       "default"
@@ -386,6 +388,7 @@
     },
     "release_state": "released",
     "tags": [
+      "cold_implicit_skill",
       "sceptre",
       "onehand",
       "default"
@@ -444,6 +447,7 @@
     },
     "release_state": "released",
     "tags": [
+      "lightning_implicit_skill",
       "sceptre",
       "onehand",
       "default"
@@ -676,6 +680,7 @@
     },
     "release_state": "released",
     "tags": [
+      "lightning_implicit_skill",
       "sceptre",
       "onehand",
       "default"

@@ -33,7 +33,7 @@
         "index_handlers": [
           []
         ],
-        "string": "You take {0}% of damage from [Block|Blocked] [HitDamage|Hits]",
+        "string": "You take {0}% of damage from [Block|Blocked] [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -51,7 +51,7 @@
         "index_handlers": [
           []
         ],
-        "string": "You take {0}% of damage from [Block|Blocked] [HitDamage|Hits]",
+        "string": "You take {0}% of damage from [Block|Blocked] [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -87,7 +87,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Lose [Ward|Runic Ward] on [Block] equal to the damage you took from that [HitDamage|Hit]",
+        "string": "Lose [Ward|Runic Ward] on [Block] equal to the damage you took from that [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

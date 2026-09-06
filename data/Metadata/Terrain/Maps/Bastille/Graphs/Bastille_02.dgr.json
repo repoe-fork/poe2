@@ -874,19 +874,23 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Bastille/Rooms/Unique/mission_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/Bastille/Rooms/Unique/mission_02.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
@@ -1103,6 +1107,17 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Bastille/Rooms/Fills/Fill_03.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Bastille/Rooms/Fills/Fill_04.arm",
       "prefix": [
         "1"
       ],

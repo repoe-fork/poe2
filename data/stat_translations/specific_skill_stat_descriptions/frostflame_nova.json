@@ -189,7 +189,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] enemies every 0.5 seconds until affected [Ignite] expires",
+        "string": "[Hit|Hits] enemies every 0.5 seconds until affected [Ignite] expires",
         "reminder_text": null,
         "is_markup": null
       }

@@ -71,7 +71,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Applies [RivenArmour|Riven Armour] on [HitDamage|Hit]\n[RivenArmour|Riven Armour] has {0} second duration, or until [ArmourBreak|Fully]\n[ArmourBreak|Broken Armour] is removed",
+        "string": "Applies [RivenArmour|Riven Armour] on [Hit]\n[RivenArmour|Riven Armour] has {0} second duration, or until [ArmourBreak|Fully]\n[ArmourBreak|Broken Armour] is removed",
         "reminder_text": null,
         "is_markup": null
       }

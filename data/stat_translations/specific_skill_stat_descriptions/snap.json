@@ -301,7 +301,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more damage with [HitDamage|Hits] for blasts originating\nfrom a [Rarity|Unique] enemy",
+        "string": "{0}% more damage with [Hit|Hits] for blasts originating\nfrom a [Rarity|Unique] enemy",
         "reminder_text": null,
         "is_markup": null
       },
@@ -321,7 +321,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less damage with [HitDamage|Hits] for blasts originating\nfrom a [Rarity|Unique] enemy",
+        "string": "{0}% less damage with [Hit|Hits] for blasts originating\nfrom a [Rarity|Unique] enemy",
         "reminder_text": null,
         "is_markup": null
       }

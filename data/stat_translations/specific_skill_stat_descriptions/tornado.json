@@ -287,7 +287,7 @@
             "per_minute_to_per_second_2dp_if_required"
           ]
         ],
-        "string": "[Fire] damage per second if [Ignited Ground|Ignited Ground] absorbed@{0}",
+        "string": "[Fire] damage per second if [IgnitedGround|Ignited Ground] absorbed@{0}",
         "reminder_text": null,
         "is_markup": null
       }

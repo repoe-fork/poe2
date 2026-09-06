@@ -111,7 +111,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more damage with [HitDamage|Hits] for explosions originating\nfrom a [Rarity|Unique] enemy",
+        "string": "{0}% more damage with [Hit|Hits] for explosions originating\nfrom a [Rarity|Unique] enemy",
         "reminder_text": null,
         "is_markup": null
       },
@@ -131,7 +131,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less damage with [HitDamage|Hits] for explosions originating\nfrom a [Rarity|Unique] enemy",
+        "string": "{0}% less damage with [Hit|Hits] for explosions originating\nfrom a [Rarity|Unique] enemy",
         "reminder_text": null,
         "is_markup": null
       }
@@ -167,7 +167,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Consume|Consumes] [Freeze] on enemies [HitDamage|Hit] to\ntrigger a secondary explosion at their location\nSecondary explosions cannot [Consume] [Freeze]",
+        "string": "[Consume|Consumes] [Freeze] on enemies [Hit] to\ntrigger a secondary explosion at their location\nSecondary explosions cannot [Consume] [Freeze]",
         "reminder_text": null,
         "is_markup": null
       }

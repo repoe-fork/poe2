@@ -17,7 +17,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Explosion applies Supported [Curse] for {0} second on [HitDamage|Hit]",
+        "string": "Explosion applies Supported [Curse] for {0} second on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -37,7 +37,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Explosion applies Supported [Curse] for {0} seconds on [HitDamage|Hit]",
+        "string": "Explosion applies Supported [Curse] for {0} seconds on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

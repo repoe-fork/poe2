@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Trigger] Manifest Rune on [HitDamage|Hitting] with an [Attack]",
+        "string": "[Trigger] Manifest Rune on [Hit|Hitting] with an [Attack]",
         "reminder_text": null,
         "is_markup": null
       }

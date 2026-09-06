@@ -233,6 +233,12 @@
     "name": "Map Fragments",
     "influence_tags": null
   },
+  "AtlasCurrency": {
+    "category": "Map Fragment",
+    "category_id": "MapFragment",
+    "name": "Map Fragments",
+    "influence_tags": null
+  },
   "HideoutDoodad": {
     "category": null,
     "category_id": null,

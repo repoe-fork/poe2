@@ -401,6 +401,62 @@
         "index_handlers": [
           []
         ],
+        "string": "{0}% increased chance for [ContainsAbyss|Abyssal] monsters in Map to have Lichborn Modifiers",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": -1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          [
+            "negate"
+          ]
+        ],
+        "string": "{0}% reduced chance for [ContainsAbyss|Abyssal] monsters in Map to have Lichborn Modifiers",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_abyss_monster_lichborn_modifier_chance_+%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
         "string": "[ContainsAbyss|Abyssal] Monsters have {0}% increased [MonsterEffectiveness|Effectiveness] for each closed Pit, up to 100%",
         "reminder_text": null,
         "is_markup": null
@@ -421,7 +477,7 @@
             "negate"
           ]
         ],
-        "string": "[ContainsAbyss|Abyssal] Monsters have {0}% increased [MonsterEffectiveness|Effectiveness] for each closed Pit",
+        "string": "[ContainsAbyss|Abyssal] Monsters have {0}% reduced [MonsterEffectiveness|Effectiveness] for each closed Pit",
         "reminder_text": null,
         "is_markup": null
       }
@@ -2498,6 +2554,42 @@
         "index_handlers": [
           []
         ],
+        "string": "{0}% increased [ContainsExpedition|Expedition] Explosive Area of Effect in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_explosion_area_of_effect_+%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
         "string": "{0}% increased [ContainsExpedition|Expedition] Explosive Radius in Map",
         "reminder_text": null,
         "is_markup": null
@@ -2505,6 +2597,60 @@
     ],
     "ids": [
       "map_expedition_explosion_radius_+%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": 1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "The first unearthed [Runic|Runic Monster] will be a [Rarity|Rare] Monster in Map",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": 2,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "The first {0} unearthed [Runic|Runic Monsters] will be [Rarity|Rare] Monsters in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_first_X_unearthed_runic_monsters_are_rare"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -2559,6 +2705,258 @@
     ],
     "ids": [
       "map_expedition_maximum_placement_distance_+%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": 1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain 1 buried [Strongbox] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": 2,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain {0} buried [Strongbox|Strongboxes] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_num_buried_strongboxes_+"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": 1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain 1 Additional Boss encased in ice in Map",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": 2,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain {0} Additional Bosses encased in ice in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_num_frozen_bosses_+"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": 1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain 1 Additional [ExpeditionSentinel|Verisium Sentry] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": 2,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain {0} Additional [ExpeditionSentinel|Verisium Sentries] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_num_sentinels_+"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": 1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain 1 [ExpeditionVaalRelic|Vaal Relic] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": 2,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] contain {0} [ExpeditionVaalRelic|Vaal Relics] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_num_vaal_relics_+"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "{0}% increased [ContainsExpedition|Expedition] [MonsterRarity|Monster Rarity] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_number_of_magic_and_rare_packs_+%_and_rare_monster_modifiers_chance_%"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -2739,6 +3137,78 @@
       {
         "condition": [
           {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition2|Verisium Remnants] have +{0}% chance to add an additional Runic [MonsterModifiers|Modifier] in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_remnants_pass_2_runic_modifiers_chance_%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] have +{0}% [SurpassChance|Surpassing] chance to contain an additional [ContainsExpedition2|Verisium Remnant]",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_remnants_surpassing_chance_%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
             "min": 1,
             "max": null,
             "negated": null
@@ -2757,6 +3227,42 @@
     ],
     "ids": [
       "map_expedition_twinned_elites"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[ContainsExpedition|Expeditions] have +{0}% [SurpassChance|Surpassing] chance to Duplicate [Runic] Monsters in Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_expedition_twinned_elites_surpassing_chance_%"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -3145,6 +3651,42 @@
         "index_handlers": [
           []
         ],
+        "string": "{0}% chance to add a [ContainsIncursion|Vaal Beacon] [Rarity|Unique] Monster to the Map",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_incursion_vaal_beacon_boss_added_to_area_chance_%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
         "string": "{0}% increased chance [ContainsIncursion|Vaal Beacon] Chests are [Rarity|Rare] in Map",
         "reminder_text": null,
         "is_markup": null
@@ -3314,42 +3856,6 @@
     ],
     "ids": [
       "map_incursion_vaal_beacon_secondary_encounter_chance_+%"
-    ],
-    "trade_stats": null,
-    "hidden": null,
-    "French": null,
-    "German": null,
-    "Japanese": null,
-    "Korean": null,
-    "Portuguese": null,
-    "Russian": null,
-    "Spanish": null,
-    "Thai": null,
-    "Traditional Chinese": null
-  },
-  {
-    "English": [
-      {
-        "condition": [
-          {
-            "min": null,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "{0}% chance to add a [ContainsIncursion|Vaal Beacon] [Rarity|Unique] Monster to the Map",
-        "reminder_text": null,
-        "is_markup": null
-      }
-    ],
-    "ids": [
-      "map_incursion_vaal_beacons_also_add_boss_to_area_chance_%_scaled"
     ],
     "trade_stats": null,
     "hidden": null,

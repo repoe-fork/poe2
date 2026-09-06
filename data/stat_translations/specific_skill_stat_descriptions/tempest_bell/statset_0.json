@@ -73,7 +73,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Bell is destroyed after {0} [HitDamage|Hits]",
+        "string": "Bell is destroyed after {0} [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -91,7 +91,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Bell is destroyed after {0} [HitDamage|Hits]",
+        "string": "Bell is destroyed after {0} [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -201,7 +201,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Bell maximum [HitDamage|Hits]@{0}",
+        "string": "Bell maximum [Hit|Hits]@{0}",
         "reminder_text": null,
         "is_markup": null
       }

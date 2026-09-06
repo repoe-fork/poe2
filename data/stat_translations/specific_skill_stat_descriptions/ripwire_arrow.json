@@ -111,7 +111,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Modifiers to number of [Projectile|Projectiles] fired instead apply\nto number of [HitDamage|Hits] per salvo",
+        "string": "Modifiers to number of [Projectile|Projectiles] fired instead apply\nto number of [Hit|Hits] per salvo",
         "reminder_text": null,
         "is_markup": null
       },
@@ -129,7 +129,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] {0} times per salvo\nModifiers to number of [Projectile|Projectiles] fired instead apply\nto number of [HitDamage|Hits] per salvo",
+        "string": "[Hit|Hits] {0} times per salvo\nModifiers to number of [Projectile|Projectiles] fired instead apply\nto number of [Hit|Hits] per salvo",
         "reminder_text": null,
         "is_markup": null
       }

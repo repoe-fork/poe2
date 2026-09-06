@@ -1375,10 +1375,12 @@
     },
     {
       "file": "Metadata/Terrain/Maps/SevenWaters/Rooms/Fills/Fill_Mission_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
@@ -1498,10 +1500,12 @@
     },
     {
       "file": "Metadata/Terrain/Maps/SevenWaters/Rooms/Border/border_cv_mission_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
@@ -1668,10 +1672,12 @@
     },
     {
       "file": "Metadata/Terrain/Maps/SevenWaters/Rooms/Riverbed/riverbed_cr_mission_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },

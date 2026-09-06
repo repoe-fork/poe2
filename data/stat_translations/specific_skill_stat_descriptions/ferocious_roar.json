@@ -187,7 +187,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Empowered] [Attack|Attacks] [ArmourBreak|Break] {0} [Armour] on [HitDamage|Hit]",
+        "string": "[Empowered] [Attack|Attacks] [ArmourBreak|Break] {0} [Armour] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

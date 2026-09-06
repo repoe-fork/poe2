@@ -757,7 +757,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Mire/Rooms/mission_4_1.arm",
-      "prefix": null,
+      "prefix": [
+        "20"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": "mission",
@@ -766,7 +768,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Mire/Rooms/mission_4_2.arm",
-      "prefix": null,
+      "prefix": [
+        "20"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": "mission",
@@ -775,7 +779,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Mire/Rooms/mission_4_3.arm",
-      "prefix": null,
+      "prefix": [
+        "20"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": "mission",
@@ -784,7 +790,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Mire/Rooms/mission_5_1.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": "mission",
@@ -793,10 +801,23 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Mire/Rooms/mission_6_1.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Mire/Rooms/mission_8_1.arm",
+      "prefix": [
+        "//1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },

@@ -2015,19 +2015,23 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Necropolis/Rooms/Unique/mission_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/Necropolis/Rooms/Unique/mission_02.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },

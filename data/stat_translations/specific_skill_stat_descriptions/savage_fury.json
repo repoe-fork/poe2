@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Gain {0} additional Fury on [Attack] [HitDamage|Hit]",
+        "string": "Gain {0} additional Fury on [Attack] [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -33,7 +33,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Gain 1 Fury on [Attack] [HitDamage|Hit], no\nmore than once per Skill use",
+        "string": "Gain 1 Fury on [Attack] [Hit], no\nmore than once per Skill use",
         "reminder_text": null,
         "is_markup": null
       }

@@ -1610,7 +1610,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased chance to avoid [Honour] loss from Enemy [Melee] Hits",
+        "string": "{0}% increased chance to avoid [Honour] loss from Enemy [Melee] [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -1630,7 +1630,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% decreased chance to avoid [Honour] loss from Enemy [Melee] Hits",
+        "string": "{0}% reduced chance to avoid [Honour] loss from Enemy [Melee] [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -1729,7 +1729,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to Avoid Resolve loss from Enemy Hits if you've been Hit [Recently]",
+        "string": "{0}% chance to Avoid [Honour] loss from Enemy Hits if you've been Hit [Recently]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -1749,7 +1749,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% chance to Avoid Resolve loss from Enemy Hits if you've been Hit [Recently]",
+        "string": "{0}% chance to Avoid [Honour] loss from Enemy Hits if you've been Hit [Recently]",
         "reminder_text": null,
         "is_markup": null
       }

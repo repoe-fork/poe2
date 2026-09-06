@@ -945,7 +945,7 @@
       "strings": [
         "default"
       ],
-      "transform": "(best)",
+      "transform": "I",
       "unknown": [
         100,
         0,
@@ -960,7 +960,7 @@
         0
       ],
       "x": 12,
-      "y": 35
+      "y": 12
     },
     {
       "numbers": [

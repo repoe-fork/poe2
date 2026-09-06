@@ -1191,7 +1191,7 @@
       "ward": null,
       "movement_speed": null,
       "block": null,
-      "description": "While this item is active in your inventory the next\nPossessed monster you kill will release its [AzmeriSpirit|Azmeri Spirit]",
+      "description": "While this item is active in your inventory the next\n[SpiritPossessed|Possessed] monster you kill will [ReleaseAzmeriSpirits|Release] and manifest all [AzmeriSpirit|Azmeri Spirits]",
       "directions": "Right click this item in your inventory to set it to be active. This item is consumed when triggered. Only one Omen can be triggered from combat in each instance.",
       "stack_size": 10,
       "stack_size_currency_tab": 5000,

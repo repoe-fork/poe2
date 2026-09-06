@@ -51,7 +51,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] up to 8 enemies",
+        "string": "[Hit|Hits] up to 8 enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -87,7 +87,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Additional [HitDamage|Hits] deal {0}% more damage",
+        "string": "Additional [Hit|Hits] deal {0}% more damage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -107,7 +107,7 @@
             "negate"
           ]
         ],
-        "string": "Less damage dealt with additional [HitDamage|Hits]@{0}%",
+        "string": "Less damage dealt with additional [Hit|Hits]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -127,7 +127,7 @@
             "negate"
           ]
         ],
-        "string": "Additional [HitDamage|Hits] deal {0}% less damage\nAdditional [HitDamage|Hits] convert 100% of [Physical] and\n[ElementalDamage|Elemental] damage to [Lightning]",
+        "string": "Additional [Hit|Hits] deal {0}% less damage\nAdditional [Hit|Hits] convert 100% of [Physical] and\n[ElementalDamage|Elemental] damage to [Lightning]",
         "reminder_text": null,
         "is_markup": null
       }

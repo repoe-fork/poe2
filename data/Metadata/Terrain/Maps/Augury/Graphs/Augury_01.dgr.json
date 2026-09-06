@@ -32,9 +32,9 @@
         0,
         0,
         "Metadata/Terrain/Dungeon/rooms.et",
-        0,
         100,
-        1,
+        100,
+        0,
         "",
         50,
         "",
@@ -56,9 +56,9 @@
         0,
         0,
         "Metadata/Terrain/Dungeon/rooms.et",
-        0,
         100,
-        1,
+        100,
+        0,
         "",
         50,
         "",
@@ -80,9 +80,9 @@
         0,
         0,
         "Metadata/Terrain/Dungeon/rooms.et",
-        0,
         100,
-        1,
+        100,
+        0,
         "",
         50,
         "",
@@ -104,9 +104,9 @@
         0,
         0,
         "Metadata/Terrain/Dungeon/rooms.et",
-        0,
         100,
-        1,
+        100,
+        0,
         "",
         50,
         "",
@@ -602,26 +602,6 @@
       "tile_parent": null
     },
     {
-      "file": "SnakepitRootGround",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_blank_fill.tdt",
-      "prefix": [
-        "50"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_blank_fill.tgt",
-      "tile_parent": null
-    },
-    {
       "file": "BlackInsideWall",
       "prefix": null,
       "suffix": null,
@@ -658,7 +638,7 @@
     "RoomOverlap": null,
     "OuterBufferSize": null,
     "EdgePoints": null,
-    "Decals": "decals.dct",
+    "Decals": null,
     "Overlays": "overlays.toy",
     "RestrictedGTs": null,
     "EnvironmentPreload": null,
@@ -1289,15 +1269,6 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_01.arm",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": "mission",
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
       "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/void.arm",
       "prefix": null,
       "suffix": null,
@@ -1307,9 +1278,106 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Cc_01.arm",
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Large_Connection_01.arm",
       "prefix": [
-        "10"
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Large_Connection_02.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Large_Corner_01.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Large_Corner_02.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Large_Side_01.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Large_Side_02.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Mid_Corner_01.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Unique/Mission_Mid_Side_01.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "mission",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Open_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Connection_01.arm",
+      "prefix": [
+        "30"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -1318,9 +1386,9 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_end_01.arm",
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Connection_02.arm",
       "prefix": [
-        "10"
+        "30"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -1329,9 +1397,9 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_end_02.arm",
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Corner_01.arm",
       "prefix": [
-        "10"
+        "30"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -1340,9 +1408,9 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_end_03.arm",
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Corner_02.arm",
       "prefix": [
-        "10"
+        "30"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -1351,9 +1419,42 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Office_01.arm",
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Corner_03.arm",
       "prefix": [
-        "10"
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Side_01.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Side_02.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Large_Side_03.arm",
+      "prefix": [
+        "30"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -1363,106 +1464,82 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Open_01.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Quad_01.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Quad_02.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Quad_03.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Quad_04.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_St_01.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_St_02.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_St_03.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Tri_01.arm",
-      "prefix": [
-        "10"
-      ],
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": null,
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_cnr_01.arm",
       "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Connection_01.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Corner_01.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Corner_02.arm",
+      "prefix": [
+        "30"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Mid_Side_01.arm",
+      "prefix": [
+        "50"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Long_Open_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Long_Side_01.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Long_Side_02.arm",
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -1479,8 +1556,10 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_Open_02.arm",
-      "prefix": null,
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_Side_01.arm",
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -1488,8 +1567,54 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_St_01.arm",
-      "prefix": null,
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_Side_02.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_Corner_01.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_Corner_02.arm",
+      "prefix": [
+        "5"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_End_01.arm",
+      "prefix": [
+        "10"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Augury/Rooms/Small_End_02.arm",
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -1531,7 +1656,7 @@
       "file": "Metadata/Terrain/Jungle/SnakePit/MapAugury/dungeon_entrance_thin_v01_01_boss.tdt",
       "prefix": null,
       "suffix": null,
-      "tile_tag": "door_boss",
+      "tile_tag": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_entrance_thin_v03_01.tgt",
       "room_tag": null,
       "tile_tgt": null,
       "tile_parent": {
@@ -1545,14 +1670,19 @@
       "file": "Metadata/Terrain/Jungle/SnakePit/MapAugury/dungeon_entrance_thin_v01_01_open.tdt",
       "prefix": null,
       "suffix": null,
-      "tile_tag": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_entrance_thin_v01_01.tdt",
+      "tile_tag": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_entrance_thin_v03_01.tgt",
       "room_tag": null,
       "tile_tgt": null,
       "tile_parent": {
-        "file": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_entrance_thin_v01_01.tdt",
-        "tile_parent": null,
-        "tile_tag": "door",
-        "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_entrance_thin_v01_01.tgt"
+        "file": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_entrance_thin_v03_01.tdt",
+        "tile_parent": {
+          "file": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_entrance_thin_v01_01.tdt",
+          "tile_parent": null,
+          "tile_tag": "door",
+          "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_entrance_thin_v01_01.tgt"
+        },
+        "tile_tag": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_entrance_thin_v03_01.tgt",
+        "tile_tgt": null
       }
     },
     {
@@ -1610,30 +1740,12 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Jungle/SnakePit/vaal_to_roots_X_v01_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": null,
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaal_to_roots_X_v01_02.tgt",
-      "tile_parent": null
-    },
-    {
       "file": "Metadata/Terrain/Jungle/SnakePit/vaalroots_concave_v02_02.tdt",
       "prefix": null,
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
       "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalroots_concave_v02_02.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/vaalroots_concave_v02_03.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "torch",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalroots_concave_v02_03.tgt",
       "tile_parent": null
     },
     {
@@ -1790,24 +1902,6 @@
       "tile_parent": null
     },
     {
-      "file": "Metadata/Terrain/Jungle/SnakePit/ForcedBlank_02.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "blank",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalrootsForcedBlank_02.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/ForcedBlank_03.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "blank",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalrootsForcedBlank_03.tgt",
-      "tile_parent": null
-    },
-    {
       "file": "Metadata/Terrain/Jungle/SnakePit/ForcedBlank_04.tdt",
       "prefix": null,
       "suffix": null,
@@ -1823,114 +1917,6 @@
       "tile_tag": "forcedblank",
       "room_tag": null,
       "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalrootsForcedBlank_05.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/VaalRoots_St_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/VaalCombinations/VaalRoots_St_01.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/VaalRoots_St_02.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/VaalCombinations/VaalRoots_St_02.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/VaalRoots_St_03.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/VaalCombinations/VaalRoots_St_03.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/VaalRoots_St_04.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwallpillar",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/VaalCombinations/VaalRoots_St_04.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaal_to_roots_convex_thin_v01_02.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaal_to_roots_convex_thin_v01_02.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaal_to_roots_convex_thin_v02_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaal_to_roots_convex_thin_v02_01.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaal_to_roots_straight_thin_v01_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaal_to_roots_straight_thin_v01_01.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaal_to_roots_straight_thin_v01_02.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaal_to_roots_straight_thin_v01_02.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaalroots_concave_v02_02.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalroots_concave_v02_02.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaalroots_concave_v02_03.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalroots_concave_v02_03.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaalroots_convex_v01_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaalroots_convex_v01_01.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Jungle/SnakePit/CombinationTiles/vaal_to_roots_convex_thin_v01_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "rootwall",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/SnakePit/vaal_to_roots_convex_thin_v01_01.tgt",
       "tile_parent": null
     },
     {
@@ -1958,15 +1944,6 @@
       "tile_tag": "column",
       "room_tag": null,
       "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_column_v01_01.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_column_v03_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "pillar_xl",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_column_v03_01.tgt",
       "tile_parent": null
     },
     {
@@ -2021,15 +1998,6 @@
       "tile_tag": "ruin",
       "room_tag": null,
       "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v01_04.tgt",
-      "tile_parent": null
-    },
-    {
-      "file": "Metadata/Terrain/Dungeon/NextFeatures/dungeon_ruin_v02_01.tdt",
-      "prefix": null,
-      "suffix": null,
-      "tile_tag": "smallruinedpillar",
-      "room_tag": null,
-      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/Observatorium/dungeon_ruin_v02_01.tgt",
       "tile_parent": null
     },
     {
@@ -2134,7 +2102,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_thick_to_thin_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2145,7 +2113,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_thick_to_thin_v01_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2156,7 +2124,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_corner_concave_v02_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2167,7 +2135,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_corner_convex_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2178,7 +2146,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_corner_convex_v02_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2189,7 +2157,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_straight_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2200,7 +2168,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_straight_v01_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2211,7 +2179,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_straight_v01_03.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2222,7 +2190,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_straight_v02_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2233,7 +2201,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_straight_v02_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2244,7 +2212,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_straight_v03_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2255,7 +2223,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_straight_v04_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2266,7 +2234,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thick_X_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2277,7 +2245,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_corner_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2288,7 +2256,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_corner_v02_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2299,7 +2267,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_end_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2310,7 +2278,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_end_v01_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2321,7 +2289,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_pillar_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2332,7 +2300,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_pillar_v02_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2343,7 +2311,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_pillar_v03_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2354,7 +2322,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_pillar_v04_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2365,7 +2333,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_thick_T_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2376,7 +2344,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_thick_X_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2387,7 +2355,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_T_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2398,7 +2366,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_T_v01_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2409,7 +2377,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2420,7 +2388,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_v01_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2431,7 +2399,7 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_X_v01_01.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -2442,12 +2410,309 @@
     {
       "file": "Metadata/Terrain/Dungeon/NextWalls/dungeon_wall_thin_X_v01_02.tdt",
       "prefix": [
-        "10"
+        "3"
       ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
       "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_X_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_corner_convex_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_corner_convex_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_corner_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_corner_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "busted",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_04.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_04.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_05.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_05.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_06.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_06.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_07.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_07.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_08.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_08.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_09.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_09.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_010.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_010.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floor_height_v01_011.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forced_rightangle",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_v01_010.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_floorwall_thin_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floorwall_thin_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_stairs_fill_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_fill_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_stairs_fill_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_fill_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_stairs_fill_v01_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_fill_v01_03.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_wall_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_wall_thin_height_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_height_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_wall_thin_height_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_height_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextLedge/dungeon_wall_thin_height_v02_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_thin_height_v02_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_floor_height_concave_stairs_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_concave_stairs_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_floor_height_convex_stairs_v01_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_floor_height_convex_stairs_v01_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_half_stairs_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_half_stairs_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_concave_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_concave_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_convex_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_convex_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "stairs",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_straight_v02_02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_straight_v02_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_straight_v03_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_straight_v03_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_straight_v04_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_straight_v04_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_thin_straight_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_thin_straight_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_stairs_to_ledge_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_stairs_to_ledge_v01_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/NextStairs/dungeon_wall_straight_stairs_v01_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/VaalInterior/dungeon_wall_straight_stairs_v01_01.tgt",
       "tile_parent": null
     }
   ],

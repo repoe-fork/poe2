@@ -1595,7 +1595,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Blind] Enemies on [HitDamage|Hit]",
+        "string": "{0}% chance to [Blind] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -1613,7 +1613,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Blind] Enemies on [HitDamage|Hit]",
+        "string": "[Blind] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -2197,7 +2197,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Adaptation|Adapt] to the highest [ElementalDamage|Elemental Damage Type] of each [HitDamage|Hit] you take",
+        "string": "[Adaptation|Adapt] to the highest [ElementalDamage|Elemental Damage Type] of each [Hit] you take",
         "reminder_text": null,
         "is_markup": null
       },
@@ -2215,7 +2215,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Adaptation|Adapt] {0} times to the highest [ElementalDamage|Elemental Damage Type] of each [HitDamage|Hit] you take",
+        "string": "[Adaptation|Adapt] {0} times to the highest [ElementalDamage|Elemental Damage Type] of each [Hit] you take",
         "reminder_text": null,
         "is_markup": null
       }
@@ -2251,7 +2251,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% Chance to build an additional [Combo] on [HitDamage|Hit]",
+        "string": "{0}% Chance to build an additional [Combo] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -2269,7 +2269,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Build an additional [Combo] on [HitDamage|Hit]",
+        "string": "Build an additional [Combo] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3143,7 +3143,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "On [HitDamage|Hitting] an Enemy while a Life [Flask] is at full Charges, {0}% of its Charges are consumed\n[Gain] {1}% of damage as [Physical] damage for {2} second per Charge consumed this way",
+        "string": "On [Hit|Hitting] an Enemy while a Life [Flask] is at full Charges, {0}% of its Charges are consumed\n[Gain] {1}% of damage as [Physical] damage for {2} second per Charge consumed this way",
         "reminder_text": null,
         "is_markup": null
       },
@@ -3177,7 +3177,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "On [HitDamage|Hitting] an Enemy while a Life [Flask] is at full Charges, {0}% of its Charges are consumed\n[Gain] {1}% of damage as [Physical] damage for {2} seconds per Charge consumed this way",
+        "string": "On [Hit|Hitting] an Enemy while a Life [Flask] is at full Charges, {0}% of its Charges are consumed\n[Gain] {1}% of damage as [Physical] damage for {2} seconds per Charge consumed this way",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3251,7 +3251,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Gain [Combo] from all [Attack] [HitDamage|Hits]",
+        "string": "Gain [Combo] from all [Attack] [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3395,7 +3395,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance for Damage with [HitDamage|Hits] to be [Lucky]",
+        "string": "{0}% chance for Damage with [Hit|Hits] to be [Lucky]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3713,7 +3713,7 @@
         "index_handlers": [
           []
         ],
-        "string": "4 seconds after being Damaged by an Enemy [HitDamage|Hit], take Damage equal to {0}% of that [HitDamage|Hit]'s Damage",
+        "string": "4 seconds after being Damaged by an Enemy [Hit], take Damage equal to {0}% of that [Hit]'s Damage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3821,7 +3821,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Your [HitDamage|Hits] are [CrushingBlow|Crushing Blows]",
+        "string": "Your [Hit|Hits] are [CrushingBlow|Crushing Blows]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3929,7 +3929,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Damage of Enemies [HitDamage|Hitting] you is [Unlucky]",
+        "string": "Damage of Enemies [Hit|Hitting] you is [Unlucky]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3965,7 +3965,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Daze] Enemies whose [HitDamage|Hits] you [Block] with a raised [Shield]",
+        "string": "{0}% chance to [Daze] Enemies whose [Hit|Hits] you [Block] with a raised [Shield]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -4603,7 +4603,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hit] damage is taken from Mana before Life if your current Mana is higher than your current Life",
+        "string": "[Hit] damage is taken from Mana before Life if your current Mana is higher than your current Life",
         "reminder_text": null,
         "is_markup": null
       }
@@ -4819,7 +4819,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Dodge Roll cannot Avoid Damage\nTake 30% less [HitDamage|Damage from Hits] while Dodge Rolling",
+        "string": "Dodge Roll cannot Avoid Damage\nTake 30% less [Hit|Damage from Hits] while Dodge Rolling",
         "reminder_text": null,
         "is_markup": null
       }
@@ -5557,7 +5557,7 @@
           [],
           []
         ],
-        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [HitDamage|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% more cost\n•Green: {2}% more Movement Speed Penalty from using Skills while Moving",
+        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [Hit|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% more cost\n•Green: {2}% more Movement Speed Penalty from using Skills while Moving",
         "reminder_text": null,
         "is_markup": null
       },
@@ -5591,7 +5591,7 @@
           ],
           []
         ],
-        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [HitDamage|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% less cost\n•Green: {2}% more Movement Speed Penalty from using Skills while Moving",
+        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [Hit|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% less cost\n•Green: {2}% more Movement Speed Penalty from using Skills while Moving",
         "reminder_text": null,
         "is_markup": null
       },
@@ -5627,7 +5627,7 @@
             "negate"
           ]
         ],
-        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [HitDamage|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% less cost\n•Green: {2}% less Movement Speed Penalty from using Skills while Moving",
+        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [Hit|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% less cost\n•Green: {2}% less Movement Speed Penalty from using Skills while Moving",
         "reminder_text": null,
         "is_markup": null
       },
@@ -5661,7 +5661,7 @@
             "negate"
           ]
         ],
-        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [HitDamage|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% more cost\n•Green: {2}% less Movement Speed Penalty from using Skills while Moving",
+        "string": "For each colour of Socketed Support Gem that is most numerous, gain:\n•Red: [Hit|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus]\n•Blue: Skills have {1}% more cost\n•Green: {2}% less Movement Speed Penalty from using Skills while Moving",
         "reminder_text": null,
         "is_markup": null
       }
@@ -6031,7 +6031,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Physical] [Spell] [Critical] [HitDamage|Hits] build [Pinned|Pin]",
+        "string": "[Physical] [Spell] [Critical] [Hit|Hits] build [Pinned|Pin]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -6999,7 +6999,7 @@
         "index_handlers": [
           []
         ],
-        "string": "When taking damage from [HitDamage|Hits], 20% of Life Loss is prevented, then 150% of Life Loss prevented this way is Lost over 4 seconds",
+        "string": "When taking damage from [Hit|Hits], 20% of Life Loss is prevented, then 150% of Life Loss prevented this way is Lost over 4 seconds",
         "reminder_text": null,
         "is_markup": null
       }

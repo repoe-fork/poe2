@@ -76,7 +76,7 @@
           [],
           []
         ],
-        "string": "You deal {0}% more [HitDamage|Hit] damage to [Rarity|Rare] and [Rarity|Unique] enemies for every 2 seconds they have ever been in your [Presence], up to {1}%",
+        "string": "You deal {0}% more [Hit] damage to [Rarity|Rare] and [Rarity|Unique] enemies for every 2 seconds they have ever been in your [Presence], up to {1}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -101,7 +101,7 @@
           [],
           []
         ],
-        "string": "[HitDamage|Hit] damage for every 2 seconds in [Presence] (max)@{0}% ({1}%)",
+        "string": "[Hit] damage for every 2 seconds in [Presence] (max)@{0}% ({1}%)",
         "reminder_text": null,
         "is_markup": null
       },
@@ -126,7 +126,7 @@
           [],
           []
         ],
-        "string": "You deal {0}% more [HitDamage|Hit] damage to [Rarity|Rare] and [Rarity|Unique] enemies for every 2 seconds they have ever been in your [Presence], up to {1}%",
+        "string": "You deal {0}% more [Hit] damage to [Rarity|Rare] and [Rarity|Unique] enemies for every 2 seconds they have ever been in your [Presence], up to {1}%",
         "reminder_text": null,
         "is_markup": null
       }

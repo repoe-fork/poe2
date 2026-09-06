@@ -105,7 +105,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] against targets with attached Rods gain {0}% of Damage as extra [Lightning|Lightning Damage]",
+        "string": "[Hit|Hits] against targets with attached Rods gain {0}% of Damage as extra [Lightning|Lightning Damage]",
         "reminder_text": null,
         "is_markup": null
       }

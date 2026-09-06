@@ -189,7 +189,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Damage taken from [HitDamage|Hits] while you have Runic Plates@{0}% more",
+        "string": "Damage taken from [Hit|Hits] while you have Runic Plates@{0}% more",
         "reminder_text": null,
         "is_markup": null
       },
@@ -209,7 +209,7 @@
             "negate"
           ]
         ],
-        "string": "Damage taken from [HitDamage|Hits] while you have Runic Plates@{0}% less",
+        "string": "Damage taken from [Hit|Hits] while you have Runic Plates@{0}% less",
         "reminder_text": null,
         "is_markup": null
       },
@@ -227,7 +227,7 @@
         "index_handlers": [
           []
         ],
-        "string": "You take {0}% more Damage from [HitDamage|Hits] while you have Runic Plates",
+        "string": "You take {0}% more Damage from [Hit|Hits] while you have Runic Plates",
         "reminder_text": null,
         "is_markup": null
       },
@@ -247,7 +247,7 @@
             "negate"
           ]
         ],
-        "string": "You take {0}% less Damage from [HitDamage|Hits] while you have Runic Plates",
+        "string": "You take {0}% less Damage from [Hit|Hits] while you have Runic Plates",
         "reminder_text": null,
         "is_markup": null
       }

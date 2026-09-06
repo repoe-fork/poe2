@@ -2657,7 +2657,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Kill enemies that have 10% Life or lower when [HitDamage|Hit] by Supported Skills",
+        "string": "Kill enemies that have 10% Life or lower when [Hit] by Supported Skills",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3619,7 +3619,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to [Blind] Enemies on [HitDamage|Hit]",
+        "string": "Supported Skills have {0}% chance to [Blind] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -3637,7 +3637,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Blind] Enemies on [HitDamage|Hit]",
+        "string": "Supported Skills [Blind] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -4369,7 +4369,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -4389,7 +4389,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -4600,7 +4600,7 @@
           [],
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits] for each [Poison] on the Enemy, up to {1}%",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits] for each [Poison] on the Enemy, up to {1}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -4627,7 +4627,7 @@
           ],
           []
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits] for each [Poison] on the Enemy, up to {1}%",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits] for each [Poison] on the Enemy, up to {1}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -4944,7 +4944,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported [Spell|Spells] deal {0}% more [HitDamage|Hit] Damage",
+        "string": "Supported [Spell|Spells] deal {0}% more [Hit] Damage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -4964,7 +4964,7 @@
             "negate"
           ]
         ],
-        "string": "Supported [Spell|Spells] deal {0}% less [HitDamage|Hit] Damage",
+        "string": "Supported [Spell|Spells] deal {0}% less [Hit] Damage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -7710,7 +7710,7 @@
             "milliseconds_to_seconds"
           ]
         ],
-        "string": "Causes [Bleeding|Bleeding] on [HitDamage|Hit] for {0} seconds",
+        "string": "Causes [Bleeding|Bleeding] on [Hit] for {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -8214,7 +8214,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Poison] Enemies on [HitDamage|Hit]",
+        "string": "Supported Skills [Poison] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -8250,7 +8250,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to [Poison|Poison] on [HitDamage|Hit]",
+        "string": "Supported Skills have {0}% chance to [Poison|Poison] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -8268,7 +8268,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills always [Poison|Poison] on [HitDamage|Hit]",
+        "string": "Supported Skills always [Poison|Poison] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -8304,7 +8304,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to inflict [Withered|Withered] on [HitDamage|Hit]",
+        "string": "Supported Skills have {0}% chance to inflict [Withered|Withered] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -8322,7 +8322,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills always inflict [Withered|Withered] on [HitDamage|Hit]",
+        "string": "Supported Skills always inflict [Withered|Withered] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -8976,7 +8976,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Ignite] on Enemies they [HitDamage|Hit], creating a Flame Pillar",
+        "string": "Supported Skills [Consume] [Ignite] on Enemies they [Hit], creating a Flame Pillar",
         "reminder_text": null,
         "is_markup": null
       },
@@ -8994,7 +8994,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Ignite] on Enemies they [HitDamage|Hit], creating {0} Flame Pillars",
+        "string": "Supported Skills [Consume] [Ignite] on Enemies they [Hit], creating {0} Flame Pillars",
         "reminder_text": null,
         "is_markup": null
       }
@@ -10852,7 +10852,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Chaos] Damage from [HitDamage|Hits] with Supported Skills also [Contributes|Contributes] to [Shock] Chance",
+        "string": "[Chaos] Damage from [Hit|Hits] with Supported Skills also [Contributes|Contributes] to [Shock] Chance",
         "reminder_text": null,
         "is_markup": null
       }
@@ -11128,7 +11128,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Supported Skills [Crushed|Crush] targets they [HitDamage|Hit] for {0} seconds",
+        "string": "Supported Skills [Crushed|Crush] targets they [Hit] for {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -11164,7 +11164,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] against targets [Crushed|Crushed] by Supported Skills [ArmourBreak|Break Armour] equal to {0}% of [Physical] damage dealt",
+        "string": "[Hit|Hits] against targets [Crushed|Crushed] by Supported Skills [ArmourBreak|Break Armour] equal to {0}% of [Physical] damage dealt",
         "reminder_text": null,
         "is_markup": null
       }
@@ -11335,168 +11335,6 @@
       {
         "condition": [
           {
-            "min": null,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "Gains {0}% of Damage as Extra Chaos Damage",
-        "reminder_text": null,
-        "is_markup": null
-      },
-      {
-        "condition": [
-          {
-            "min": null,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "Gains {0}% of Damage as Extra Chaos Damage",
-        "reminder_text": null,
-        "is_markup": null
-      }
-    ],
-    "ids": [
-      "active_skill_base_all_damage_%_to_gain_as_chaos"
-    ],
-    "trade_stats": null,
-    "hidden": null,
-    "French": null,
-    "German": null,
-    "Japanese": null,
-    "Korean": null,
-    "Portuguese": null,
-    "Russian": null,
-    "Spanish": null,
-    "Thai": null,
-    "Traditional Chinese": null
-  },
-  {
-    "English": [
-      {
-        "condition": [
-          {
-            "min": null,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "Gain {0}% damage as Extra Fire Damage",
-        "reminder_text": null,
-        "is_markup": null
-      },
-      {
-        "condition": [
-          {
-            "min": 1,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "Gain {0}% damage as Extra Fire Damage",
-        "reminder_text": null,
-        "is_markup": null
-      }
-    ],
-    "ids": [
-      "active_skill_base_all_damage_%_to_gain_as_fire"
-    ],
-    "trade_stats": null,
-    "hidden": null,
-    "French": null,
-    "German": null,
-    "Japanese": null,
-    "Korean": null,
-    "Portuguese": null,
-    "Russian": null,
-    "Spanish": null,
-    "Thai": null,
-    "Traditional Chinese": null
-  },
-  {
-    "English": [
-      {
-        "condition": [
-          {
-            "min": null,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "Gain {0}% damage as Extra Lightning Damage",
-        "reminder_text": null,
-        "is_markup": null
-      },
-      {
-        "condition": [
-          {
-            "min": 1,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "Gain {0}% damage as Extra Lightning Damage",
-        "reminder_text": null,
-        "is_markup": null
-      }
-    ],
-    "ids": [
-      "active_skill_base_all_damage_%_to_gain_as_lightning"
-    ],
-    "trade_stats": null,
-    "hidden": null,
-    "French": null,
-    "German": null,
-    "Japanese": null,
-    "Korean": null,
-    "Portuguese": null,
-    "Russian": null,
-    "Spanish": null,
-    "Thai": null,
-    "Traditional Chinese": null
-  },
-  {
-    "English": [
-      {
-        "condition": [
-          {
             "min": 1,
             "max": null,
             "negated": null
@@ -11618,7 +11456,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Electrocute] [PrimedElectrocution|Primed] enemies on [HitDamage|Hit]",
+        "string": "Supported Skills [Electrocute] [PrimedElectrocution|Primed] enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -12238,7 +12076,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported [Strike] Skills have a {0}% chance to build an additional [Combo] on [HitDamage|Hit]",
+        "string": "Supported [Strike] Skills have a {0}% chance to build an additional [Combo] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -12256,7 +12094,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported [Strike] Skills build an additional [Combo] on [HitDamage|Hit]",
+        "string": "Supported [Strike] Skills build an additional [Combo] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -12830,7 +12668,7 @@
         "index_handlers": [
           []
         ],
-        "string": "If Supported Skills would [Gain|gain extra] [HitDamage|Damage] of any [DamageTypes|Type] other than [Cold], they [Gain|gain extra] [Cold|Cold Damage] instead",
+        "string": "If Supported Skills would [Gain|gain extra] [Hit|Damage] of any [DamageTypes|Type] other than [Cold], they [Gain|gain extra] [Cold|Cold Damage] instead",
         "reminder_text": null,
         "is_markup": null
       }
@@ -12868,7 +12706,7 @@
             "milliseconds_to_seconds"
           ]
         ],
-        "string": "Supported Skills apply [Exposure] on [HitDamage|Hit] for {0} second",
+        "string": "Supported Skills apply [Exposure] on [Hit] for {0} second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -12888,7 +12726,7 @@
             "milliseconds_to_seconds"
           ]
         ],
-        "string": "Supported Skills apply [Exposure] on [HitDamage|Hit] for {0} seconds",
+        "string": "Supported Skills apply [Exposure] on [Hit] for {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -13016,7 +12854,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] from Supported Skills always [Shock] [Drenched] targets",
+        "string": "[Hit|Hits] from Supported Skills always [Shock] [Drenched] targets",
         "reminder_text": null,
         "is_markup": null
       }
@@ -13164,7 +13002,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills cannot be used until you have [Block|Blocked] {0} [HitDamage|Hits]",
+        "string": "Supported Skills cannot be used until you have [Block|Blocked] {0} [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -13386,7 +13224,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] from Supported Skills inflict [Incision]",
+        "string": "[Hit|Hits] from Supported Skills inflict [Incision]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -13404,7 +13242,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] from Supported Skills inflict {0} [Incision]",
+        "string": "[Hit|Hits] from Supported Skills inflict {0} [Incision]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -13810,7 +13648,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [ArmourBreak|Break Armour] on [HitDamage|Hit] against [ParriedDebuff|Parried Enemies] equal to {0}% [Physical|Physical Damage] dealt",
+        "string": "Supported Skills [ArmourBreak|Break Armour] on [Hit] against [ParriedDebuff|Parried Enemies] equal to {0}% [Physical|Physical Damage] dealt",
         "reminder_text": null,
         "is_markup": null
       }
@@ -14130,7 +13968,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Attack] Damage with [HitDamage|Hits] with Supported Skills is [Lucky] while you are [Surrounded]",
+        "string": "[Attack] Damage with [Hit|Hits] with Supported Skills is [Lucky] while you are [Surrounded]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -14578,7 +14416,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to [Impale] Enemies on [HitDamage|Hit]",
+        "string": "Supported Skills have {0}% chance to [Impale] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -14596,7 +14434,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills always [Impale] Enemies on [HitDamage|Hit]",
+        "string": "Supported Skills always [Impale] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -15256,7 +15094,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Chaos] Damage from [HitDamage|Hits] with Supported Skills also [Contributes|Contributes] to [Flammability] and [Ignite] [BuffMagnitude|Magnitudes]",
+        "string": "[Chaos] Damage from [Hit|Hits] with Supported Skills also [Contributes|Contributes] to [Flammability] and [Ignite] [BuffMagnitude|Magnitudes]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -15350,7 +15188,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Freeze] on [HitDamage|Hit]",
+        "string": "Supported Skills [Consume] [Freeze] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -15386,7 +15224,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Shock] on [HitDamage|Hit]",
+        "string": "Supported Skills [Consume] [Shock] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -15958,7 +15796,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to inflict [Fire] [Exposure] on [HitDamage|Hit]",
+        "string": "Supported Skills have {0}% chance to inflict [Fire] [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -15976,7 +15814,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills Inflict [Fire] [Exposure] on [HitDamage|Hit]",
+        "string": "Supported Skills Inflict [Fire] [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -16012,7 +15850,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to inflict [Exposure] on [HitDamage|Hit]",
+        "string": "Supported Skills have {0}% chance to inflict [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -16030,7 +15868,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills Inflict [Exposure] on [HitDamage|Hit]",
+        "string": "Supported Skills Inflict [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -18720,7 +18558,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] cannot kill",
+        "string": "[Hit|Hits] cannot kill",
         "reminder_text": null,
         "is_markup": null
       },
@@ -18738,7 +18576,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills cannot kill Enemies with [HitDamage|Hits]",
+        "string": "Supported Skills cannot kill Enemies with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -20880,7 +20718,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Chaos] Damage from [HitDamage|Hits] with Supported Skills also [Contributes|Contributes] to [Freeze] Buildup",
+        "string": "[Chaos] Damage from [Hit|Hits] with Supported Skills also [Contributes|Contributes] to [Freeze] Buildup",
         "reminder_text": null,
         "is_markup": null
       }
@@ -21008,7 +20846,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] against Enemies in [ChilledGround|Chilled Ground] created by Supported Skills build up [Freeze] as though dealing {0}% less Damage",
+        "string": "[Hit|Hits] against Enemies in [ChilledGround|Chilled Ground] created by Supported Skills build up [Freeze] as though dealing {0}% less Damage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -21028,7 +20866,7 @@
             "negate"
           ]
         ],
-        "string": "[HitDamage|Hits] against Enemies in [ChilledGround|Chilled Ground] created by Supported Skills build up [Freeze] as though dealing {0}% more Damage",
+        "string": "[Hit|Hits] against Enemies in [ChilledGround|Chilled Ground] created by Supported Skills build up [Freeze] as though dealing {0}% more Damage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -21669,7 +21507,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Bleeding] on Enemies they [HitDamage|Hit], creating {0} Haemocrystal",
+        "string": "Supported Skills [Consume] [Bleeding] on Enemies they [Hit], creating {0} Haemocrystal",
         "reminder_text": null,
         "is_markup": null
       },
@@ -21687,7 +21525,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Bleeding] on Enemies they [HitDamage|Hit], creating {0} Haemocrystals",
+        "string": "Supported Skills [Consume] [Bleeding] on Enemies they [Hit], creating {0} Haemocrystals",
         "reminder_text": null,
         "is_markup": null
       }
@@ -21759,7 +21597,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Daze|Dazed] Enemies cannot [Evasion|Evade] [HitDamage|Hits] from Supported Skills\nSupported Skills [Consume] [Daze] on [HitDamage|Hit]",
+        "string": "[Daze|Dazed] Enemies cannot [Evasion|Evade] [Hit|Hits] from Supported Skills\nSupported Skills [Consume] [Daze] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -21903,7 +21741,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Ignite] on [HitDamage|Hit]",
+        "string": "Supported Skills [Consume] [Ignite] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -21939,7 +21777,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Maim] on [HitDamage|Hit] to [ArmourBreak|Break] {0}% of the [Maim|Maimed] target's [Armour]",
+        "string": "Supported Skills [Consume] [Maim] on [Hit] to [ArmourBreak|Break] {0}% of the [Maim|Maimed] target's [Armour]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -21957,7 +21795,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Maim] on [HitDamage|Hit] to [ArmourBreak|Fully Break] the [Maim|Maimed] target's [Armour]",
+        "string": "Supported Skills [Consume] [Maim] on [Hit] to [ArmourBreak|Fully Break] the [Maim|Maimed] target's [Armour]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -21993,7 +21831,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Parry|Parried] Debuff on [HitDamage|Hit] to grant a [Charges|Frenzy Charge]",
+        "string": "Supported Skills [Consume] [Parry|Parried] Debuff on [Hit] to grant a [Charges|Frenzy Charge]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -22011,7 +21849,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Consume] [Parry|Parried] Debuff on [HitDamage|Hit] to grant {0} [Charges|Frenzy Charges]",
+        "string": "Supported Skills [Consume] [Parry|Parried] Debuff on [Hit] to grant {0} [Charges|Frenzy Charges]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -22773,7 +22611,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] are [CrushingBlow|Crushing Blows] against [Ignite|Ignited] and [ArmourBreak|Fully Armour Broken] Enemies",
+        "string": "[Hit|Hits] are [CrushingBlow|Crushing Blows] against [Ignite|Ignited] and [ArmourBreak|Fully Armour Broken] Enemies",
         "reminder_text": null,
         "is_markup": null
       },
@@ -22791,7 +22629,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] from Supported Skills are considered [CrushingBlow|Crushing Blows] against [Ignite|Ignited] and [ArmourBreak|Fully Armour Broken] Enemies",
+        "string": "[Hit|Hits] from Supported Skills are considered [CrushingBlow|Crushing Blows] against [Ignite|Ignited] and [ArmourBreak|Fully Armour Broken] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -23621,7 +23459,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "Supported Skills deal {0}% increased Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       },
@@ -23641,7 +23479,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "Supported Skills deal {0}% reduced Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       }
@@ -24253,7 +24091,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+        "string": "Supported Skills deal {0}% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -24497,7 +24335,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Daze] when [HitDamage|Hitting] enemies that are on full life",
+        "string": "Supported Skills [Daze] when [Hit|Hitting] enemies that are on full life",
         "reminder_text": null,
         "is_markup": null
       }
@@ -24663,7 +24501,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Deal your [Thorns] damage to the next enemy [HitDamage|Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
+        "string": "Deal your [Thorns] damage to the next enemy [Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -24681,7 +24519,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Deal your [Thorns] damage to the next {0} enemies [HitDamage|Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
+        "string": "Deal your [Thorns] damage to the next {0} enemies [Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -24717,7 +24555,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Deal your [Thorns] damage twice to the next enemy [HitDamage|Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
+        "string": "Deal your [Thorns] damage twice to the next enemy [Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -24735,7 +24573,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Deal your [Thorns] damage twice to the next {0} enemies [HitDamage|Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
+        "string": "Deal your [Thorns] damage twice to the next {0} enemies [Hit] by Supported Skills after you [ThornsRetaliation|Retaliate with Thorns]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -25456,7 +25294,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Enemy [HitDamage|Hits] have {0}% chance to treat all your [Resistances] as being 90% while a Supported Skill is active",
+        "string": "Enemy [Hit|Hits] have {0}% chance to treat all your [Resistances] as being 90% while a Supported Skill is active",
         "reminder_text": null,
         "is_markup": null
       }
@@ -26300,7 +26138,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] against targets [Freeze|Frozen] by Supported Skills [ArmourBreak|Break Armour] equal to {0}% of [Physical] damage dealt",
+        "string": "[Hit|Hits] against targets [Freeze|Frozen] by Supported Skills [ArmourBreak|Break Armour] equal to {0}% of [Physical] damage dealt",
         "reminder_text": null,
         "is_markup": null
       }
@@ -27720,7 +27558,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills grant {0} [Rage|Rage] on [Melee] [HitDamage|Hit]",
+        "string": "Supported Skills grant {0} [Rage|Rage] on [Melee] [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -27828,7 +27666,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Knockback|Knock Enemies Back] on [HitDamage|Hit]",
+        "string": "Supported Skills [Knockback|Knock Enemies Back] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -28780,7 +28618,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] from Supported Skills ignore enemy [Fire|Fire Resistance]",
+        "string": "[Hit|Hits] from Supported Skills ignore enemy [Fire|Fire Resistance]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -28816,7 +28654,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] with Supported Skills have {0}% chance to ignore Enemy [Physical] Damage reduction",
+        "string": "[Hit|Hits] with Supported Skills have {0}% chance to ignore Enemy [Physical] Damage reduction",
         "reminder_text": null,
         "is_markup": null
       }
@@ -28852,7 +28690,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[IceCrystals|Ice Crystals] created by Supported Skills can [Impale] with [Cold] [HitDamage|Damage] as though it was [Physical]",
+        "string": "[IceCrystals|Ice Crystals] created by Supported Skills can [Impale] with [Cold] [Hit|Damage] as though it was [Physical]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -29128,7 +28966,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to [Impale] Enemies on [HitDamage|Hit]",
+        "string": "Supported Skills have {0}% chance to [Impale] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -29146,7 +28984,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Impale] Enemies on [HitDamage|Hit]",
+        "string": "Supported Skills [Impale] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -29902,7 +29740,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to [Knockback|Knock Enemies Back] with [HitDamage|Hits] at [CloseRange|Close Range]",
+        "string": "Supported Skills have {0}% chance to [Knockback|Knock Enemies Back] with [Hit|Hits] at [CloseRange|Close Range]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -30528,7 +30366,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported [Attack|Attacks] have {0}% chance to [Maim|Maim] on [HitDamage|Hit]",
+        "string": "Supported [Attack|Attacks] have {0}% chance to [Maim|Maim] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -30546,7 +30384,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported [Attack|Attacks] always [Maim|Maim] on [HitDamage|Hit]",
+        "string": "Supported [Attack|Attacks] always [Maim|Maim] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -30727,7 +30565,7 @@
             "divide_by_one_hundred"
           ]
         ],
-        "string": "Enemies [Mark|Marked] by Supported Skills cause you to [ManaLeech|Leech Mana] equal to {0}% of [Physical] [Attack] [HitDamage|Damage] they take from your Hits",
+        "string": "Enemies [Mark|Marked] by Supported Skills cause you to [ManaLeech|Leech Mana] equal to {0}% of [Physical] [Attack] [Hit|Damage] they take from your Hits",
         "reminder_text": null,
         "is_markup": null
       }
@@ -30765,7 +30603,7 @@
             "divide_by_one_hundred"
           ]
         ],
-        "string": "Enemies [Mark|Marked] by Supported Skills cause you to [LifeLeech|Leech Life] equal to {0}% of [Physical] [Attack] [HitDamage|Damage] they take from your Hits",
+        "string": "Enemies [Mark|Marked] by Supported Skills cause you to [LifeLeech|Leech Life] equal to {0}% of [Physical] [Attack] [Hit|Damage] they take from your Hits",
         "reminder_text": null,
         "is_markup": null
       }
@@ -30801,7 +30639,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] against targets [Mark|Marked] by Supported Skills [ArmourBreak|Break Armour] equal to {0}% of [Physical] damage dealt",
+        "string": "[Hit|Hits] against targets [Mark|Marked] by Supported Skills [ArmourBreak|Break Armour] equal to {0}% of [Physical] damage dealt",
         "reminder_text": null,
         "is_markup": null
       }
@@ -39851,7 +39689,7 @@
             "divide_by_ten_1dp"
           ]
         ],
-        "string": "[Shock|Shocking] [HitDamage|Hits] from supported Skills have a {0}% chance to also [Shock] enemies in a {2} metre radius",
+        "string": "[Shock|Shocking] [Hit|Hits] from supported Skills have a {0}% chance to also [Shock] enemies in a {2} metre radius",
         "reminder_text": null,
         "is_markup": null
       }
@@ -39889,7 +39727,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Trigger] Coursing Current when a [HitDamage|Hit] from Supported Skills [Shock|Shocks]",
+        "string": "{0}% chance to [Trigger] Coursing Current when a [Hit] from Supported Skills [Shock|Shocks]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -39907,7 +39745,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Trigger] Coursing Current when a [HitDamage|Hit] from Supported Skills [Shock|Shocks]",
+        "string": "[Trigger] Coursing Current when a [Hit] from Supported Skills [Shock|Shocks]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -40293,7 +40131,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [HitDamage|Hit] in the last two seconds",
+        "string": "Supported Skills deal {0}% more [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [Hit] in the last two seconds",
         "reminder_text": null,
         "is_markup": null
       },
@@ -40313,7 +40151,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [HitDamage|Hit] in the last two seconds",
+        "string": "Supported Skills deal {0}% less [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [Hit] in the last two seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -40349,7 +40187,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [HitDamage|Hit] in the last eight seconds",
+        "string": "Supported Skills deal {0}% more [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [Hit] in the last eight seconds",
         "reminder_text": null,
         "is_markup": null
       },
@@ -40369,7 +40207,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [HitDamage|Hit] in the last eight seconds",
+        "string": "Supported Skills deal {0}% less [Melee] Damage if you have Damaged an Enemy with a [Projectile] [Attack] [Hit] in the last eight seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42262,7 +42100,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] with Supported Skills cause {0}% more [Stun] buildup",
+        "string": "[Hit|Hits] with Supported Skills cause {0}% more [Stun] buildup",
         "reminder_text": null,
         "is_markup": null
       },
@@ -42282,7 +42120,7 @@
             "negate"
           ]
         ],
-        "string": "[HitDamage|Hits] with Supported Skills cause {0}% less [Stun] buildup",
+        "string": "[Hit|Hits] with Supported Skills cause {0}% less [Stun] buildup",
         "reminder_text": null,
         "is_markup": null
       }
@@ -43175,7 +43013,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Chaos] damage [Contributes] to [Freeze] buildup for [HitDamage|Hits] against targets taking damage over time from Supported Skills",
+        "string": "[Chaos] damage [Contributes] to [Freeze] buildup for [Hit|Hits] against targets taking damage over time from Supported Skills",
         "reminder_text": null,
         "is_markup": null
       }
@@ -43337,7 +43175,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Enemies killed by [HitDamage|Hits] from Supported Skills grant {0}% more [Charm] charges",
+        "string": "Enemies killed by [Hit|Hits] from Supported Skills grant {0}% more [Charm] charges",
         "reminder_text": null,
         "is_markup": null
       },
@@ -43357,7 +43195,7 @@
             "negate"
           ]
         ],
-        "string": "Enemies killed by [HitDamage|Hits] from Supported Skills grant {0}% less [Charm] charges",
+        "string": "Enemies killed by [Hit|Hits] from Supported Skills grant {0}% less [Charm] charges",
         "reminder_text": null,
         "is_markup": null
       }
@@ -45439,7 +45277,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -45459,7 +45297,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -45607,7 +45445,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -45627,7 +45465,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -46533,7 +46371,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more [Attack] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [HitDamage|Hit]",
+        "string": "Supported Skills deal {0}% more [Attack] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -46553,7 +46391,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less [Attack] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [HitDamage|Hit]",
+        "string": "Supported Skills deal {0}% less [Attack] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -46589,7 +46427,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more [Melee] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [HitDamage|Hit]",
+        "string": "Supported Skills deal {0}% more [Melee] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -46609,7 +46447,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less [Melee] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [HitDamage|Hit]",
+        "string": "Supported Skills deal {0}% less [Melee] Damage for each [ElementalAilments|Elemental Ailment] on Enemies they [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -46939,7 +46777,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits] while you are on [LowLife|Low Life]",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits] while you are on [LowLife|Low Life]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -46959,7 +46797,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits] while you are on [LowLife|Low Life]",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits] while you are on [LowLife|Low Life]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -46995,7 +46833,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -47015,7 +46853,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -47199,7 +47037,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Trigger] Fan the Flames when [HitDamage|Hitting] an [Ignite|Ignited] enemy with Supported Skills",
+        "string": "[Trigger] Fan the Flames when [Hit|Hitting] an [Ignite|Ignited] enemy with Supported Skills",
         "reminder_text": null,
         "is_markup": null
       }
@@ -49323,7 +49161,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Maximum [Physical] [HitDamage|Hit] Damage",
+        "string": "Supported Skills deal {0}% more Maximum [Physical] [Hit] Damage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -49343,7 +49181,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less Maximum [Physical] [HitDamage|Hit] Damage",
+        "string": "Supported Skills deal {0}% less Maximum [Physical] [Hit] Damage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -49529,7 +49367,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] from Supported Skills [Stun] Enemies as though dealing more Damage equivalent to the\ncurrent percentage of your [HeavyStunPlayer|Stun Bar]",
+        "string": "[Hit|Hits] from Supported Skills [Stun] Enemies as though dealing more Damage equivalent to the\ncurrent percentage of your [HeavyStunPlayer|Stun Bar]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -49547,7 +49385,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] from Supported Skills [Stun] Enemies as though dealing more Damage equivalent to {0}% of the\ncurrent percentage of your [HeavyStunPlayer|Stun Bar]",
+        "string": "[Hit|Hits] from Supported Skills [Stun] Enemies as though dealing more Damage equivalent to {0}% of the\ncurrent percentage of your [HeavyStunPlayer|Stun Bar]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -51032,7 +50870,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Enemies killed by [HitDamage|Hits] from Supported Skills grant {0}% more Life [Flask] Charges",
+        "string": "Enemies killed by [Hit|Hits] from Supported Skills grant {0}% more Life [Flask] Charges",
         "reminder_text": null,
         "is_markup": null
       },
@@ -51052,7 +50890,7 @@
             "negate"
           ]
         ],
-        "string": "Enemies killed by [HitDamage|Hits] from Supported Skills grant {0}% less Life [Flask] Charges",
+        "string": "Enemies killed by [Hit|Hits] from Supported Skills grant {0}% less Life [Flask] Charges",
         "reminder_text": null,
         "is_markup": null
       }
@@ -51641,42 +51479,6 @@
       {
         "condition": [
           {
-            "min": null,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "#"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "Consumes {0}% of current Mana to deal that much [Fire] damage",
-        "reminder_text": null,
-        "is_markup": null
-      }
-    ],
-    "ids": [
-      "support_mana_flare_%_of_current_mana_consumed"
-    ],
-    "trade_stats": null,
-    "hidden": null,
-    "French": null,
-    "German": null,
-    "Japanese": null,
-    "Korean": null,
-    "Portuguese": null,
-    "Russian": null,
-    "Spanish": null,
-    "Thai": null,
-    "Traditional Chinese": null
-  },
-  {
-    "English": [
-      {
-        "condition": [
-          {
             "min": 1,
             "max": null,
             "negated": null
@@ -51688,7 +51490,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Enemies killed by [HitDamage|Hits] from Supported Skills grant {0}% more Mana [Flask] Charges",
+        "string": "Enemies killed by [Hit|Hits] from Supported Skills grant {0}% more Mana [Flask] Charges",
         "reminder_text": null,
         "is_markup": null
       },
@@ -51708,7 +51510,7 @@
             "negate"
           ]
         ],
-        "string": "Enemies killed by [HitDamage|Hits] from Supported Skills grant {0}% less Mana [Flask] Charges",
+        "string": "Enemies killed by [Hit|Hits] from Supported Skills grant {0}% less Mana [Flask] Charges",
         "reminder_text": null,
         "is_markup": null
       }
@@ -54129,7 +53931,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Objects created by Supported Skills can be [HitDamage|Hit] {0} time",
+        "string": "Objects created by Supported Skills can be [Hit] {0} time",
         "reminder_text": null,
         "is_markup": null
       },
@@ -54147,7 +53949,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Objects created by Supported Skills can be [HitDamage|Hit] {0} times",
+        "string": "Objects created by Supported Skills can be [Hit] {0} times",
         "reminder_text": null,
         "is_markup": null
       }
@@ -54921,7 +54723,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] with Supported Skills cause {0}% more [Pinned|Pin] buildup",
+        "string": "[Hit|Hits] with Supported Skills cause {0}% more [Pinned|Pin] buildup",
         "reminder_text": null,
         "is_markup": null
       },
@@ -54941,7 +54743,7 @@
             "negate"
           ]
         ],
-        "string": "[HitDamage|Hits] with Supported Skills cause {0}% less [Pinned|Pin] buildup",
+        "string": "[Hit|Hits] with Supported Skills cause {0}% less [Pinned|Pin] buildup",
         "reminder_text": null,
         "is_markup": null
       }
@@ -55801,7 +55603,7 @@
             "milliseconds_to_seconds"
           ]
         ],
-        "string": "Supported Skills grant 1 [Rage|Rage] on [Melee|Melee] [HitDamage|Hit], no more than once every {0} seconds",
+        "string": "Supported Skills grant 1 [Rage|Rage] on [Melee|Melee] [Hit], no more than once every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -56806,7 +56608,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more [Projectile] Damage if you have Damaged an Enemy with a [Melee] [HitDamage|Hit] in the last two seconds",
+        "string": "Supported Skills deal {0}% more [Projectile] Damage if you have Damaged an Enemy with a [Melee] [Hit] in the last 2 seconds",
         "reminder_text": null,
         "is_markup": null
       },
@@ -56826,7 +56628,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less [Projectile] Damage if you have Damaged an Enemy with a [Melee] [HitDamage|Hit] in the last two seconds",
+        "string": "Supported Skills deal {0}% less [Projectile] Damage if you have Damaged an Enemy with a [Melee] [Hit] in the last 2 seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -56862,7 +56664,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more [Projectile] Damage if you have Damaged an Enemy with a [Melee] [HitDamage|Hit] in the last eight seconds",
+        "string": "Supported Skills deal {0}% more [Projectile] Damage if you have Damaged an Enemy with a [Melee] [Hit] in the last 8 seconds",
         "reminder_text": null,
         "is_markup": null
       },
@@ -56882,7 +56684,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less [Projectile] Damage if you have Damaged an Enemy with a [Melee] [HitDamage|Hit] in the last eight seconds",
+        "string": "Supported Skills deal {0}% less [Projectile] Damage if you have Damaged an Enemy with a [Melee] [Hit] in the last 8 seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -56974,7 +56776,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Aggravate|Aggravate] [Bleeding|Bleeding] on [HitDamage|Hitting] [HeavyStun|Heavy Stunned] Enemies",
+        "string": "Supported Skills [Aggravate|Aggravate] [Bleeding|Bleeding] on [Hit|Hitting] [HeavyStun|Heavy Stunned] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -60414,7 +60216,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -60434,7 +60236,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -61982,7 +61784,7 @@
           [],
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits] for each quarter second you have been stationary, up to {1}%\nThis Damage bonus resets when you move",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits] for each quarter second you have been stationary, up to {1}%\nThis Damage bonus resets when you move",
         "reminder_text": null,
         "is_markup": null
       },
@@ -62009,7 +61811,7 @@
           ],
           []
         ],
-        "string": "Supported Skills deal {0}% less Damage with [HitDamage|Hits] for each quarter second you have been stationary, up to {1}%\nThis Damage bonus resets when you move",
+        "string": "Supported Skills deal {0}% less Damage with [Hit|Hits] for each quarter second you have been stationary, up to {1}%\nThis Damage bonus resets when you move",
         "reminder_text": null,
         "is_markup": null
       }
@@ -62046,7 +61848,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% more [CriticalDamageBonus|Critical Damage Bonus] with [HitDamage|Hits] against [Blind|Blinded] Enemies",
+        "string": "Supported Skills have {0}% more [CriticalDamageBonus|Critical Damage Bonus] with [Hit|Hits] against [Blind|Blinded] Enemies",
         "reminder_text": null,
         "is_markup": null
       },
@@ -62066,7 +61868,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills have {0}% less [CriticalDamageBonus|Critical Damage Bonus] with [HitDamage|Hits] against [Blind|Blinded] Enemies",
+        "string": "Supported Skills have {0}% less [CriticalDamageBonus|Critical Damage Bonus] with [Hit|Hits] against [Blind|Blinded] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -62456,7 +62258,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported [Strike|Strikes] trigger Volcanic Eruption on [HitDamage|Hitting] [Ignite|Ignited] Enemies",
+        "string": "Supported [Strike|Strikes] trigger Volcanic Eruption on [Hit|Hitting] [Ignite|Ignited] Enemies",
         "reminder_text": null,
         "is_markup": null
       },
@@ -62474,7 +62276,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported [Strike|Strikes] have {0}% chance to trigger Volcanic Eruption on [HitDamage|Hitting] [Ignite|Ignited] Enemies",
+        "string": "Supported [Strike|Strikes] have {0}% chance to trigger Volcanic Eruption on [Hit|Hitting] [Ignite|Ignited] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -62510,7 +62312,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more Damage with [HitDamage|Hits] against [Isolated] targets",
+        "string": "Supported Skills deal {0}% more Damage with [Hit|Hits] against [Isolated] targets",
         "reminder_text": null,
         "is_markup": null
       }
@@ -62602,7 +62404,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills deal {0}% more damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% more damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -62622,7 +62424,7 @@
             "negate"
           ]
         ],
-        "string": "Supported Skills deal {0}% less damage with [HitDamage|Hits]",
+        "string": "Supported Skills deal {0}% less damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -63756,7 +63558,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] with Supported Skills have {0}% chance to treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
+        "string": "[Hit|Hits] with Supported Skills have {0}% chance to treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
         "reminder_text": null,
         "is_markup": null
       },
@@ -63774,7 +63576,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] with Supported Skills treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
+        "string": "[Hit|Hits] with Supported Skills treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
         "reminder_text": null,
         "is_markup": null
       }
@@ -64140,7 +63942,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills [Trigger] Toxic Pustule on [HitDamage|Hitting] an enemy",
+        "string": "Supported Skills [Trigger] Toxic Pustule on [Hit|Hitting] an enemy",
         "reminder_text": null,
         "is_markup": null
       }
@@ -64266,7 +64068,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills trigger Quill Burst on their next [HitDamage|Hit] after you [ThornsRetaliation|Retaliate with Thorns]",
+        "string": "Supported Skills trigger Quill Burst on their next [Hit] after you [ThornsRetaliation|Retaliate with Thorns]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -64284,7 +64086,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills trigger Quill Burst on their next {0} [HitDamage|Hits] after you [ThornsRetaliation|Retaliate with Thorns]",
+        "string": "Supported Skills trigger Quill Burst on their next {0} [Hit|Hits] after you [ThornsRetaliation|Retaliate with Thorns]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -64533,7 +64335,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hitting] an enemy with Fan the Flames [AilmentSpread|Spreads] that enemy's [Ignite] to all enemies [HitDamage|Hit]",
+        "string": "[Hit|Hitting] an enemy with Fan the Flames [AilmentSpread|Spreads] that enemy's [Ignite] to all enemies [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -65349,7 +65151,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance to inflict [Withered] on [HitDamage|Hit] with Supported\nSkills can [SurpassChance|Surpass 100%]",
+        "string": "Chance to inflict [Withered] on [Hit] with Supported\nSkills can [SurpassChance|Surpass 100%]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -65385,7 +65187,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills have {0}% chance to inflict [Withered] on [HitDamage|Hit] with [Chaos] damage",
+        "string": "Supported Skills have {0}% chance to inflict [Withered] on [Hit] with [Chaos] damage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -65403,7 +65205,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Supported Skills inflict [Withered] on [HitDamage|Hit] with [Chaos] damage",
+        "string": "Supported Skills inflict [Withered] on [Hit] with [Chaos] damage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -65441,7 +65243,7 @@
             "one_hundred_divide_by_value"
           ]
         ],
-        "string": "Supported Skills have 1% chance to inflict\n[Withered] on [HitDamage|Hit] for every {0}% of enemy\n[AilmentThreshold|Ailment Threshold] dealt as [Chaos] damage",
+        "string": "Supported Skills have 1% chance to inflict\n[Withered] on [Hit] for every {0}% of enemy\n[AilmentThreshold|Ailment Threshold] dealt as [Chaos] damage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -65987,7 +65789,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[ArmourBreak|Fully Broken Armour] inflicted with Supported Skills also increases [Cold] and [Lightning] Damage Taken from [HitDamage|Hits]",
+        "string": "[ArmourBreak|Fully Broken Armour] inflicted with Supported Skills also increases [Cold] and [Lightning] Damage Taken from [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }

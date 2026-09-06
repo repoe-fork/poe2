@@ -47,7 +47,7 @@
           [],
           []
         ],
-        "string": "[HitDamage|Hits] against [Mark|Marked] enemy cause {0}% more [Freeze] buildup",
+        "string": "[Hit|Hits] against [Mark|Marked] enemy cause {0}% more [Freeze] buildup",
         "reminder_text": null,
         "is_markup": null
       },
@@ -72,7 +72,7 @@
           [],
           []
         ],
-        "string": "[HitDamage|Hits] against [Mark|Marked] enemy cause {0}% more [Freeze] buildup",
+        "string": "[Hit|Hits] against [Mark|Marked] enemy cause {0}% more [Freeze] buildup",
         "reminder_text": null,
         "is_markup": null
       },
@@ -99,7 +99,7 @@
           ],
           []
         ],
-        "string": "[HitDamage|Hits] against [Mark|Marked] enemy cause {0}% less [Freeze] buildup",
+        "string": "[Hit|Hits] against [Mark|Marked] enemy cause {0}% less [Freeze] buildup",
         "reminder_text": null,
         "is_markup": null
       }
@@ -136,7 +136,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Mark|Marked] enemy becomes [Frozen] when\n[HitDamage|Hit] while [PrimedFreeze|Primed for Freeze]",
+        "string": "[Mark|Marked] enemy becomes [Frozen] when\n[Hit] while [PrimedFreeze|Primed for Freeze]",
         "reminder_text": null,
         "is_markup": null
       }

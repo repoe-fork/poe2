@@ -105,7 +105,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Damage] [Gain|Gained] from [ElementalGround|Elemental Ground Effects] or [Orb|Orbs]@{0}%",
+        "string": "[Hit|Damage] [Gain|Gained] from [ElementalGround|Elemental Ground Effects] or [Orb|Orbs]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -123,7 +123,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Gain|Gains] {0}% of [HitDamage|damage] as damage of the corresponding\n[ElementalDamage|Type] when passing over an [ElementalGround|Elemental Ground Effect] or [Orb]",
+        "string": "[Gain|Gains] {0}% of [Hit|damage] as damage of the corresponding\n[ElementalDamage|Type] when passing over an [ElementalGround|Elemental Ground Effect] or [Orb]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -161,7 +161,7 @@
             "negate"
           ]
         ],
-        "string": "Less damage done with first [HitDamage|Hit]@{0}%",
+        "string": "Less damage done with first [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -179,7 +179,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More damage done with first [HitDamage|Hit]@{0}%",
+        "string": "More damage done with first [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -199,7 +199,7 @@
             "negate"
           ]
         ],
-        "string": "Each use of this Skill deals {0}% less damage with its\nfirst [HitDamage|Hit] against each enemy",
+        "string": "Each use of this Skill deals {0}% less damage with its\nfirst [Hit] against each enemy",
         "reminder_text": null,
         "is_markup": null
       },
@@ -217,7 +217,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Each use of this Skill deals {0}% more damage with its\nfirst [HitDamage|Hit] against each enemy",
+        "string": "Each use of this Skill deals {0}% more damage with its\nfirst [Hit] against each enemy",
         "reminder_text": null,
         "is_markup": null
       }

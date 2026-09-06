@@ -111,7 +111,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] destroy [IceCrystals|Ice Crystals]",
+        "string": "[Hit|Hits] destroy [IceCrystals|Ice Crystals]",
         "reminder_text": null,
         "is_markup": null
       }

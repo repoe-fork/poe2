@@ -75,7 +75,7 @@
             "negate"
           ]
         ],
-        "string": "[HitDamage|Hit] damage reduction while shielded@{0}%",
+        "string": "[Hit] damage reduction while shielded@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -93,7 +93,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Minion|Minions] take {0}% increased damage from [HitDamage|Hits] while shielded",
+        "string": "[Minion|Minions] take {0}% increased damage from [Hit|Hits] while shielded",
         "reminder_text": null,
         "is_markup": null
       },
@@ -113,7 +113,7 @@
             "negate"
           ]
         ],
-        "string": "[Minion|Minions] take {0}% reduced damage from [HitDamage|Hits] while shielded",
+        "string": "[Minion|Minions] take {0}% reduced damage from [Hit|Hits] while shielded",
         "reminder_text": null,
         "is_markup": null
       }
@@ -167,7 +167,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Absorbs first [HitDamage|Hit] dealing over {0}% of [Minion|Minion's] maximum life",
+        "string": "Absorbs first [Hit] dealing over {0}% of [Minion|Minion's] maximum life",
         "reminder_text": null,
         "is_markup": null
       }

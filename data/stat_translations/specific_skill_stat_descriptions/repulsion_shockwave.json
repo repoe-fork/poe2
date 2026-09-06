@@ -111,7 +111,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more [Stun] buildup on [HitDamage|Hit]\nper Fragility on the target",
+        "string": "{0}% more [Stun] buildup on [Hit]\nper Fragility on the target",
         "reminder_text": null,
         "is_markup": null
       },
@@ -129,7 +129,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% less [Stun] buildup on [HitDamage|Hit]\nper Fragility on the target",
+        "string": "{0}% less [Stun] buildup on [Hit]\nper Fragility on the target",
         "reminder_text": null,
         "is_markup": null
       }

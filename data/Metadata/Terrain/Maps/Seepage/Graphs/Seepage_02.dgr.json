@@ -7,11 +7,15 @@
     ],
     "MasterFile": "Metadata/Terrain/Maps/Seepage/master.tsi"
   },
-  "edge_count": 4,
+  "edge_count": 9,
   "edge_types": {
-    "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et": {
-      "id": "MachinariumOfficeLineRooms",
-      "color": "#6f03fc"
+    "Metadata/Terrain/Dungeon/rooms.et": {
+      "id": "rooms",
+      "color": "#FF5A5A5A"
+    },
+    "Metadata/Terrain/Tools/void.et": {
+      "id": "void",
+      "color": "#FF141414"
     }
   },
   "edges": [
@@ -23,11 +27,11 @@
         100,
         0,
         2,
-        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        "Metadata/Terrain/Dungeon/rooms.et",
         0,
         65,
         0,
-        "Metadata/Terrain/Dungeon/rooms.et",
+        "",
         50,
         "",
         0,
@@ -36,8 +40,8 @@
         "N",
         1
       ],
-      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
-      "color": "#6f03fc"
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
     },
     {
       "from": 1,
@@ -47,11 +51,11 @@
         100,
         0,
         2,
-        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        "Metadata/Terrain/Dungeon/rooms.et",
         0,
         65,
         0,
-        "Metadata/Terrain/Dungeon/rooms.et",
+        "",
         50,
         "",
         0,
@@ -60,8 +64,8 @@
         "N",
         1
       ],
-      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
-      "color": "#6f03fc"
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
     },
     {
       "from": 0,
@@ -71,11 +75,11 @@
         100,
         0,
         0,
-        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        "Metadata/Terrain/Dungeon/rooms.et",
         0,
         65,
         0,
-        "Metadata/Terrain/Dungeon/rooms.et",
+        "",
         50,
         "",
         0,
@@ -84,8 +88,8 @@
         "N",
         1
       ],
-      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
-      "color": "#6f03fc"
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
     },
     {
       "from": 0,
@@ -95,11 +99,11 @@
         100,
         0,
         1,
-        "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
+        "Metadata/Terrain/Dungeon/rooms.et",
         0,
         65,
         0,
-        "Metadata/Terrain/Dungeon/rooms.et",
+        "",
         50,
         "",
         0,
@@ -108,8 +112,128 @@
         "N",
         1
       ],
-      "edge_type": "Metadata/Terrain/Gallows/Act3/3_6_2/Rooms/MachinariumOfficeLineRooms.et",
-      "color": "#6f03fc"
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from": 2,
+      "to": 1,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Dungeon/rooms.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "N",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Dungeon/rooms.et",
+      "color": "#FF5A5A5A"
+    },
+    {
+      "from": 4,
+      "to": 5,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from": 8,
+      "to": 9,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
+    },
+    {
+      "from": 10,
+      "to": 11,
+      "path": [],
+      "unknown": [
+        100,
+        0,
+        0,
+        "Metadata/Terrain/Tools/void.et",
+        0,
+        0,
+        0,
+        "",
+        0,
+        "",
+        0,
+        0,
+        "P",
+        "V",
+        1
+      ],
+      "edge_type": "Metadata/Terrain/Tools/void.et",
+      "color": "#FF141414"
     }
   ],
   "fill_tiles": [
@@ -180,7 +304,7 @@
     "RoofFadeMode": "Tile",
     "DefaultKillZone": null
   },
-  "node_count": 4,
+  "node_count": 12,
   "numbers": [
     1
   ],
@@ -199,24 +323,25 @@
         0,
         0,
         0,
-        "-75",
+        "-23",
         0,
-        75,
+        0,
         0,
         "N",
         0
       ],
-      "x": 81,
-      "y": 196
+      "x": 58,
+      "y": 173
     },
     {
       "numbers": [
         1,
-        3
+        3,
+        4
       ],
       "room": "checkpoint",
       "strings": [],
-      "transform": "FI",
+      "transform": "(best)",
       "unknown": [
         100,
         0,
@@ -230,17 +355,18 @@
         "N",
         0
       ],
-      "x": 127,
-      "y": 104
+      "x": 104,
+      "y": 81
     },
     {
       "numbers": [
         0,
+        4,
         2
       ],
       "room": "feature",
       "strings": [],
-      "transform": "I",
+      "transform": "(best)",
       "unknown": [
         100,
         0,
@@ -254,8 +380,8 @@
         "N",
         0
       ],
-      "x": 35,
-      "y": 104
+      "x": 12,
+      "y": 81
     },
     {
       "numbers": [
@@ -266,22 +392,206 @@
       "strings": [
         "default"
       ],
-      "transform": "(any)",
+      "transform": "(best)",
       "unknown": [
         100,
         0,
         0,
         0,
         0,
-        "-75",
         0,
-        75,
+        0,
+        0,
         0,
         "N",
         0
       ],
-      "x": 80,
-      "y": 11
+      "x": 58,
+      "y": 12
+    },
+    {
+      "numbers": [
+        5
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 173
+    },
+    {
+      "numbers": [
+        5
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 196
+    },
+    {
+      "numbers": [
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 104,
+      "y": 173
+    },
+    {
+      "numbers": [
+        6
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 104,
+      "y": 196
+    },
+    {
+      "numbers": [
+        7
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 35,
+      "y": 12
+    },
+    {
+      "numbers": [
+        7
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [
+        8
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 81,
+      "y": 12
+    },
+    {
+      "numbers": [
+        8
+      ],
+      "room": "",
+      "strings": [],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "V",
+        0
+      ],
+      "x": 104,
+      "y": 12
     }
   ],
   "room_set": [
@@ -422,7 +732,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_01.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -431,7 +743,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_02.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -440,7 +754,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_03.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -449,7 +765,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_04.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -458,7 +776,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_cnr_05.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -467,7 +787,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_01.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -476,7 +798,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_02.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -485,7 +809,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_03.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -494,7 +820,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_04.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -503,7 +831,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_05.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -512,7 +842,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_06.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -521,7 +853,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_07.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -530,7 +864,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_end_08.arm",
-      "prefix": null,
+      "prefix": [
+        "10"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -539,7 +875,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_quad_01.arm",
-      "prefix": null,
+      "prefix": [
+        "1"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -611,7 +949,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_01.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -620,7 +960,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_02.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -629,7 +971,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_03.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -638,7 +982,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_04.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -647,7 +993,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_st_05.arm",
-      "prefix": null,
+      "prefix": [
+        "5"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -656,7 +1004,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_01.arm",
-      "prefix": null,
+      "prefix": [
+        "2"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -665,7 +1015,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_02.arm",
-      "prefix": null,
+      "prefix": [
+        "2"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -674,7 +1026,9 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_03.arm",
-      "prefix": null,
+      "prefix": [
+        "2"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -683,7 +1037,53 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/offices_tri_04.arm",
-      "prefix": null,
+      "prefix": [
+        "2"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/2x2_offices_01.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/2x2_offices_02.arm",
+      "prefix": [
+        "15"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/2x2_offices_03.arm",
+      "prefix": [
+        "20"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Seepage/Rooms/Offices/2x2_offices_04.arm",
+      "prefix": [
+        "20"
+      ],
       "suffix": null,
       "tile_tag": null,
       "room_tag": null,
@@ -692,8 +1092,8 @@
     }
   ],
   "size": [
-    7,
-    10
+    5,
+    9
   ],
   "strings": [
     "",

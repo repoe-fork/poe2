@@ -319,7 +319,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "[HitDamage|Hit] frequency@{0}s",
+        "string": "[Hit] frequency@{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -339,7 +339,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Flock [HitDamage|Hits] every second",
+        "string": "Flock [Hit|Hits] every second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -359,7 +359,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Flock [HitDamage|Hits] every {0} seconds",
+        "string": "Flock [Hit|Hits] every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }

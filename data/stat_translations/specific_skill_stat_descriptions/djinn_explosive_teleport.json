@@ -111,7 +111,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Clone explosions inflict {0} additional [CriticalWeakness|Critical Weakness] on [HitDamage|Hit]",
+        "string": "Clone explosions inflict {0} additional [CriticalWeakness|Critical Weakness] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

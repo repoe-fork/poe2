@@ -33,7 +33,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Lightning Bolts strike the targets of your next {0} [Attack|Attack] [HitDamage|Hits]\nafter killing a [Shock|Shocked] enemy with [Attack|Attack] damage",
+        "string": "Lightning Bolts strike the targets of your next {0} [Attack|Attack] [Hit|Hits]\nafter killing a [Shock|Shocked] enemy with [Attack|Attack] damage",
         "reminder_text": null,
         "is_markup": null
       }

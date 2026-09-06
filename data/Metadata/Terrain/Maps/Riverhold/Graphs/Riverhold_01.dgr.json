@@ -1731,46 +1731,56 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Riverhold/Rooms/Unique/courtyard_mission_1.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/Riverhold/Rooms/Unique/courtyard_mission_2.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/Riverhold/Rooms/Unique/courtyard_mission_3.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/Riverhold/Rooms/Unique/courtyard_mission_4.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/Riverhold/Rooms/Unique/courtyard_mission_5.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },

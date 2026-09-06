@@ -75,7 +75,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Foresight prevents Dodge Roll from Avoiding [HitDamage|Hits] and lasts until immediately before you are [HitDamage|Hit] while Dodge Rolling\nSight Beyond Sight makes you unable to die and lasts for a {0} second duration\nFully recover Life when you gain Sight Beyond Sight",
+        "string": "Foresight prevents Dodge Roll from Avoiding [Hit|Hits] and lasts until immediately before you are [Hit] while Dodge Rolling\nSight Beyond Sight makes you unable to die and lasts for a {0} second duration\nFully recover Life when you gain Sight Beyond Sight",
         "reminder_text": null,
         "is_markup": null
       }

@@ -2487,7 +2487,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Select an [ContainsAbyss|Abyss] Faction to always encounter",
+        "string": "Select the [ContainsAbyss|Abyss] Faction you encounter in non-[AbyssCrack|Fissure Abysses]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -6693,7 +6693,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Large [ContainsAbyss|Abyssal] Chests from the final Pit are instead an Abyssal [Strongbox]",
+        "string": "Large [ContainsAbyss|Abyssal] Chests from Abyss Pits are instead an Abyssal [Strongbox]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -6711,7 +6711,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Large [ContainsAbyss|Abyssal] Chests from the final Pit have a {0}% chance to instead be an Abyssal [Strongbox]",
+        "string": "Large [ContainsAbyss|Abyssal] Chests from Abyss Pits have a {0}% chance to instead be an Abyssal [Strongbox]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -23574,6 +23574,42 @@
           }
         ],
         "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[DistilledEmotion|Liquid Emotions] found have a {0}% chance to be [DistilledEmotionAncient|Ancient Liquid Emotions]",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_delirium_emotions_converted_to_timelost_jewel_emotion_chance_%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
           "ignore"
         ],
         "index_handlers": [
@@ -23651,13 +23687,49 @@
         "index_handlers": [
           []
         ],
-        "string": "[ContainsDelirium|Delirium Fog] spreads to +{0} Maps",
+        "string": "[ContainsDelirium|Delirium Fog] spreads to +{0} additional Maps",
         "reminder_text": null,
         "is_markup": null
       }
     ],
     "ids": [
       "map_delirium_fog_bank_length_+"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "Maps within the [ContainsDelirium|Delirium Fog] have +{0}% additional [Delirious|Deliriousness]",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_delirium_fog_bank_min_depth_+"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -24134,42 +24206,6 @@
     ],
     "ids": [
       "map_delirium_splinter_stack_size_+%"
-    ],
-    "trade_stats": null,
-    "hidden": null,
-    "French": null,
-    "German": null,
-    "Japanese": null,
-    "Korean": null,
-    "Portuguese": null,
-    "Russian": null,
-    "Spanish": null,
-    "Thai": null,
-    "Traditional Chinese": null
-  },
-  {
-    "English": [
-      {
-        "condition": [
-          {
-            "min": null,
-            "max": null,
-            "negated": null
-          }
-        ],
-        "format": [
-          "ignore"
-        ],
-        "index_handlers": [
-          []
-        ],
-        "string": "[DistilledEmotion|Liquid Emotions] found have a 20% chance to be [DistilledEmotionAncient|Ancient Liquid Emotions]",
-        "reminder_text": null,
-        "is_markup": null
-      }
-    ],
-    "ids": [
-      "map_delirium_timelost_jewel_emotions_can_drop"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -28629,6 +28665,42 @@
       {
         "condition": [
           {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "Monsters released from [Essence|Essences] become [CorruptedMonster|Corrupted]",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_essence_rare_monsters_are_corrupt"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
             "min": 1,
             "max": null,
             "negated": null
@@ -28752,7 +28824,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [Essence] Monsters have {0}% chance to release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] [Essence] Monsters have {0}% chance to [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       },
@@ -28770,7 +28842,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [Essence] Monsters release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] [Essence] Monsters [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       }
@@ -36070,7 +36142,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0} chance a [Rarity|Rare] or Unique Monster in the Area is [CorruptedMonster|Corrupted] when [ContainsIncursion|Vaal Beacons] are activated",
+        "string": "{0}% chance a [Rarity|Rare] or Unique Monster in the Area is [CorruptedMonster|Corrupted] when [ContainsIncursion|Vaal Beacons] are activated",
         "reminder_text": null,
         "is_markup": null
       }
@@ -36818,7 +36890,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance [ContainsIncursion|Vaal Beacon] [Rarity|Unique] Monsters are added to the Area for each [ContainsIncursion|Vaal Beacon] in an Area",
+        "string": "{0}% chance each [ContainsIncursion|Vaal Beacon] adds a Vaal [Rarity|Unique] Monster to the Area",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42868,7 +42940,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Tablet|Tablets] also provide {0}% increased Rarity of Items Dropped to\nMonsters from their mechanic",
+        "string": "[Tablet|Tablets] also provide {0}% increased Rarity of Items Dropped by\nMonsters from their mechanic",
         "reminder_text": null,
         "is_markup": null
       },
@@ -42888,7 +42960,7 @@
             "negate"
           ]
         ],
-        "string": "[Tablet|Tablets] also provide {0}% reduced Rarity of Items Dropped to\nMonsters from their mechanic",
+        "string": "[Tablet|Tablets] also provide {0}% reduced Rarity of Items Dropped by\nMonsters from their mechanic",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42924,7 +42996,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[AbyssAugment|Abyss Tablets] also provide {0}% increased Rarity of Items Dropped to [ContainsAbyss|Abyssal] Monsters",
+        "string": "[AbyssAugment|Abyss Tablets] also provide {0}% increased Rarity of Items Dropped by [ContainsAbyss|Abyssal] Monsters",
         "reminder_text": null,
         "is_markup": null
       },
@@ -42944,7 +43016,7 @@
             "negate"
           ]
         ],
-        "string": "[AbyssAugment|Abyss Tablets] also provide {0}% reduced Rarity of Items Dropped to [ContainsAbyss|Abyssal] Monsters",
+        "string": "[AbyssAugment|Abyss Tablets] also provide {0}% reduced Rarity of Items Dropped by [ContainsAbyss|Abyssal] Monsters",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42980,7 +43052,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[BreachAugment|Breach Tablets] also provide {0}% increased Rarity of Items Dropped to [ContainsBreach|Breach] Monsters",
+        "string": "[BreachAugment|Breach Tablets] also provide {0}% increased Rarity of Items Dropped by [ContainsBreach|Breach] Monsters",
         "reminder_text": null,
         "is_markup": null
       },
@@ -43000,7 +43072,7 @@
             "negate"
           ]
         ],
-        "string": "[BreachAugment|Breach Tablets] also provide {0}% reduced Rarity of Items Dropped to [ContainsBreach|Breach] Monsters",
+        "string": "[BreachAugment|Breach Tablets] also provide {0}% reduced Rarity of Items Dropped by [ContainsBreach|Breach] Monsters",
         "reminder_text": null,
         "is_markup": null
       }
@@ -43036,7 +43108,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[DeliriumAugment|Delirium Tablets] also provide {0}% increased Rarity of Items Dropped to [ContainsDelirium|Delirium] Monsters",
+        "string": "[DeliriumAugment|Delirium Tablets] also provide {0}% increased Rarity of Items Dropped by [ContainsDelirium|Delirium] Monsters",
         "reminder_text": null,
         "is_markup": null
       },
@@ -43056,7 +43128,7 @@
             "negate"
           ]
         ],
-        "string": "[DeliriumAugment|Delirium Tablets] also provide {0}% reduced Rarity of Items Dropped to [ContainsDelirium|Delirium] Monsters",
+        "string": "[DeliriumAugment|Delirium Tablets] also provide {0}% reduced Rarity of Items Dropped by [ContainsDelirium|Delirium] Monsters",
         "reminder_text": null,
         "is_markup": null
       }
@@ -43092,7 +43164,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[ExpeditionAugment|Expedition Tablets] also provide {0}% increased Rarity of Items Dropped to [ContainsExpedition|Expedition] Monsters",
+        "string": "[ExpeditionAugment|Expedition Tablets] also provide {0}% increased Rarity of Items Dropped by [ContainsExpedition|Expedition] Monsters",
         "reminder_text": null,
         "is_markup": null
       },
@@ -43112,7 +43184,7 @@
             "negate"
           ]
         ],
-        "string": "[ExpeditionAugment|Expedition Tablets] also provide {0}% reduced Rarity of Items Dropped to [ContainsExpedition|Expedition] Monsters",
+        "string": "[ExpeditionAugment|Expedition Tablets] also provide {0}% reduced Rarity of Items Dropped by [ContainsExpedition|Expedition] Monsters",
         "reminder_text": null,
         "is_markup": null
       }
@@ -43148,7 +43220,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[IncursionAugment|Temple Tablets] also provide {0}% increased Rarity of Items Dropped to [ContainsIncursion|Vaal Beacon] Monsters",
+        "string": "[IncursionAugment|Temple Tablets] also provide {0}% increased Rarity of Items Dropped by [ContainsIncursion|Vaal Beacon] Monsters",
         "reminder_text": null,
         "is_markup": null
       },
@@ -43168,7 +43240,7 @@
             "negate"
           ]
         ],
-        "string": "[IncursionAugment|Temple Tablets] also provide {0}% reduced Rarity of Items Dropped to [ContainsIncursion|Vaal Beacon] Monsters",
+        "string": "[IncursionAugment|Temple Tablets] also provide {0}% reduced Rarity of Items Dropped by [ContainsIncursion|Vaal Beacon] Monsters",
         "reminder_text": null,
         "is_markup": null
       }
@@ -43204,7 +43276,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[MapBossAugment|Overseer Precursor Tablets] also provide {0}% increased Rarity of Items Dropped to the Map Boss",
+        "string": "[MapBossAugment|Overseer Precursor Tablets] also provide {0}% increased Rarity of Items Dropped by the [MapBoss|Map Boss]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -43224,7 +43296,7 @@
             "negate"
           ]
         ],
-        "string": "[MapBossAugment|Overseer Precursor Tablets] also provide {0}% reduced Rarity of Items Dropped to the Map Boss",
+        "string": "[MapBossAugment|Overseer Precursor Tablets] also provide {0}% reduced Rarity of Items Dropped by the Map Boss",
         "reminder_text": null,
         "is_markup": null
       }
@@ -43260,7 +43332,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[RitualAugment|Ritual Tablets] also provide {0}% increased Rarity of Items Dropped to [ContainsRitual|Ritual] Monsters",
+        "string": "[RitualAugment|Ritual Tablets] also provide {0}% increased Rarity of Items Dropped by [ContainsRitual|Ritual] Monsters",
         "reminder_text": null,
         "is_markup": null
       },
@@ -43280,7 +43352,7 @@
             "negate"
           ]
         ],
-        "string": "[RitualAugment|Ritual Tablets] also provide {0}% reduced Rarity of Items Dropped to [ContainsRitual|Ritual] Monsters",
+        "string": "[RitualAugment|Ritual Tablets] also provide {0}% reduced Rarity of Items Dropped by [ContainsRitual|Ritual] Monsters",
         "reminder_text": null,
         "is_markup": null
       }
@@ -44218,7 +44290,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[MapBossAugment|Overseer Tablets] also provide {0}% increased [MonsterEffectiveness|Effectiveness] to the Map Boss",
+        "string": "[MapBossAugment|Overseer Tablets] also provide {0}% increased [MonsterEffectiveness|Effectiveness] to the [MapBoss|Map Boss]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -46436,7 +46508,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Arbiter drops an additional [Corrupted] [Rarity|Rare] [Tablet|Tablets]",
+        "string": "Arbiter drops an additional [Corrupted] [Rarity|Rare] [Tablet|Tablet]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -47314,7 +47386,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] release the [AzmeriSpirit|Azmeri Spirit] when opened",
+        "string": "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] manifest the [AzmeriSpirit|Azmeri Spirit] when opened",
         "reminder_text": null,
         "is_markup": null
       },
@@ -47332,7 +47404,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] have a {0}% chance to release the [AzmeriSpirit|Azmeri Spirit] when opened",
+        "string": "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] have a {0}% chance to manifest the [AzmeriSpirit|Azmeri Spirit] when opened",
         "reminder_text": null,
         "is_markup": null
       }
@@ -49359,6 +49431,42 @@
         "index_handlers": [
           []
         ],
+        "string": "Tribute already offered to the King may be used to Defer items",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_ritual_can_defer_with_offered_tribute"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
         "string": "Cannot Reroll Favours at [ContainsRitual|Ritual Altars] in your Maps",
         "reminder_text": null,
         "is_markup": null
@@ -49487,7 +49595,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Deferring Favours at [ContainsRitual|Ritual Altars] in your Maps costs {0}% increased Tribute",
+        "string": "Deferring Favours at [ContainsRitual|Ritual Altars] costs {0}% increased Tribute",
         "reminder_text": null,
         "is_markup": null
       },
@@ -49507,7 +49615,7 @@
             "negate"
           ]
         ],
-        "string": "Deferring Favours at [ContainsRitual|Ritual Altars] in your Maps costs {0}% reduced Tribute",
+        "string": "Deferring Favours at [ContainsRitual|Ritual Altars] costs {0}% reduced Tribute",
         "reminder_text": null,
         "is_markup": null
       }
@@ -49543,7 +49651,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Favours Deferred at [ContainsRitual|Ritual Altars] in your Maps reappear {0}% sooner",
+        "string": "Favours Deferred at [ContainsRitual|Ritual Altars] reappear {0}% sooner",
         "reminder_text": null,
         "is_markup": null
       }
@@ -50140,6 +50248,62 @@
     ],
     "ids": [
       "map_ritual_offered_ritual_splinter_reward_stack_size_+%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "Deferring Favours using Tribute already offered to the King costs {0}% more Offered Tribute",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": -1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          [
+            "negate"
+          ]
+        ],
+        "string": "Deferring Favours using Tribute already offered to the King costs {0}% less Offered Tribute",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_ritual_offered_tribute_deferral_cost_+%"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -51686,6 +51850,62 @@
     ],
     "ids": [
       "map_rogue_exile_items_drop_exceptional_chance_+%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[SpiritPossessed|Possessed] [RogueExile|Rogue Exiles] have {0}% increased chance to drop [ExceptionalItem|Exceptional Items]",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": -1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          [
+            "negate"
+          ]
+        ],
+        "string": "[SpiritPossessed|Possessed] [RogueExile|Rogue Exiles] have {0}% reduced chance to drop [ExceptionalItem|Exceptional Items]",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_rogue_exile_items_drop_exceptional_chance_+%_if_possessed"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -53564,7 +53784,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Shrine|Shrines] have a {0}% chance to release an [AzmeriSpirit|Azmeri Spirit], the Shrine Buff is reapplied when it [SpiritPossessed|Possesses] a monster",
+        "string": "[Shrine|Shrines] have a {0}% chance to manifest an [AzmeriSpirit|Azmeri Spirit], the Shrine Buff is reapplied when it [SpiritPossessed|Possesses] a monster",
         "reminder_text": null,
         "is_markup": null
       }
@@ -55914,7 +56134,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [StoneSummoningCircle|Summoning Circle] Bosses in your Maps have {0}% chance to release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] [StoneSummoningCircle|Summoning Circle] Bosses have {0}% chance to [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       },
@@ -55932,7 +56152,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [StoneSummoningCircle|Summoning Circle] Bosses in your Maps release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] [StoneSummoningCircle|Summoning Circle] Bosses [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       }
@@ -55975,6 +56195,114 @@
     ],
     "ids": [
       "map_stone_circle_upgrade_nearby_map_boss_chance_%"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "Arcane [Strongbox|Strongboxes] can roll additional Prefix Modifiers that cause them to contain items with particular Granted Skill Types",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_strongbox_arcane_can_roll_modifiers_forcing_implicits"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "Armourer's [Strongbox|Strongboxes] can roll additional Prefix Modifiers that cause them to contain particular [EquipArmour|Armour Types]",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_strongbox_armourer_can_roll_modifiers_forcing_armour_slot"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "Blacksmith's [Strongbox|Strongboxes] can roll additional Prefix Modifiers that cause them to contain particular [MartialWeapon|Weapons] or Quivers",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_strongbox_blacksmith_can_roll_modifiers_forcing_weapon_types"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -57581,6 +57909,62 @@
     ],
     "ids": [
       "map_strongboxes_have_+%_quantity_per_mod"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] have {0}% increased Item Rarity",
+        "reminder_text": null,
+        "is_markup": null
+      },
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": -1,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          [
+            "negate"
+          ]
+        ],
+        "string": "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] have {0}% reduced Item Rarity",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "map_strongboxes_have_+%_rarity_if_possessed"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -59460,7 +59844,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] Monsters have {0}% chance to release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] Monsters have {0}% chance to [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       },
@@ -59478,7 +59862,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] Monsters release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] Monsters [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       }
@@ -60854,7 +61238,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [Rarity|Unique] Monsters have {0}% chance to release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] [Rarity|Unique] Monsters have {0}% chance to [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       },
@@ -60872,7 +61256,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[SpiritPossessed|Possessed] [Rarity|Unique] Monsters release [AzmeriSpirit|Spirits] on death",
+        "string": "[SpiritPossessed|Possessed] [Rarity|Unique] Monsters [ReleaseAzmeriSpirits|Release Spirits] on death",
         "reminder_text": null,
         "is_markup": null
       }

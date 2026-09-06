@@ -207,7 +207,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Limit] {0} Fractured Mimics",
+        "string": "[Limit] {0} Fractured Mimic",
         "reminder_text": null,
         "is_markup": null
       },

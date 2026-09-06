@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Projectile] [Chain|Chains] an additional time on first hitting a [Shock|Shocked] or [Electrocute|Electrocuted] enemy, releasing a Shockwave on each [HitDamage|Hit]",
+        "string": "[Projectile] [Chain|Chains] an additional time on first hitting a [Shock|Shocked] or [Electrocute|Electrocuted] enemy, releasing a Shockwave on each [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -33,7 +33,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Projectile] [Chain|Chains] {0} additional times on first hitting a [Shock|Shocked] or [Electrocute|Electrocuted] enemy, releasing a Shockwave on each [HitDamage|Hit]",
+        "string": "[Projectile] [Chain|Chains] {0} additional times on first hitting a [Shock|Shocked] or [Electrocute|Electrocuted] enemy, releasing a Shockwave on each [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

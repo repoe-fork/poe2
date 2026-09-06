@@ -191,7 +191,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Tornado [HitDamage|Hit] interval@{0}s",
+        "string": "Tornado [Hit] interval@{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -211,7 +211,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Tornadoes [HitDamage|Hit] enemies once per second",
+        "string": "Tornadoes [Hit] enemies once per second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -231,7 +231,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Tornadoes [HitDamage|Hit] enemies every {0} seconds",
+        "string": "Tornadoes [Hit] enemies every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }

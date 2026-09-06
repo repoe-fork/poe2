@@ -241,7 +241,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% Chance to draw out an Unstable Apparition from [Rarity|Rare] or [Rarity|Unique] enemies you [HitDamage|Hit]",
+        "string": "{0}% Chance to draw out an Unstable Apparition from [Rarity|Rare] or [Rarity|Unique] enemies you [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -259,7 +259,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Draws out an Unstable Apparition from [Rarity|Rare] or [Rarity|Unique] enemies you [HitDamage|Hit]",
+        "string": "Draws out an Unstable Apparition from [Rarity|Rare] or [Rarity|Unique] enemies you [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -297,7 +297,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Draws out an Unstable Apparition from enemies you kill with [Melee] [HitDamage|Hits], no more than once every {0} second",
+        "string": "Draws out an Unstable Apparition from enemies you kill with [Melee] [Hit|Hits], no more than once every {0} second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -317,7 +317,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Draws out an Unstable Apparition from enemies you kill with [Melee] [HitDamage|Hits], no more than once every {0} seconds",
+        "string": "Draws out an Unstable Apparition from enemies you kill with [Melee] [Hit|Hits], no more than once every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }

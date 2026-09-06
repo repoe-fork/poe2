@@ -914,7 +914,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "mechanical buff for handling soul eater shile using flask",
+          "description": "mechanical buff for handling soul eater while using flask",
           "name": null
         },
         {
@@ -1830,14 +1830,6 @@
           "name": null
         },
         {
-          "id": "basilisk_gaze",
-          "buff_id": null,
-          "buff_category": "Buff",
-          "item": null,
-          "description": null,
-          "name": null
-        },
-        {
           "id": "ruthless_big_hit_counter",
           "buff_id": null,
           "buff_category": null,
@@ -2570,7 +2562,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "The darkness is overwhelming, you are dying. Get to the light!",
+          "description": "The darkness is overwhelming; you are dying. Get to the light!",
           "name": null
         },
         {
@@ -8834,7 +8826,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "Skill [HitDamage|Hits] against [Shock|Shocked] enemies in your [Presence] also [HitDamage|Hit] other [Shock|Shocked] enemies in your [Presence].",
+          "description": "Skill [Hit|Hits] against [Shock|Shocked] enemies in your [Presence] also [Hit] other [Shock|Shocked] enemies in your [Presence].",
           "name": "Fulmination"
         },
         {
@@ -10903,7 +10895,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Each Druidic Prowess grants 10% increased [SkillSpeed|Skill Speed] and causes [HitDamage|Hits] with [Spell] Damage to grant 3 [Rage]. Maximum 3 Druidic Prowess.",
+          "description": "Each Druidic Prowess grants 10% increased [SkillSpeed|Skill Speed] and causes [Hit|Hits] with [Spell] Damage to grant 3 [Rage]. Maximum 3 Druidic Prowess.",
           "name": "Druidic Prowess"
         }
       ]
@@ -11462,7 +11454,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Attacks with fervor",
+          "description": "Attacks with fervour",
           "name": "Brutal Attack"
         }
       ]
@@ -15614,7 +15606,7 @@
           "buff_category": "Buff shrine",
           "item": null,
           "description": "You cannot be Chilled, Frozen or Stunned. You take some Physical Damage as Cold Damage.",
-          "name": "Tsoagoth  Shrine"
+          "name": "Tsoagoth Shrine"
         },
         {
           "id": "shrine_lunaris_monster",
@@ -17480,7 +17472,7 @@
           "buff_category": "Herald",
           "item": null,
           "description": "Overkilling an enemy will burn nearby enemies based on overkill damage.",
-          "name": "Herald Of Ash"
+          "name": "Herald of Ash"
         }
       ]
     },
@@ -17499,7 +17491,7 @@
           "buff_category": "Herald",
           "item": null,
           "description": "Shattering an enemy deals cold damage to nearby enemies.",
-          "name": "Herald Of Ice"
+          "name": "Herald of Ice"
         }
       ]
     },
@@ -17518,7 +17510,7 @@
           "buff_category": "Herald",
           "item": null,
           "description": "Killing a shocked enemy will cause your next few attack hits to call down lightning bolts.",
-          "name": "Herald Of Thunder"
+          "name": "Herald of Thunder"
         }
       ]
     },
@@ -17909,7 +17901,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "Light Radius, Item Rarity and Item Quantity decays over time, and is increased by kills.",
+          "description": "Light Radius, Item Rarity and Item Quantity decays over time, and are increased by kills.",
           "name": "Creeping Darkness"
         }
       ]
@@ -19175,7 +19167,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "When you are [HitDamage|Hit] by a [Melee] [Attack], you retaliate with [Cold] Damage but lose a stage.",
+          "description": "When you are [Hit] by a [Melee] [Attack], you retaliate with [Cold] Damage but lose a stage.",
           "name": "Arctic Armour"
         },
         {
@@ -19864,7 +19856,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You have Phasing, allowing you to move through enemies, move faster, are less visible to enemies and deal more Melee Physical Damage. ",
+          "description": "You have Phasing, allowing you to move through enemies. You move faster, are less visible to enemies and deal more Melee Physical Damage. ",
           "name": "Phase Run"
         }
       ]
@@ -20256,7 +20248,7 @@
           "buff_category": "Debuff",
           "item": null,
           "description": "You are taking Burning Damage",
-          "name": "Offering Of Judgement"
+          "name": "Offering of Judgement"
         }
       ]
     },
@@ -20363,7 +20355,7 @@
           "buff_category": "Debuff",
           "item": null,
           "description": "You are taking Chaos Damage Over Time",
-          "name": "Offering Of Judgement"
+          "name": "Offering of Judgement"
         }
       ]
     },
@@ -23101,7 +23093,7 @@
           "buff_category": "Debuff",
           "item": null,
           "description": "Movement speed [Slow|Slowed] and takes increased [Fire] damage.",
-          "name": "Covered In Ash"
+          "name": "Covered in Ash"
         }
       ]
     },
@@ -24533,7 +24525,18 @@
     "description": "You are becoming Petrified.",
     "icon": "Art/2DArt/BuffIcons/Petrified.dds",
     "name": "Stone Gaze",
-    "sources": null,
+    "sources": {
+      "BuffDefinitions": [
+        {
+          "id": "basilisk_gaze",
+          "buff_id": null,
+          "buff_category": "Buff",
+          "item": null,
+          "description": null,
+          "name": null
+        }
+      ]
+    },
     "sounds": null,
     "custom_frame": null
   },
@@ -25150,7 +25153,7 @@
           "buff_category": "Debuff",
           "item": null,
           "description": "You cannot move.",
-          "name": "Crystalised Fear"
+          "name": "Crystallised Fear"
         }
       ]
     },
@@ -26194,7 +26197,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Craiceann's Roar reduces your damage, speed, and increases your damage taken.",
+          "description": "Craiceann's Roar reduces your damage and speed, and increases your damage taken.",
           "name": "Craiceann's Torment"
         }
       ]
@@ -26276,7 +26279,7 @@
           "buff_category": null,
           "item": null,
           "description": "You can break free from the web",
-          "name": "Trapped in cocoon"
+          "name": "Trapped in a cocoon"
         }
       ]
     },
@@ -26359,7 +26362,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Grants 1% increased movement speed, 2% increased [SkillSpeed|Skill Speed], 10% increased [Evasion] Rating and prevent 1% of Damage from [Deflect|Deflected] [HitDamage|Hits] per stack. Maximum 10 stacks.",
+          "description": "Grants 1% increased movement speed, 2% increased [SkillSpeed|Skill Speed], 10% increased [Evasion] Rating and prevent 1% of Damage from [Deflect|Deflected] [Hit|Hits] per stack. Maximum 10 stacks.",
           "name": "Tailwind"
         }
       ]
@@ -27335,7 +27338,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "The darkness is overwhelming, you are dying. Get to the light!",
+          "description": "The darkness is overwhelming; you are dying. Get to the light!",
           "name": "Darkness"
         }
       ]
@@ -27543,7 +27546,7 @@
           "buff_category": "Herald",
           "item": null,
           "description": "You have additional chance to Poison and deal More Poison Damage.",
-          "name": "Herald Of Agony"
+          "name": "Herald of Agony"
         },
         {
           "id": "herald_of_agony_reservation",
@@ -27950,7 +27953,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "[Impale|Impaled], subsequent [HitDamage|Hits] inflict additional hit damage.",
+          "description": "[Impale|Impaled], subsequent [Hit|Hits] inflict additional hit damage.",
           "name": "Impaled"
         }
       ]
@@ -29644,7 +29647,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You are in Sand Stance, deal less area damage with melee attacks, and have more area of effect with melee attacks.",
+          "description": "You are in [ReadyStance|Sand Stance].",
           "name": "Sand Stance"
         },
         {
@@ -29671,7 +29674,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You are in Blood Stance, deal more area damage with melee attacks, and have less area of effect with melee attacks.",
+          "description": "You are in [ReadyStance|Blood Stance].",
           "name": "Blood Stance"
         },
         {
@@ -30186,7 +30189,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "You are currently receiving some Stash Tabs and Cosmetic Microtransactions because you are playing from a PC Bang.\n\nOnce the league's Mystery Box has been released, you will receive a free Mystery Box every six hours. There is a maximum of 10 free boxes.",
+          "description": "You are currently receiving some Stash Tabs and Cosmetic Microtransactions because you are playing from a PC Bang. \r\n\r\nOnce the league's Mystery Box has been released, you will receive a free Mystery Box every six hours. There is a maximum of 10 free boxes.",
           "name": "PC Bang Entitlements"
         }
       ]
@@ -30404,7 +30407,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "While active, store a percentage of the [Poison|Poison] Damage you deal, up to a cap.\nActivate Plague Nova to deal [Physical|Physical] Damage to enemies around you based on the amount of stored [Poison|Poison].",
+          "description": "While active, store a percentage of the [Poison|Poison] Damage you deal, up to a cap.\r\nActivate Plague Nova to deal [Physical|Physical] Damage to enemies around you based on the amount of stored [Poison|Poison].",
           "name": "Plague Bearer"
         }
       ]
@@ -30577,14 +30580,6 @@
         }
       ]
     },
-    "sounds": null,
-    "custom_frame": null
-  },
-  "corrosive_shroud_buff_aura_active": {
-    "description": null,
-    "icon": "Art/2DArt/SkillIcons/PlagueBearerUnleashing.dds",
-    "name": null,
-    "sources": null,
     "sounds": null,
     "custom_frame": null
   },
@@ -33258,7 +33253,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "[DNT] [HitDamage|Hits] against enemies affected by [FaerieFire|Faerie Fire] gain Extra Damage as a random [ElementalDamage|Element]",
+          "description": "[DNT] [Hit|Hits] against enemies affected by [FaerieFire|Faerie Fire] gain Extra Damage as a random [ElementalDamage|Element]",
           "name": "Faerie Fire"
         }
       ]
@@ -34454,7 +34449,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Movement speed [Slow|Slowed] and  inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills will [Ignite] the Oil.",
+          "description": "Movement speed [Slow|Slowed] and inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills will [Ignite] the Oil.",
           "name": "Oiled Ground"
         }
       ]
@@ -35021,7 +35016,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "[ElementalDamage|Elemental Damage] from [HitDamage|Hits] is taken from this [Buff] before your Life or [EnergyShield|Energy Shield].",
+          "description": "[ElementalDamage|Elemental Damage] from [Hit|Hits] is taken from this [Buff] before your Life or [EnergyShield|Energy Shield].",
           "name": "Sorcery Ward"
         },
         {
@@ -35869,7 +35864,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "You have Ruin. On reaching 7 Ruin, you will fail the Trials",
+          "description": "You have [UltimatumRuin|Ruin]. On reaching 7 Ruin, you will fail the Trials",
           "name": "Ruin"
         }
       ]
@@ -38113,14 +38108,6 @@
     "sounds": null,
     "custom_frame": null
   },
-  "corrosive_shroud_aura_stygian": {
-    "description": null,
-    "icon": "Art/2DArt/SkillIcons/PlagueBearerUnleashing.dds",
-    "name": null,
-    "sources": null,
-    "sounds": null,
-    "custom_frame": null
-  },
   "penance_brand_celestial_charge": {
     "description": null,
     "icon": "Art/2DArt/SkillIcons/PhysicalLightningBrand.dds",
@@ -38919,7 +38906,7 @@
           "buff_category": "Debuff",
           "item": null,
           "description": "You Critical Strike chance is lowered and you take Increased Cold Damage.",
-          "name": "Covered In Frost"
+          "name": "Covered in Frost"
         }
       ]
     },
@@ -39993,14 +39980,6 @@
     "sounds": null,
     "custom_frame": null
   },
-  "corrosive_shroud_aura_celestial": {
-    "description": null,
-    "icon": "Art/2DArt/SkillIcons/PlagueBearerUnleashing.dds",
-    "name": null,
-    "sources": null,
-    "sounds": null,
-    "custom_frame": null
-  },
   "sentinel_tag_visual_red": {
     "description": null,
     "icon": null,
@@ -40701,7 +40680,7 @@
           "buff_category": "Buff shrine",
           "item": null,
           "description": "You cannot be Chilled, Frozen or Stunned. You take some Physical Damage as Cold Damage.",
-          "name": "Tsoagoth  Shrine"
+          "name": "Tsoagoth Shrine"
         }
       ]
     },
@@ -42111,19 +42090,22 @@
     "description": null,
     "icon": null,
     "name": null,
-    "sources": null,
+    "sources": {
+      "BuffDefinitions": [
+        {
+          "id": "visual_burnt_death",
+          "buff_id": null,
+          "buff_category": null,
+          "item": null,
+          "description": null,
+          "name": null
+        }
+      ]
+    },
     "sounds": null,
     "custom_frame": null
   },
-  "burnt_death_loop": {
-    "description": null,
-    "icon": null,
-    "name": null,
-    "sources": null,
-    "sounds": null,
-    "custom_frame": null
-  },
-  "burnt_death_remove": {
+  "burnt_death_ghostflame": {
     "description": null,
     "icon": null,
     "name": null,
@@ -42768,7 +42750,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "All damage from [HitDamage|Hits] is taken from this buff before your Life or [EnergyShield|Energy Shield].",
+          "description": "All damage from [Hit|Hits] is taken from this buff before your Life or [EnergyShield|Energy Shield].",
           "name": "Guard"
         }
       ]
@@ -42876,6 +42858,22 @@
         }
       ]
     },
+    "sounds": null,
+    "custom_frame": null
+  },
+  "heat_stygian": {
+    "description": null,
+    "icon": "Art/2DArt/SkillIcons/RapidShotIncendiary.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "heat_buccaneer": {
+    "description": null,
+    "icon": "Art/2DArt/SkillIcons/RapidShotIncendiary.dds",
+    "name": null,
+    "sources": null,
     "sounds": null,
     "custom_frame": null
   },
@@ -43548,7 +43546,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [HitDamage|Hits] except on players.",
+          "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [Hit|Hits] except on players.",
           "name": "Fully Broken Armour"
         },
         {
@@ -44065,7 +44063,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Movement speed [Slow|Slowed] and  inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills are guaranteed to [Ignite].",
+          "description": "Movement speed [Slow|Slowed] and inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills are guaranteed to [Ignite].",
           "name": "Covered in Oil"
         }
       ]
@@ -44427,7 +44425,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "You create [Remnant|Hateful Remnants] when you [HitDamage|Hit] or kill [Bleeding] enemies. Walking over a [Remnant|Hateful Remnant] consumes it to grant you [Rage] and causes you to recover Life based on your current [Rage].",
+          "description": "You create [Remnant|Hateful Remnants] when you [Hit] or kill [Bleeding] enemies. Walking over a [Remnant|Hateful Remnant] consumes it to grant you [Rage] and causes you to recover Life based on your current [Rage].",
           "name": "Sanguine Revelry"
         }
       ]
@@ -45940,7 +45938,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Time has been Frozen, unable to move.",
+          "description": "Time has been Frozen, you are unable to move.",
           "name": "Time Freeze"
         }
       ]
@@ -47292,7 +47290,7 @@
           "buff_category": "Herald",
           "item": null,
           "description": "Slain Enemies with [BloodLoss|Blood Loss] explode dealing [Physical] [Attack] Damage",
-          "name": "Herald Of Blood"
+          "name": "Herald of Blood"
         }
       ]
     },
@@ -47471,6 +47469,25 @@
       "BuffTemplates": [
         {
           "id": "AzmeriDustVisualPrimal",
+          "buff_id": "visual_display_buff_not_hidden",
+          "buff_category": null,
+          "item": null,
+          "description": null,
+          "name": null
+        }
+      ]
+    },
+    "sounds": null,
+    "custom_frame": null
+  },
+  "azmeri_dust_infused_sacred": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": {
+      "BuffTemplates": [
+        {
+          "id": "AzmeriDustVisualSacred",
           "buff_id": "visual_display_buff_not_hidden",
           "buff_category": null,
           "item": null,
@@ -48317,7 +48334,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Debuff tracks [HitDamage|Damage] taken. When it expires, a portion of that damage will be taken again.",
+          "description": "Debuff tracks [Hit|Damage] taken. When it expires, a portion of that damage will be taken again.",
           "name": "Inevitable Agony"
         }
       ]
@@ -49496,7 +49513,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [HitDamage|Hits] except on players.",
+          "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [Hit|Hits] except on players.",
           "name": "Sundered Armour"
         }
       ]
@@ -49515,7 +49532,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "Runic Plates protect you, preventing damage from and backlashing against a number of [HitDamage|Hits] you take.",
+          "description": "Runic Plates protect you, preventing damage from and backlashing against a number of [Hit|Hits] you take.",
           "name": "Runic Plates"
         }
       ]
@@ -49618,7 +49635,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Each [Attack] [HitDamage|Hit] taken has added [Physical] damage.",
+          "description": "Each [Attack] [Hit] taken has added [Physical] damage.",
           "name": "Riven Armour"
         }
       ]
@@ -49637,7 +49654,7 @@
           "buff_id": null,
           "buff_category": "Debuff",
           "item": null,
-          "description": "Each [Attack] [HitDamage|Hit] taken has added [Physical] damage.",
+          "description": "Each [Attack] [Hit] taken has added [Physical] damage.",
           "name": "Broken Stance"
         }
       ]
@@ -50280,7 +50297,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You deal more [Fire] Damage with [Spell|Spells].\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Fire. \nMore [Ignite] chance with Spells.",
+          "description": "You deal more [Fire] Damage with [Spell|Spells].\r\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Fire.\r\nMore [Ignite] chance with Spells.",
           "name": "Flame Archon"
         }
       ]
@@ -50299,7 +50316,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You deal more [Cold] Damage with [Spell|Spells]. \n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Cold. \nMore [Freeze] Buildup with Spells.",
+          "description": "You deal more [Cold] Damage with [Spell|Spells].\r\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Cold. \nMore [Freeze] Buildup with Spells.",
           "name": "Ice Archon"
         }
       ]
@@ -50318,7 +50335,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You deal more [Lightning] Damage with [Spell|Spells].\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Lightning. \nMore [Shock] chance with Spells.",
+          "description": "You deal more [Lightning] Damage with [Spell|Spells].\r\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Lightning.\r\nMore [Shock] chance with Spells.",
           "name": "Lightning Archon"
         }
       ]
@@ -50337,7 +50354,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You deal more [ElementalDamage|Elemental Damage] with [Spell|Spells]. \nMore [Ignite] chance with Spells. \nMore [Freeze] Buildup with Spells. \nMore [Shock] chance with Spells.",
+          "description": "You deal more [ElementalDamage|Elemental Damage] with [Spell|Spells]. \r\nMore [Ignite] chance with Spells. \nMore [Freeze] Buildup with Spells.\r\nMore [Shock] chance with Spells.",
           "name": "Elemental Archon"
         }
       ]
@@ -50364,7 +50381,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Your [Minion|Minions] deal more Damage. \nMore [CooldownRecovery|Cooldown Recovery Rate] for [Command] Skills. \nMore [Limit] of [TemporaryMinion|Temporary Minion Skills].",
+          "description": "Your [Minion|Minions] deal more Damage.\r\nMore [CooldownRecovery|Cooldown Recovery Rate] for [Command] Skills.\r\nMore [Limit] of [TemporaryMinion|Temporary Minion Skills].",
           "name": "Archon of Undeath"
         }
       ]
@@ -50383,7 +50400,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You deal more Damage with [Plant] Skills. \nMore Skill Effect Duration with [Plant] Skills. \n[Plant] Skills are Overgrown. \nAdditional [Limit] to [Plant] Skills.",
+          "description": "You deal more Damage with [Plant] Skills.\r\nMore Skill Effect Duration with [Plant] Skills.\r\n[Plant] Skills are Overgrown.\r\nAdditional [Limit] to [Plant] Skills.",
           "name": "Nature's Archon"
         }
       ]
@@ -50467,7 +50484,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Twilight Priest's are empowering Torvian with Shock, Chill, Ignite and Freeze with all hits.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
+          "description": "Twilight Priests are empowering Torvian with Shock, Chill, Ignite and Freeze with all hits.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
           "name": "Twilight Order's Sword"
         }
       ]
@@ -50486,7 +50503,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Twilight Priest's are empowering Torvian with improved Defences.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
+          "description": "Twilight Priests are empowering Torvian with improved Defences.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
           "name": "Twilight Order's Shield"
         }
       ]
@@ -50505,7 +50522,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Twilight Priest's are empowering Torvian with immunity to stun and ailments.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
+          "description": "Twilight Priests are empowering Torvian with immunity to stun and ailments.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
           "name": "Twilight Order's Faith"
         }
       ]
@@ -50746,7 +50763,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Your Skill costs are increased, you are regenerating Life, and your [Projectile] [Attack|Attacks] are creating Toxic Pustules on enemies [HitDamage|Hit].",
+          "description": "Your Skill costs are increased, you are regenerating Life, and your [Projectile] [Attack|Attacks] are creating Toxic Pustules on enemies [Hit].",
           "name": "Toxic Bloom"
         }
       ]
@@ -51012,7 +51029,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Skill [HitDamage|Hits] against [Shock|Shocked] enemies in your [Presence] also [HitDamage|Hit] other [Shock|Shocked] enemies in your [Presence].",
+          "description": "Skill [Hit|Hits] against [Shock|Shocked] enemies in your [Presence] also [Hit] other [Shock|Shocked] enemies in your [Presence].",
           "name": "Fulmination"
         }
       ]
@@ -51689,7 +51706,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "Getting [HitDamage|Hit] by an enemy will [Trigger] Deadly Resolve, dealing [Physical] damage in an area towards that enemy.",
+          "description": "Getting [Hit] by an enemy will [Trigger] Deadly Resolve, dealing [Physical] damage in an area towards that enemy.",
           "name": "Deadly Resolve"
         }
       ]
@@ -52735,7 +52752,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You deal more [Physical] and [Chaos] Damage, [Withered|Wither] enemies on [HitDamage|Hit] and periodically create [Chaos] Tornados.",
+          "description": "You deal more [Physical] and [Chaos] Damage, [Withered|Wither] enemies on [Hit] and periodically create [Chaos] Tornados.",
           "name": "Archon of Chayula"
         }
       ]
@@ -52921,7 +52938,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "FinalStrike|Final Strikes] have 100% increased [Critical|Critical Hit Chance].\r\n[Strike] skills skip to their [FinalStrike|Final Strike] if they have one.\r\nSkills cannot gain [Combo].",
+          "description": "[FinalStrike|Final Strikes] have 100% increased [Critical|Critical Hit Chance].\r\n[Strike] skills skip to their [FinalStrike|Final Strike] if they have one.\r\nSkills cannot gain [Combo].",
           "name": "Finality"
         }
       ]
@@ -53125,7 +53142,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Your [Attack|Attacks] deal more damage, you take less damage from small [HitDamage|Hits], and you have more [StunThreshold|Stun Threshold].",
+          "description": "Your [Attack|Attacks] deal more damage, you take less damage from small [Hit|Hits], and you have more [StunThreshold|Stun Threshold].",
           "name": "Mountain's Teachings"
         }
       ]
@@ -53303,7 +53320,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "Automatically [Block] [HitDamage|Hits] from all directions and apply [ParriedDebuff|Parried] to enemies you [Block].",
+          "description": "Automatically [Block] [Hit|Hits] from all directions and apply [ParriedDebuff|Parried] to enemies you [Block].",
           "name": "Refutation"
         }
       ]
@@ -53330,7 +53347,7 @@
           "buff_id": null,
           "buff_category": "Hex",
           "item": null,
-          "description": "[HitDamage|Hitting] this enemy will [Trigger] a Repulsion Shockwave.",
+          "description": "[Hit|Hitting] this enemy will [Trigger] a Repulsion Wave.",
           "name": "Repulsion"
         }
       ]
@@ -53495,7 +53512,7 @@
           "buff_id": null,
           "buff_category": "Buff",
           "item": null,
-          "description": "You create [Ward|Runic Ward] [Remnant|Remnants] when you [Stun] or kill an enemy. Walking over a [Ward|Runic Ward] [Remnant] recovers your [Ward|Runic Ward].",
+          "description": "You create [Ward|Runic Ward] [Remnant|Remnants] when you [Stun] or kill an enemy. Walking over a [Ward|Runic Ward] [Remnant] consumes it to restore your [Ward|Runic Ward].",
           "name": "Remnants of Kalguur"
         }
       ]
@@ -53552,7 +53569,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+          "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [Hit].",
           "name": "Strength Motes"
         },
         {
@@ -53560,7 +53577,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+          "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [Hit].",
           "name": "Strength Motes"
         }
       ]
@@ -53579,7 +53596,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+          "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [Hit].",
           "name": "Dexterity Motes"
         },
         {
@@ -53587,7 +53604,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+          "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [Hit].",
           "name": "Dexterity Motes"
         }
       ]
@@ -53606,7 +53623,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+          "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [Hit].",
           "name": "Intelligence Motes"
         },
         {
@@ -53614,7 +53631,7 @@
           "buff_id": null,
           "buff_category": "Active skill",
           "item": null,
-          "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+          "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [Hit].",
           "name": "Intelligence Motes"
         }
       ]
@@ -53679,7 +53696,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "[Block] [HitDamage|Hits] against you. Damage is taken from [Ward|Runic Ward] before Life while this is active.",
+          "description": "[Block] [Hit|Hits] against you. Damage is taken from [Ward|Runic Ward] before Life while this is active.",
           "name": "Runic Reprieve"
         }
       ]
@@ -53707,7 +53724,7 @@
     "custom_frame": null
   },
   "manifest_rune_reservation": {
-    "description": "Your [Attack] [HitDamage|Hits] [Trigger] Manifest Rune to summon Verisium Manifestations.",
+    "description": "Your [Attack] [Hit|Hits] [Trigger] Manifest Rune to summon Verisium Manifestations.",
     "icon": null,
     "name": "Verisium Manifestations",
     "sources": {
@@ -53970,7 +53987,119 @@
     "sounds": null,
     "custom_frame": null
   },
+  "mtx_disease_vector_power_charge_1_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_endurance_charge_1_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_frenzy_charge_1_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_power_charge_mastery_1_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_endurance_charge_mastery_1_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_frenzy_charge_mastery_1_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_power_charge_2_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_endurance_charge_2_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_frenzy_charge_2_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_power_charge_mastery_2_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_endurance_charge_mastery_2_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_disease_vector_frenzy_charge_mastery_2_attached": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
   "verisium_poison": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "abyssal_poison": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "divine_poison": {
     "description": null,
     "icon": null,
     "name": null,
@@ -54088,7 +54217,7 @@
           "buff_id": null,
           "buff_category": null,
           "item": null,
-          "description": "You have increased [ItemRarity|Item Rarity] in [Breach] Hives",
+          "description": "You have increased [ItemRarity|Item Rarity] in [ContainsBreach|Breach] Hives",
           "name": "Dreamer's Gift"
         }
       ]
@@ -54116,6 +54245,246 @@
     "custom_frame": null
   },
   "energy_release_hit_visual_darkshard": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "tempest_bell_ignited_stone_bender": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/buffonfire.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "tempest_bell_frozen_stone_bender": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/buffchilled.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "tempest_bell_shocked_stone_bender": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/buffshocked.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_verisium_armour_broken": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/ArmourBreak2BuffIcon.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_verisium_riven_armour": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/HighVelocityRoundsBreakBuff.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "emergency_reload_verisium": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_shocked_spirit_walker": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "plague_bearer_buff_blight": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "corrosive_shroud_buff_at_max_damage_blight": {
+    "description": null,
+    "icon": "Art/2DArt/SkillIcons/PlagueBearerMaxPoison.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "covered_in_oil_abyssal": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/CoveredInOilDebuff.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "covered_in_oil_divine": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/CoveredInOilDebuff.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_ignited_stygian": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "contagion_king_in_the_mists": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "contagion_inactive_king_in_the_mists": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "siphon_king_in_the_mists": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "ritual_of_power_king_in_the_mists": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "tempest_bell_ignited_disease_vector": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/buffonfire.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "tempest_bell_frozen_disease_vector": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/buffchilled.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "tempest_bell_shocked_disease_vector": {
+    "description": null,
+    "icon": "Art/2DArt/BuffIcons/buffshocked.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "siphon_vampiric": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "contagion_vampiric": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "contagion_inactive_vampiric": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "electrocute_abyssal": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_ignited_buccaneer": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_chilled_stonebender": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_frozen_stonebender": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_shocked_stonebender": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "electrocute_stonebender": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_shocked_divine": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "electrocute_divine": {
     "description": null,
     "icon": null,
     "name": null,

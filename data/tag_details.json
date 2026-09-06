@@ -1,44 +1,4 @@
 {
-  "1HAxe_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "1HBluntMetal_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "1HBluntStone_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "1HBluntWood_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "1HSword_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "2HAxe_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "2HBluntMetal_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "2HBluntStone_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "2HBluntWood_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
-  "2HSharpMetal_onhit_audio": {
-    "name": "",
-    "used_in_crafting": false
-  },
   "2h_axe_adjudicator": {
     "name": "",
     "used_in_crafting": false
@@ -115,11 +75,23 @@
     "name": "",
     "used_in_crafting": false
   },
-  "Beast_onhit_audio": {
+  "Axe1HMetal_onhit_audio": {
     "name": "",
     "used_in_crafting": false
   },
-  "Claw_onhit_audio": {
+  "Axe1HStone_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Axe2HMetal_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Axe2HStone_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Beast_onhit_audio": {
     "name": "",
     "used_in_crafting": false
   },
@@ -135,7 +107,7 @@
     "name": "",
     "used_in_crafting": false
   },
-  "Flail_onhit_audio": {
+  "FlailMetal_onhit_audio": {
     "name": "",
     "used_in_crafting": false
   },
@@ -144,6 +116,30 @@
     "used_in_crafting": false
   },
   "KaruiStrongbox": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Mace1HMetal_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Mace1HStone_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Mace1HWood_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Mace2HMetal_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Mace2HStone_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Mace2HWood_onhit_audio": {
     "name": "",
     "used_in_crafting": false
   },
@@ -175,6 +171,10 @@
     "name": "",
     "used_in_crafting": false
   },
+  "Slice1HMetal_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
   "Snap_onhit_audio": {
     "name": "",
     "used_in_crafting": false
@@ -187,7 +187,7 @@
     "name": "",
     "used_in_crafting": false
   },
-  "Stab_onhit_audio": {
+  "Stab1HMetal_onhit_audio": {
     "name": "",
     "used_in_crafting": false
   },
@@ -196,6 +196,14 @@
     "used_in_crafting": false
   },
   "StaffWood_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Sword1H_onhit_audio": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "Sword2H_onhit_audio": {
     "name": "",
     "used_in_crafting": false
   },
@@ -520,6 +528,10 @@
     "used_in_crafting": false
   },
   "azmeri_primalist_dusted_monster": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "azmeri_sacred_dusted_monster": {
     "name": "",
     "used_in_crafting": false
   },
@@ -1095,6 +1107,10 @@
     "name": "",
     "used_in_crafting": false
   },
+  "chaos_implicit_skill": {
+    "name": "",
+    "used_in_crafting": false
+  },
   "chaos_resistance": {
     "name": "",
     "used_in_crafting": false
@@ -1192,6 +1208,10 @@
     "used_in_crafting": false
   },
   "cold_crafting_option": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "cold_implicit_skill": {
     "name": "",
     "used_in_crafting": false
   },
@@ -2056,6 +2076,10 @@
     "used_in_crafting": false
   },
   "fire_crafting_option": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "fire_implicit_skill": {
     "name": "",
     "used_in_crafting": false
   },
@@ -3063,6 +3087,10 @@
     "name": "",
     "used_in_crafting": false
   },
+  "lightning_implicit_skill": {
+    "name": "",
+    "used_in_crafting": false
+  },
   "lightning_resistance": {
     "name": "",
     "used_in_crafting": false
@@ -3771,6 +3799,10 @@
     "name": "",
     "used_in_crafting": false
   },
+  "physical_implicit_skill": {
+    "name": "",
+    "used_in_crafting": false
+  },
   "piety_area": {
     "name": "",
     "used_in_crafting": false
@@ -4451,6 +4483,10 @@
     "name": "",
     "used_in_crafting": false
   },
+  "soul_core_tier4": {
+    "name": "",
+    "used_in_crafting": false
+  },
   "soul_core_vaal": {
     "name": "",
     "used_in_crafting": false
@@ -4584,6 +4620,18 @@
     "used_in_crafting": false
   },
   "strongbox": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "strongbox_arcane_can_roll_modifiers_forcing_implicits": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "strongbox_armourer_can_roll_modifiers_forcing_armour_slot": {
+    "name": "",
+    "used_in_crafting": false
+  },
+  "strongbox_blacksmith_can_roll_modifiers_forcing_weapon_types": {
     "name": "",
     "used_in_crafting": false
   },

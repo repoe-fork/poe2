@@ -165,7 +165,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "[Remnant] spawn on [HitDamage|Hit] interval@{0}s",
+        "string": "[Remnant] spawn on [Hit] interval@{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -183,7 +183,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Spawn a [Remnant] on [HitDamage|Hitting] a target, no more than once per second",
+        "string": "Spawn a [Remnant] on [Hit|Hitting] a target, no more than once per second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -203,7 +203,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Spawn a [Remnant] on [HitDamage|Hitting] a target, no more than once every {0} seconds",
+        "string": "Spawn a [Remnant] on [Hit|Hitting] a target, no more than once every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }

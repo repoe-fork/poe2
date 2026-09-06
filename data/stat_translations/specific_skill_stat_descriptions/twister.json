@@ -169,7 +169,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Twister [HitDamage|Hits] at {0}% of [Attack] speed",
+        "string": "Twister [Hit|Hits] at {0}% of [Attack] speed",
         "reminder_text": null,
         "is_markup": null
       }
@@ -353,7 +353,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Target re-[HitDamage|Hit] interval @{0}s",
+        "string": "Target re-[Hit] interval @{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -373,7 +373,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Twisters fired at the same time can [HitDamage|Hit] the same\ntarget no more than once per second",
+        "string": "Twisters fired at the same time can [Hit] the same\ntarget no more than once per second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -393,7 +393,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Twisters fired at the same time can [HitDamage|Hit] the same\ntarget no more than once every {0} seconds",
+        "string": "Twisters fired at the same time can [Hit] the same\ntarget no more than once every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -485,7 +485,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Twister [HitDamage|Hit] interval@{0}s",
+        "string": "Twister [Hit] interval@{0}s",
         "reminder_text": null,
         "is_markup": null
       }

@@ -78,7 +78,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Creates an icy burst when you [HitDamage|Hit] with [UnarmedDamage|Unarmed] [Melee] damage, no more than {0} time every {1} seconds",
+        "string": "Creates an icy burst when you [Hit] with [UnarmedDamage|Unarmed] [Melee] damage, no more than {0} time every {1} seconds",
         "reminder_text": null,
         "is_markup": null
       },
@@ -105,7 +105,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Creates an icy burst when you [HitDamage|Hit] with [UnarmedDamage|Unarmed] [Melee] damage, no more than {0} times every {1} seconds",
+        "string": "Creates an icy burst when you [Hit] with [UnarmedDamage|Unarmed] [Melee] damage, no more than {0} times every {1} seconds",
         "reminder_text": null,
         "is_markup": null
       }

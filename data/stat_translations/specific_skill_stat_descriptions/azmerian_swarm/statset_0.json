@@ -69,7 +69,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to summon an Azmerian Swarm when you [HitDamage|Hit] a Rare or Unique target affected by an [ElementalAilments|Elemental Ailment]",
+        "string": "{0}% chance to summon an Azmerian Swarm when you [Hit] a Rare or Unique target affected by an [ElementalAilments|Elemental Ailment]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -159,7 +159,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Swarms have {0}% chance to inflict 1 [FaerieFire|Faerie Fire] on [HitDamage|Hit]",
+        "string": "Swarms have {0}% chance to inflict 1 [FaerieFire|Faerie Fire] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -363,7 +363,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Swarms deal {0}% more Damage with [HitDamage|Hits] for each type of [ElementalAilments|Elemental Ailment] on target",
+        "string": "Swarms deal {0}% more Damage with [Hit|Hits] for each type of [ElementalAilments|Elemental Ailment] on target",
         "reminder_text": null,
         "is_markup": null
       }

@@ -263,7 +263,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Tornado disappears after being [HitDamage|Hit] once",
+        "string": "Tornado disappears after being [Hit] once",
         "reminder_text": null,
         "is_markup": null
       },
@@ -281,7 +281,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Tornado disappears after being [HitDamage|Hit] {0} times",
+        "string": "Tornado disappears after being [Hit] {0} times",
         "reminder_text": null,
         "is_markup": null
       }
@@ -559,7 +559,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Number of [HitDamage|Hits] before Tornado disappears@{0}",
+        "string": "Number of [Hit|Hits] before Tornado disappears@{0}",
         "reminder_text": null,
         "is_markup": null
       }

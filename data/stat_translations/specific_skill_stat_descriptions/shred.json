@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Triggers [IceFragment|Ice Fragments] on [HitDamage|Hit] against\n[Frozen] enemies, no more than once per use",
+        "string": "Triggers [IceFragment|Ice Fragments] on [Hit] against\n[Frozen] enemies, no more than once per use",
         "reminder_text": null,
         "is_markup": null
       }

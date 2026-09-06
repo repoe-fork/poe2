@@ -109,7 +109,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Swarm [HitDamage|Hits] all targets in area every {0} second",
+        "string": "Swarm [Hit|Hits] all targets in area every {0} second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -129,7 +129,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Swarm [HitDamage|Hits] all targets in area every {0} seconds",
+        "string": "Swarm [Hit|Hits] all targets in area every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -165,7 +165,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Modifiers to Cooldown Recovery Rate apply to [HitDamage|Hit] frequency",
+        "string": "Modifiers to Cooldown Recovery Rate apply to [Hit] frequency",
         "reminder_text": null,
         "is_markup": null
       }
@@ -215,7 +215,7 @@
           [],
           []
         ],
-        "string": "Maximum Swarm's Advance\n[Physical] [HitDamage|Damage] taken@{2}\n{0} to {1}",
+        "string": "Maximum Swarm's Advance\n[Physical] [Hit|Damage] taken@{2}\n{0} to {1}",
         "reminder_text": null,
         "is_markup": null
       },
@@ -247,7 +247,7 @@
           [],
           []
         ],
-        "string": "If Swarm [HitDamage|Hits] any targets, you take {0} to {1} [Physical] [HitDamage|Damage] and gain 1 Swarm's Advance, to a maximum of {2}",
+        "string": "If Swarm [Hit|Hits] any targets, you take {0} to {1} [Physical] [Hit|Damage] and gain 1 Swarm's Advance, to a maximum of {2}",
         "reminder_text": null,
         "is_markup": null
       }

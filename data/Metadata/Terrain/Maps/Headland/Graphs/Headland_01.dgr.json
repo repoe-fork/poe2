@@ -645,7 +645,7 @@
     {
       "file": "Metadata/Terrain/Blank.tdt",
       "prefix": [
-        "1"
+        "500"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -711,7 +711,7 @@
     {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Fills/randomfill_planter_06.arm",
       "prefix": [
-        "25"
+        "20"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -722,7 +722,7 @@
     {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Fills/randomfill_planter_07.arm",
       "prefix": [
-        "25"
+        "20"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -733,7 +733,7 @@
     {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Fills/randomfill_planter_08.arm",
       "prefix": [
-        "25"
+        "20"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -744,7 +744,7 @@
     {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Fills/randomfill_planter_09.arm",
       "prefix": [
-        "25"
+        "20"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -755,7 +755,7 @@
     {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Fills/randomfill_planter_10.arm",
       "prefix": [
-        "25"
+        "20"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -766,7 +766,7 @@
     {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Fills/randomfill_empty.arm",
       "prefix": [
-        "35"
+        "20"
       ],
       "suffix": null,
       "tile_tag": null,
@@ -1733,6 +1733,33 @@
       "tile_parent": null
     },
     {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Walls/wall_straight_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Walls/wall_straight_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Walls/wall_straight_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Walls/wall_straight_pocket_01.arm",
       "prefix": null,
       "suffix": null,
@@ -1814,6 +1841,24 @@
       "tile_parent": null
     },
     {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_End_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_End_03.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_Cc_01.arm",
       "prefix": null,
       "suffix": null,
@@ -1841,6 +1886,33 @@
       "tile_parent": null
     },
     {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_Cc_04.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_Cc_05.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_Cc_06.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_St_01.arm",
       "prefix": null,
       "suffix": null,
@@ -1851,6 +1923,24 @@
     },
     {
       "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_Tri_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_Tri_02.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Maps/Headland/Rooms/Side/side_Tri_03.arm",
       "prefix": null,
       "suffix": null,
       "tile_tag": null,

@@ -111,7 +111,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Daze|Dazes] on [HitDamage|Hit]",
+        "string": "[Daze|Dazes] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -129,7 +129,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Daze] on [HitDamage|Hit]",
+        "string": "{0}% chance to [Daze] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

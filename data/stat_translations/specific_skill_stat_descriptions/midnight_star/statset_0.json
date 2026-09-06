@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "You cannot gain Arctic Petals from this Skill's [Critical|Critical] [HitDamage|Hits]",
+        "string": "You cannot gain Arctic Petals from this Skill's [Critical|Critical] [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -51,7 +51,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Arctic Petals per [Power] of [Critical|Critical] [HitDamage|Hit] Kills@1",
+        "string": "Arctic Petals per [Power] of [Critical|Critical] [Hit] Kills@1",
         "reminder_text": null,
         "is_markup": null
       },
@@ -69,7 +69,7 @@
         "index_handlers": [
           []
         ],
-        "string": "+1 Arctic Petal per [Power] of targets Killed with [Critical|Critical] [HitDamage|Hits]",
+        "string": "+1 Arctic Petal per [Power] of targets Killed with [Critical|Critical] [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -105,7 +105,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Arctic Petals on [Critical|Critical] [HitDamage|Hit] vs Rare or Unique@{0}",
+        "string": "Arctic Petals on [Critical|Critical] [Hit] vs Rare or Unique@{0}",
         "reminder_text": null,
         "is_markup": null
       },
@@ -123,7 +123,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0} Arctic Petal on [Critical|Critically] [HitDamage|Hitting] Rare or Unique targets",
+        "string": "{0} Arctic Petal on [Critical|Critically] [Hit|Hitting] Rare or Unique targets",
         "reminder_text": null,
         "is_markup": null
       },
@@ -141,7 +141,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0} Arctic Petals on [Critical|Critically] [HitDamage|Hitting] Rare or Unique targets",
+        "string": "{0} Arctic Petals on [Critical|Critically] [Hit|Hitting] Rare or Unique targets",
         "reminder_text": null,
         "is_markup": null
       }

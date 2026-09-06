@@ -33,7 +33,7 @@
         "index_handlers": [
           []
         ],
-        "string": "When [HitDamage|Hit] by an enemy, gain [Armour] equal to {0}% of\n[EnergyShield|Energy Shield] lost",
+        "string": "When [Hit] by an enemy, gain [Armour] equal to {0}% of\n[EnergyShield|Energy Shield] lost",
         "reminder_text": null,
         "is_markup": null
       }

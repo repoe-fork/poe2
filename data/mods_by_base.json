@@ -101518,7 +101518,8 @@
       "bases": [
         "Metadata/Items/Ultimatum/TrialmasterKey1",
         "Metadata/Items/Ultimatum/TrialmasterKey2",
-        "Metadata/Items/Ultimatum/TrialmasterKey3"
+        "Metadata/Items/Ultimatum/TrialmasterKey3",
+        "Metadata/Items/MapFragments/CurrencyWildwoodFragment"
       ],
       "mods": {},
       "conditional_mods": null
@@ -109151,23 +109152,37 @@
         "Metadata/Items/SoulCores/SoulCoreSpecial12",
         "Metadata/Items/SoulCores/SoulCoreSpecial13",
         "Metadata/Items/SoulCores/SoulCoreSpecial14",
-        "Metadata/Items/SoulCores/SoulCoreSpecial15"
+        "Metadata/Items/SoulCores/SoulCoreSpecial15",
+        "Metadata/Items/SoulCores/SoulCoreSpecial16",
+        "Metadata/Items/SoulCores/SoulCoreSpecial17",
+        "Metadata/Items/SoulCores/SoulCoreSpecial18",
+        "Metadata/Items/SoulCores/SoulCoreSpecial19",
+        "Metadata/Items/SoulCores/SoulCoreSpecial20",
+        "Metadata/Items/SoulCores/SoulCoreSpecial21",
+        "Metadata/Items/SoulCores/SoulCoreSpecial22",
+        "Metadata/Items/SoulCores/SoulCoreSpecial23",
+        "Metadata/Items/SoulCores/SoulCoreSpecial24",
+        "Metadata/Items/SoulCores/SoulCoreSpecial25",
+        "Metadata/Items/SoulCores/SoulCoreSpecial26",
+        "Metadata/Items/SoulCores/SoulCoreSpecial27",
+        "Metadata/Items/SoulCores/SoulCoreSpecial28"
       ],
       "mods": {},
       "conditional_mods": null
     },
-    "soul_core,soul_core_tier1,default": {
+    "soul_core,soul_core_tier4,default": {
       "bases": [
-        "Metadata/Items/SoulCores/SoulCoreChaos",
-        "Metadata/Items/SoulCores/SoulCoreBleed",
-        "Metadata/Items/SoulCores/SoulCoreEnlighten",
-        "Metadata/Items/SoulCores/SoulCoreElemental"
+        "Metadata/Items/SoulCores/SoulCoreSpecial29",
+        "Metadata/Items/SoulCores/SoulCoreSpecial30",
+        "Metadata/Items/SoulCores/SoulCoreSpecial31",
+        "Metadata/Items/SoulCores/SoulCoreSpecial32"
       ],
       "mods": {},
       "conditional_mods": null
     },
     "soul_core,soul_core_tier2,default": {
       "bases": [
+        "Metadata/Items/SoulCores/SoulCoreVision",
         "Metadata/Items/SoulCores/SoulCoreMaxLife",
         "Metadata/Items/SoulCores/SoulCoreMaxMana",
         "Metadata/Items/SoulCores/SoulCoreIgnite",
@@ -109179,6 +109194,16 @@
         "Metadata/Items/SoulCores/SoulCoreStrength",
         "Metadata/Items/SoulCores/SoulCoreDexterity",
         "Metadata/Items/SoulCores/SoulCoreIntelligence"
+      ],
+      "mods": {},
+      "conditional_mods": null
+    },
+    "soul_core,soul_core_tier1,default": {
+      "bases": [
+        "Metadata/Items/SoulCores/SoulCoreChaos",
+        "Metadata/Items/SoulCores/SoulCoreBleed",
+        "Metadata/Items/SoulCores/SoulCoreEnlighten",
+        "Metadata/Items/SoulCores/SoulCoreElemental"
       ],
       "mods": {},
       "conditional_mods": null
@@ -109494,11 +109519,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -109506,10 +109537,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -109826,11 +109858,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -109838,10 +109876,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -110159,11 +110198,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -110171,10 +110216,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -110492,11 +110538,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -110504,10 +110556,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -110821,11 +110874,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -110833,10 +110892,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -115535,11 +115595,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -115547,10 +115613,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -115853,11 +115920,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -115865,10 +115938,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -116179,11 +116253,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -116191,10 +116271,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -116508,11 +116589,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -116520,10 +116607,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -116936,11 +117024,17 @@
             "ExpeditionLogbookMapExpeditionNumberOfMonsterMarkers_": 1
           },
           "MapExpeditionRemnantsHaveAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast5Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast6Slots": 1,
             "ExpeditionLogbookMapExpeditionRemnantsHaveAtLeast7Slots": 1
           },
           "MapExpeditionAtLeast1RemnantWithAtLeastXSlots": {
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8SlotsAldursSaga": 1,
+            "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9SlotsAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast7Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast8Slots": 1,
             "ExpeditionLogbookMapExpeditionAtLeast1RemnantWithAtLeast9Slots": 1
@@ -116948,10 +117042,11 @@
           "MapExpeditionHasAtLeast1RemnantWithAPowerRune": {
             "ExpeditionLogbookMapExpeditionHasAtLeast1RemnantWithAPowerRune": 1
           },
-          "MapExpeditionVerisiumDropChance": {
-            "ExpeditionLogbookMapExpeditionVerisiumDropChance": 1
+          "MapExpeditionIncreasedVerisium": {
+            "ExpeditionLogbookMapExpeditionIncreasedVerisium": 1
           },
           "MapExpeditionRemnantGenerationHasXLuckyRolls": {
+            "ExpeditionLogbookMapExpeditionRemnantGenerationIsLuckyAldursSaga": 1,
             "ExpeditionLogbookMapExpeditionRemnantGenerationIsLucky": 1
           },
           "ExpeditionTwinnedElites": {
@@ -133247,7 +133342,7 @@
     }
   },
   "Wands": {
-    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_physical_spell_mods,wand,onehand,default": {
+    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_physical_spell_mods,chaos_implicit_skill,wand,onehand,default": {
       "bases": [
         "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand1",
         "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand12"
@@ -133537,7 +133632,7 @@
         "GlobalChaosSpellGemsLevelWeapon5"
       ]
     },
-    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,wand,onehand,default": {
+    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,physical_implicit_skill,wand,onehand,default": {
       "bases": [
         "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand2",
         "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand8"
@@ -134279,7 +134374,7 @@
         "ShockChanceIncrease5"
       ]
     },
-    "no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,wand,onehand,default": {
+    "no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,fire_implicit_skill,wand,onehand,default": {
       "bases": [
         "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand5"
       ],
@@ -134580,7 +134675,7 @@
         "IgniteChanceIncrease5"
       ]
     },
-    "no_fire_spell_mods,no_cold_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,wand,onehand,default": {
+    "no_fire_spell_mods,no_cold_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,lightning_implicit_skill,wand,onehand,default": {
       "bases": [
         "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand6"
       ],
@@ -134881,7 +134976,7 @@
         "ShockChanceIncrease5"
       ]
     },
-    "no_fire_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,wand,onehand,default": {
+    "no_fire_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,cold_implicit_skill,wand,onehand,default": {
       "bases": [
         "Metadata/Items/Weapons/OneHandWeapons/Wands/FourWand9"
       ],
@@ -135631,7 +135726,7 @@
     }
   },
   "Staves": {
-    "no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,staff,twohand,default": {
+    "no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,fire_implicit_skill,staff,twohand,default": {
       "bases": [
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff1",
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff5"
@@ -135933,7 +136028,7 @@
         "IgniteChanceIncrease5"
       ]
     },
-    "no_fire_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,staff,twohand,default": {
+    "no_fire_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,cold_implicit_skill,staff,twohand,default": {
       "bases": [
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff2",
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff9"
@@ -136235,7 +136330,7 @@
         "GlobalColdSpellGemsLevelTwoHandWeapon5"
       ]
     },
-    "no_fire_spell_mods,no_cold_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,staff,twohand,default": {
+    "no_fire_spell_mods,no_cold_spell_mods,no_chaos_spell_mods,no_physical_spell_mods,lightning_implicit_skill,staff,twohand,default": {
       "bases": [
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff3",
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff11"
@@ -136992,7 +137087,7 @@
         "ShockChanceIncrease5"
       ]
     },
-    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_physical_spell_mods,staff,twohand,default": {
+    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_physical_spell_mods,chaos_implicit_skill,staff,twohand,default": {
       "bases": [
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff7"
       ],
@@ -137281,7 +137376,7 @@
         "GlobalChaosSpellGemsLevelTwoHandWeapon5"
       ]
     },
-    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,staff,twohand,default": {
+    "no_fire_spell_mods,no_cold_spell_mods,no_lightning_spell_mods,no_chaos_spell_mods,physical_implicit_skill,staff,twohand,default": {
       "bases": [
         "Metadata/Items/Weapons/TwoHandWeapons/Staves/FourStaff8"
       ],
@@ -142659,24 +142754,1088 @@
     }
   },
   "Sceptres": {
+    "physical_implicit_skill,sceptre,onehand,default": {
+      "bases": [
+        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre1"
+      ],
+      "mods": {
+        "suffix": {
+          "Strength": {
+            "Strength1": 1,
+            "Strength2": 11,
+            "Strength3": 22,
+            "Strength4": 33,
+            "Strength5": 44,
+            "Strength6": 55,
+            "Strength7": 66,
+            "Strength8": 74
+          },
+          "Intelligence": {
+            "Intelligence1": 1,
+            "Intelligence2": 11,
+            "Intelligence3": 22,
+            "Intelligence4": 33,
+            "Intelligence5": 44,
+            "Intelligence6": 55,
+            "Intelligence7": 66,
+            "Intelligence8": 74
+          },
+          "AlliesInPresenceAllResistances": {
+            "NearbyAlliesAllResistances1": 12,
+            "NearbyAlliesAllResistances2": 26,
+            "NearbyAlliesAllResistances3": 40,
+            "NearbyAlliesAllResistances4": 54,
+            "NearbyAlliesAllResistances5": 68,
+            "NearbyAlliesAllResistances6": 80
+          },
+          "LocalAttributeRequirements": {
+            "ReducedLocalAttributeRequirements1": 24,
+            "ReducedLocalAttributeRequirements2": 32,
+            "ReducedLocalAttributeRequirements3": 40,
+            "ReducedLocalAttributeRequirements4": 52,
+            "ReducedLocalAttributeRequirements5": 60
+          },
+          "GlobalIncreaseMinionSpellSkillGemLevelWeapon": {
+            "GlobalMinionSpellSkillGemLevelWeapon1": 2,
+            "GlobalMinionSpellSkillGemLevelWeapon2": 25,
+            "GlobalMinionSpellSkillGemLevelWeapon3": 55,
+            "GlobalMinionSpellSkillGemLevelWeapon4": 78
+          },
+          "AlliesInPresenceLifeRegeneration": {
+            "NearbyAlliesLifeRegeneration1": 1,
+            "NearbyAlliesLifeRegeneration2": 5,
+            "NearbyAlliesLifeRegeneration3": 11,
+            "NearbyAlliesLifeRegeneration4": 17,
+            "NearbyAlliesLifeRegeneration5": 26,
+            "NearbyAlliesLifeRegeneration6": 35,
+            "NearbyAlliesLifeRegeneration7": 47,
+            "NearbyAlliesLifeRegeneration8": 58,
+            "NearbyAlliesLifeRegeneration9": 68,
+            "NearbyAlliesLifeRegeneration10": 75
+          },
+          "ManaRegeneration": {
+            "ManaRegeneration1": 1,
+            "ManaRegeneration2": 18,
+            "ManaRegeneration3": 29,
+            "ManaRegeneration4": 42,
+            "ManaRegeneration5": 55,
+            "ManaRegeneration6": 79
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "NearbyAlliesIncreasedAttackSpeed1": 5,
+            "NearbyAlliesIncreasedAttackSpeed2": 20,
+            "NearbyAlliesIncreasedAttackSpeed3": 35,
+            "NearbyAlliesIncreasedAttackSpeed4": 55
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "NearbyAlliesIncreasedCastSpeed1": 6,
+            "NearbyAlliesIncreasedCastSpeed2": 21,
+            "NearbyAlliesIncreasedCastSpeed3": 36,
+            "NearbyAlliesIncreasedCastSpeed4": 56
+          },
+          "AlliesInPresenceCriticalStrikeChance": {
+            "NearbyAlliesCriticalStrikeChance1": 11,
+            "NearbyAlliesCriticalStrikeChance2": 21,
+            "NearbyAlliesCriticalStrikeChance3": 28,
+            "NearbyAlliesCriticalStrikeChance4": 41,
+            "NearbyAlliesCriticalStrikeChance5": 59,
+            "NearbyAlliesCriticalStrikeChance6": 76
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "NearbyAlliesCriticalMultiplier1": 8,
+            "NearbyAlliesCriticalMultiplier2": 21,
+            "NearbyAlliesCriticalMultiplier3": 30,
+            "NearbyAlliesCriticalMultiplier4": 44,
+            "NearbyAlliesCriticalMultiplier5": 59,
+            "NearbyAlliesCriticalMultiplier6": 73
+          },
+          "LightRadiusAndManaRegeneration": {
+            "LightRadiusAndManaRegeneration1": 8,
+            "LightRadiusAndManaRegeneration2": 15,
+            "LightRadiusAndManaRegeneration3": 30
+          },
+          "PresenceRadius": {
+            "PresenceRadius1": 23,
+            "PresenceRadius2": 40,
+            "PresenceRadius3": 56,
+            "PresenceRadius4": 72
+          },
+          "MinionLife": {
+            "MinionLife1": 2,
+            "MinionLife2": 16,
+            "MinionLife3": 32,
+            "MinionLife4": 48,
+            "MinionLife5": 64,
+            "MinionLife6": 80
+          }
+        },
+        "prefix": {
+          "IncreasedMana": {
+            "IncreasedMana1": 1,
+            "IncreasedMana2": 6,
+            "IncreasedMana3": 16,
+            "IncreasedMana4": 25,
+            "IncreasedMana5": 33,
+            "IncreasedMana6": 38,
+            "IncreasedMana7": 46,
+            "IncreasedMana8": 54,
+            "IncreasedMana9": 60,
+            "IncreasedMana10": 65,
+            "IncreasedMana11": 70
+          },
+          "AlliesInPresenceAddedPhysicalDamage": {
+            "NearbyAlliesAddedPhysicalDamage1": 1,
+            "NearbyAlliesAddedPhysicalDamage2": 8,
+            "NearbyAlliesAddedPhysicalDamage3": 16,
+            "NearbyAlliesAddedPhysicalDamage4": 33,
+            "NearbyAlliesAddedPhysicalDamage5": 46,
+            "NearbyAlliesAddedPhysicalDamage6": 54,
+            "NearbyAlliesAddedPhysicalDamage7": 60,
+            "NearbyAlliesAddedPhysicalDamage8": 65,
+            "NearbyAlliesAddedPhysicalDamage9": 75
+          },
+          "AlliesInPresenceAddedFireDamage": {
+            "NearbyAlliesAddedFireDamage1": 1,
+            "NearbyAlliesAddedFireDamage2": 8,
+            "NearbyAlliesAddedFireDamage3": 16,
+            "NearbyAlliesAddedFireDamage4": 33,
+            "NearbyAlliesAddedFireDamage5": 46,
+            "NearbyAlliesAddedFireDamage6": 54,
+            "NearbyAlliesAddedFireDamage7": 60,
+            "NearbyAlliesAddedFireDamage8": 65,
+            "NearbyAlliesAddedFireDamage9": 75
+          },
+          "AlliesInPresenceAddedColdDamage": {
+            "NearbyAlliesAddedColdDamage1": 1,
+            "NearbyAlliesAddedColdDamage2": 8,
+            "NearbyAlliesAddedColdDamage3": 16,
+            "NearbyAlliesAddedColdDamage4": 33,
+            "NearbyAlliesAddedColdDamage5": 46,
+            "NearbyAlliesAddedColdDamage6": 54,
+            "NearbyAlliesAddedColdDamage7": 60,
+            "NearbyAlliesAddedColdDamage8": 65,
+            "NearbyAlliesAddedColdDamage9": 75
+          },
+          "AlliesInPresenceAddedLightningDamage": {
+            "NearbyAlliesAddedLightningDamage1": 1,
+            "NearbyAlliesAddedLightningDamage2": 8,
+            "NearbyAlliesAddedLightningDamage3": 16,
+            "NearbyAlliesAddedLightningDamage4": 33,
+            "NearbyAlliesAddedLightningDamage5": 46,
+            "NearbyAlliesAddedLightningDamage6": 54,
+            "NearbyAlliesAddedLightningDamage7": 60,
+            "NearbyAlliesAddedLightningDamage8": 65,
+            "NearbyAlliesAddedLightningDamage9": 75
+          },
+          "AlliesInPresenceAllDamage": {
+            "NearbyAlliesAllDamage1": 1,
+            "NearbyAlliesAllDamage2": 8,
+            "NearbyAlliesAllDamage3": 16,
+            "NearbyAlliesAllDamage4": 33,
+            "NearbyAlliesAllDamage5": 46,
+            "NearbyAlliesAllDamage6": 60,
+            "NearbyAlliesAllDamage7": 70,
+            "NearbyAlliesAllDamage8": 82
+          },
+          "LocalIncreasedSpiritPercent": {
+            "LocalIncreasedSpiritPercent1": 1,
+            "LocalIncreasedSpiritPercent2": 8,
+            "LocalIncreasedSpiritPercent3": 16,
+            "LocalIncreasedSpiritPercent4": 33,
+            "LocalIncreasedSpiritPercent5": 46,
+            "LocalIncreasedSpiritPercent6": 60,
+            "LocalIncreasedSpiritPercent7": 75,
+            "LocalIncreasedSpiritPercent8": 82
+          },
+          "LocalIncreasedSpiritAndMana": {
+            "LocalIncreasedSpiritAndMana1": 2,
+            "LocalIncreasedSpiritAndMana2": 11,
+            "LocalIncreasedSpiritAndMana3": 26,
+            "LocalIncreasedSpiritAndMana4": 36,
+            "LocalIncreasedSpiritAndMana5": 48,
+            "LocalIncreasedSpiritAndMana6": 58,
+            "LocalIncreasedSpiritAndMana7": 70
+          }
+        },
+        "corrupted": {
+          "LocalAttributeRequirements": {
+            "CorruptionReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionAlliesInPresenceCriticalStrikeMultiplier1": 1
+          }
+        },
+        "unique": {
+          "LocalAttributeRequirements": {
+            "CorruptionUpgradeReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionUpgradeLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionUpgradeAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionUpgradeAlliesInPresenceCriticalStrikeMultiplier1": 1
+          },
+          "Strength": {
+            "CorruptionUpgradeJewelStrength1": 1
+          },
+          "Dexterity": {
+            "CorruptionUpgradeJewelDexterity1": 1
+          },
+          "Intelligence": {
+            "CorruptionUpgradeJewelIntelligence1": 1
+          },
+          "FireResistance": {
+            "CorruptionUpgradeJewelFireResist1": 1
+          },
+          "ColdResistance": {
+            "CorruptionUpgradeJewelColdResist1": 1
+          },
+          "LightningResistance": {
+            "CorruptionUpgradeJewelLightningResist1": 1
+          },
+          "ChaosResistance": {
+            "CorruptionUpgradeJewelChaosResist1": 1
+          }
+        }
+      },
+      "conditional_mods": null
+    },
     "sceptre,onehand,default": {
       "bases": [
-        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre1",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre2",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre3",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre4",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre5",
-        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre6a",
-        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre6b",
-        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre6c",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre7",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre8",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre9",
-        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre10",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre11",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre12",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre13",
         "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptreUnique1"
+      ],
+      "mods": {
+        "suffix": {
+          "Strength": {
+            "Strength1": 1,
+            "Strength2": 11,
+            "Strength3": 22,
+            "Strength4": 33,
+            "Strength5": 44,
+            "Strength6": 55,
+            "Strength7": 66,
+            "Strength8": 74
+          },
+          "Intelligence": {
+            "Intelligence1": 1,
+            "Intelligence2": 11,
+            "Intelligence3": 22,
+            "Intelligence4": 33,
+            "Intelligence5": 44,
+            "Intelligence6": 55,
+            "Intelligence7": 66,
+            "Intelligence8": 74
+          },
+          "AlliesInPresenceAllResistances": {
+            "NearbyAlliesAllResistances1": 12,
+            "NearbyAlliesAllResistances2": 26,
+            "NearbyAlliesAllResistances3": 40,
+            "NearbyAlliesAllResistances4": 54,
+            "NearbyAlliesAllResistances5": 68,
+            "NearbyAlliesAllResistances6": 80
+          },
+          "LocalAttributeRequirements": {
+            "ReducedLocalAttributeRequirements1": 24,
+            "ReducedLocalAttributeRequirements2": 32,
+            "ReducedLocalAttributeRequirements3": 40,
+            "ReducedLocalAttributeRequirements4": 52,
+            "ReducedLocalAttributeRequirements5": 60
+          },
+          "GlobalIncreaseMinionSpellSkillGemLevelWeapon": {
+            "GlobalMinionSpellSkillGemLevelWeapon1": 2,
+            "GlobalMinionSpellSkillGemLevelWeapon2": 25,
+            "GlobalMinionSpellSkillGemLevelWeapon3": 55,
+            "GlobalMinionSpellSkillGemLevelWeapon4": 78
+          },
+          "AlliesInPresenceLifeRegeneration": {
+            "NearbyAlliesLifeRegeneration1": 1,
+            "NearbyAlliesLifeRegeneration2": 5,
+            "NearbyAlliesLifeRegeneration3": 11,
+            "NearbyAlliesLifeRegeneration4": 17,
+            "NearbyAlliesLifeRegeneration5": 26,
+            "NearbyAlliesLifeRegeneration6": 35,
+            "NearbyAlliesLifeRegeneration7": 47,
+            "NearbyAlliesLifeRegeneration8": 58,
+            "NearbyAlliesLifeRegeneration9": 68,
+            "NearbyAlliesLifeRegeneration10": 75
+          },
+          "ManaRegeneration": {
+            "ManaRegeneration1": 1,
+            "ManaRegeneration2": 18,
+            "ManaRegeneration3": 29,
+            "ManaRegeneration4": 42,
+            "ManaRegeneration5": 55,
+            "ManaRegeneration6": 79
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "NearbyAlliesIncreasedAttackSpeed1": 5,
+            "NearbyAlliesIncreasedAttackSpeed2": 20,
+            "NearbyAlliesIncreasedAttackSpeed3": 35,
+            "NearbyAlliesIncreasedAttackSpeed4": 55
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "NearbyAlliesIncreasedCastSpeed1": 6,
+            "NearbyAlliesIncreasedCastSpeed2": 21,
+            "NearbyAlliesIncreasedCastSpeed3": 36,
+            "NearbyAlliesIncreasedCastSpeed4": 56
+          },
+          "AlliesInPresenceCriticalStrikeChance": {
+            "NearbyAlliesCriticalStrikeChance1": 11,
+            "NearbyAlliesCriticalStrikeChance2": 21,
+            "NearbyAlliesCriticalStrikeChance3": 28,
+            "NearbyAlliesCriticalStrikeChance4": 41,
+            "NearbyAlliesCriticalStrikeChance5": 59,
+            "NearbyAlliesCriticalStrikeChance6": 76
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "NearbyAlliesCriticalMultiplier1": 8,
+            "NearbyAlliesCriticalMultiplier2": 21,
+            "NearbyAlliesCriticalMultiplier3": 30,
+            "NearbyAlliesCriticalMultiplier4": 44,
+            "NearbyAlliesCriticalMultiplier5": 59,
+            "NearbyAlliesCriticalMultiplier6": 73
+          },
+          "LightRadiusAndManaRegeneration": {
+            "LightRadiusAndManaRegeneration1": 8,
+            "LightRadiusAndManaRegeneration2": 15,
+            "LightRadiusAndManaRegeneration3": 30
+          },
+          "PresenceRadius": {
+            "PresenceRadius1": 23,
+            "PresenceRadius2": 40,
+            "PresenceRadius3": 56,
+            "PresenceRadius4": 72
+          },
+          "MinionLife": {
+            "MinionLife1": 2,
+            "MinionLife2": 16,
+            "MinionLife3": 32,
+            "MinionLife4": 48,
+            "MinionLife5": 64,
+            "MinionLife6": 80
+          }
+        },
+        "prefix": {
+          "IncreasedMana": {
+            "IncreasedMana1": 1,
+            "IncreasedMana2": 6,
+            "IncreasedMana3": 16,
+            "IncreasedMana4": 25,
+            "IncreasedMana5": 33,
+            "IncreasedMana6": 38,
+            "IncreasedMana7": 46,
+            "IncreasedMana8": 54,
+            "IncreasedMana9": 60,
+            "IncreasedMana10": 65,
+            "IncreasedMana11": 70
+          },
+          "AlliesInPresenceAddedPhysicalDamage": {
+            "NearbyAlliesAddedPhysicalDamage1": 1,
+            "NearbyAlliesAddedPhysicalDamage2": 8,
+            "NearbyAlliesAddedPhysicalDamage3": 16,
+            "NearbyAlliesAddedPhysicalDamage4": 33,
+            "NearbyAlliesAddedPhysicalDamage5": 46,
+            "NearbyAlliesAddedPhysicalDamage6": 54,
+            "NearbyAlliesAddedPhysicalDamage7": 60,
+            "NearbyAlliesAddedPhysicalDamage8": 65,
+            "NearbyAlliesAddedPhysicalDamage9": 75
+          },
+          "AlliesInPresenceAddedFireDamage": {
+            "NearbyAlliesAddedFireDamage1": 1,
+            "NearbyAlliesAddedFireDamage2": 8,
+            "NearbyAlliesAddedFireDamage3": 16,
+            "NearbyAlliesAddedFireDamage4": 33,
+            "NearbyAlliesAddedFireDamage5": 46,
+            "NearbyAlliesAddedFireDamage6": 54,
+            "NearbyAlliesAddedFireDamage7": 60,
+            "NearbyAlliesAddedFireDamage8": 65,
+            "NearbyAlliesAddedFireDamage9": 75
+          },
+          "AlliesInPresenceAddedColdDamage": {
+            "NearbyAlliesAddedColdDamage1": 1,
+            "NearbyAlliesAddedColdDamage2": 8,
+            "NearbyAlliesAddedColdDamage3": 16,
+            "NearbyAlliesAddedColdDamage4": 33,
+            "NearbyAlliesAddedColdDamage5": 46,
+            "NearbyAlliesAddedColdDamage6": 54,
+            "NearbyAlliesAddedColdDamage7": 60,
+            "NearbyAlliesAddedColdDamage8": 65,
+            "NearbyAlliesAddedColdDamage9": 75
+          },
+          "AlliesInPresenceAddedLightningDamage": {
+            "NearbyAlliesAddedLightningDamage1": 1,
+            "NearbyAlliesAddedLightningDamage2": 8,
+            "NearbyAlliesAddedLightningDamage3": 16,
+            "NearbyAlliesAddedLightningDamage4": 33,
+            "NearbyAlliesAddedLightningDamage5": 46,
+            "NearbyAlliesAddedLightningDamage6": 54,
+            "NearbyAlliesAddedLightningDamage7": 60,
+            "NearbyAlliesAddedLightningDamage8": 65,
+            "NearbyAlliesAddedLightningDamage9": 75
+          },
+          "AlliesInPresenceAllDamage": {
+            "NearbyAlliesAllDamage1": 1,
+            "NearbyAlliesAllDamage2": 8,
+            "NearbyAlliesAllDamage3": 16,
+            "NearbyAlliesAllDamage4": 33,
+            "NearbyAlliesAllDamage5": 46,
+            "NearbyAlliesAllDamage6": 60,
+            "NearbyAlliesAllDamage7": 70,
+            "NearbyAlliesAllDamage8": 82
+          },
+          "LocalIncreasedSpiritPercent": {
+            "LocalIncreasedSpiritPercent1": 1,
+            "LocalIncreasedSpiritPercent2": 8,
+            "LocalIncreasedSpiritPercent3": 16,
+            "LocalIncreasedSpiritPercent4": 33,
+            "LocalIncreasedSpiritPercent5": 46,
+            "LocalIncreasedSpiritPercent6": 60,
+            "LocalIncreasedSpiritPercent7": 75,
+            "LocalIncreasedSpiritPercent8": 82
+          },
+          "LocalIncreasedSpiritAndMana": {
+            "LocalIncreasedSpiritAndMana1": 2,
+            "LocalIncreasedSpiritAndMana2": 11,
+            "LocalIncreasedSpiritAndMana3": 26,
+            "LocalIncreasedSpiritAndMana4": 36,
+            "LocalIncreasedSpiritAndMana5": 48,
+            "LocalIncreasedSpiritAndMana6": 58,
+            "LocalIncreasedSpiritAndMana7": 70
+          }
+        },
+        "corrupted": {
+          "LocalAttributeRequirements": {
+            "CorruptionReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionAlliesInPresenceCriticalStrikeMultiplier1": 1
+          }
+        },
+        "unique": {
+          "LocalAttributeRequirements": {
+            "CorruptionUpgradeReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionUpgradeLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionUpgradeAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionUpgradeAlliesInPresenceCriticalStrikeMultiplier1": 1
+          },
+          "Strength": {
+            "CorruptionUpgradeJewelStrength1": 1
+          },
+          "Dexterity": {
+            "CorruptionUpgradeJewelDexterity1": 1
+          },
+          "Intelligence": {
+            "CorruptionUpgradeJewelIntelligence1": 1
+          },
+          "FireResistance": {
+            "CorruptionUpgradeJewelFireResist1": 1
+          },
+          "ColdResistance": {
+            "CorruptionUpgradeJewelColdResist1": 1
+          },
+          "LightningResistance": {
+            "CorruptionUpgradeJewelLightningResist1": 1
+          },
+          "ChaosResistance": {
+            "CorruptionUpgradeJewelChaosResist1": 1
+          }
+        }
+      },
+      "conditional_mods": null
+    },
+    "fire_implicit_skill,sceptre,onehand,default": {
+      "bases": [
+        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre6a"
+      ],
+      "mods": {
+        "suffix": {
+          "Strength": {
+            "Strength1": 1,
+            "Strength2": 11,
+            "Strength3": 22,
+            "Strength4": 33,
+            "Strength5": 44,
+            "Strength6": 55,
+            "Strength7": 66,
+            "Strength8": 74
+          },
+          "Intelligence": {
+            "Intelligence1": 1,
+            "Intelligence2": 11,
+            "Intelligence3": 22,
+            "Intelligence4": 33,
+            "Intelligence5": 44,
+            "Intelligence6": 55,
+            "Intelligence7": 66,
+            "Intelligence8": 74
+          },
+          "AlliesInPresenceAllResistances": {
+            "NearbyAlliesAllResistances1": 12,
+            "NearbyAlliesAllResistances2": 26,
+            "NearbyAlliesAllResistances3": 40,
+            "NearbyAlliesAllResistances4": 54,
+            "NearbyAlliesAllResistances5": 68,
+            "NearbyAlliesAllResistances6": 80
+          },
+          "LocalAttributeRequirements": {
+            "ReducedLocalAttributeRequirements1": 24,
+            "ReducedLocalAttributeRequirements2": 32,
+            "ReducedLocalAttributeRequirements3": 40,
+            "ReducedLocalAttributeRequirements4": 52,
+            "ReducedLocalAttributeRequirements5": 60
+          },
+          "GlobalIncreaseMinionSpellSkillGemLevelWeapon": {
+            "GlobalMinionSpellSkillGemLevelWeapon1": 2,
+            "GlobalMinionSpellSkillGemLevelWeapon2": 25,
+            "GlobalMinionSpellSkillGemLevelWeapon3": 55,
+            "GlobalMinionSpellSkillGemLevelWeapon4": 78
+          },
+          "AlliesInPresenceLifeRegeneration": {
+            "NearbyAlliesLifeRegeneration1": 1,
+            "NearbyAlliesLifeRegeneration2": 5,
+            "NearbyAlliesLifeRegeneration3": 11,
+            "NearbyAlliesLifeRegeneration4": 17,
+            "NearbyAlliesLifeRegeneration5": 26,
+            "NearbyAlliesLifeRegeneration6": 35,
+            "NearbyAlliesLifeRegeneration7": 47,
+            "NearbyAlliesLifeRegeneration8": 58,
+            "NearbyAlliesLifeRegeneration9": 68,
+            "NearbyAlliesLifeRegeneration10": 75
+          },
+          "ManaRegeneration": {
+            "ManaRegeneration1": 1,
+            "ManaRegeneration2": 18,
+            "ManaRegeneration3": 29,
+            "ManaRegeneration4": 42,
+            "ManaRegeneration5": 55,
+            "ManaRegeneration6": 79
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "NearbyAlliesIncreasedAttackSpeed1": 5,
+            "NearbyAlliesIncreasedAttackSpeed2": 20,
+            "NearbyAlliesIncreasedAttackSpeed3": 35,
+            "NearbyAlliesIncreasedAttackSpeed4": 55
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "NearbyAlliesIncreasedCastSpeed1": 6,
+            "NearbyAlliesIncreasedCastSpeed2": 21,
+            "NearbyAlliesIncreasedCastSpeed3": 36,
+            "NearbyAlliesIncreasedCastSpeed4": 56
+          },
+          "AlliesInPresenceCriticalStrikeChance": {
+            "NearbyAlliesCriticalStrikeChance1": 11,
+            "NearbyAlliesCriticalStrikeChance2": 21,
+            "NearbyAlliesCriticalStrikeChance3": 28,
+            "NearbyAlliesCriticalStrikeChance4": 41,
+            "NearbyAlliesCriticalStrikeChance5": 59,
+            "NearbyAlliesCriticalStrikeChance6": 76
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "NearbyAlliesCriticalMultiplier1": 8,
+            "NearbyAlliesCriticalMultiplier2": 21,
+            "NearbyAlliesCriticalMultiplier3": 30,
+            "NearbyAlliesCriticalMultiplier4": 44,
+            "NearbyAlliesCriticalMultiplier5": 59,
+            "NearbyAlliesCriticalMultiplier6": 73
+          },
+          "LightRadiusAndManaRegeneration": {
+            "LightRadiusAndManaRegeneration1": 8,
+            "LightRadiusAndManaRegeneration2": 15,
+            "LightRadiusAndManaRegeneration3": 30
+          },
+          "PresenceRadius": {
+            "PresenceRadius1": 23,
+            "PresenceRadius2": 40,
+            "PresenceRadius3": 56,
+            "PresenceRadius4": 72
+          },
+          "MinionLife": {
+            "MinionLife1": 2,
+            "MinionLife2": 16,
+            "MinionLife3": 32,
+            "MinionLife4": 48,
+            "MinionLife5": 64,
+            "MinionLife6": 80
+          }
+        },
+        "prefix": {
+          "IncreasedMana": {
+            "IncreasedMana1": 1,
+            "IncreasedMana2": 6,
+            "IncreasedMana3": 16,
+            "IncreasedMana4": 25,
+            "IncreasedMana5": 33,
+            "IncreasedMana6": 38,
+            "IncreasedMana7": 46,
+            "IncreasedMana8": 54,
+            "IncreasedMana9": 60,
+            "IncreasedMana10": 65,
+            "IncreasedMana11": 70
+          },
+          "AlliesInPresenceAddedPhysicalDamage": {
+            "NearbyAlliesAddedPhysicalDamage1": 1,
+            "NearbyAlliesAddedPhysicalDamage2": 8,
+            "NearbyAlliesAddedPhysicalDamage3": 16,
+            "NearbyAlliesAddedPhysicalDamage4": 33,
+            "NearbyAlliesAddedPhysicalDamage5": 46,
+            "NearbyAlliesAddedPhysicalDamage6": 54,
+            "NearbyAlliesAddedPhysicalDamage7": 60,
+            "NearbyAlliesAddedPhysicalDamage8": 65,
+            "NearbyAlliesAddedPhysicalDamage9": 75
+          },
+          "AlliesInPresenceAddedFireDamage": {
+            "NearbyAlliesAddedFireDamage1": 1,
+            "NearbyAlliesAddedFireDamage2": 8,
+            "NearbyAlliesAddedFireDamage3": 16,
+            "NearbyAlliesAddedFireDamage4": 33,
+            "NearbyAlliesAddedFireDamage5": 46,
+            "NearbyAlliesAddedFireDamage6": 54,
+            "NearbyAlliesAddedFireDamage7": 60,
+            "NearbyAlliesAddedFireDamage8": 65,
+            "NearbyAlliesAddedFireDamage9": 75
+          },
+          "AlliesInPresenceAddedColdDamage": {
+            "NearbyAlliesAddedColdDamage1": 1,
+            "NearbyAlliesAddedColdDamage2": 8,
+            "NearbyAlliesAddedColdDamage3": 16,
+            "NearbyAlliesAddedColdDamage4": 33,
+            "NearbyAlliesAddedColdDamage5": 46,
+            "NearbyAlliesAddedColdDamage6": 54,
+            "NearbyAlliesAddedColdDamage7": 60,
+            "NearbyAlliesAddedColdDamage8": 65,
+            "NearbyAlliesAddedColdDamage9": 75
+          },
+          "AlliesInPresenceAddedLightningDamage": {
+            "NearbyAlliesAddedLightningDamage1": 1,
+            "NearbyAlliesAddedLightningDamage2": 8,
+            "NearbyAlliesAddedLightningDamage3": 16,
+            "NearbyAlliesAddedLightningDamage4": 33,
+            "NearbyAlliesAddedLightningDamage5": 46,
+            "NearbyAlliesAddedLightningDamage6": 54,
+            "NearbyAlliesAddedLightningDamage7": 60,
+            "NearbyAlliesAddedLightningDamage8": 65,
+            "NearbyAlliesAddedLightningDamage9": 75
+          },
+          "AlliesInPresenceAllDamage": {
+            "NearbyAlliesAllDamage1": 1,
+            "NearbyAlliesAllDamage2": 8,
+            "NearbyAlliesAllDamage3": 16,
+            "NearbyAlliesAllDamage4": 33,
+            "NearbyAlliesAllDamage5": 46,
+            "NearbyAlliesAllDamage6": 60,
+            "NearbyAlliesAllDamage7": 70,
+            "NearbyAlliesAllDamage8": 82
+          },
+          "LocalIncreasedSpiritPercent": {
+            "LocalIncreasedSpiritPercent1": 1,
+            "LocalIncreasedSpiritPercent2": 8,
+            "LocalIncreasedSpiritPercent3": 16,
+            "LocalIncreasedSpiritPercent4": 33,
+            "LocalIncreasedSpiritPercent5": 46,
+            "LocalIncreasedSpiritPercent6": 60,
+            "LocalIncreasedSpiritPercent7": 75,
+            "LocalIncreasedSpiritPercent8": 82
+          },
+          "LocalIncreasedSpiritAndMana": {
+            "LocalIncreasedSpiritAndMana1": 2,
+            "LocalIncreasedSpiritAndMana2": 11,
+            "LocalIncreasedSpiritAndMana3": 26,
+            "LocalIncreasedSpiritAndMana4": 36,
+            "LocalIncreasedSpiritAndMana5": 48,
+            "LocalIncreasedSpiritAndMana6": 58,
+            "LocalIncreasedSpiritAndMana7": 70
+          }
+        },
+        "corrupted": {
+          "LocalAttributeRequirements": {
+            "CorruptionReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionAlliesInPresenceCriticalStrikeMultiplier1": 1
+          }
+        },
+        "unique": {
+          "LocalAttributeRequirements": {
+            "CorruptionUpgradeReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionUpgradeLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionUpgradeAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionUpgradeAlliesInPresenceCriticalStrikeMultiplier1": 1
+          },
+          "Strength": {
+            "CorruptionUpgradeJewelStrength1": 1
+          },
+          "Dexterity": {
+            "CorruptionUpgradeJewelDexterity1": 1
+          },
+          "Intelligence": {
+            "CorruptionUpgradeJewelIntelligence1": 1
+          },
+          "FireResistance": {
+            "CorruptionUpgradeJewelFireResist1": 1
+          },
+          "ColdResistance": {
+            "CorruptionUpgradeJewelColdResist1": 1
+          },
+          "LightningResistance": {
+            "CorruptionUpgradeJewelLightningResist1": 1
+          },
+          "ChaosResistance": {
+            "CorruptionUpgradeJewelChaosResist1": 1
+          }
+        }
+      },
+      "conditional_mods": null
+    },
+    "cold_implicit_skill,sceptre,onehand,default": {
+      "bases": [
+        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre6b"
+      ],
+      "mods": {
+        "suffix": {
+          "Strength": {
+            "Strength1": 1,
+            "Strength2": 11,
+            "Strength3": 22,
+            "Strength4": 33,
+            "Strength5": 44,
+            "Strength6": 55,
+            "Strength7": 66,
+            "Strength8": 74
+          },
+          "Intelligence": {
+            "Intelligence1": 1,
+            "Intelligence2": 11,
+            "Intelligence3": 22,
+            "Intelligence4": 33,
+            "Intelligence5": 44,
+            "Intelligence6": 55,
+            "Intelligence7": 66,
+            "Intelligence8": 74
+          },
+          "AlliesInPresenceAllResistances": {
+            "NearbyAlliesAllResistances1": 12,
+            "NearbyAlliesAllResistances2": 26,
+            "NearbyAlliesAllResistances3": 40,
+            "NearbyAlliesAllResistances4": 54,
+            "NearbyAlliesAllResistances5": 68,
+            "NearbyAlliesAllResistances6": 80
+          },
+          "LocalAttributeRequirements": {
+            "ReducedLocalAttributeRequirements1": 24,
+            "ReducedLocalAttributeRequirements2": 32,
+            "ReducedLocalAttributeRequirements3": 40,
+            "ReducedLocalAttributeRequirements4": 52,
+            "ReducedLocalAttributeRequirements5": 60
+          },
+          "GlobalIncreaseMinionSpellSkillGemLevelWeapon": {
+            "GlobalMinionSpellSkillGemLevelWeapon1": 2,
+            "GlobalMinionSpellSkillGemLevelWeapon2": 25,
+            "GlobalMinionSpellSkillGemLevelWeapon3": 55,
+            "GlobalMinionSpellSkillGemLevelWeapon4": 78
+          },
+          "AlliesInPresenceLifeRegeneration": {
+            "NearbyAlliesLifeRegeneration1": 1,
+            "NearbyAlliesLifeRegeneration2": 5,
+            "NearbyAlliesLifeRegeneration3": 11,
+            "NearbyAlliesLifeRegeneration4": 17,
+            "NearbyAlliesLifeRegeneration5": 26,
+            "NearbyAlliesLifeRegeneration6": 35,
+            "NearbyAlliesLifeRegeneration7": 47,
+            "NearbyAlliesLifeRegeneration8": 58,
+            "NearbyAlliesLifeRegeneration9": 68,
+            "NearbyAlliesLifeRegeneration10": 75
+          },
+          "ManaRegeneration": {
+            "ManaRegeneration1": 1,
+            "ManaRegeneration2": 18,
+            "ManaRegeneration3": 29,
+            "ManaRegeneration4": 42,
+            "ManaRegeneration5": 55,
+            "ManaRegeneration6": 79
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "NearbyAlliesIncreasedAttackSpeed1": 5,
+            "NearbyAlliesIncreasedAttackSpeed2": 20,
+            "NearbyAlliesIncreasedAttackSpeed3": 35,
+            "NearbyAlliesIncreasedAttackSpeed4": 55
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "NearbyAlliesIncreasedCastSpeed1": 6,
+            "NearbyAlliesIncreasedCastSpeed2": 21,
+            "NearbyAlliesIncreasedCastSpeed3": 36,
+            "NearbyAlliesIncreasedCastSpeed4": 56
+          },
+          "AlliesInPresenceCriticalStrikeChance": {
+            "NearbyAlliesCriticalStrikeChance1": 11,
+            "NearbyAlliesCriticalStrikeChance2": 21,
+            "NearbyAlliesCriticalStrikeChance3": 28,
+            "NearbyAlliesCriticalStrikeChance4": 41,
+            "NearbyAlliesCriticalStrikeChance5": 59,
+            "NearbyAlliesCriticalStrikeChance6": 76
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "NearbyAlliesCriticalMultiplier1": 8,
+            "NearbyAlliesCriticalMultiplier2": 21,
+            "NearbyAlliesCriticalMultiplier3": 30,
+            "NearbyAlliesCriticalMultiplier4": 44,
+            "NearbyAlliesCriticalMultiplier5": 59,
+            "NearbyAlliesCriticalMultiplier6": 73
+          },
+          "LightRadiusAndManaRegeneration": {
+            "LightRadiusAndManaRegeneration1": 8,
+            "LightRadiusAndManaRegeneration2": 15,
+            "LightRadiusAndManaRegeneration3": 30
+          },
+          "PresenceRadius": {
+            "PresenceRadius1": 23,
+            "PresenceRadius2": 40,
+            "PresenceRadius3": 56,
+            "PresenceRadius4": 72
+          },
+          "MinionLife": {
+            "MinionLife1": 2,
+            "MinionLife2": 16,
+            "MinionLife3": 32,
+            "MinionLife4": 48,
+            "MinionLife5": 64,
+            "MinionLife6": 80
+          }
+        },
+        "prefix": {
+          "IncreasedMana": {
+            "IncreasedMana1": 1,
+            "IncreasedMana2": 6,
+            "IncreasedMana3": 16,
+            "IncreasedMana4": 25,
+            "IncreasedMana5": 33,
+            "IncreasedMana6": 38,
+            "IncreasedMana7": 46,
+            "IncreasedMana8": 54,
+            "IncreasedMana9": 60,
+            "IncreasedMana10": 65,
+            "IncreasedMana11": 70
+          },
+          "AlliesInPresenceAddedPhysicalDamage": {
+            "NearbyAlliesAddedPhysicalDamage1": 1,
+            "NearbyAlliesAddedPhysicalDamage2": 8,
+            "NearbyAlliesAddedPhysicalDamage3": 16,
+            "NearbyAlliesAddedPhysicalDamage4": 33,
+            "NearbyAlliesAddedPhysicalDamage5": 46,
+            "NearbyAlliesAddedPhysicalDamage6": 54,
+            "NearbyAlliesAddedPhysicalDamage7": 60,
+            "NearbyAlliesAddedPhysicalDamage8": 65,
+            "NearbyAlliesAddedPhysicalDamage9": 75
+          },
+          "AlliesInPresenceAddedFireDamage": {
+            "NearbyAlliesAddedFireDamage1": 1,
+            "NearbyAlliesAddedFireDamage2": 8,
+            "NearbyAlliesAddedFireDamage3": 16,
+            "NearbyAlliesAddedFireDamage4": 33,
+            "NearbyAlliesAddedFireDamage5": 46,
+            "NearbyAlliesAddedFireDamage6": 54,
+            "NearbyAlliesAddedFireDamage7": 60,
+            "NearbyAlliesAddedFireDamage8": 65,
+            "NearbyAlliesAddedFireDamage9": 75
+          },
+          "AlliesInPresenceAddedColdDamage": {
+            "NearbyAlliesAddedColdDamage1": 1,
+            "NearbyAlliesAddedColdDamage2": 8,
+            "NearbyAlliesAddedColdDamage3": 16,
+            "NearbyAlliesAddedColdDamage4": 33,
+            "NearbyAlliesAddedColdDamage5": 46,
+            "NearbyAlliesAddedColdDamage6": 54,
+            "NearbyAlliesAddedColdDamage7": 60,
+            "NearbyAlliesAddedColdDamage8": 65,
+            "NearbyAlliesAddedColdDamage9": 75
+          },
+          "AlliesInPresenceAddedLightningDamage": {
+            "NearbyAlliesAddedLightningDamage1": 1,
+            "NearbyAlliesAddedLightningDamage2": 8,
+            "NearbyAlliesAddedLightningDamage3": 16,
+            "NearbyAlliesAddedLightningDamage4": 33,
+            "NearbyAlliesAddedLightningDamage5": 46,
+            "NearbyAlliesAddedLightningDamage6": 54,
+            "NearbyAlliesAddedLightningDamage7": 60,
+            "NearbyAlliesAddedLightningDamage8": 65,
+            "NearbyAlliesAddedLightningDamage9": 75
+          },
+          "AlliesInPresenceAllDamage": {
+            "NearbyAlliesAllDamage1": 1,
+            "NearbyAlliesAllDamage2": 8,
+            "NearbyAlliesAllDamage3": 16,
+            "NearbyAlliesAllDamage4": 33,
+            "NearbyAlliesAllDamage5": 46,
+            "NearbyAlliesAllDamage6": 60,
+            "NearbyAlliesAllDamage7": 70,
+            "NearbyAlliesAllDamage8": 82
+          },
+          "LocalIncreasedSpiritPercent": {
+            "LocalIncreasedSpiritPercent1": 1,
+            "LocalIncreasedSpiritPercent2": 8,
+            "LocalIncreasedSpiritPercent3": 16,
+            "LocalIncreasedSpiritPercent4": 33,
+            "LocalIncreasedSpiritPercent5": 46,
+            "LocalIncreasedSpiritPercent6": 60,
+            "LocalIncreasedSpiritPercent7": 75,
+            "LocalIncreasedSpiritPercent8": 82
+          },
+          "LocalIncreasedSpiritAndMana": {
+            "LocalIncreasedSpiritAndMana1": 2,
+            "LocalIncreasedSpiritAndMana2": 11,
+            "LocalIncreasedSpiritAndMana3": 26,
+            "LocalIncreasedSpiritAndMana4": 36,
+            "LocalIncreasedSpiritAndMana5": 48,
+            "LocalIncreasedSpiritAndMana6": 58,
+            "LocalIncreasedSpiritAndMana7": 70
+          }
+        },
+        "corrupted": {
+          "LocalAttributeRequirements": {
+            "CorruptionReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionAlliesInPresenceCriticalStrikeMultiplier1": 1
+          }
+        },
+        "unique": {
+          "LocalAttributeRequirements": {
+            "CorruptionUpgradeReducedLocalAttributeRequirements1": 1
+          },
+          "LocalIncreasedSpiritPercent": {
+            "CorruptionUpgradeLocalIncreasedSpiritPercent1": 1
+          },
+          "AlliesInPresenceAllDamage": {
+            "CorruptionUpgradeAlliesInPresenceAllDamage1": 1
+          },
+          "AlliesInPresenceIncreasedAttackSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedAttackSpeed1": 1
+          },
+          "AlliesInPresenceIncreasedCastSpeed": {
+            "CorruptionUpgradeAlliesInPresenceIncreasedCastSpeed1": 1
+          },
+          "AlliesInPresenceCriticalStrikeMultiplier": {
+            "CorruptionUpgradeAlliesInPresenceCriticalStrikeMultiplier1": 1
+          },
+          "Strength": {
+            "CorruptionUpgradeJewelStrength1": 1
+          },
+          "Dexterity": {
+            "CorruptionUpgradeJewelDexterity1": 1
+          },
+          "Intelligence": {
+            "CorruptionUpgradeJewelIntelligence1": 1
+          },
+          "FireResistance": {
+            "CorruptionUpgradeJewelFireResist1": 1
+          },
+          "ColdResistance": {
+            "CorruptionUpgradeJewelColdResist1": 1
+          },
+          "LightningResistance": {
+            "CorruptionUpgradeJewelLightningResist1": 1
+          },
+          "ChaosResistance": {
+            "CorruptionUpgradeJewelChaosResist1": 1
+          }
+        }
+      },
+      "conditional_mods": null
+    },
+    "lightning_implicit_skill,sceptre,onehand,default": {
+      "bases": [
+        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre6c",
+        "Metadata/Items/Weapons/OneHandWeapons/Sceptres/FourSceptre10"
       ],
       "mods": {
         "suffix": {
@@ -152154,6 +153313,7 @@
       "bases": [
         "Metadata/Items/UltimatumKey",
         "Metadata/Items/Ultimatum/UltimatumKeyNew",
+        "Metadata/Items/Ultimatum/UltimatumKeyInProgress",
         "Metadata/Items/Ultimatum/UltimatumKeySpecial",
         "Metadata/Items/Ultimatum/UltimatumKeySpecialNew"
       ],
@@ -152417,29 +153577,44 @@
           "MapAdditionalUniqueMonsterModifier": {
             "TowerMapAdditionalUniqueMonsterModifier": 1
           },
-          "ExpeditionArtifactIncrease": {
-            "TowerExpeditionArtifactIncrease": 1
-          },
-          "ExpeditionExplosionPlacement": {
-            "TowerExpeditionExplosionPlacement": 1
-          },
-          "ExpeditionRelicIncrease": {
-            "TowerExpeditionRelicIncrease": 1
-          },
           "ExpeditionExplosionRadius": {
             "TowerExpeditionExplosionRadius": 1
           },
           "ExpeditionLogbookIncrease": {
             "TowerExpeditionLogbookIncrease": 1
           },
-          "ExpeditionRareMonsters": {
-            "TowerExpeditionRareMonsters": 1
-          },
-          "ExpeditionRelicModEffect": {
-            "TowerExpeditionRelicModEffect": 1
-          },
           "ExpeditionRunicMonsters": {
             "TowerExpeditionRunicMonsters": 1
+          },
+          "ExpeditionIncreasedVerisium": {
+            "TowerExpeditionIncreasedVerisium": 1
+          },
+          "ExpeditionUnearthedRares": {
+            "TowerExpeditionUnearthedRares": 1
+          },
+          "ExpeditionAdditionalSentinels": {
+            "TowerExpeditionAdditionalSentinels": 1
+          },
+          "ExpeditionIncreasedMonsterRarity": {
+            "TowerExpeditionIncreasedMonsterRarity": 1
+          },
+          "ExpeditionFrozenBosses": {
+            "TowerExpeditionFrozenBosses": 1
+          },
+          "ExpeditionBuriedStrongboxes": {
+            "TowerExpeditionBuriedStrongboxes": 1
+          },
+          "ExpeditionVaalRemnants": {
+            "TowerExpeditionVaalRemnants": 1
+          },
+          "ExpeditionChanceForVerisiumRemnant": {
+            "TowerExpeditionChanceForVerisiumRemnant": 1
+          },
+          "ExpeditionChanceForTwinnedElites": {
+            "TowerExpeditionChanceForTwinnedElites": 1
+          },
+          "Expedition2RunicModPassoverChance": {
+            "TowerExpedition2RunicModPassoverChance": 1
           }
         }
       },

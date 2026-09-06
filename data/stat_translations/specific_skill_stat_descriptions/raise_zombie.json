@@ -167,7 +167,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Empowered] Zombies deal {0}% more damage with [HitDamage|Hits]",
+        "string": "[Empowered] Zombies deal {0}% more damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -187,7 +187,7 @@
             "negate"
           ]
         ],
-        "string": "[Empowered] Zombies deal {0}% less damage with [HitDamage|Hits]",
+        "string": "[Empowered] Zombies deal {0}% less damage with [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }

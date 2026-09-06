@@ -147,7 +147,7 @@
             "per_minute_to_per_second_2dp_if_required"
           ]
         ],
-        "string": "When [HitDamage|Hit], lose a Ghost Shroud \nRegenerate [EnergyShield|Energy Shield] equal to {0}% of your [Evasion|Evasion Rating] per second if you have lost a Ghost Shroud [Recently]",
+        "string": "When [Hit], lose a Ghost Shroud \nRegenerate [EnergyShield|Energy Shield] equal to {0}% of your [Evasion|Evasion Rating] per second if you have lost a Ghost Shroud [Recently]",
         "reminder_text": null,
         "is_markup": null
       }

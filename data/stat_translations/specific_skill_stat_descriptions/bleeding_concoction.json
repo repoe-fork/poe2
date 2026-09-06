@@ -111,7 +111,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Aggravate] [Bleeding] on [HitDamage|Hit]",
+        "string": "{0}% chance to [Aggravate] [Bleeding] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -129,7 +129,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Aggravate] [Bleeding] on [HitDamage|Hit]",
+        "string": "[Aggravate] [Bleeding] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

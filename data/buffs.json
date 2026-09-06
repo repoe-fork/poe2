@@ -567,7 +567,7 @@
     "stack_limit": null
   },
   "hillock_buff": {
-    "description": "Attacks with fervor",
+    "description": "Attacks with fervour",
     "invisible": false,
     "name": "Brutal Attack",
     "removable": false,
@@ -1357,7 +1357,7 @@
     "stack_limit": null
   },
   "curse_pain_synchronisation": {
-    "description": "Debuff tracks [HitDamage|Damage] taken. When it expires, a portion of that damage will be taken again.",
+    "description": "Debuff tracks [Hit|Damage] taken. When it expires, a portion of that damage will be taken again.",
     "invisible": false,
     "name": "Inevitable Agony",
     "removable": false,
@@ -5705,7 +5705,7 @@
         },
         "stat_text": [
           "50% increased Damage",
-          "[Knockback|Knocks Enemies Back] on [HitDamage|Hit]",
+          "[Knockback|Knocks Enemies Back] on [Hit]",
           "30% increased Stun Duration on Enemies",
           "Extra gore"
         ],
@@ -5722,7 +5722,7 @@
         },
         "stat_text": [
           "50% increased Damage",
-          "[Knockback|Knocks Enemies Back] on [HitDamage|Hit]",
+          "[Knockback|Knocks Enemies Back] on [Hit]",
           "30% increased Stun Duration on Enemies",
           "Extra gore"
         ],
@@ -5739,7 +5739,7 @@
         },
         "stat_text": [
           "20% increased Damage",
-          "[Knockback|Knocks Enemies Back] on [HitDamage|Hit]",
+          "[Knockback|Knocks Enemies Back] on [Hit]",
           "20% increased Stun Duration on Enemies"
         ],
         "visuals": null
@@ -5755,7 +5755,7 @@
         },
         "stat_text": [
           "40% increased Damage",
-          "[Knockback|Knocks Enemies Back] on [HitDamage|Hit]",
+          "[Knockback|Knocks Enemies Back] on [Hit]",
           "30% increased Stun Duration on Enemies",
           "Extra gore"
         ],
@@ -7741,7 +7741,7 @@
     "stack_limit": null
   },
   "cagan_darkness": {
-    "description": "Light Radius, Item Rarity and Item Quantity decays over time, and is increased by kills.",
+    "description": "Light Radius, Item Rarity and Item Quantity decays over time, and are increased by kills.",
     "invisible": false,
     "name": "Creeping Darkness",
     "removable": false,
@@ -7916,7 +7916,7 @@
   "herald_of_ash": {
     "description": "Overkilling an enemy will burn nearby enemies based on overkill damage.",
     "invisible": false,
-    "name": "Herald Of Ash",
+    "name": "Herald of Ash",
     "removable": true,
     "stats": [
       "fire_damage_+%",
@@ -7931,7 +7931,7 @@
   "herald_of_ice": {
     "description": "Shattering an enemy deals cold damage to nearby enemies.",
     "invisible": false,
-    "name": "Herald Of Ice",
+    "name": "Herald of Ice",
     "removable": true,
     "stats": [
       "cold_damage_+%",
@@ -7947,7 +7947,7 @@
   "herald_of_thunder": {
     "description": "Killing a shocked enemy will cause your next few attack hits to call down lightning bolts.",
     "invisible": false,
-    "name": "Herald Of Thunder",
+    "name": "Herald of Thunder",
     "removable": true,
     "stats": [
       "lightning_damage_+%",
@@ -8210,6 +8210,18 @@
         "visuals": "ultimatum_frost_infection"
       }
     },
+    "stack_limit": null
+  },
+  "visual_burnt_death": {
+    "description": "",
+    "invisible": true,
+    "name": "",
+    "removable": false,
+    "stats": [],
+    "visuals": "burnt_death",
+    "category": null,
+    "sources": null,
+    "templates": null,
     "stack_limit": null
   },
   "mission_int_buff": {
@@ -9560,6 +9572,12 @@
         "stats": null,
         "stat_text": null,
         "visuals": "azmeri_dust_infused_primal"
+      },
+      "AzmeriDustVisualSacred": {
+        "aura_radius_metres": null,
+        "stats": null,
+        "stat_text": null,
+        "visuals": "azmeri_dust_infused_sacred"
       }
     },
     "stack_limit": null
@@ -10781,7 +10799,7 @@
     "stack_limit": null
   },
   "new_phase_run": {
-    "description": "You have Phasing, allowing you to move through enemies, move faster, are less visible to enemies and deal more Melee Physical Damage. ",
+    "description": "You have Phasing, allowing you to move through enemies. You move faster, are less visible to enemies and deal more Melee Physical Damage. ",
     "invisible": false,
     "name": "Phase Run",
     "removable": false,
@@ -11380,7 +11398,7 @@
   "offering_of_judgement_fire": {
     "description": "You are taking Burning Damage",
     "invisible": false,
-    "name": "Offering Of Judgement",
+    "name": "Offering of Judgement",
     "removable": false,
     "stats": [
       "base_fire_damage_taken_per_minute"
@@ -11394,7 +11412,7 @@
   "offering_of_judgement_chaos": {
     "description": "You are taking Chaos Damage Over Time",
     "invisible": false,
-    "name": "Offering Of Judgement",
+    "name": "Offering of Judgement",
     "removable": false,
     "stats": [
       "base_chaos_damage_taken_per_minute"
@@ -12308,7 +12326,7 @@
     "stack_limit": null
   },
   "soul_eater_from_stat_parent": {
-    "description": "mechanical buff for handling soul eater shile using flask",
+    "description": "mechanical buff for handling soul eater while using flask",
     "invisible": true,
     "name": "",
     "removable": false,
@@ -15138,7 +15156,7 @@
   "cover_in_ash": {
     "description": "Movement speed [Slow|Slowed] and takes increased [Fire] damage.",
     "invisible": false,
-    "name": "Covered In Ash",
+    "name": "Covered in Ash",
     "removable": false,
     "stats": [
       "covered_in_ash_movement_speed_+%_final",
@@ -16551,7 +16569,7 @@
   },
   "basilisk_gaze": {
     "description": "",
-    "invisible": true,
+    "invisible": false,
     "name": "",
     "removable": false,
     "stats": [
@@ -16560,7 +16578,7 @@
       "buff_impl_stat",
       "buff_impl_stat"
     ],
-    "visuals": "invisible",
+    "visuals": "stone_gaze_ultimatum",
     "category": "Buff",
     "sources": null,
     "templates": {
@@ -17851,7 +17869,7 @@
   "elder_siphon_immobilise": {
     "description": "You cannot move.",
     "invisible": false,
-    "name": "Crystalised Fear",
+    "name": "Crystallised Fear",
     "removable": false,
     "stats": [
       "immobilised_by_elder_%"
@@ -18718,7 +18736,7 @@
     "stack_limit": null
   },
   "best_crab_roar": {
-    "description": "Craiceann's Roar reduces your damage, speed, and increases your damage taken.",
+    "description": "Craiceann's Roar reduces your damage and speed, and increases your damage taken.",
     "invisible": false,
     "name": "Craiceann's Torment",
     "removable": false,
@@ -19419,7 +19437,7 @@
     "stack_limit": 3
   },
   "tailwind": {
-    "description": "Grants 1% increased movement speed, 2% increased [SkillSpeed|Skill Speed], 10% increased [Evasion] Rating and prevent 1% of Damage from [Deflect|Deflected] [HitDamage|Hits] per stack. Maximum 10 stacks.",
+    "description": "Grants 1% increased movement speed, 2% increased [SkillSpeed|Skill Speed], 10% increased [Evasion] Rating and prevent 1% of Damage from [Deflect|Deflected] [Hit|Hits] per stack. Maximum 10 stacks.",
     "invisible": false,
     "name": "Tailwind",
     "removable": false,
@@ -19449,7 +19467,7 @@
           "1% increased Movement Speed",
           "2% increased [SkillSpeed|Skill Speed]",
           "10% increased [Evasion|Evasion Rating]",
-          "Prevent +1% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+          "Prevent +1% of Damage from [Deflect|Deflected] [Hit|Hits]"
         ],
         "visuals": null
       },
@@ -19467,7 +19485,7 @@
           "1% increased Movement Speed",
           "2% increased [SkillSpeed|Skill Speed]",
           "10% increased [Evasion|Evasion Rating]",
-          "Prevent +1% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+          "Prevent +1% of Damage from [Deflect|Deflected] [Hit|Hits]"
         ],
         "visuals": null
       },
@@ -19485,7 +19503,7 @@
           "1% increased Movement Speed",
           "2% increased [SkillSpeed|Skill Speed]",
           "10% increased [Evasion|Evasion Rating]",
-          "Prevent +1% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+          "Prevent +1% of Damage from [Deflect|Deflected] [Hit|Hits]"
         ],
         "visuals": null
       }
@@ -19533,7 +19551,7 @@
   "bestiary_cocoon": {
     "description": "You can break free from the web",
     "invisible": false,
-    "name": "Trapped in cocoon",
+    "name": "Trapped in a cocoon",
     "removable": false,
     "stats": [
       "no_movement_speed",
@@ -20636,7 +20654,7 @@
     "stack_limit": 4
   },
   "delve_degen_aura": {
-    "description": "The darkness is overwhelming, you are dying. Get to the light!",
+    "description": "The darkness is overwhelming; you are dying. Get to the light!",
     "invisible": true,
     "name": "",
     "removable": false,
@@ -20665,7 +20683,7 @@
     "stack_limit": null
   },
   "delve_degen_buff": {
-    "description": "The darkness is overwhelming, you are dying. Get to the light!",
+    "description": "The darkness is overwhelming; you are dying. Get to the light!",
     "invisible": false,
     "name": "Darkness",
     "removable": false,
@@ -20818,7 +20836,7 @@
   "herald_of_agony": {
     "description": "You have additional chance to Poison and deal More Poison Damage.",
     "invisible": false,
-    "name": "Herald Of Agony",
+    "name": "Herald of Agony",
     "removable": true,
     "stats": [
       "base_chance_to_poison_on_hit_%",
@@ -21591,7 +21609,7 @@
     "stack_limit": null
   },
   "impaled_debuff": {
-    "description": "[Impale|Impaled], subsequent [HitDamage|Hits] inflict additional hit damage.",
+    "description": "[Impale|Impaled], subsequent [Hit|Hits] inflict additional hit damage.",
     "invisible": false,
     "name": "Impaled",
     "removable": false,
@@ -23133,7 +23151,7 @@
     "stack_limit": null
   },
   "blood_stance": {
-    "description": "You are in Blood Stance, deal more area damage with melee attacks, and have less area of effect with melee attacks.",
+    "description": "You are in [ReadyStance|Blood Stance].",
     "invisible": false,
     "name": "Blood Stance",
     "removable": true,
@@ -23151,7 +23169,7 @@
     "stack_limit": null
   },
   "sand_stance": {
-    "description": "You are in Sand Stance, deal less area damage with melee attacks, and have more area of effect with melee attacks.",
+    "description": "You are in [ReadyStance|Sand Stance].",
     "invisible": false,
     "name": "Sand Stance",
     "removable": true,
@@ -23831,7 +23849,7 @@
     "stack_limit": null
   },
   "korea_pc_bang": {
-    "description": "You are currently receiving some Stash Tabs and Cosmetic Microtransactions because you are playing from a PC Bang.\n\nOnce the league's Mystery Box has been released, you will receive a free Mystery Box every six hours. There is a maximum of 10 free boxes.",
+    "description": "You are currently receiving some Stash Tabs and Cosmetic Microtransactions because you are playing from a PC Bang. \r\n\r\nOnce the league's Mystery Box has been released, you will receive a free Mystery Box every six hours. There is a maximum of 10 free boxes.",
     "invisible": false,
     "name": "PC Bang Entitlements",
     "removable": false,
@@ -24016,7 +24034,7 @@
         },
         "stat_text": [
           "30% increased Area of Effect",
-          "[Intimidate] Enemies for 4 seconds on [HitDamage|Hit]",
+          "[Intimidate] Enemies for 4 seconds on [Hit]",
           "Unnerve Enemies for 4 seconds on Hit"
         ],
         "visuals": null
@@ -24030,7 +24048,7 @@
           "chance_to_unnerve_on_hit_%": 100
         },
         "stat_text": [
-          "[Intimidate] Enemies for 4 seconds on [HitDamage|Hit]",
+          "[Intimidate] Enemies for 4 seconds on [Hit]",
           "Unnerve Enemies for 4 seconds on Hit"
         ],
         "visuals": null
@@ -24150,7 +24168,7 @@
     "stack_limit": null
   },
   "plague_bearer_buff": {
-    "description": "While active, store a percentage of the [Poison|Poison] Damage you deal, up to a cap.\nActivate Plague Nova to deal [Physical|Physical] Damage to enemies around you based on the amount of stored [Poison|Poison].",
+    "description": "While active, store a percentage of the [Poison|Poison] Damage you deal, up to a cap.\r\nActivate Plague Nova to deal [Physical|Physical] Damage to enemies around you based on the amount of stored [Poison|Poison].",
     "invisible": false,
     "name": "Plague Bearer",
     "removable": false,
@@ -28271,7 +28289,7 @@
     "stack_limit": null
   },
   "ground_oil": {
-    "description": "Movement speed [Slow|Slowed] and  inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills will [Ignite] the Oil.",
+    "description": "Movement speed [Slow|Slowed] and inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills will [Ignite] the Oil.",
     "invisible": false,
     "name": "Oiled Ground",
     "removable": false,
@@ -30064,7 +30082,7 @@
     "stack_limit": null
   },
   "ultimatum_ruin": {
-    "description": "You have Ruin. On reaching 7 Ruin, you will fail the Trials",
+    "description": "You have [UltimatumRuin|Ruin]. On reaching 7 Ruin, you will fail the Trials",
     "invisible": false,
     "name": "Ruin",
     "removable": false,
@@ -30335,11 +30353,47 @@
           "template": "UltimatumVulnerabilityDebuff",
           "stat_text": null,
           "stats": null
+        },
+        {
+          "id": "PlayerDebuffIncreasingVulnerability2",
+          "item": null,
+          "name": null,
+          "template": "UltimatumVulnerabilityDebuff2",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffIncreasingVulnerability3",
+          "item": null,
+          "name": null,
+          "template": "UltimatumVulnerabilityDebuff3",
+          "stat_text": null,
+          "stats": null
         }
       ]
     },
     "templates": {
       "UltimatumVulnerabilityDebuff": {
+        "aura_radius_metres": null,
+        "stats": {
+          "base_damage_taken_+%": 100
+        },
+        "stat_text": [
+          "100% increased Damage taken"
+        ],
+        "visuals": null
+      },
+      "UltimatumVulnerabilityDebuff2": {
+        "aura_radius_metres": null,
+        "stats": {
+          "base_damage_taken_+%": 100
+        },
+        "stat_text": [
+          "100% increased Damage taken"
+        ],
+        "visuals": null
+      },
+      "UltimatumVulnerabilityDebuff3": {
         "aura_radius_metres": null,
         "stats": {
           "base_damage_taken_+%": 100
@@ -30423,6 +30477,30 @@
           "template": "UltimatumRecoveryDebuff2",
           "stat_text": null,
           "stats": null
+        },
+        {
+          "id": "PlayerDebuffRecoveryReduction3",
+          "item": null,
+          "name": null,
+          "template": "UltimatumRecoveryDebuff3",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffRecoveryReduction4",
+          "item": null,
+          "name": null,
+          "template": "UltimatumRecoveryDebuff4",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffRecoveryReduction5",
+          "item": null,
+          "name": null,
+          "template": "UltimatumRecoveryDebuff5",
+          "stat_text": null,
+          "stats": null
         }
       ]
     },
@@ -30430,28 +30508,70 @@
       "UltimatumRecoveryDebuff1": {
         "aura_radius_metres": null,
         "stats": {
-          "life_recovery_rate_+%": -40,
-          "mana_recovery_rate_+%": -40,
-          "energy_shield_recovery_rate_+%": -40
+          "life_recovery_rate_+%": -20,
+          "mana_recovery_rate_+%": -20,
+          "energy_shield_recovery_rate_+%": -20
         },
         "stat_text": [
-          "40% reduced Life Recovery rate",
-          "40% reduced Mana Recovery rate",
-          "40% reduced [EnergyShield|Energy Shield] Recovery rate"
+          "20% reduced Life Recovery rate",
+          "20% reduced Mana Recovery rate",
+          "20% reduced [EnergyShield|Energy Shield] Recovery rate"
         ],
         "visuals": null
       },
       "UltimatumRecoveryDebuff2": {
         "aura_radius_metres": null,
         "stats": {
-          "life_recovery_rate_+%": -75,
-          "mana_recovery_rate_+%": -75,
-          "energy_shield_recovery_rate_+%": -75
+          "life_recovery_rate_+%": -35,
+          "mana_recovery_rate_+%": -35,
+          "energy_shield_recovery_rate_+%": -35
         },
         "stat_text": [
-          "75% reduced Life Recovery rate",
-          "75% reduced Mana Recovery rate",
-          "75% reduced [EnergyShield|Energy Shield] Recovery rate"
+          "35% reduced Life Recovery rate",
+          "35% reduced Mana Recovery rate",
+          "35% reduced [EnergyShield|Energy Shield] Recovery rate"
+        ],
+        "visuals": null
+      },
+      "UltimatumRecoveryDebuff3": {
+        "aura_radius_metres": null,
+        "stats": {
+          "life_recovery_rate_+%": -50,
+          "mana_recovery_rate_+%": -50,
+          "energy_shield_recovery_rate_+%": -50
+        },
+        "stat_text": [
+          "50% reduced Life Recovery rate",
+          "50% reduced Mana Recovery rate",
+          "50% reduced [EnergyShield|Energy Shield] Recovery rate"
+        ],
+        "visuals": null
+      },
+      "UltimatumRecoveryDebuff4": {
+        "aura_radius_metres": null,
+        "stats": {
+          "life_recovery_rate_+%": -65,
+          "mana_recovery_rate_+%": -65,
+          "energy_shield_recovery_rate_+%": -65
+        },
+        "stat_text": [
+          "65% reduced Life Recovery rate",
+          "65% reduced Mana Recovery rate",
+          "65% reduced [EnergyShield|Energy Shield] Recovery rate"
+        ],
+        "visuals": null
+      },
+      "UltimatumRecoveryDebuff5": {
+        "aura_radius_metres": null,
+        "stats": {
+          "life_recovery_rate_+%": -80,
+          "mana_recovery_rate_+%": -80,
+          "energy_shield_recovery_rate_+%": -80
+        },
+        "stat_text": [
+          "80% reduced Life Recovery rate",
+          "80% reduced Mana Recovery rate",
+          "80% reduced [EnergyShield|Energy Shield] Recovery rate"
         ],
         "visuals": null
       }
@@ -30486,6 +30606,30 @@
           "template": "UltimatumResistancesDebuff2",
           "stat_text": null,
           "stats": null
+        },
+        {
+          "id": "PlayerDebuffResistances3",
+          "item": null,
+          "name": null,
+          "template": "UltimatumResistancesDebuff3",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffResistances4",
+          "item": null,
+          "name": null,
+          "template": "UltimatumResistancesDebuff4",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffResistances5",
+          "item": null,
+          "name": null,
+          "template": "UltimatumResistancesDebuff5",
+          "stat_text": null,
+          "stats": null
         }
       ]
     },
@@ -30494,23 +30638,57 @@
         "aura_radius_metres": null,
         "stats": {
           "base_resist_all_elements_%": -15,
-          "additional_maximum_all_elemental_resistances_%": -10
+          "additional_maximum_all_elemental_resistances_%": 0
         },
         "stat_text": [
-          "-15% to all [ElementalDamage|Elemental] [Resistances]",
-          "-10% to all [MaximumResistances|Maximum Elemental Resistances]"
+          "-15% to all [ElementalDamage|Elemental] [Resistances]"
         ],
         "visuals": null
       },
       "UltimatumResistancesDebuff2": {
         "aura_radius_metres": null,
         "stats": {
-          "base_resist_all_elements_%": -30,
-          "additional_maximum_all_elemental_resistances_%": -20
+          "base_resist_all_elements_%": -25,
+          "additional_maximum_all_elemental_resistances_%": 0
         },
         "stat_text": [
-          "-30% to all [ElementalDamage|Elemental] [Resistances]",
-          "-20% to all [MaximumResistances|Maximum Elemental Resistances]"
+          "-25% to all [ElementalDamage|Elemental] [Resistances]"
+        ],
+        "visuals": null
+      },
+      "UltimatumResistancesDebuff3": {
+        "aura_radius_metres": null,
+        "stats": {
+          "base_resist_all_elements_%": -35,
+          "additional_maximum_all_elemental_resistances_%": -5
+        },
+        "stat_text": [
+          "-35% to all [ElementalDamage|Elemental] [Resistances]",
+          "-5% to all [MaximumResistances|Maximum Elemental Resistances]"
+        ],
+        "visuals": null
+      },
+      "UltimatumResistancesDebuff4": {
+        "aura_radius_metres": null,
+        "stats": {
+          "base_resist_all_elements_%": -45,
+          "additional_maximum_all_elemental_resistances_%": -10
+        },
+        "stat_text": [
+          "-45% to all [ElementalDamage|Elemental] [Resistances]",
+          "-10% to all [MaximumResistances|Maximum Elemental Resistances]"
+        ],
+        "visuals": null
+      },
+      "UltimatumResistancesDebuff5": {
+        "aura_radius_metres": null,
+        "stats": {
+          "base_resist_all_elements_%": -55,
+          "additional_maximum_all_elemental_resistances_%": -15
+        },
+        "stat_text": [
+          "-55% to all [ElementalDamage|Elemental] [Resistances]",
+          "-15% to all [MaximumResistances|Maximum Elemental Resistances]"
         ],
         "visuals": null
       }
@@ -30544,6 +30722,30 @@
           "template": "UltimatumDefencesDebuff2",
           "stat_text": null,
           "stats": null
+        },
+        {
+          "id": "PlayerDebuffDefences3",
+          "item": null,
+          "name": null,
+          "template": "UltimatumDefencesDebuff3",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffDefences4",
+          "item": null,
+          "name": null,
+          "template": "UltimatumDefencesDebuff4",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffDefences5",
+          "item": null,
+          "name": null,
+          "template": "UltimatumDefencesDebuff5",
+          "stat_text": null,
+          "stats": null
         }
       ]
     },
@@ -30551,12 +30753,36 @@
       "UltimatumDefencesDebuff1": {
         "aura_radius_metres": null,
         "stats": {
-          "global_armour_evasion_energy_shield_+%_final_from_sanctum_boon": -40
+          "global_armour_evasion_energy_shield_+%_final_from_sanctum_boon": -20
         },
         "stat_text": null,
         "visuals": null
       },
       "UltimatumDefencesDebuff2": {
+        "aura_radius_metres": null,
+        "stats": {
+          "global_armour_evasion_energy_shield_+%_final_from_sanctum_boon": -35
+        },
+        "stat_text": null,
+        "visuals": null
+      },
+      "UltimatumDefencesDebuff3": {
+        "aura_radius_metres": null,
+        "stats": {
+          "global_armour_evasion_energy_shield_+%_final_from_sanctum_boon": -50
+        },
+        "stat_text": null,
+        "visuals": null
+      },
+      "UltimatumDefencesDebuff4": {
+        "aura_radius_metres": null,
+        "stats": {
+          "global_armour_evasion_energy_shield_+%_final_from_sanctum_boon": -65
+        },
+        "stat_text": null,
+        "visuals": null
+      },
+      "UltimatumDefencesDebuff5": {
         "aura_radius_metres": null,
         "stats": {
           "global_armour_evasion_energy_shield_+%_final_from_sanctum_boon": -80
@@ -30628,6 +30854,38 @@
           "template": "UltimatumAreaAndProjectileSpeedDebuff",
           "stat_text": null,
           "stats": null
+        },
+        {
+          "id": "PlayerDebuffAreaAndProjectileSpeed2",
+          "item": null,
+          "name": null,
+          "template": "UltimatumAreaAndProjectileSpeedDebuff2",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffAreaAndProjectileSpeed3",
+          "item": null,
+          "name": null,
+          "template": "UltimatumAreaAndProjectileSpeedDebuff3",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffAreaAndProjectileSpeed4",
+          "item": null,
+          "name": null,
+          "template": "UltimatumAreaAndProjectileSpeedDebuff4",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffAreaAndProjectileSpeed5",
+          "item": null,
+          "name": null,
+          "template": "UltimatumAreaAndProjectileSpeedDebuff5",
+          "stat_text": null,
+          "stats": null
         }
       ]
     },
@@ -30635,8 +30893,44 @@
       "UltimatumAreaAndProjectileSpeedDebuff": {
         "aura_radius_metres": null,
         "stats": {
+          "ultimatum_skill_area_of_effect_+%_final": -20,
+          "ultimatum_projectile_speed_+%_final": -20
+        },
+        "stat_text": null,
+        "visuals": null
+      },
+      "UltimatumAreaAndProjectileSpeedDebuff2": {
+        "aura_radius_metres": null,
+        "stats": {
+          "ultimatum_skill_area_of_effect_+%_final": -35,
+          "ultimatum_projectile_speed_+%_final": -35
+        },
+        "stat_text": null,
+        "visuals": null
+      },
+      "UltimatumAreaAndProjectileSpeedDebuff3": {
+        "aura_radius_metres": null,
+        "stats": {
           "ultimatum_skill_area_of_effect_+%_final": -50,
           "ultimatum_projectile_speed_+%_final": -50
+        },
+        "stat_text": null,
+        "visuals": null
+      },
+      "UltimatumAreaAndProjectileSpeedDebuff4": {
+        "aura_radius_metres": null,
+        "stats": {
+          "ultimatum_skill_area_of_effect_+%_final": -65,
+          "ultimatum_projectile_speed_+%_final": -65
+        },
+        "stat_text": null,
+        "visuals": null
+      },
+      "UltimatumAreaAndProjectileSpeedDebuff5": {
+        "aura_radius_metres": null,
+        "stats": {
+          "ultimatum_skill_area_of_effect_+%_final": -80,
+          "ultimatum_projectile_speed_+%_final": -80
         },
         "stat_text": null,
         "visuals": null
@@ -30664,6 +30958,22 @@
           "template": "UltimatumBuffsExpireFaster",
           "stat_text": null,
           "stats": null
+        },
+        {
+          "id": "PlayerDebuffBuffsExpireFasterDebuffsExpireSlower2",
+          "item": null,
+          "name": null,
+          "template": "UltimatumBuffsExpireFaster2",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "PlayerDebuffBuffsExpireFasterDebuffsExpireSlower3",
+          "item": null,
+          "name": null,
+          "template": "UltimatumBuffsExpireFaster3",
+          "stat_text": null,
+          "stats": null
         }
       ]
     },
@@ -30671,12 +30981,36 @@
       "UltimatumBuffsExpireFaster": {
         "aura_radius_metres": null,
         "stats": {
+          "buff_time_passed_+%_only_buff_category": 50,
+          "debuff_time_passed_+%": -25
+        },
+        "stat_text": [
+          "[Buff|Buffs] on you expire 50% faster",
+          "[Debuff|Debuffs] on you expire 25% slower"
+        ],
+        "visuals": null
+      },
+      "UltimatumBuffsExpireFaster2": {
+        "aura_radius_metres": null,
+        "stats": {
+          "buff_time_passed_+%_only_buff_category": 100,
+          "debuff_time_passed_+%": -50
+        },
+        "stat_text": [
+          "[Buff|Buffs] on you expire 100% faster",
+          "[Debuff|Debuffs] on you expire 50% slower"
+        ],
+        "visuals": null
+      },
+      "UltimatumBuffsExpireFaster3": {
+        "aura_radius_metres": null,
+        "stats": {
           "buff_time_passed_+%_only_buff_category": 200,
-          "debuff_time_passed_+%": -66
+          "debuff_time_passed_+%": -100
         },
         "stat_text": [
           "[Buff|Buffs] on you expire 200% faster",
-          "[Debuff|Debuffs] on you expire 66% slower"
+          "[Debuff|Debuffs] on you expire 100% slower"
         ],
         "visuals": null
       }
@@ -30760,6 +31094,22 @@
       "Mods": [
         {
           "id": "UltimatumAcceleratingMonsters",
+          "item": null,
+          "name": null,
+          "template": "UltimatumAcceleratingMonsters",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "UltimatumAcceleratingMonsters2",
+          "item": null,
+          "name": null,
+          "template": "UltimatumAcceleratingMonsters",
+          "stat_text": null,
+          "stats": null
+        },
+        {
+          "id": "UltimatumAcceleratingMonsters3",
           "item": null,
           "name": null,
           "template": "UltimatumAcceleratingMonsters",
@@ -33515,7 +33865,7 @@
   "cover_in_frost": {
     "description": "You Critical Strike chance is lowered and you take Increased Cold Damage.",
     "invisible": false,
-    "name": "Covered In Frost",
+    "name": "Covered in Frost",
     "removable": false,
     "stats": [
       "covered_in_frost_critical_strike_chance_+%_final",
@@ -35543,7 +35893,7 @@
   "shrine_brineking": {
     "description": "You cannot be Chilled, Frozen or Stunned. You take some Physical Damage as Cold Damage.",
     "invisible": false,
-    "name": "Tsoagoth  Shrine",
+    "name": "Tsoagoth Shrine",
     "removable": true,
     "stats": [
       "cold_damage_+%",
@@ -38202,7 +38552,7 @@
     "stack_limit": null
   },
   "guard_flask_damage_absorption": {
-    "description": "All damage from [HitDamage|Hits] is taken from this buff before your Life or [EnergyShield|Energy Shield].",
+    "description": "All damage from [Hit|Hits] is taken from this buff before your Life or [EnergyShield|Energy Shield].",
     "invisible": false,
     "name": "Guard",
     "removable": false,
@@ -38592,7 +38942,7 @@
     "stack_limit": null
   },
   "arctic_armour_stationary_stage": {
-    "description": "When you are [HitDamage|Hit] by a [Melee] [Attack], you retaliate with [Cold] Damage but lose a stage.",
+    "description": "When you are [Hit] by a [Melee] [Attack], you retaliate with [Cold] Damage but lose a stage.",
     "invisible": false,
     "name": "Arctic Armour",
     "removable": false,
@@ -39214,7 +39564,7 @@
     "stack_limit": null
   },
   "broken_armour_debuff": {
-    "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [HitDamage|Hits] except on players.",
+    "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [Hit|Hits] except on players.",
     "invisible": false,
     "name": "Fully Broken Armour",
     "removable": false,
@@ -39813,7 +40163,7 @@
     "stack_limit": null
   },
   "covered_in_oil": {
-    "description": "Movement speed [Slow|Slowed] and  inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills are guaranteed to [Ignite].",
+    "description": "Movement speed [Slow|Slowed] and inflicted with [Exposure|Fire Exposure]. [IgnitedGround|Ignited Ground] or [Detonator] Skills are guaranteed to [Ignite].",
     "invisible": false,
     "name": "Covered in Oil",
     "removable": false,
@@ -40404,7 +40754,7 @@
     "stack_limit": null
   },
   "sanguine_revelry_visual": {
-    "description": "You create [Remnant|Hateful Remnants] when you [HitDamage|Hit] or kill [Bleeding] enemies. Walking over a [Remnant|Hateful Remnant] consumes it to grant you [Rage] and causes you to recover Life based on your current [Rage].",
+    "description": "You create [Remnant|Hateful Remnants] when you [Hit] or kill [Bleeding] enemies. Walking over a [Remnant|Hateful Remnant] consumes it to grant you [Rage] and causes you to recover Life based on your current [Rage].",
     "invisible": false,
     "name": "Sanguine Revelry",
     "removable": false,
@@ -41572,7 +41922,7 @@
     "stack_limit": null
   },
   "aegis_spell_buff": {
-    "description": "[ElementalDamage|Elemental Damage] from [HitDamage|Hits] is taken from this [Buff] before your Life or [EnergyShield|Energy Shield].",
+    "description": "[ElementalDamage|Elemental Damage] from [Hit|Hits] is taken from this [Buff] before your Life or [EnergyShield|Energy Shield].",
     "invisible": false,
     "name": "Sorcery Ward",
     "removable": false,
@@ -42491,7 +42841,7 @@
     "stack_limit": null
   },
   "time_stop_debuff": {
-    "description": "Time has been Frozen, unable to move.",
+    "description": "Time has been Frozen, you are unable to move.",
     "invisible": false,
     "name": "Time Freeze",
     "removable": false,
@@ -44086,7 +44436,7 @@
   "herald_of_blood": {
     "description": "Slain Enemies with [BloodLoss|Blood Loss] explode dealing [Physical] [Attack] Damage",
     "invisible": false,
-    "name": "Herald Of Blood",
+    "name": "Herald of Blood",
     "removable": true,
     "stats": [
       "physical_damage_+%",
@@ -47724,7 +48074,7 @@
     "stack_limit": null
   },
   "wrath_presence_aura": {
-    "description": "Skill [HitDamage|Hits] against [Shock|Shocked] enemies in your [Presence] also [HitDamage|Hit] other [Shock|Shocked] enemies in your [Presence].",
+    "description": "Skill [Hit|Hits] against [Shock|Shocked] enemies in your [Presence] also [Hit] other [Shock|Shocked] enemies in your [Presence].",
     "invisible": false,
     "name": "Fulmination",
     "removable": false,
@@ -47738,7 +48088,7 @@
     "stack_limit": null
   },
   "wrath_owner_handler": {
-    "description": "Skill [HitDamage|Hits] against [Shock|Shocked] enemies in your [Presence] also [HitDamage|Hit] other [Shock|Shocked] enemies in your [Presence].",
+    "description": "Skill [Hit|Hits] against [Shock|Shocked] enemies in your [Presence] also [Hit] other [Shock|Shocked] enemies in your [Presence].",
     "invisible": true,
     "name": "Fulmination",
     "removable": false,
@@ -48154,7 +48504,7 @@
     "stack_limit": null
   },
   "toxic_domain_buff": {
-    "description": "Your Skill costs are increased, you are regenerating Life, and your [Projectile] [Attack|Attacks] are creating Toxic Pustules on enemies [HitDamage|Hit].",
+    "description": "Your Skill costs are increased, you are regenerating Life, and your [Projectile] [Attack|Attacks] are creating Toxic Pustules on enemies [Hit].",
     "invisible": false,
     "name": "Toxic Bloom",
     "removable": false,
@@ -48345,7 +48695,7 @@
     "stack_limit": null
   },
   "high_velocity_armor_break_debuff": {
-    "description": "Each [Attack] [HitDamage|Hit] taken has added [Physical] damage.",
+    "description": "Each [Attack] [Hit] taken has added [Physical] damage.",
     "invisible": false,
     "name": "Riven Armour",
     "removable": false,
@@ -48360,7 +48710,7 @@
     "stack_limit": null
   },
   "vaulting_impact_dazed_debuff": {
-    "description": "Each [Attack] [HitDamage|Hit] taken has added [Physical] damage.",
+    "description": "Each [Attack] [Hit] taken has added [Physical] damage.",
     "invisible": false,
     "name": "Broken Stance",
     "removable": false,
@@ -48415,7 +48765,7 @@
     "stack_limit": null
   },
   "runic_tempering": {
-    "description": "Runic Plates protect you, preventing damage from and backlashing against a number of [HitDamage|Hits] you take.",
+    "description": "Runic Plates protect you, preventing damage from and backlashing against a number of [Hit|Hits] you take.",
     "invisible": false,
     "name": "Runic Plates",
     "removable": false,
@@ -48442,7 +48792,7 @@
     "stack_limit": null
   },
   "sundered_armour": {
-    "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [HitDamage|Hits] except on players.",
+    "description": "Debuff negates all [Armour], and causes increased [Physical] damage taken from [Hit|Hits] except on players.",
     "invisible": false,
     "name": "Sundered Armour",
     "removable": false,
@@ -48785,7 +49135,7 @@
     "stack_limit": null
   },
   "archon_fire": {
-    "description": "You deal more [Fire] Damage with [Spell|Spells].\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Fire. \nMore [Ignite] chance with Spells.",
+    "description": "You deal more [Fire] Damage with [Spell|Spells].\r\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Fire.\r\nMore [Ignite] chance with Spells.",
     "invisible": false,
     "name": "Flame Archon",
     "removable": false,
@@ -48826,7 +49176,7 @@
     "stack_limit": null
   },
   "archon_cold": {
-    "description": "You deal more [Cold] Damage with [Spell|Spells]. \n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Cold. \nMore [Freeze] Buildup with Spells.",
+    "description": "You deal more [Cold] Damage with [Spell|Spells].\r\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Cold. \nMore [Freeze] Buildup with Spells.",
     "invisible": false,
     "name": "Ice Archon",
     "removable": false,
@@ -48867,7 +49217,7 @@
     "stack_limit": null
   },
   "archon_lightning": {
-    "description": "You deal more [Lightning] Damage with [Spell|Spells].\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Lightning. \nMore [Shock] chance with Spells.",
+    "description": "You deal more [Lightning] Damage with [Spell|Spells].\r\n[Conversion|Convert] [ElementalDamage|Elemental] Damage with Spells to Lightning.\r\nMore [Shock] chance with Spells.",
     "invisible": false,
     "name": "Lightning Archon",
     "removable": false,
@@ -48908,7 +49258,7 @@
     "stack_limit": null
   },
   "archon_elemental": {
-    "description": "You deal more [ElementalDamage|Elemental Damage] with [Spell|Spells]. \nMore [Ignite] chance with Spells. \nMore [Freeze] Buildup with Spells. \nMore [Shock] chance with Spells.",
+    "description": "You deal more [ElementalDamage|Elemental Damage] with [Spell|Spells]. \r\nMore [Ignite] chance with Spells. \nMore [Freeze] Buildup with Spells.\r\nMore [Shock] chance with Spells.",
     "invisible": false,
     "name": "Elemental Archon",
     "removable": false,
@@ -48966,7 +49316,7 @@
     "stack_limit": null
   },
   "archon_undeath": {
-    "description": "Your [Minion|Minions] deal more Damage. \nMore [CooldownRecovery|Cooldown Recovery Rate] for [Command] Skills. \nMore [Limit] of [TemporaryMinion|Temporary Minion Skills].",
+    "description": "Your [Minion|Minions] deal more Damage.\r\nMore [CooldownRecovery|Cooldown Recovery Rate] for [Command] Skills.\r\nMore [Limit] of [TemporaryMinion|Temporary Minion Skills].",
     "invisible": false,
     "name": "Archon of Undeath",
     "removable": false,
@@ -49003,7 +49353,7 @@
     "stack_limit": null
   },
   "archon_nature": {
-    "description": "You deal more Damage with [Plant] Skills. \nMore Skill Effect Duration with [Plant] Skills. \n[Plant] Skills are Overgrown. \nAdditional [Limit] to [Plant] Skills.",
+    "description": "You deal more Damage with [Plant] Skills.\r\nMore Skill Effect Duration with [Plant] Skills.\r\n[Plant] Skills are Overgrown.\r\nAdditional [Limit] to [Plant] Skills.",
     "invisible": false,
     "name": "Nature's Archon",
     "removable": false,
@@ -49657,7 +50007,7 @@
     "stack_limit": null
   },
   "guard_boss_offensive_buff": {
-    "description": "Twilight Priest's are empowering Torvian with Shock, Chill, Ignite and Freeze with all hits.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
+    "description": "Twilight Priests are empowering Torvian with Shock, Chill, Ignite and Freeze with all hits.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
     "invisible": true,
     "name": "Twilight Order's Sword",
     "removable": false,
@@ -49675,7 +50025,7 @@
     "stack_limit": null
   },
   "guard_boss_defensive_buff": {
-    "description": "Twilight Priest's are empowering Torvian with improved Defences.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
+    "description": "Twilight Priests are empowering Torvian with improved Defences.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
     "invisible": true,
     "name": "Twilight Order's Shield",
     "removable": false,
@@ -49689,7 +50039,7 @@
     "stack_limit": null
   },
   "guard_boss_utility_buff": {
-    "description": "Twilight Priest's are empowering Torvian with immunity to stun and ailments.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
+    "description": "Twilight Priests are empowering Torvian with immunity to stun and ailments.\r\n\r\nGet Torvian to throw a boulder at the scaffolding to interrupt the Priests and remove this buff.",
     "invisible": true,
     "name": "Twilight Order's Faith",
     "removable": false,
@@ -50923,7 +51273,7 @@
     "stack_limit": null
   },
   "druidic_prowess": {
-    "description": "Each Druidic Prowess grants 10% increased [SkillSpeed|Skill Speed] and causes [HitDamage|Hits] with [Spell] Damage to grant 3 [Rage]. Maximum 3 Druidic Prowess.",
+    "description": "Each Druidic Prowess grants 10% increased [SkillSpeed|Skill Speed] and causes [Hit|Hits] with [Spell] Damage to grant 3 [Rage]. Maximum 3 Druidic Prowess.",
     "invisible": false,
     "name": "Druidic Prowess",
     "removable": false,
@@ -51273,7 +51623,7 @@
     "stack_limit": null
   },
   "dangerous_resolve_tracker": {
-    "description": "Getting [HitDamage|Hit] by an enemy will [Trigger] Deadly Resolve, dealing [Physical] damage in an area towards that enemy.",
+    "description": "Getting [Hit] by an enemy will [Trigger] Deadly Resolve, dealing [Physical] damage in an area towards that enemy.",
     "invisible": false,
     "name": "Deadly Resolve",
     "removable": false,
@@ -51682,7 +52032,7 @@
     "stack_limit": null
   },
   "archon_of_chayula": {
-    "description": "You deal more [Physical] and [Chaos] Damage, [Withered|Wither] enemies on [HitDamage|Hit] and periodically create [Chaos] Tornados.",
+    "description": "You deal more [Physical] and [Chaos] Damage, [Withered|Wither] enemies on [Hit] and periodically create [Chaos] Tornados.",
     "invisible": false,
     "name": "Archon of Chayula",
     "removable": false,
@@ -52470,7 +52820,7 @@
     "stack_limit": null
   },
   "hounded_by_wisps": {
-    "description": "[DNT] [HitDamage|Hits] against enemies affected by [FaerieFire|Faerie Fire] gain Extra Damage as a random [ElementalDamage|Element]",
+    "description": "[DNT] [Hit|Hits] against enemies affected by [FaerieFire|Faerie Fire] gain Extra Damage as a random [ElementalDamage|Element]",
     "invisible": true,
     "name": "Faerie Fire",
     "removable": false,
@@ -52580,7 +52930,7 @@
     "stack_limit": null
   },
   "stone_skin": {
-    "description": "Your [Attack|Attacks] deal more damage, you take less damage from small [HitDamage|Hits], and you have more [StunThreshold|Stun Threshold].",
+    "description": "Your [Attack|Attacks] deal more damage, you take less damage from small [Hit|Hits], and you have more [StunThreshold|Stun Threshold].",
     "invisible": false,
     "name": "Mountain's Teachings",
     "removable": false,
@@ -52744,7 +53094,7 @@
     "stack_limit": null
   },
   "finality": {
-    "description": "FinalStrike|Final Strikes] have 100% increased [Critical|Critical Hit Chance].\r\n[Strike] skills skip to their [FinalStrike|Final Strike] if they have one.\r\nSkills cannot gain [Combo].",
+    "description": "[FinalStrike|Final Strikes] have 100% increased [Critical|Critical Hit Chance].\r\n[Strike] skills skip to their [FinalStrike|Final Strike] if they have one.\r\nSkills cannot gain [Combo].",
     "invisible": false,
     "name": "Finality",
     "removable": false,
@@ -52783,7 +53133,7 @@
     "stack_limit": null
   },
   "gemling_barrier_red": {
-    "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+    "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [Hit].",
     "invisible": false,
     "name": "Strength Motes",
     "removable": false,
@@ -52808,7 +53158,7 @@
     "stack_limit": null
   },
   "gemling_barrier_blue": {
-    "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+    "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [Hit].",
     "invisible": false,
     "name": "Intelligence Motes",
     "removable": false,
@@ -52836,7 +53186,7 @@
     "stack_limit": null
   },
   "gemling_barrier_green": {
-    "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+    "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [Hit].",
     "invisible": false,
     "name": "Dexterity Motes",
     "removable": false,
@@ -53132,7 +53482,7 @@
     "stack_limit": null
   },
   "runic_fortress": {
-    "description": "Automatically [Block] [HitDamage|Hits] from all directions and apply [ParriedDebuff|Parried] to enemies you [Block].",
+    "description": "Automatically [Block] [Hit|Hits] from all directions and apply [ParriedDebuff|Parried] to enemies you [Block].",
     "invisible": false,
     "name": "Refutation",
     "removable": false,
@@ -53153,7 +53503,7 @@
     "stack_limit": null
   },
   "curse_repulsion": {
-    "description": "[HitDamage|Hitting] this enemy will [Trigger] a Repulsion Shockwave.",
+    "description": "[Hit|Hitting] this enemy will [Trigger] a Repulsion Wave.",
     "invisible": false,
     "name": "Repulsion",
     "removable": false,
@@ -53813,8 +54163,29 @@
     ],
     "visuals": "tormented_spirit_power_sacred",
     "category": "Buff",
-    "sources": null,
+    "sources": {
+      "UltimatumModifiers": [
+        {
+          "id": "RemoveRewardsIncreaseRarity",
+          "item": null,
+          "name": null,
+          "template": "UltimatumPlayerDoubleRarity",
+          "stat_text": null,
+          "stats": null
+        }
+      ]
+    },
     "templates": {
+      "UltimatumPlayerDoubleRarity": {
+        "aura_radius_metres": null,
+        "stats": {
+          "base_item_found_rarity_+%": 100
+        },
+        "stat_text": [
+          "100% increased [ItemRarity|Rarity of Items] found"
+        ],
+        "visuals": null
+      },
       "player_rabbit_item_rarity": {
         "aura_radius_metres": null,
         "stats": {
@@ -53829,7 +54200,7 @@
     "stack_limit": null
   },
   "ward_remnants_visual": {
-    "description": "You create [Ward|Runic Ward] [Remnant|Remnants] when you [Stun] or kill an enemy. Walking over a [Ward|Runic Ward] [Remnant] recovers your [Ward|Runic Ward].",
+    "description": "You create [Ward|Runic Ward] [Remnant|Remnants] when you [Stun] or kill an enemy. Walking over a [Ward|Runic Ward] [Remnant] consumes it to restore your [Ward|Runic Ward].",
     "invisible": false,
     "name": "Remnants of Kalguur",
     "removable": false,
@@ -53912,7 +54283,7 @@
     "stack_limit": null
   },
   "rune_ward_bubble": {
-    "description": "[Block] [HitDamage|Hits] against you. Damage is taken from [Ward|Runic Ward] before Life while this is active.",
+    "description": "[Block] [Hit|Hits] against you. Damage is taken from [Ward|Runic Ward] before Life while this is active.",
     "invisible": false,
     "name": "Runic Reprieve",
     "removable": false,
@@ -54297,7 +54668,7 @@
     "stack_limit": null
   },
   "gemling_barrier_red_proxy": {
-    "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+    "description": "Virtuous Barrier grants 2% increased maximum Life for each Strength Mote.\r\nYou lose a random Mote when you are [Hit].",
     "invisible": false,
     "name": "Strength Motes",
     "removable": false,
@@ -54309,7 +54680,7 @@
     "stack_limit": null
   },
   "gemling_barrier_blue_proxy": {
-    "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+    "description": "Virtuous Barrier grants additional Life and Mana Regeneration rate for each Intelligence Mote.\r\nYou lose a random Mote when you are [Hit].",
     "invisible": false,
     "name": "Intelligence Motes",
     "removable": false,
@@ -54321,7 +54692,7 @@
     "stack_limit": null
   },
   "gemling_barrier_green_proxy": {
-    "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [HitDamage|Hit].",
+    "description": "Virtuous Barrier grants increased [Evasion], [Armour] and [EnergyShield|Energy Shield] for each Dexterity Mote.\r\nYou lose a random Mote when you are [Hit].",
     "invisible": false,
     "name": "Dexterity Motes",
     "removable": false,
@@ -54402,7 +54773,7 @@
     "stack_limit": null
   },
   "rarity_vs_brequel_hive_monsters": {
-    "description": "You have increased [ItemRarity|Item Rarity] in [Breach] Hives",
+    "description": "You have increased [ItemRarity|Item Rarity] in [ContainsBreach|Breach] Hives",
     "invisible": false,
     "name": "Dreamer's Gift",
     "removable": false,

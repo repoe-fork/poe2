@@ -763,7 +763,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life\nPlayers deal {0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "{0}% increased Damage with [Hit|Hits] against Enemies that are on Full Life\nPlayers deal {0}% increased Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       },
@@ -783,7 +783,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life\nPlayers deal {0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "{0}% reduced Damage with [Hit|Hits] against Enemies that are on Full Life\nPlayers deal {0}% reduced Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       }

@@ -179,7 +179,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[DamageTypes|All Damage] from Monsters' [HitDamage|Hits] [Contributes|Contributes] to [Poison] Magnitude",
+        "string": "[DamageTypes|All Damage] from Monsters' [Hit|Hits] [Contributes|Contributes] to [Poison] Magnitude",
         "reminder_text": null,
         "is_markup": null
       }
@@ -215,7 +215,7 @@
         "index_handlers": [
           []
         ],
-        "string": "All Damage from Monsters' [HitDamage|Hits] can [Shock]",
+        "string": "All Damage from Monsters' [Hit|Hits] can [Shock]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -251,7 +251,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Monsters' [HitDamage|Hits] are always [Critical|Critical Hits]",
+        "string": "Monsters' [Hit|Hits] are always [Critical|Critical Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -287,7 +287,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Runic] Monsters apply a random [Curse] on [HitDamage|Hit]",
+        "string": "[Runic] Monsters apply a random [Curse] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -305,7 +305,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Runic] Monsters apply {0} random [Curse] on [HitDamage|Hit]",
+        "string": "[Runic] Monsters apply {0} random [Curse] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -377,7 +377,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Runic] Monsters inflict [Petrify|Petrification] for {0} seconds on [HitDamage|Hit]",
+        "string": "[Runic] Monsters inflict [Petrify|Petrification] for {0} seconds on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -413,7 +413,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Monsters' [HitDamage|Hits] [ArmourBreak|Break Armour] equal to {0}% of [Physical|Physical Damage] dealt",
+        "string": "Monsters' [Hit|Hits] [ArmourBreak|Break Armour] equal to {0}% of [Physical|Physical Damage] dealt",
         "reminder_text": null,
         "is_markup": null
       }
@@ -559,7 +559,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Monsters have {0}% chance to Avoid All Damage from [HitDamage|Hits]",
+        "string": "Monsters have {0}% chance to Avoid All Damage from [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -1794,7 +1794,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Monsters' [HitDamage|Hits] can't be [Evasion|Evaded]",
+        "string": "Monsters' [Hit|Hits] can't be [Evasion|Evaded]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -1830,7 +1830,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Monsters [Poison] on [HitDamage|Hit]",
+        "string": "Monsters [Poison] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -2200,7 +2200,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Monsters kill things with 20% or lower Life on [HitDamage|Hit]",
+        "string": "Monsters kill things with 20% or lower Life on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -2687,7 +2687,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] against Monsters cannot be [Critical|Critical Hits]",
+        "string": "[Hit|Hits] against Monsters cannot be [Critical|Critical Hits]",
         "reminder_text": null,
         "is_markup": null
       }

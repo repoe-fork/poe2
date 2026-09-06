@@ -147,7 +147,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Poison|Poison] on [HitDamage|Hit]",
+        "string": "{0}% chance to [Poison|Poison] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

@@ -17,7 +17,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "[Remnant] spawn on [HitDamage|Hitting] [Bleeding] enemies interval@{0}s",
+        "string": "[Remnant] spawn on [Hit|Hitting] [Bleeding] enemies interval@{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -35,7 +35,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Spawn a [Remnant] on [HitDamage|Hitting] a [Bleeding] enemy, no more than once per second",
+        "string": "Spawn a [Remnant] on [Hit|Hitting] a [Bleeding] enemy, no more than once per second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -55,7 +55,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Spawn a [Remnant] on [HitDamage|Hitting] a [Bleeding] enemy, no more than once every {0} seconds",
+        "string": "Spawn a [Remnant] on [Hit|Hitting] a [Bleeding] enemy, no more than once every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }

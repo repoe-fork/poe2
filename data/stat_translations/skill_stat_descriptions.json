@@ -333,7 +333,7 @@
             "divide_by_one_hundred"
           ]
         ],
-        "string": "Once [Ignite|Ignited], [OilGround|Oil Ground] adds {0}% of this Attack's [Fire] [HitDamage|Damage] as unscalable [HitDamage|Damage] to the [Ignite]",
+        "string": "Once [Ignite|Ignited], [OilGround|Oil Ground] adds {0}% of this Attack's [Fire] [Hit|Damage] as unscalable [Hit|Damage] to the [Ignite]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -2186,7 +2186,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Knockback|Knock Enemies Back] on [HitDamage|Hit]",
+        "string": "{0}% chance to [Knockback|Knock Enemies Back] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -2204,7 +2204,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Knockback|Knocks Enemies Back] on [HitDamage|Hit]",
+        "string": "[Knockback|Knocks Enemies Back] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -3819,7 +3819,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] are [Pinned|Pinning]",
+        "string": "[Hit|Hits] are [Pinned|Pinning]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -5174,7 +5174,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Withered] [Debuff|Debuffs] inflicted on [HitDamage|Hit]@{0}",
+        "string": "[Withered] [Debuff|Debuffs] inflicted on [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       },
@@ -5192,7 +5192,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts [Withered] on [HitDamage|Hit]",
+        "string": "Inflicts [Withered] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -5210,7 +5210,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts {0} [Withered] [Debuff|Debuffs] on [HitDamage|Hit]",
+        "string": "Inflicts {0} [Withered] [Debuff|Debuffs] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -9528,7 +9528,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Blind] enemies on [HitDamage|Hit]",
+        "string": "{0}% chance to [Blind] enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -9546,7 +9546,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Blind] enemies on [HitDamage|Hit]",
+        "string": "[Blind] enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -9854,7 +9854,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more damage with [HitDamage|Hits] if using your life",
+        "string": "{0}% more damage with [Hit|Hits] if using your life",
         "reminder_text": null,
         "is_markup": null
       }
@@ -10099,7 +10099,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more Damage with [HitDamage|Hits] for each stage",
+        "string": "{0}% more Damage with [Hit|Hits] for each stage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -10119,7 +10119,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less Damage with [HitDamage|Hits] for each stage",
+        "string": "{0}% less Damage with [Hit|Hits] for each stage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -15860,7 +15860,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Poison|Poison] on [HitDamage|Hit]",
+        "string": "{0}% chance to [Poison|Poison] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -15878,7 +15878,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Always [Poison|Poisons] on [HitDamage|Hit]",
+        "string": "Always [Poison|Poisons] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -16080,7 +16080,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Poison|Poisons] Enemies on [HitDamage|Hit]",
+        "string": "[Poison|Poisons] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -18380,7 +18380,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "[Crushed|Crush] duration on [HitDamage|Hit]@{0}s",
+        "string": "[Crushed|Crush] duration on [Hit]@{0}s",
         "reminder_text": null,
         "is_markup": null
       }
@@ -18979,6 +18979,186 @@
       {
         "condition": [
           {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[Gain|Gains] {0}% of damage as [Chaos] damage",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "active_skill_base_all_damage_%_to_gain_as_chaos"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[Gain|Gains] {0}% of damage as [Cold] damage",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "active_skill_base_all_damage_%_to_gain_as_cold"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[Gain|Gains] {0}% of damage as [Fire] damage",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "active_skill_base_all_damage_%_to_gain_as_fire"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[Gain|Gains] {0}% of damage as [Lightning] damage",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "active_skill_base_all_damage_%_to_gain_as_lightning"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": 1,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "#"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[Gain|Gains] {0}% of damage as [Physical] damage",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "active_skill_base_all_damage_%_to_gain_as_physical"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
             "min": null,
             "max": null,
             "negated": null
@@ -19196,7 +19376,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Electrocute|Electrocutes] [PrimedElectrocution|Primed] enemies on [HitDamage|Hit]",
+        "string": "[Electrocute|Electrocutes] [PrimedElectrocution|Primed] enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -19965,7 +20145,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more Damage with [HitDamage|Hits] for each time this Skill has [Chain|Chained]",
+        "string": "{0}% more Damage with [Hit|Hits] for each time this Skill has [Chain|Chained]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -19985,7 +20165,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less Damage with [HitDamage|Hits] for each time this Skill has [Chain|Chained]",
+        "string": "{0}% less Damage with [Hit|Hits] for each time this Skill has [Chain|Chained]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -20021,7 +20201,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More Damage with [HitDamage|Hits] against [Burning] Enemies@{0}%",
+        "string": "More Damage with [Hit|Hits] against [Burning] Enemies@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -20041,7 +20221,7 @@
             "negate"
           ]
         ],
-        "string": "Less Damage with [HitDamage|Hits] against [Burning] Enemies@{0}%",
+        "string": "Less Damage with [Hit|Hits] against [Burning] Enemies@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -20059,7 +20239,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more Damage with [HitDamage|Hits] against [Burning] Enemies",
+        "string": "{0}% more Damage with [Hit|Hits] against [Burning] Enemies",
         "reminder_text": null,
         "is_markup": null
       },
@@ -20079,7 +20259,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less Damage with [HitDamage|Hits] against [Burning] Enemies",
+        "string": "{0}% less Damage with [Hit|Hits] against [Burning] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -20115,7 +20295,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More Damage with [HitDamage|Hits] against [Chill|Chilled] Enemies@{0}%",
+        "string": "More Damage with [Hit|Hits] against [Chill|Chilled] Enemies@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -20135,7 +20315,7 @@
             "negate"
           ]
         ],
-        "string": "Less Damage with [HitDamage|Hits] against [Chill|Chilled] Enemies@{0}%",
+        "string": "Less Damage with [Hit|Hits] against [Chill|Chilled] Enemies@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -20153,7 +20333,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more Damage with [HitDamage|Hits] against Enemies that are [Chill|Chilled]",
+        "string": "{0}% more Damage with [Hit|Hits] against Enemies that are [Chill|Chilled]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -20173,7 +20353,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less Damage with [HitDamage|Hits] against Enemies that are [Chill|Chilled]",
+        "string": "{0}% less Damage with [Hit|Hits] against Enemies that are [Chill|Chilled]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -20209,7 +20389,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more Damage with [HitDamage|Hits] against Enemies with [ArmourBreak|Fully Broken Armour]",
+        "string": "{0}% more Damage with [Hit|Hits] against Enemies with [ArmourBreak|Fully Broken Armour]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -20229,7 +20409,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less Damage with [HitDamage|Hits] against Enemies with [ArmourBreak|Fully Broken Armour]",
+        "string": "{0}% less Damage with [Hit|Hits] against Enemies with [ArmourBreak|Fully Broken Armour]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -20433,7 +20613,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Generates {0}% of [Power|Monster Power] as [Glory] for this Skill on dealing [Chaos] [HitDamage|Hit] damage to an enemy or inflicting a [Chaos] damage over time [Debuff] on an enemy",
+        "string": "Generates {0}% of [Power|Monster Power] as [Glory] for this Skill on dealing [Chaos] [Hit] damage to an enemy or inflicting a [Chaos] damage over time [Debuff] on an enemy",
         "reminder_text": null,
         "is_markup": null
       }
@@ -22074,7 +22254,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to build an additional [Combo] on [HitDamage|Hit]",
+        "string": "{0}% chance to build an additional [Combo] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -22092,7 +22272,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance to build an additional [Combo] on [HitDamage|Hit]@{0}%",
+        "string": "Chance to build an additional [Combo] on [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -22110,7 +22290,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Build an additional [Combo] on [HitDamage|Hit]",
+        "string": "Build an additional [Combo] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -22368,7 +22548,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Increases and reductions to [Thorns] Damage apply to [HitDamage|Hit Damage] with this skill",
+        "string": "Increases and reductions to [Thorns] Damage apply to [Hit|Hit Damage] with this skill",
         "reminder_text": null,
         "is_markup": null
       }
@@ -22516,7 +22696,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Flammability] and [Ignite] [BuffMagnitude|Magnitudes], [Freeze] Buildup, and [Shock] Chance",
+        "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Flammability] and [Ignite] [BuffMagnitude|Magnitudes], [Freeze] Buildup, and [Shock] Chance",
         "reminder_text": null,
         "is_markup": null
       }
@@ -22552,7 +22732,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to Sap Magnitude",
+        "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to Sap Magnitude",
         "reminder_text": null,
         "is_markup": null
       }
@@ -22952,7 +23132,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Number of [Block|Blocked] [HitDamage|Hits] to use@{0}",
+        "string": "Number of [Block|Blocked] [Hit|Hits] to use@{0}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -23226,7 +23406,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more [HitDamage|Hit] damage when [Chain|Chaining]",
+        "string": "{0}% more [Hit] damage when [Chain|Chaining]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -23246,7 +23426,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less [HitDamage|Hit] damage when [Chain|Chaining]",
+        "string": "{0}% less [Hit] damage when [Chain|Chaining]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -23684,7 +23864,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Grants {0}% chance to [Withered|Wither] enemies for 4 seconds on [HitDamage|Hit]",
+        "string": "Grants {0}% chance to [Withered|Wither] enemies for 4 seconds on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -24866,7 +25046,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to Avoid All Damage from [HitDamage|Hits]",
+        "string": "{0}% chance to Avoid All Damage from [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -24884,7 +25064,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Avoid All Damage from [HitDamage|Hits]",
+        "string": "Avoid All Damage from [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -25066,7 +25246,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Enemy [HitDamage|Hit] damage required to gain 1 [Energy]@{0}",
+        "string": "Enemy [Hit] damage required to gain 1 [Energy]@{0}",
         "reminder_text": null,
         "is_markup": null
       },
@@ -25084,7 +25264,7 @@
         "index_handlers": [
           []
         ],
-        "string": "When [HitDamage|Hit] by an Enemy, gain 1 [Energy] for each {0} [EnergyShield|Energy Shield] lost to damage taken",
+        "string": "When [Hit] by an Enemy, gain 1 [Energy] for each {0} [EnergyShield|Energy Shield] lost to damage taken",
         "reminder_text": null,
         "is_markup": null
       }
@@ -25277,7 +25457,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Daze|Dazes] on [HitDamage|Hit]",
+        "string": "[Daze|Dazes] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -25295,7 +25475,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Daze] on [HitDamage|Hit]",
+        "string": "{0}% chance to [Daze] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -25403,7 +25583,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]",
+        "string": "{0}% chance to inflict [Bleeding|Bleeding] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -25421,7 +25601,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts [Bleeding|Bleeding] on [HitDamage|Hit]",
+        "string": "Inflicts [Bleeding|Bleeding] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -25551,7 +25731,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Consume] [Freeze] on [HitDamage|Hit]",
+        "string": "[Consume] [Freeze] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -25587,7 +25767,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Consume] [Shock] on [HitDamage|Hit]",
+        "string": "[Consume] [Shock] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -26092,7 +26272,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to inflict [Fire] [Exposure] on [HitDamage|Hit]",
+        "string": "{0}% chance to inflict [Fire] [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -26110,7 +26290,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflict [Fire] [Exposure] on [HitDamage|Hit]",
+        "string": "Inflict [Fire] [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -26146,7 +26326,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to inflict [Exposure] on [HitDamage|Hit]",
+        "string": "{0}% chance to inflict [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -26164,7 +26344,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflict [Exposure] on [HitDamage|Hit]",
+        "string": "Inflict [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -30553,7 +30733,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "[Energy] gained per enemy [Power] on [Melee] [HitDamage|Hit]@{0}",
+        "string": "[Energy] gained per enemy [Power] on [Melee] [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       },
@@ -30573,7 +30753,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [HitDamage|Hit] with [Melee] [Attack|Attacks], modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [HitDamage|Hit] will deal",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Hit] with [Melee] [Attack|Attacks], modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Hit] will deal",
         "reminder_text": null,
         "is_markup": null
       }
@@ -30611,7 +30791,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "[Energy] gained per enemy [Power] on [Melee] [HitDamage|Hit]@{0}",
+        "string": "[Energy] gained per enemy [Power] on [Melee] [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       },
@@ -30631,7 +30811,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [HitDamage|Hit] with [Melee] [Attack|Attacks], modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [HitDamage|Hit] will deal",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Hit] with [Melee] [Attack|Attacks], modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Hit] will deal",
         "reminder_text": null,
         "is_markup": null
       }
@@ -30893,7 +31073,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Energy] gained when you are [HitDamage|Hit]@{0}",
+        "string": "[Energy] gained when you are [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       },
@@ -30911,7 +31091,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Gains {0} [Energy] when you take Damage from a [HitDamage|Hit]",
+        "string": "Gains {0} [Energy] when you take Damage from a [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -31175,7 +31355,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\n[HitDamage|Hits] from Skills",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\n[Hit|Hits] from Skills",
         "reminder_text": null,
         "is_markup": null
       }
@@ -31233,7 +31413,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [Ignite] with [HitDamage|Hits] from Skills, modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Ignite] will deal",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Ignite] with [Hit|Hits] from Skills, modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Ignite] will deal",
         "reminder_text": null,
         "is_markup": null
       }
@@ -31287,7 +31467,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Gains {0} [Energy] when you kill an enemy with a [Melee] [HitDamage|Hit]",
+        "string": "Gains {0} [Energy] when you kill an enemy with a [Melee] [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -31507,7 +31687,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\n[HitDamage|Hits] from Skills",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\n[Hit|Hits] from Skills",
         "reminder_text": null,
         "is_markup": null
       }
@@ -32073,7 +32253,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance for Damage with [HitDamage|Hits] to be [Lucky]",
+        "string": "{0}% chance for Damage with [Hit|Hits] to be [Lucky]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -34683,7 +34863,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more Damage with [HitDamage|Hits] for each stage",
+        "string": "{0}% more Damage with [Hit|Hits] for each stage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -34703,7 +34883,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less Damage with [HitDamage|Hits] for each stage",
+        "string": "{0}% less Damage with [Hit|Hits] for each stage",
         "reminder_text": null,
         "is_markup": null
       }
@@ -37467,7 +37647,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Daze|Dazed] Enemies cannot [Evasion|Evade] [HitDamage|Hits]\n[Consume] [Daze] on [HitDamage|Hit]",
+        "string": "[Daze|Dazed] Enemies cannot [Evasion|Evade] [Hit|Hits]\n[Consume] [Daze] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -37649,7 +37829,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hit] damage per 5% enemy [Shock|Shock]@{0}%",
+        "string": "[Hit] damage per 5% enemy [Shock|Shock]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -37667,7 +37847,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more damage with [HitDamage|Hits] per 5% [Shock|Shock] Effect on Enemy",
+        "string": "{0}% more damage with [Hit|Hits] per 5% [Shock|Shock] Effect on Enemy",
         "reminder_text": null,
         "is_markup": null
       },
@@ -37687,7 +37867,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less damage with [HitDamage|Hits] per 5% [Shock|Shock] Effect on Enemy",
+        "string": "{0}% less damage with [Hit|Hits] per 5% [Shock|Shock] Effect on Enemy",
         "reminder_text": null,
         "is_markup": null
       }
@@ -37759,7 +37939,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Consume|Consumes] [Ignite] on [HitDamage|Hit]",
+        "string": "[Consume|Consumes] [Ignite] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -39624,7 +39804,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "{0}% increased Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       },
@@ -39644,7 +39824,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% reduced Damage with [HitDamage|Hits] against Enemies that are on Full Life",
+        "string": "{0}% reduced Damage with [Hit|Hits] against Enemies that are on Full Life",
         "reminder_text": null,
         "is_markup": null
       }
@@ -39940,7 +40120,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased Damage with [HitDamage|Hits] against Enemies that are on [LowLife|Low Life]",
+        "string": "{0}% increased Damage with [Hit|Hits] against Enemies that are on [LowLife|Low Life]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42135,7 +42315,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Does not [HitDamage|Hit], but inflicts [Bleeding] as though [HitDamage|Hitting] enemies",
+        "string": "Does not [Hit], but inflicts [Bleeding] as though [Hit|Hitting] enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42171,7 +42351,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Does not [HitDamage|Hit], but [Chill|Chills] enemies as though [HitDamage|Hitting] them",
+        "string": "Does not [Hit], but [Chill|Chills] enemies as though [Hit|Hitting] them",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42207,7 +42387,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Does not [HitDamage|Hit], but [Ignite|Ignites] enemies as though [HitDamage|Hitting] them",
+        "string": "Does not [Hit], but [Ignite|Ignites] enemies as though [Hit|Hitting] them",
         "reminder_text": null,
         "is_markup": null
       }
@@ -42243,7 +42423,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Does not [HitDamage|Hit], but [Poison|Poisons] enemies as though [HitDamage|Hitting] them",
+        "string": "Does not [Hit], but [Poison|Poisons] enemies as though [Hit|Hitting] them",
         "reminder_text": null,
         "is_markup": null
       }
@@ -44881,7 +45061,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more Damage with [HitDamage|Hits] for each Spike",
+        "string": "{0}% more Damage with [Hit|Hits] for each Spike",
         "reminder_text": null,
         "is_markup": null
       },
@@ -44901,7 +45081,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less Damage with [HitDamage|Hits] for each Spike",
+        "string": "{0}% less Damage with [Hit|Hits] for each Spike",
         "reminder_text": null,
         "is_markup": null
       }
@@ -45159,7 +45339,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\n[HitDamage|Hits] from Skills",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Freeze] with\n[Hit|Hits] from Skills",
         "reminder_text": null,
         "is_markup": null
       }
@@ -45217,7 +45397,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [Ignite] with [HitDamage|Hits] from Skills, modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Ignite] will deal",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Ignite] with [Hit|Hits] from Skills, modified by the percentage of the enemy's [AilmentThreshold|Ailment Threshold] the [Ignite] will deal",
         "reminder_text": null,
         "is_markup": null
       }
@@ -45275,7 +45455,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\n[HitDamage|Hits] from Skills",
+        "string": "Gains {0} [Energy] per [Power] of enemies you [Shock] with\n[Hit|Hits] from Skills",
         "reminder_text": null,
         "is_markup": null
       }
@@ -45957,7 +46137,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance for enemy [HitDamage|Hits] to treat [Resistances] as 90%@{0}%",
+        "string": "Chance for enemy [Hit|Hits] to treat [Resistances] as 90%@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -48351,7 +48531,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Inflict [Exposure|Cold Exposure] for {0} second on [HitDamage|Hit]",
+        "string": "Inflict [Exposure|Cold Exposure] for {0} second on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -48369,7 +48549,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts [Exposure|Cold Exposure] on [HitDamage|Hit]",
+        "string": "Inflicts [Exposure|Cold Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -48389,7 +48569,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Inflict [Exposure|Cold Exposure] for {0} seconds on [HitDamage|Hit]",
+        "string": "Inflict [Exposure|Cold Exposure] for {0} seconds on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -48463,7 +48643,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Inflict [Exposure|Fire Exposure] for {0} second on [HitDamage|Hit]",
+        "string": "Inflict [Exposure|Fire Exposure] for {0} second on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -48481,7 +48661,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts [Exposure|Fire Exposure] on [HitDamage|Hit]",
+        "string": "Inflicts [Exposure|Fire Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -48501,7 +48681,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Inflict [Exposure|Fire Exposure] for {0} seconds on [HitDamage|Hit]",
+        "string": "Inflict [Exposure|Fire Exposure] for {0} seconds on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -48539,7 +48719,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Inflicts [Exposure|Lightning Exposure] for {0} second on [HitDamage|Hit]",
+        "string": "Inflicts [Exposure|Lightning Exposure] for {0} second on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -48557,7 +48737,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts [Exposure|Lightning Exposure] on [HitDamage|Hit]",
+        "string": "Inflicts [Exposure|Lightning Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -48577,7 +48757,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Inflicts [Exposure|Lightning Exposure] for {0} seconds on [HitDamage|Hit]",
+        "string": "Inflicts [Exposure|Lightning Exposure] for {0} seconds on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -50629,7 +50809,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Rage] gained on [HitDamage|Hit]@{0}",
+        "string": "[Rage] gained on [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -50665,7 +50845,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to gain 1 [Rage|Rage] on [HitDamage|Hit]",
+        "string": "{0}% chance to gain 1 [Rage|Rage] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -50791,7 +50971,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Gain {0} [Rage] on [HitDamage|Hit]",
+        "string": "Gain {0} [Rage] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -50827,7 +51007,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Rage|Rage] gained on [Melee] [HitDamage|Hit]@{0}",
+        "string": "[Rage|Rage] gained on [Melee] [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -50921,7 +51101,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Field gains {0}% more Damage with [HitDamage|Hits] per 5% [Shock|Shock] Effect on Enemy when created",
+        "string": "Field gains {0}% more Damage with [Hit|Hits] per 5% [Shock|Shock] Effect on Enemy when created",
         "reminder_text": null,
         "is_markup": null
       },
@@ -50941,7 +51121,7 @@
             "negate"
           ]
         ],
-        "string": "Field gains {0}% less Damage with [HitDamage|Hits] per 5% [Shock|Shock] Effect on Enemy when created",
+        "string": "Field gains {0}% less Damage with [Hit|Hits] per 5% [Shock|Shock] Effect on Enemy when created",
         "reminder_text": null,
         "is_markup": null
       }
@@ -51427,7 +51607,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts [Bleeding|Bleeding] on [HitDamage|Hit]",
+        "string": "Inflicts [Bleeding|Bleeding] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -51499,7 +51679,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Maim|Maim] on [HitDamage|Hit]",
+        "string": "[Maim|Maim] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -52879,7 +53059,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased Damage with [HitDamage|Hits] against [Chill|Chilled] Enemies",
+        "string": "{0}% increased Damage with [Hit|Hits] against [Chill|Chilled] Enemies",
         "reminder_text": null,
         "is_markup": null
       },
@@ -52899,7 +53079,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% reduced Damage with [HitDamage|Hits] against [Chill|Chilled] Enemies",
+        "string": "{0}% reduced Damage with [Hit|Hits] against [Chill|Chilled] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -53065,7 +53245,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance for [HitDamage|Hits] to cause [Daze|Daze Buildup]",
+        "string": "{0}% chance for [Hit|Hits] to cause [Daze|Daze Buildup]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -53173,7 +53353,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] ignore Enemy Monster [Physical|Physical] Damage Reduction",
+        "string": "[Hit|Hits] ignore Enemy Monster [Physical|Physical] Damage Reduction",
         "reminder_text": null,
         "is_markup": null
       }
@@ -53395,7 +53575,7 @@
             "divide_by_one_hundred_2dp_if_required"
           ]
         ],
-        "string": "Average damage per use@{0}",
+        "string": "Average damage per [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -54328,7 +54508,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Impale] Enemies on [HitDamage|Hit]",
+        "string": "{0}% chance to [Impale] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -54346,7 +54526,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Impale] Enemies on [HitDamage|Hit]",
+        "string": "[Impale] Enemies on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -54694,7 +54874,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflicts [Exposure] on [HitDamage|Hit]",
+        "string": "Inflicts [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -54844,7 +55024,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance to inflict [Exposure] on [HitDamage|Hit]@{0}%",
+        "string": "Chance to inflict [Exposure] on [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -54862,7 +55042,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to inflict [Exposure] on [HitDamage|Hit]",
+        "string": "{0}% chance to inflict [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -54880,7 +55060,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Inflict [Exposure] on [HitDamage|Hit]",
+        "string": "Inflict [Exposure] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -55788,7 +55968,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Knockback|Knock Enemies Back] with [HitDamage|Hits] at [CloseRange|Close Range]",
+        "string": "{0}% chance to [Knockback|Knock Enemies Back] with [Hit|Hits] at [CloseRange|Close Range]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -56232,7 +56412,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hit] damage per 5% enemy [Shock|Shock]@{0}%",
+        "string": "[Hit] damage per 5% enemy [Shock|Shock]@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -56250,7 +56430,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more damage with [HitDamage|Hits] per 5% [Shock|Shock] Effect on Enemy",
+        "string": "{0}% more damage with [Hit|Hits] per 5% [Shock|Shock] Effect on Enemy",
         "reminder_text": null,
         "is_markup": null
       },
@@ -56270,7 +56450,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less damage with [HitDamage|Hits] per 5% [Shock|Shock] Effect on Enemy",
+        "string": "{0}% less damage with [Hit|Hits] per 5% [Shock|Shock] Effect on Enemy",
         "reminder_text": null,
         "is_markup": null
       }
@@ -56819,7 +56999,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance to [Maim|Maim] on [HitDamage|Hit]",
+        "string": "{0}% chance to [Maim|Maim] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -56837,7 +57017,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Maim|Maim] on [HitDamage|Hit]",
+        "string": "[Maim|Maim] on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -59530,7 +59710,7 @@
           [],
           []
         ],
-        "string": "[Ignite|Ignited] [OilGround|Oil Ground] added unscalable [Fire] [HitDamage|Damage]@{0} to {1}",
+        "string": "[Ignite|Ignited] [OilGround|Oil Ground] added unscalable [Fire] [Hit|Damage]@{0} to {1}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -66415,7 +66595,7 @@
             "milliseconds_to_seconds_2dp"
           ]
         ],
-        "string": "Target re-[HitDamage|Hit] interval @{0}s",
+        "string": "Target re-[Hit] interval @{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -71012,7 +71192,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Block|Blocked] [HitDamage|Hits] required to gain [Seal]@{0}",
+        "string": "[Block|Blocked] [Hit|Hits] required to gain [Seal]@{0}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -76827,7 +77007,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] have [CullingStrike|Culling Strike] against [Rarity|Rare or Unique] Enemies",
+        "string": "[Hit|Hits] have [CullingStrike|Culling Strike] against [Rarity|Rare or Unique] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -77264,7 +77444,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More [HitDamage|Hit] damage vs [LowLife|Low Life] enemies@{0}%",
+        "string": "More [Hit] damage vs [LowLife|Low Life] enemies@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -79655,7 +79835,7 @@
             "milliseconds_to_seconds"
           ]
         ],
-        "string": "Gain 1 [Rage|Rage] on [Melee|Melee] [HitDamage|Hit], no more than once every {0} seconds",
+        "string": "Gain 1 [Rage|Rage] on [Melee|Melee] [Hit], no more than once every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }
@@ -79865,7 +80045,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Aggravate|Aggravate] [Bleeding|Bleeding] on [HitDamage|Hitting] [HeavyStun|Heavy Stunned] Enemies",
+        "string": "[Aggravate|Aggravate] [Bleeding|Bleeding] on [Hit|Hitting] [HeavyStun|Heavy Stunned] Enemies",
         "reminder_text": null,
         "is_markup": null
       }
@@ -81770,7 +81950,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More [HitDamage|Hit] damage against [Isolated] targets@{0}%",
+        "string": "More [Hit] damage against [Isolated] targets@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -82196,7 +82376,7 @@
         "index_handlers": [
           []
         ],
-        "string": "While [Channelling] each strike of the anvil [Empowered|Empowers] your next [Melee] [Attack]\n[Empowered] [Attack|Attacks] [Trigger] Combust on [HitDamage|Hit]",
+        "string": "While [Channelling] each strike of the anvil [Empowered|Empowers] your next [Melee] [Attack]\n[Empowered] [Attack|Attacks] [Trigger] Combust on [Hit]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -82214,7 +82394,7 @@
         "index_handlers": [
           []
         ],
-        "string": "While [Channelling] each strike of the anvil [Empowered|Empowers] your next {0} [Melee] [Attack|Attacks]\n[Empowered] [Attack|Attacks] [Trigger] Combust on [HitDamage|Hit]",
+        "string": "While [Channelling] each strike of the anvil [Empowered|Empowers] your next {0} [Melee] [Attack|Attacks]\n[Empowered] [Attack|Attacks] [Trigger] Combust on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -82250,7 +82430,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More Damage per [HitDamage|Hit] taken by Bell@{0}%",
+        "string": "More Damage per [Hit] taken by Bell@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -82270,7 +82450,7 @@
             "negate"
           ]
         ],
-        "string": "Less Damage per [HitDamage|Hit] taken by Bell@{0}%",
+        "string": "Less Damage per [Hit] taken by Bell@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -82288,7 +82468,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Shockwave deals {0}% more Damage per [HitDamage|Hit] taken by Bell",
+        "string": "Shockwave deals {0}% more Damage per [Hit] taken by Bell",
         "reminder_text": null,
         "is_markup": null
       },
@@ -82308,7 +82488,7 @@
             "negate"
           ]
         ],
-        "string": "Shockwave deals {0}% less Damage per [HitDamage|Hit] taken by Bell",
+        "string": "Shockwave deals {0}% less Damage per [Hit] taken by Bell",
         "reminder_text": null,
         "is_markup": null
       }
@@ -86560,7 +86740,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Main Hand chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]@{0}%",
+        "string": "Main Hand chance to inflict [Bleeding|Bleeding] on [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -86632,7 +86812,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Off Hand chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]@{0}%",
+        "string": "Off Hand chance to inflict [Bleeding|Bleeding] on [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -86704,7 +86884,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]@{0}%",
+        "string": "Chance to inflict [Bleeding|Bleeding] on [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -86776,7 +86956,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]@{0}%",
+        "string": "Chance to inflict [Bleeding|Bleeding] on [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -87339,7 +87519,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Main Hand [ArmourBreak|Armour Break] on [HitDamage|Hit]@{0}",
+        "string": "Main Hand [ArmourBreak|Armour Break] on [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -88011,7 +88191,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Off Hand [ArmourBreak|Armour Break] on [HitDamage|Hit]@{0}",
+        "string": "Off Hand [ArmourBreak|Armour Break] on [Hit]@{0}",
         "reminder_text": null,
         "is_markup": null
       }
@@ -92565,7 +92745,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance to inflict [Withered] on [Chaos] [HitDamage|Hit]@{0}%",
+        "string": "Chance to inflict [Withered] on [Chaos] [Hit]@{0}%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -92803,7 +92983,7 @@
             "milliseconds_to_seconds_2dp"
           ]
         ],
-        "string": "Target re-[HitDamage|Hit] interval @{0}s",
+        "string": "Target re-[Hit] interval @{0}s",
         "reminder_text": null,
         "is_markup": null
       },

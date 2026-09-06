@@ -185,7 +185,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Lightning] damage from [HitDamage|Hits] with this skill [Contributes] to [Electrocute|Electrocution] Buildup",
+        "string": "[Lightning] damage from [Hit|Hits] with this skill [Contributes] to [Electrocute|Electrocution] Buildup",
         "reminder_text": null,
         "is_markup": null
       }
@@ -221,7 +221,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more [Electrocute|Electrocution] buildup from [HitDamage|Hits] with this skill",
+        "string": "{0}% more [Electrocute|Electrocution] buildup from [Hit|Hits] with this skill",
         "reminder_text": null,
         "is_markup": null
       },
@@ -241,7 +241,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less [Electrocute|Electrocution] buildup from [HitDamage|Hits] with this skill",
+        "string": "{0}% less [Electrocute|Electrocution] buildup from [Hit|Hits] with this skill",
         "reminder_text": null,
         "is_markup": null
       }

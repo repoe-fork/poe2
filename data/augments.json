@@ -84,7 +84,7 @@
           }
         ],
         "stat_text": [
-          "Prevent +5% of Damage from [Deflect|Deflected] [HitDamage|Hits] if you've\n[Deflect|Deflected] no [HitDamage|Hits] [Recently]"
+          "Prevent +5% of Damage from [Deflect|Deflected] [Hit|Hits] if you've\n[Deflect|Deflected] no [Hit|Hits] [Recently]"
         ],
         "stats": [
           {
@@ -130,7 +130,7 @@
           }
         ],
         "stat_text": [
-          "Enemies which are on Full Life cannot [Evasion|Evade] your [HitDamage|Hits]"
+          "Enemies which are on Full Life cannot [Evasion|Evade] your [Hit|Hits]"
         ],
         "stats": [
           {
@@ -207,7 +207,7 @@
           }
         ],
         "stat_text": [
-          "[Companion|Companions] gain [Onslaught] for 4 seconds on [HitDamage|Hitting] your [Mark|Marked] targets"
+          "[Companion|Companions] gain [Onslaught] for 4 seconds on [Hit|Hitting] your [Mark|Marked] targets"
         ],
         "stats": [
           {
@@ -338,7 +338,7 @@
           }
         ],
         "stat_text": [
-          "Enemies you [Critical|Critically] [HitDamage|Hit] get 100% reduced Life Regeneration Rate for 4 seconds"
+          "Enemies you [Critical|Critically] [Hit] get 100% reduced Life Regeneration Rate for 4 seconds"
         ],
         "stats": [
           {
@@ -438,7 +438,7 @@
           }
         ],
         "stat_text": [
-          "Targets that are [Blind|Blinded], [Maim|Maimed], and [Bleeding] cannot [Evasion|Evade] your [HitDamage|Hits]"
+          "Targets that are [Blind|Blinded], [Maim|Maimed], and [Bleeding] cannot [Evasion|Evade] your [Hit|Hits]"
         ],
         "stats": [
           {
@@ -469,7 +469,7 @@
           }
         ],
         "stat_text": [
-          "15% of [Chaos] Damage from [HitDamage|Hits] taken as a Damage of a random [ElementalDamage|Element]"
+          "15% of [Chaos] Damage from [Hit|Hits] taken as Damage of a random [ElementalDamage|Element]"
         ],
         "stats": [
           {
@@ -646,7 +646,7 @@
           }
         ],
         "stat_text": [
-          "[HitDamage|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus] while on [ConsecratedGround|Consecrated Ground]"
+          "[Hit|Hits] against you have no [CriticalDamageBonus|Critical Damage Bonus] while on [ConsecratedGround|Consecrated Ground]"
         ],
         "stats": [
           {
@@ -5283,7 +5283,7 @@
           }
         ],
         "stat_text": [
-          "50% chance to build an additional [Combo] on [HitDamage|Hit]"
+          "50% chance to build an additional [Combo] on [Hit]"
         ],
         "stats": [
           {
@@ -5387,7 +5387,7 @@
           }
         ],
         "stat_text": [
-          "On [HitDamage|Hitting] an enemy, gains maximum added [Cold] damage equal to the enemy's [Power] for 20 seconds, up to a total of 32"
+          "On [Hit|Hitting] an enemy, gains maximum added [Cold] damage equal to the enemy's [Power] for 20 seconds, up to a total of 32"
         ],
         "stats": [
           {
@@ -5610,7 +5610,7 @@
       },
       "Helmet": {
         "bonded_stat_text": [
-          "[HitDamage|Hits] against you have 25% reduced [CriticalDamageBonus|Critical Damage Bonus]"
+          "[Hit|Hits] against you have 25% reduced [CriticalDamageBonus|Critical Damage Bonus]"
         ],
         "bonded_stats": [
           {
@@ -5747,7 +5747,7 @@
           }
         ],
         "stat_text": [
-          "Gain 4 [Rage|Rage] on [Melee] [HitDamage|Hit]",
+          "Gain 4 [Rage|Rage] on [Melee] [Hit]",
           "-10 to Maximum [Rage]"
         ],
         "stats": [
@@ -6336,7 +6336,7 @@
           }
         ],
         "stat_text": [
-          "Gain 5 [Rage] when [HitDamage|Hit] by an Enemy",
+          "Gain 5 [Rage] when [Hit] by an Enemy",
           "Gain 10 [Rage|Rage] when [Critical|Critically Hit] by an Enemy"
         ],
         "stats": [
@@ -6478,7 +6478,7 @@
         ],
         "stats": [
           {
-            "id": "non_skill_all_damage_1%_to_gain_as_fire_+_per_%_attack_block_chance",
+            "id": "non_skill_all_damage_%_to_gain_as_fire_+_per_2%_attack_block_chance",
             "local": false
           }
         ],
@@ -6753,7 +6753,7 @@
           }
         ],
         "stat_text": [
-          "50% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]",
+          "50% chance to inflict [Bleeding|Bleeding] on [Hit]",
           "50% reduced [Slow|Slowing] Potency of [Debuff|Debuffs] on You"
         ],
         "stats": [
@@ -6901,7 +6901,7 @@
           }
         ],
         "stat_text": [
-          "Off-hand [HitDamage|Hits] inflict [RunefathersChallenge|Runefather's Challenge]"
+          "Off-hand [Hit|Hits] inflict [RunefathersChallenge|Runefather's Challenge]"
         ],
         "stats": [
           {
@@ -7101,7 +7101,7 @@
         ],
         "stat_text": [
           "Every [Rage] also grants 1% increased [Armour]",
-          "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+          "Gain 1 [Rage|Rage] on [Melee] [Hit]"
         ],
         "stats": [
           {
@@ -7202,7 +7202,7 @@
           }
         ],
         "stat_text": [
-          "Alternating every 5 seconds:\nTake 20% less Damage from [HitDamage|Hits]\nTake 20% less Damage over time"
+          "Alternating every 5 seconds:\nTake 20% less Damage from [Hit|Hits]\nTake 20% less Damage over time"
         ],
         "stats": [
           {
@@ -7458,7 +7458,7 @@
           }
         ],
         "stat_text": [
-          "On [HitDamage|Hitting] an enemy, gains maximum added [Lightning] damage equal to\nthe enemy's [Power] for 20 seconds, up to a total of 120"
+          "On [Hit|Hitting] an enemy, gains maximum added [Lightning] damage equal to\nthe enemy's [Power] for 20 seconds, up to a total of 120"
         ],
         "stats": [
           {
@@ -7640,7 +7640,7 @@
     "categories": {
       "Helmet": {
         "bonded_stat_text": [
-          "5% of Damage from [HitDamage|Hits] is taken from your Damageable [Companion]'s Life before you"
+          "5% of Damage from [Hit|Hits] is taken from your Damageable [Companion]'s Life before you"
         ],
         "bonded_stats": [
           {
@@ -7649,7 +7649,7 @@
           }
         ],
         "stat_text": [
-          "5% of Damage from [HitDamage|Hits] is taken from your Damageable [Companion]'s Life before you",
+          "5% of Damage from [Hit|Hits] is taken from your Damageable [Companion]'s Life before you",
           "100% increased Global [Evasion] Rating when on [LowLife|Low Life]"
         ],
         "stats": [
@@ -7685,8 +7685,8 @@
           }
         ],
         "stat_text": [
-          "Chance to [Block] [HitDamage|Damage] is [Lucky]",
-          "You take 20% of damage from [Block|Blocked] [HitDamage|Hits]"
+          "Chance to [Block] [Hit|Damage] is [Lucky]",
+          "You take 20% of damage from [Block|Blocked] [Hit|Hits]"
         ],
         "stats": [
           {
@@ -7719,7 +7719,7 @@
           }
         ],
         "stat_text": [
-          "Causes [Bleeding|Bleeding] on [HitDamage|Hit]",
+          "Causes [Bleeding|Bleeding] on [Hit]",
           "Adds 4 to 8 [Physical|Physical] Damage"
         ],
         "stats": [
@@ -7861,7 +7861,7 @@
           }
         ],
         "stat_text": [
-          "25% of Damage taken from [HitDamage|Hits] bypasses [EnergyShield|Energy Shield] if [EnergyShield|Energy Shield] is below half"
+          "25% of Damage taken from [Hit|Hits] bypasses [EnergyShield|Energy Shield] if [EnergyShield|Energy Shield] is below half"
         ],
         "stats": [
           {
@@ -7892,7 +7892,7 @@
           }
         ],
         "stat_text": [
-          "Deal 4% increased [HitDamage|Damage with Hits] to [Rarity|Rare or Unique] Enemies for each second they've ever been in your [Presence], up to a maximum of 200%"
+          "Deal 4% increased [Hit|Damage with Hits] to [Rarity|Rare or Unique] Enemies for each second they've ever been in your [Presence], up to a maximum of 200%"
         ],
         "stats": [
           {
@@ -8011,7 +8011,7 @@
     "categories": {
       "Spear": {
         "bonded_stat_text": [
-          "[Knockback|Knocks Enemies Back] on [HitDamage|Hit]"
+          "[Knockback|Knocks Enemies Back] on [Hit]"
         ],
         "bonded_stats": [
           {
@@ -8083,7 +8083,7 @@
         ],
         "stat_text": [
           "Every [Rage] also grants 1% increased [StunThreshold|Stun Threshold]",
-          "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+          "Gain 1 [Rage|Rage] on [Melee] [Hit]"
         ],
         "stats": [
           {
@@ -9086,7 +9086,7 @@
     "categories": {
       "Boots": {
         "bonded_stat_text": [
-          "Prevent +3% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+          "Prevent +3% of Damage from [Deflect|Deflected] [Hit|Hits]"
         ],
         "bonded_stats": [
           {
@@ -10034,7 +10034,7 @@
     "categories": {
       "Body Armour": {
         "bonded_stat_text": [
-          "Prevent +1% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+          "Prevent +1% of Damage from [Deflect|Deflected] [Hit|Hits]"
         ],
         "bonded_stats": [
           {
@@ -10064,7 +10064,7 @@
     "categories": {
       "Body Armour": {
         "bonded_stat_text": [
-          "1% more [Ward|Runic Ward] Regeneration rate per 2% of maximum [Ward|Runic Ward] lost from [HitDamage|Hits] [Recently], up to 100% more"
+          "1% more [Ward|Runic Ward] Regeneration rate per 2% of maximum [Ward|Runic Ward] lost from [Hit|Hits] [Recently], up to 100% more"
         ],
         "bonded_stats": [
           {
@@ -10312,7 +10312,7 @@
     "categories": {
       "Sceptre": {
         "bonded_stat_text": [
-          "Damage of Enemies [HitDamage|Hitting] you is [Unlucky] if\nyour [Ward|Runic Ward] has been damaged [Recently]"
+          "Damage of Enemies [Hit|Hitting] you is [Unlucky] if\nyour [Ward|Runic Ward] has been damaged [Recently]"
         ],
         "bonded_stats": [
           {
@@ -10536,7 +10536,7 @@
     "categories": {
       "Helmet": {
         "bonded_stat_text": [
-          "Gain 2 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+          "Gain 2 [Rage|Rage] on [Melee] [Hit]"
         ],
         "bonded_stats": [
           {
@@ -10758,11 +10758,11 @@
     "categories": {
       "Helmet": {
         "stat_text": [
-          "20% increased [Charm] Charges gained"
+          "25% increased [Pinned|Pin] duration"
         ],
         "stats": [
           {
-            "id": "charm_charges_gained_+%",
+            "id": "pin_duration_+%",
             "local": false
           }
         ],
@@ -10772,17 +10772,18 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "15% chance to cause [Bleeding|Bleeding] on [HitDamage|Hit]"
+          "40% increased [BuffMagnitude|Magnitude] of [Bleeding|Bleeding] you inflict"
         ],
         "stats": [
           {
-            "id": "local_chance_to_bleed_on_hit_%",
-            "local": true
+            "id": "base_bleeding_effect_+%",
+            "local": false
           }
         ],
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -10790,7 +10791,7 @@
     "categories": {
       "Armour": {
         "stat_text": [
-          "+11% to [Resistances|Chaos Resistance]"
+          "+13% to [Resistances|Chaos Resistance]"
         ],
         "stats": [
           {
@@ -10802,12 +10803,12 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "15% chance to [Poison] on [HitDamage|Hit] with this weapon"
+          "25% increased [BuffMagnitude|Magnitude] of [Poison] you inflict"
         ],
         "stats": [
           {
-            "id": "local_poison_on_hit_%",
-            "local": true
+            "id": "base_poison_effect_+%",
+            "local": false
           }
         ],
         "target": "[MartialWeapon|Martial Weapon]"
@@ -10820,7 +10821,7 @@
     "categories": {
       "Body Armour": {
         "stat_text": [
-          "[HitDamage|Hits] against you have 20% reduced [CriticalDamageBonus|Critical Damage Bonus]"
+          "[Hit|Hits] against you have 50% reduced [CriticalDamageBonus|Critical Damage Bonus]"
         ],
         "stats": [
           {
@@ -10846,7 +10847,7 @@
       },
       "Shield or Buckler": {
         "stat_text": [
-          "[HitDamage|Hits] against you have 20% reduced [CriticalDamageBonus|Critical Damage Bonus]"
+          "[Hit|Hits] against you have 50% reduced [CriticalDamageBonus|Critical Damage Bonus]"
         ],
         "stats": [
           {
@@ -10857,6 +10858,7 @@
         "target": "Shields and Bucklers"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -10864,7 +10866,7 @@
     "categories": {
       "Armour": {
         "stat_text": [
-          "[StatConversion|Convert] 20% of Requirements to [Dexterity|Dexterity]"
+          "[StatConversion|Convert] 40% of Requirements to [Dexterity|Dexterity]"
         ],
         "stats": [
           {
@@ -10876,7 +10878,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "[StatConversion|Convert] 20% of Requirements to [Dexterity|Dexterity]"
+          "[StatConversion|Convert] 40% of Requirements to [Dexterity|Dexterity]"
         ],
         "stats": [
           {
@@ -10894,11 +10896,11 @@
     "categories": {
       "Boots": {
         "stat_text": [
-          "25% increased [AilmentThreshold|Elemental Ailment Threshold]"
+          "25% reduced Effect of [NonDamagingAilments|Non-Damaging Ailments] on you"
         ],
         "stats": [
           {
-            "id": "ailment_threshold_+%",
+            "id": "non_damaging_ailment_effect_+%_on_self",
             "local": false
           }
         ],
@@ -10908,7 +10910,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "[Attack|Attacks] with this Weapon Penetrate 15% Elemental Resistances"
+          "[Attack|Attacks] with this Weapon Penetrate 25% Elemental Resistances"
         ],
         "stats": [
           {
@@ -10919,6 +10921,7 @@
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -10926,7 +10929,7 @@
     "categories": {
       "Armour": {
         "stat_text": [
-          "+5% to all [ElementalDamage|Elemental] [Resistances]"
+          "+6% to all [ElementalDamage|Elemental] [Resistances]"
         ],
         "stats": [
           {
@@ -10938,7 +10941,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "30% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]"
+          "40% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]"
         ],
         "stats": [
           {
@@ -10956,7 +10959,7 @@
     "categories": {
       "Helmet": {
         "stat_text": [
-          "+1% to [MaximumResistances|Maximum Cold Resistance]"
+          "+2% to [MaximumResistances|Maximum Cold Resistance]"
         ],
         "stats": [
           {
@@ -10970,7 +10973,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "30% increased [Freeze|Freeze] Buildup"
+          "60% increased [Freeze|Freeze] Buildup"
         ],
         "stats": [
           {
@@ -10981,6 +10984,7 @@
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -10988,7 +10992,7 @@
     "categories": {
       "Gloves": {
         "stat_text": [
-          "+1% to [MaximumResistances|Maximum Fire Resistance]"
+          "+2% to [MaximumResistances|Maximum Fire Resistance]"
         ],
         "stats": [
           {
@@ -11002,17 +11006,18 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "30% increased [Flammability] [BuffMagnitude|Magnitude]"
+          "40% increased [Ignite|Ignite] [BuffMagnitude|Magnitude]"
         ],
         "stats": [
           {
-            "id": "ignite_chance_+%",
+            "id": "base_ignite_effect_+%",
             "local": false
           }
         ],
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -11020,7 +11025,7 @@
     "categories": {
       "Armour": {
         "stat_text": [
-          "[StatConversion|Convert] 20% of Requirements to [Intelligence|Intelligence]"
+          "[StatConversion|Convert] 40% of Requirements to [Intelligence|Intelligence]"
         ],
         "stats": [
           {
@@ -11032,7 +11037,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "[StatConversion|Convert] 20% of Requirements to [Intelligence|Intelligence]"
+          "[StatConversion|Convert] 40% of Requirements to [Intelligence|Intelligence]"
         ],
         "stats": [
           {
@@ -11082,7 +11087,7 @@
     "categories": {
       "Body Armour": {
         "stat_text": [
-          "3% increased maximum Life"
+          "5% increased maximum Life"
         ],
         "stats": [
           {
@@ -11096,7 +11101,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "Recover 2% of maximum Life on Kill"
+          "Recover 5% of maximum Life on Kill"
         ],
         "stats": [
           {
@@ -11107,6 +11112,7 @@
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -11114,7 +11120,7 @@
     "categories": {
       "Helmet": {
         "stat_text": [
-          "3% increased maximum Mana"
+          "5% increased maximum Mana"
         ],
         "stats": [
           {
@@ -11128,7 +11134,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "Recover 2% of maximum Mana on Kill"
+          "Recover 4% of maximum Mana on Kill"
         ],
         "stats": [
           {
@@ -11139,6 +11145,7 @@
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -11146,7 +11153,7 @@
     "categories": {
       "Boots": {
         "stat_text": [
-          "+1% to [MaximumResistances|Maximum Lightning Resistance]"
+          "+2% to [MaximumResistances|Maximum Lightning Resistance]"
         ],
         "stats": [
           {
@@ -11160,17 +11167,18 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "30% increased chance to [Shock]"
+          "25% increased [BuffMagnitude|Magnitude] of [Shock|Shock] you inflict"
         ],
         "stats": [
           {
-            "id": "shock_chance_+%",
+            "id": "shock_effect_+%",
             "local": false
           }
         ],
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -11232,7 +11240,7 @@
     "categories": {
       "Boots": {
         "stat_text": [
-          "12% increased speed of [Recoup] Effects"
+          "15% increased speed of [Recoup] Effects"
         ],
         "stats": [
           {
@@ -11246,7 +11254,7 @@
       },
       "Helmet": {
         "stat_text": [
-          "8% of Damage taken [Recoup|Recouped] as Life"
+          "10% of Damage taken [Recoup|Recouped] as Life"
         ],
         "stats": [
           {
@@ -11290,11 +11298,11 @@
     "categories": {
       "Bow": {
         "stat_text": [
-          "20% increased [Projectile] Speed"
+          "[Projectile|Projectiles] have 20% chance to [Chain] an additional time from terrain"
         ],
         "stats": [
           {
-            "id": "base_projectile_speed_+%",
+            "id": "projectile_chance_to_chain_1_extra_time_from_terrain_%",
             "local": false
           }
         ],
@@ -11366,6 +11374,86 @@
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
+  "Metadata/Items/SoulCores/SoulCoreSpecial16": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Totem] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "totem_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial17": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Curse] Skills"
+        ],
+        "stats": [
+          {
+            "id": "curse_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial18": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Mark] Skills"
+        ],
+        "stats": [
+          {
+            "id": "mark_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial19": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Warcry] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "warcry_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
   "Metadata/Items/SoulCores/SoulCoreSpecial2": {
     "categories": {
       "Boots": {
@@ -11380,6 +11468,213 @@
         ],
         "target": [
           "Boots"
+        ]
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial20": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Herald] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "herald_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial21": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Strike] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "strike_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial22": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Nova] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "nova_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial23": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Slam] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "slam_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial24": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Grenade] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "grenade_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial25": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Hazard] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "hazard_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial26": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Plant] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "plant_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial27": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Wind] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "wind_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial28": {
+    "categories": {
+      "Martial Or Caster Weapon": {
+        "stat_text": [
+          "+1 to Level of all [Storm] Skill Gems"
+        ],
+        "stats": [
+          {
+            "id": "storm_skill_gem_level_+",
+            "local": false
+          }
+        ],
+        "target": "Weapon"
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial29": {
+    "categories": {
+      "Helmet": {
+        "stat_text": [
+          "[Corrupted|Corrupting] will always result in change",
+          "1% increased [Spirit] for each Corrupted Item [Equipped]"
+        ],
+        "stats": [
+          {
+            "id": "soul_core_cannot_roll_no_outcome_with_corruption",
+            "local": true
+          },
+          {
+            "id": "spirit_+%_per_equipped_corrupted_item",
+            "local": false
+          }
+        ],
+        "target": [
+          "Helmets"
         ]
       }
     },
@@ -11410,20 +11705,96 @@
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
+  "Metadata/Items/SoulCores/SoulCoreSpecial30": {
+    "categories": {
+      "Body Armour": {
+        "stat_text": [
+          "[Corrupted|Corrupting] will always result in change",
+          "1% increased Maximum Life for each Corrupted Item [Equipped]"
+        ],
+        "stats": [
+          {
+            "id": "soul_core_cannot_roll_no_outcome_with_corruption",
+            "local": true
+          },
+          {
+            "id": "maximum_life_+%_per_equipped_corrupted_item",
+            "local": false
+          }
+        ],
+        "target": [
+          "Body Armours"
+        ]
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial31": {
+    "categories": {
+      "Gloves": {
+        "stat_text": [
+          "[Corrupted|Corrupting] will always result in change",
+          "1% increased [SkillSpeed|Skill Speed] for each Corrupted Item [Equipped]"
+        ],
+        "stats": [
+          {
+            "id": "soul_core_cannot_roll_no_outcome_with_corruption",
+            "local": true
+          },
+          {
+            "id": "skill_speed_+%_per_equipped_corrupted_item",
+            "local": false
+          }
+        ],
+        "target": [
+          "Gloves"
+        ]
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreSpecial32": {
+    "categories": {
+      "Boots": {
+        "stat_text": [
+          "[Corrupted|Corrupting] will always result in change",
+          "+2% to [Resistances|Chaos Resistance] for each Corrupted Item [Equipped]"
+        ],
+        "stats": [
+          {
+            "id": "soul_core_cannot_roll_no_outcome_with_corruption",
+            "local": true
+          },
+          {
+            "id": "base_chaos_damage_resistance_%_per_equipped_corrupted_item",
+            "local": false
+          }
+        ],
+        "target": [
+          "Boots"
+        ]
+      }
+    },
+    "limit": "1",
+    "required_level": 50,
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
   "Metadata/Items/SoulCores/SoulCoreSpecial4": {
     "categories": {
       "Body Armour": {
         "stat_text": [
-          "Gain additional [StunThreshold|Stun Threshold] equal to 15% of maximum [EnergyShield|Energy Shield]",
-          "Gain additional [AilmentThreshold|Ailment Threshold] equal to 15% of maximum [EnergyShield|Energy Shield]"
+          "40% increased [EnergyShield|Energy Shield] from Equipped [Focus]"
         ],
         "stats": [
           {
-            "id": "stun_threshold_+_from_%_maximum_energy_shield",
-            "local": false
-          },
-          {
-            "id": "ailment_threshold_+_from_%_maximum_energy_shield",
+            "id": "energy_shield_from_focus_+%",
             "local": false
           }
         ],
@@ -11433,16 +11804,11 @@
       },
       "Focus": {
         "stat_text": [
-          "Gain additional [StunThreshold|Stun Threshold] equal to 15% of maximum [EnergyShield|Energy Shield]",
-          "Gain additional [AilmentThreshold|Ailment Threshold] equal to 15% of maximum [EnergyShield|Energy Shield]"
+          "30% increased [EnergyShield|Energy Shield] from Equipped Body Armour"
         ],
         "stats": [
           {
-            "id": "stun_threshold_+_from_%_maximum_energy_shield",
-            "local": false
-          },
-          {
-            "id": "ailment_threshold_+_from_%_maximum_energy_shield",
+            "id": "maximum_energy_shield_from_body_armour_+%",
             "local": false
           }
         ],
@@ -11509,8 +11875,8 @@
     "categories": {
       "Boots": {
         "stat_text": [
-          "15% increased [Curse] Duration",
-          "15% increased [Poison] Duration"
+          "20% increased [Curse] Duration",
+          "20% increased [Poison] Duration"
         ],
         "stats": [
           {
@@ -11632,7 +11998,7 @@
     "categories": {
       "Armour": {
         "stat_text": [
-          "[StatConversion|Convert] 20% of Requirements to [Strength|Strength]"
+          "[StatConversion|Convert] 40% of Requirements to [Strength|Strength]"
         ],
         "stats": [
           {
@@ -11644,7 +12010,7 @@
       },
       "Martial Weapon": {
         "stat_text": [
-          "[StatConversion|Convert] 20% of Requirements to [Strength|Strength]"
+          "[StatConversion|Convert] 40% of Requirements to [Strength|Strength]"
         ],
         "stats": [
           {
@@ -11655,6 +12021,37 @@
         "target": "[MartialWeapon|Martial Weapon]"
       }
     },
+    "type_id": "SoulCore",
+    "type_name": "[SoulCore|Soul Core]"
+  },
+  "Metadata/Items/SoulCores/SoulCoreVision": {
+    "categories": {
+      "Martial Weapon": {
+        "stat_text": [
+          "+150 to [Accuracy|Accuracy] Rating"
+        ],
+        "stats": [
+          {
+            "id": "local_accuracy_rating",
+            "local": true
+          }
+        ],
+        "target": "[MartialWeapon|Martial Weapon]"
+      },
+      "Wand or Staff": {
+        "stat_text": [
+          "30% increased [Critical|Critical Hit Chance] for [Spell|Spells]"
+        ],
+        "stats": [
+          {
+            "id": "spell_critical_strike_chance_+%",
+            "local": false
+          }
+        ],
+        "target": "Wand or Staff"
+      }
+    },
+    "limit": "1",
     "type_id": "SoulCore",
     "type_name": "[SoulCore|Soul Core]"
   },
@@ -11727,7 +12124,7 @@
           }
         ],
         "stat_text": [
-          "Gain 1 [Rage|Rage] on [Melee] [HitDamage|Hit]"
+          "Gain 1 [Rage|Rage] on [Melee] [Hit]"
         ],
         "stats": [
           {
@@ -12006,7 +12403,7 @@
       },
       "Shield or Buckler": {
         "bonded_stat_text": [
-          "15% chance for Damage of Enemies [HitDamage|Hitting] you to be [Unlucky]"
+          "15% chance for Damage of Enemies [Hit|Hitting] you to be [Unlucky]"
         ],
         "bonded_stats": [
           {
@@ -12715,7 +13112,7 @@
       },
       "Helmet": {
         "stat_text": [
-          "Gain [Armour] equal to 35% of Life Lost from [HitDamage|Hits] in the past 8 seconds"
+          "Gain [Armour] equal to 35% of Life Lost from [Hit|Hits] in the past 8 seconds"
         ],
         "stats": [
           {
@@ -12865,11 +13262,11 @@
       },
       "Helmet": {
         "stat_text": [
-          "+1 to maximum Mana per 2 [ItemEnergyShield|Item Energy Shield] on [Equipped] Helmet"
+          "+1 to maximum Mana per 3 [ItemArmour|Item Armour] on [Equipped] Helmet"
         ],
         "stats": [
           {
-            "id": "gain_X_max_mana_per_2_es_on_equipped_helmet",
+            "id": "gain_X_max_mana_per_3_armour_on_equipped_helmet",
             "local": false
           }
         ],
@@ -12887,7 +13284,7 @@
     "categories": {
       "Body Armour": {
         "stat_text": [
-          "Prevent +3% of Damage from [Deflect|Deflected] [HitDamage|Hits]"
+          "Prevent +3% of Damage from [Deflect|Deflected] [Hit|Hits]"
         ],
         "stats": [
           {

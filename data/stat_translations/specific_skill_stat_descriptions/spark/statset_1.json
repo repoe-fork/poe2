@@ -203,7 +203,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Target re-[HitDamage|Hit] interval @{0}s",
+        "string": "Target re-[Hit] interval @{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -223,7 +223,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Projectiles fired at the same time can [HitDamage|Hit] the same\ntarget no more than once per second",
+        "string": "Projectiles fired at the same time can [Hit] the same\ntarget no more than once per second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -243,7 +243,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Projectiles fired at the same time can [HitDamage|Hit] the same\ntarget no more than once every {0} seconds",
+        "string": "Projectiles fired at the same time can [Hit] the same\ntarget no more than once every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }

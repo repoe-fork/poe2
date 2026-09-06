@@ -183,7 +183,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Calls down a Moonbeam on the target [HitDamage|Hit] and up to {0} other target within {1} metre",
+        "string": "Calls down a Moonbeam on the target [Hit] and up to {0} other target within {1} metre",
         "reminder_text": null,
         "is_markup": null
       },
@@ -210,7 +210,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Calls down a Moonbeam on the target [HitDamage|Hit] and up to {0} other target within {1} metres",
+        "string": "Calls down a Moonbeam on the target [Hit] and up to {0} other target within {1} metres",
         "reminder_text": null,
         "is_markup": null
       },
@@ -237,7 +237,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Calls down a Moonbeam on the target [HitDamage|Hit] and up to {0} other targets within {1} metre",
+        "string": "Calls down a Moonbeam on the target [Hit] and up to {0} other targets within {1} metre",
         "reminder_text": null,
         "is_markup": null
       },
@@ -264,7 +264,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Calls down a Moonbeam on the target [HitDamage|Hit] and up to {0} other targets within {1} metres",
+        "string": "Calls down a Moonbeam on the target [Hit] and up to {0} other targets within {1} metres",
         "reminder_text": null,
         "is_markup": null
       }

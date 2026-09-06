@@ -11,6 +11,10 @@
     "definition": "",
     "term": ""
   },
+  "AbyssCrack": {
+    "definition": "Abyssal Fissures are a group of areas which contain [ContainsAbyss|Abysses]. \r\n\r\nThese Abysses are always of a single faction, with the final area leading to that faction's boss. Abyssal monsters become stronger and more frequent further along the Fissure.",
+    "term": "Abyssal Fissure"
+  },
   "AbyssalDepths": {
     "definition": "Abyssal Depths are an underground dungeon sometimes found when completing the final [ContainsAbyss|Abyss] in the area.\r\n\r\nThe Abyssal Depths contains many Abyssal monsters and all Rare monsters will have an [AbyssalModifiers|Abyssal Modifier].\r\nAt the end of the Abyssal Depths is a more powerful Rare with both a Lichborn Modifier and an Abyssal Modifier. Defeating this Rare will unlock valuable chests nearby.\r\n\r\nThe chests at the end of the Abyssal Depths can also drop pieces of [Abyssalify|Preserved Bone], but also can rarely drop additional exclusive [Omen|Omens] and [LineageSupports|Lineage Supports].\r\n\r\nAt higher levels the Abyssal Depths can lead to powerful Boss Fights.",
     "term": "Abyssal Depths"
@@ -44,7 +48,7 @@
     "term": "Acrobatics"
   },
   "Adaptation": {
-    "definition": "Adaptations are gained by taking [ElementalDamage|Elemental Damage] from [HitDamage|Hits] and cause you to take less damage of that [ElementalDamage|Type] from subsequent [HitDamage|Hits].\r\n\r\nUnless otherwise specified, you can have 3 Adaptations at a time, and Adaptations do not have a duration.",
+    "definition": "Adaptations are gained by taking [ElementalDamage|Elemental Damage] from [Hit|Hits] and cause you to take less damage of that [ElementalDamage|Type] from subsequent [Hit|Hits].\r\n\r\nUnless otherwise specified, you can have 3 Adaptations at a time, and Adaptations do not have a duration.",
     "term": "Adaptation"
   },
   "AdaptiveRune": {
@@ -88,7 +92,7 @@
     "term": "Spreading Ailments"
   },
   "AilmentThreshold": {
-    "definition": "A higher Elemental Ailment Threshold makes it less likely that being [HitDamage|Hit] by [ElementalDamage|Elemental Damage] will apply the relevant [ElementalAilments|Ailment], as well as lowering the amount of [Freeze] and [Electrocute] buildup recieved. A lower Elemental Ailment Threshold makes it more likely, and increases buildup of [Freeze] and [Electrocute] recieved. By default a player's Ailment Threshold is equal to half their Life.",
+    "definition": "A higher Elemental Ailment Threshold makes it less likely that being [Hit] by [ElementalDamage|Elemental Damage] will apply the relevant [ElementalAilments|Ailment], as well as lowering the amount of [Freeze] and [Electrocute] buildup recieved. A lower Elemental Ailment Threshold makes it more likely, and increases buildup of [Freeze] and [Electrocute] recieved. By default a player's Ailment Threshold is equal to half their Life.",
     "term": "Elemental Ailment Threshold"
   },
   "Ailments": {
@@ -96,7 +100,7 @@
     "term": "Ailments"
   },
   "AldursLegacy": {
-    "definition": "Aldur's Legacies are [Augment|Augments] which have taken the power of a Unique Ezomyte or Kalguuran Unique. You may not have more than one [Augment] of this type socketed at a time.",
+    "definition": "Aldur's Legacies are [Augment|Augments] which have taken the power of a Ezomyte Unique or Kalguuran Unique. You may not have more than one [Augment] of this type socketed at a time.",
     "term": "Aldur's Legacies"
   },
   "Allies": {
@@ -116,7 +120,7 @@
     "term": ""
   },
   "Ammunition": {
-    "definition": "Using a [Crossbow] Ammunition Skill replaces your [Crossbow|Crossbow's] basic [Attack] with the skill indicated. The Ammunition Skill itself does not fire the Ammunition, only load it into your [Crossbow]. Most [Crossbow] Ammunition Skills that directly [HitDamage|Hit] enemies have [Knockback].",
+    "definition": "Using a [Crossbow] Ammunition Skill replaces your [Crossbow|Crossbow's] basic [Attack] with the skill indicated. The Ammunition Skill itself does not fire the Ammunition, only load it into your [Crossbow]. Most [Crossbow] Ammunition Skills that directly [Hit] enemies have [Knockback].",
     "term": "Crossbow Ammunition Skills"
   },
   "Anaemia": {
@@ -168,15 +172,15 @@
     "term": "Archon Buff"
   },
   "Armour": {
-    "definition": "Armour reduces [HitDamage|Damage taken from Hits]. By default, Armour only applies to [Physical] [HitDamage|Damage].\r\n\r\nDamage reduction from Armour is proportional to the amount of [HitDamage|Damage], and is more effective at reducing smaller hits.",
+    "definition": "Armour reduces [Hit|Damage taken from Hits]. By default, Armour only applies to [Physical] [Hit|Damage].\r\n\r\nDamage reduction from Armour is proportional to the amount of [Hit|Damage], and is more effective at reducing smaller hits.",
     "term": "Armour"
   },
   "ArmourBreak": {
-    "definition": "Some Skills, Items, Support Gems and other effects can Break [Armour|Armour], which lowers a target's [Armour|Armour] by a specified amount. If this brings the target's [Armour|Armour] value to 0, their [Armour|Armour] is Fully Broken for 12 seconds, or 4 seconds for players. On top of not benefitting from [Armour], non-player targets with Fully Broken [Armour] take 20% increased [Physical] damage from [HitDamage|Hits].\r\n\r\nPlayers Break 3 times Armour against Normal Monsters and 2 times Armour against Magic Monsters.",
+    "definition": "Some Skills, Items, Support Gems and other effects can Break [Armour|Armour], which lowers a target's [Armour|Armour] by a specified amount. If this brings the target's [Armour|Armour] value to 0, their [Armour|Armour] is Fully Broken for 12 seconds, or 4 seconds for players. On top of not benefitting from [Armour], non-player targets with Fully Broken [Armour] take 20% increased [Physical] damage from [Hit|Hits].\r\n\r\nPlayers Break 3 times Armour against Normal Monsters and 2 times Armour against Magic Monsters.",
     "term": "Armour Break"
   },
   "ArmourOverbreak": {
-    "definition": "Enemies with [Armour] [ArmourBreak|Broken] below 0 have negative [Armour]. This means they take more [Physical] damage from [HitDamage|Hits]. Armour broken below 0 is capped by the enemy's base [Armour].",
+    "definition": "Enemies with [Armour] [ArmourBreak|Broken] below 0 have negative [Armour]. This means they take more [Physical] damage from [Hit|Hits]. Armour broken below 0 is capped by the enemy's base [Armour].",
     "term": "Armour Break below 0"
   },
   "ArmourPenalties": {
@@ -228,7 +232,7 @@
     "term": "Axes"
   },
   "AzmeriSpirit": {
-    "definition": "Azmeri Spirits are the spirits of various Azmeri Animal Guardians. \r\nAzmeri Spirits appear as wisps that flee as you approach them. [Rarity|Normal or Magic] Monsters the Spirit comes into contact with become [SpiritTouched|Spirit-Influenced], making them more powerful. \r\nSometimes the Spirit will reach and [SpiritPossessed|Possess] a [Rarity|Rare or Unique] monster, making them substantially stronger and rewarding while occasionally summoning spiritual animals depending on the type of Animal Spirit they represent.\r\n[SpiritPossessed|Possessed] monsters are more rewarding depending on how many [SpiritTouched|Spirit-Influenced] monsters were defeated leading up to possession.",
+    "definition": "Azmeri Spirits are the spirits of various Azmeri Animal Guardians.\r\n\r\nAzmeri Spirits appear as wisps that flee as you approach them. [Rarity|Normal or Magic] Monsters the Spirit comes into contact with become [SpiritTouched|Spirit-Influenced], while [Rarity|Rare or Unique] monsters will be [SpiritPossessed|Possessed].\r\n\r\nSpirit-Influenced or Possessed monsters are stronger and more rewarding. Possession's bonuses are more effective for each monster the Spirit has Influenced.",
     "term": "Azmeri Spirit"
   },
   "AzmeriSpiritPrimal": {
@@ -296,7 +300,7 @@
     "term": ""
   },
   "Bleeding": {
-    "definition": "Bleeding is an [Ailments|Ailment] that deals [Physical|Physical] damage over time, and lasts 5 seconds by default. Damage from Bleeding bypasses [EnergyShield|Energy Shield]\r\n\r\nBleeding deals an extra 100% damage while the target is moving, or if the Bleeding is [Aggravate|Aggravated].\r\n\r\n[Physical] damage from [HitDamage|Hits] [Contributes|Contributes] to Bleeding [BuffMagnitude|Magnitude].\r\n\r\nDamage does not [Contributes|Contribute] to Bleeding chance, so it cannot be inflicted without an explicit source of Bleeding chance.\r\n\r\nThe base [BuffMagnitude|Magnitude] of Bleeding is [Physical] damage per second equal to 15% of the [Premitigation|Pre-mitigation] [Physical] damage of the [HitDamage|Hit] that inflicted it. This magnitude is not further affected by any modifiers to the damage you deal. \r\n\r\nModifiers and [Debuff|Debuffs] that affect the enemy's ability to mitigate damage (such as [Shock]) can affect the damage the enemy takes from Bleeding, but any such modifiers that specifically apply to [HitDamage|Hit] damage (such as [ArmourBreak|Armour Break]) do not affect Bleeding damage.",
+    "definition": "Bleeding is an [Ailments|Ailment] that deals [Physical|Physical] damage over time, and lasts 5 seconds by default. Damage from Bleeding bypasses [EnergyShield|Energy Shield]\r\n\r\nBleeding deals an extra 100% damage while the target is moving, or if the Bleeding is [Aggravate|Aggravated].\r\n\r\n[Physical] damage from [Hit|Hits] [Contributes|Contributes] to Bleeding [BuffMagnitude|Magnitude].\r\n\r\nDamage does not [Contributes|Contribute] to Bleeding chance, so it cannot be inflicted without an explicit source of Bleeding chance.\r\n\r\nThe base [BuffMagnitude|Magnitude] of Bleeding is [Physical] damage per second equal to 15% of the [Premitigation|Pre-mitigation] [Physical] damage of the [Hit] that inflicted it. This magnitude is not further affected by any modifiers to the damage you deal. \r\n\r\nModifiers and [Debuff|Debuffs] that affect the enemy's ability to mitigate damage (such as [Shock]) can affect the damage the enemy takes from Bleeding, but any such modifiers that specifically apply to [Hit] damage (such as [ArmourBreak|Armour Break]) do not affect Bleeding damage.",
     "term": "Bleeding"
   },
   "Blind": {
@@ -304,7 +308,7 @@
     "term": "Blind"
   },
   "Block": {
-    "definition": "Blocking completely prevents the damage of an incoming [HitDamage|Hit].\r\n\r\nYou will still take any [Stun] from the Blocked hit. You can't Block while [Stun|Stunned] or [Freeze|Frozen]. \r\n\r\nSome Skills used by Bosses cannot be blocked. These are indicated by a red glow and audio cue during the windup of the Skill.",
+    "definition": "Blocking completely prevents the damage of an incoming [Hit].\r\n\r\nYou will still take any [Stun] from the Blocked hit. You can't Block while [Stun|Stunned] or [Freeze|Frozen]. \r\n\r\nSome Skills used by Bosses cannot be blocked. These are indicated by a red glow and audio cue during the windup of the Skill.",
     "term": "Block"
   },
   "BloodLoss": {
@@ -340,7 +344,7 @@
     "term": "Ancient Modifiers"
   },
   "BooleanDamageRoll": {
-    "definition": "[HitDamage|Hits] from a weapon or skill with this property will not roll a random value between the minimum or maximum damage value, but instead will always roll either the minimum value or the maximum value, with a 50% chance for each.\r\n\r\nEach [DamageTypes|Damage Type] has its damage value rolled separately, so if the hit deals multiple types of damage, some types may roll the maximum while others roll minimum.\r\n\r\nIf the damage rolls are [Lucky], that will still apply, make this roll twice and picking the maximum if either roll had that result, only picking minimum damage if both rolls selected minimum. Unlucky damage rolls will prefer minimum damage in the same way.",
+    "definition": "[Hit|Hits] from a weapon or skill with this property will not roll a random value between the minimum or maximum damage value, but instead will always roll either the minimum value or the maximum value, with a 50% chance for each.\r\n\r\nEach [DamageTypes|Damage Type] has its damage value rolled separately, so if the hit deals multiple types of damage, some types may roll the maximum while others roll minimum.\r\n\r\nIf the damage rolls are [Lucky], that will still apply, make this roll twice and picking the maximum if either roll had that result, only picking minimum damage if both rolls selected minimum. Unlucky damage rolls will prefer minimum damage in the same way.",
     "term": "Only Minimum or Maximum Damage"
   },
   "Boons": {
@@ -384,7 +388,7 @@
     "term": "Otherworldly Nemesis"
   },
   "BreachHiveMonsterPotencySkill": {
-    "definition": "A skill created by Ailith that increases the [MonsterEffectiveness|Effectiveness] of Monsters in [Breach] Hive encounters.",
+    "definition": "A skill created by Ailith that increases the [MonsterEffectiveness|Effectiveness] of Monsters in [ContainsBreach|Breach] Hive encounters.",
     "term": "Xesht's Fervour"
   },
   "BreachHiveMonsterUpgradeSkill": {
@@ -436,7 +440,7 @@
     "term": "Broken Boss Faces"
   },
   "BrokenStance": {
-    "definition": "Broken Stance is a [Debuff] inflicted by [HitDamage|Hits], which stores 10% of the [Premitigation|Pre-mitigation] [Physical] [HitDamage|Hit damage] of the [HitDamage|Hit] that inflicts it as its [BuffMagnitude|Magnitude].\r\n\r\nThe inflicter's subsequent [HitDamage|Hits] against the target will gain additional unscaleable added [Physical] [HitDamage|Damage] equal to that magnitude.\r\n\r\nEnemies with Broken Stance cannot be [Daze|Dazed] again.",
+    "definition": "Broken Stance is a [Debuff] inflicted by [Hit|Hits], which stores 10% of the [Premitigation|Pre-mitigation] [Physical] [Hit|Hit damage] of the [Hit] that inflicts it as its [BuffMagnitude|Magnitude].\r\n\r\nThe inflicter's subsequent [Hit|Hits] against the target will gain additional unscaleable added [Physical] [Hit|Damage] equal to that magnitude.\r\n\r\nEnemies with Broken Stance cannot be [Daze|Dazed] again.",
     "term": "Broken Stance"
   },
   "Buckler": {
@@ -456,7 +460,7 @@
     "term": "Buff/Debuff Magnitude"
   },
   "Bulwark": {
-    "definition": "Dodge Roll cannot Avoid Damage\nTake 30% less [HitDamage|Damage from Hits] while Dodge Rolling",
+    "definition": "Dodge Roll cannot Avoid Damage\nTake 30% less [Hit|Damage from Hits] while Dodge Rolling",
     "term": "Bulwark"
   },
   "Burning": {
@@ -540,7 +544,7 @@
     "term": "Checkpoints in Maps"
   },
   "Chill": {
-    "definition": "Chill is an [Ailments|Ailment] that [Slow|Slows] the afflicted target, and lasts 2 seconds on players or 8 seconds on non-players by default. Chill [BuffMagnitude|Magnitude] depends on the Chilling damage dealt relative to the target's [AilmentThreshold|Elemental Ailment Threshold], with a minimum of 30% and a default maximum of 50%.\r\n\r\n[Cold] damage from [HitDamage|Hits] can Chill by default, and does not require a chance to inflict Chill. However, Chills smaller than 30% will be ignored, so small [HitDamage|Hits] can fail to Chill.",
+    "definition": "Chill is an [Ailments|Ailment] that [Slow|Slows] the afflicted target, and lasts 2 seconds on players or 8 seconds on non-players by default. Chill [BuffMagnitude|Magnitude] depends on the Chilling damage dealt relative to the target's [AilmentThreshold|Elemental Ailment Threshold], with a minimum of 30% and a default maximum of 50%.\r\n\r\n[Cold] damage from [Hit|Hits] can Chill by default, and does not require a chance to inflict Chill. However, Chills smaller than 30% will be ignored, so small [Hit|Hits] can fail to Chill.",
     "term": "Chill"
   },
   "ChilledGround": {
@@ -644,7 +648,7 @@
     "term": "Expedition"
   },
   "ContainsExpedition2": {
-    "definition": "Verisium Remnants are fragments of the stars themselves, called down by Kalguurans to harness their power.\r\n\r\nVerisium Remnants allow you to craft a variety of rewards. Each Remnant has a number of slots available for runes to be inscribed, and when you first find it, it will have one rune already inscribed.\r\n\r\nBased on the inscribed rune, you'll be able to select a reward and, based on the runes required for the recipe, you will have to fight waves of Verisium infused monsters to complete the encounter and receive your reward.\r\n\r\nThe number of monster waves are one less than the total number of inscribable slots for the chosen recipe. Each wave of the encounter will activate an additional runic effect, starting from the first two runes on the left.",
+    "definition": "Verisium Remnants are fragments of the stars themselves, called down by Kalguurans to harness their power.\r\n\r\nVerisium Remnants allow you to craft a variety of rewards. Each Remnant has a number of slots available for runes to be inscribed, and when you first find it, it will have one rune already inscribed.\r\n\r\nBased on the inscribed rune, you'll be able to select a reward and, based on the runes required for the recipe, you will have to fight waves of Verisium infused monsters to complete the encounter and receive your reward.\r\n\r\nThese Inscriptions can be used to create Runeshapes within [ContainsExpedition2|Verisium Remnants].\r\n\r\n[Rune|Runes] are the result of the Kalguurans study of these Inscriptions and the power of Runeshapes.",
     "term": "Verisium Remnant"
   },
   "ContainsHideout": {
@@ -676,7 +680,7 @@
     "term": "Wandering Trader"
   },
   "Contributes": {
-    "definition": "By default, specific [Ailments] are calculated based on only specific [DamageTypes|damage types], such as only the [Fire] damage of a [HitDamage|Hit] mattering when inflicting [Ignite].\r\n\r\nAllowing another damage type to contribute to an [Ailments|Ailment] means that all damage of the relevant types is summed when performing calculations for that [Ailments|Ailment].\r\n\r\nFor [Ailments] that use [HitDamage|Hit] damage to determine [Ailments|Ailment] chance or buildup, this means that the damage type becomes capable of inflicting that [Ailments|Ailment]. For [Ailments] that only use [HitDamage|Hit] damage to determine [Ailments|Ailment] [BuffMagnitude|Magnitude] (i.e. [Bleeding] and [Poison]), you still need a way to apply those [Ailments] (e.g. a source of [Bleeding] or [Poison] chance).",
+    "definition": "By default, specific [Ailments] are calculated based on only specific [DamageTypes|damage types], such as only the [Fire] damage of a [Hit] mattering when inflicting [Ignite].\r\n\r\nAllowing another damage type to contribute to an [Ailments|Ailment] means that all damage of the relevant types is summed when performing calculations for that [Ailments|Ailment].\r\n\r\nFor [Ailments] that use [Hit] damage to determine [Ailments|Ailment] chance or buildup, this means that the damage type becomes capable of inflicting that [Ailments|Ailment]. For [Ailments] that only use [Hit] damage to determine [Ailments|Ailment] [BuffMagnitude|Magnitude] (i.e. [Bleeding] and [Poison]), you still need a way to apply those [Ailments] (e.g. a source of [Bleeding] or [Poison] chance).",
     "term": "Damage Contributing to Ailments"
   },
   "Conversion": {
@@ -760,7 +764,7 @@
     "term": "Crushing Blows"
   },
   "CullingStrike": {
-    "definition": "Culling Strikes kill Normal enemies if their life is at 35% or below. Magic enemies are instead killed at 20%, Rare at 10% and Unique at 5%. These thresholds are checked before the damage of the [HitDamage|Hit] is applied.",
+    "definition": "Culling Strikes kill Normal enemies if their life is at 35% or below. Magic enemies are instead killed at 20%, Rare at 10% and Unique at 5%. These thresholds are checked before the damage of the [Hit] is applied.",
     "term": "Culling Strike"
   },
   "CurrencyCorruptedEssenceBreach": {
@@ -808,7 +812,7 @@
     "term": "Dark Whispers"
   },
   "Daze": {
-    "definition": "Some skills and effects have a chance to apply Daze to enemies on [HitDamage|Hit].\r\n\r\nDaze lasts for 8 seconds, and a Dazed enemy will take 50% more [Stun|Stun Buildup]. There are also a number of Skills, Effects, and other mechanics which interact with Daze for various benefits.",
+    "definition": "Some skills and effects have a chance to apply Daze to enemies on [Hit].\r\n\r\nDaze lasts for 8 seconds, and a Dazed enemy will take 50% more [Stun|Stun Buildup]. There are also a number of Skills, Effects, and other mechanics which interact with Daze for various benefits.",
     "term": "Daze"
   },
   "DeadlyMapBoss": {
@@ -828,7 +832,7 @@
     "term": "Debuffs"
   },
   "DecimatingStrike": {
-    "definition": "[HitDamage|Hits] against Full Life Enemies remove between 5% and 30% of Life, before the damage of the [HitDamage|Hit] is applied.",
+    "definition": "[Hit|Hits] against Full Life Enemies remove between 5% and 30% of Life, before the damage of the [Hit] is applied.",
     "term": "Decimating Strike"
   },
   "DefaultAttack": {
@@ -840,7 +844,7 @@
     "term": "Default Attack Damage"
   },
   "Deflect": {
-    "definition": "Deflection Rating provides a chance to Deflect damage from [HitDamage|Hits], preventing 40% of the damage from those Hits. Exact chance to Deflect also depends on the attacker's [Accuracy].",
+    "definition": "Deflection Rating provides a chance to Deflect damage from [Hit|Hits], preventing 40% of the damage from those Hits. Exact chance to Deflect also depends on the attacker's [Accuracy].",
     "term": "Deflect"
   },
   "Delirious": {
@@ -924,7 +928,7 @@
     "term": "Drenched"
   },
   "DruidicProwess": {
-    "definition": "Druidic Prowess is a stacking [Buff] which grants 10% increased [SkillSpeed|Skill Speed] and causes [HitDamage|Hits] with [Spell] Damage to grant 3 [Rage] per stack for 10 seconds. Each stack has an independent duration. Maximum 3 stacks.",
+    "definition": "Druidic Prowess is a stacking [Buff] which grants 10% increased [SkillSpeed|Skill Speed] and causes [Hit|Hits] with [Spell] Damage to grant 3 [Rage] per stack for 10 seconds. Each stack has an independent duration. Maximum 3 stacks.",
     "term": "Druidic Prowess"
   },
   "DualWield": {
@@ -952,7 +956,7 @@
     "term": "Earth Rune"
   },
   "EasyTargetDebuff": {
-    "definition": "Easy Target is a [Debuff] which causes the next [Projectile] [Attack] [HitDamage|Hit] against the affected target to deal increased Damage, at which point the [Debuff] is consumed.",
+    "definition": "Easy Target is a [Debuff] which causes the next [Projectile] [Attack] [Hit] against the affected target to deal increased Damage, at which point the [Debuff] is consumed.",
     "term": "Easy Target"
   },
   "EatenSoul": {
@@ -976,7 +980,7 @@
     "term": "Eldritch Battery"
   },
   "Electrocute": {
-    "definition": "Electrocution is an [Ailments|Ailment] that interrupts the target's actions and prevents them performing any action, and lasts 5 seconds by default.\r\n\r\nOnly [Lightning] damage from [HitDamage|Hits] with specific skills or effects [Contributes] to Electrocution Buildup on enemies until they become [Electrocute|Electrocuted]. Other sources of [Lightning] damage will not build up towards Electrocution.",
+    "definition": "Electrocution is an [Ailments|Ailment] that interrupts the target's actions and prevents them performing any action, and lasts 5 seconds by default.\r\n\r\nOnly [Lightning] damage from [Hit|Hits] with specific skills or effects [Contributes] to Electrocution Buildup on enemies until they become [Electrocute|Electrocuted]. Other sources of [Lightning] damage will not build up towards Electrocution.",
     "term": "Electrocution"
   },
   "ElectrocuteThreshold": {
@@ -992,7 +996,7 @@
     "term": "Elemental Ailments"
   },
   "ElementalArchon": {
-    "definition": "Elemental Archon is a type of [Archon] [Buff]. It grants:\r\n\u2022 25% more [ElementalDamage|Elemental Damage] with [Spell|Spells]\r\n\u2022 Cannot deal [ElementalDamage|Non-Elemental] Damage with [Spell|Spells]\r\n\u2022 [HitDamage|Hits] with [Spell|Spells] cause 100% more [Freeze] Buildup\r\n\u2022 [Spell|Spells] have 100% more [Flammability] [BuffMagnitude|Magnitude]\r\n\u2022 [HitDamage|Hits] with [Spell|Spells] have 100% more [Shock] chance\r\n\r\nUsing a non-instant [Attack] causes Elemental Archon to be removed immediately.",
+    "definition": "Elemental Archon is a type of [Archon] [Buff]. It grants:\r\n\u2022 25% more [ElementalDamage|Elemental Damage] with [Spell|Spells]\r\n\u2022 Cannot deal [ElementalDamage|Non-Elemental] Damage with [Spell|Spells]\r\n\u2022 [Hit|Hits] with [Spell|Spells] cause 100% more [Freeze] Buildup\r\n\u2022 [Spell|Spells] have 100% more [Flammability] [BuffMagnitude|Magnitude]\r\n\u2022 [Hit|Hits] with [Spell|Spells] have 100% more [Shock] chance\r\n\r\nUsing a non-instant [Attack] causes Elemental Archon to be removed immediately.",
     "term": "Elemental Archon"
   },
   "ElementalDamage": {
@@ -1056,7 +1060,7 @@
     "term": "Energy Shield"
   },
   "EnergyShieldLeech": {
-    "definition": "When you deal damage with a [HitDamage|Hit], [EnergyShield|Energy Shield] Leech causes you to recover an amount of [EnergyShield|Energy Shield] to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [HitDamage|Hits] against them.\r\n\r\nYou can only recover from a single instance of [EnergyShield|Energy Shield] Leech at a time, and all [EnergyShield|Energy Shield] Leech is removed when [EnergyShield|Energy Shield] is filled.\r\n\r\nModifiers specific to Life Leech will not apply to Energy Shield Leech.",
+    "definition": "When you deal damage with a [Hit], [EnergyShield|Energy Shield] Leech causes you to recover an amount of [EnergyShield|Energy Shield] to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [Hit|Hits] against them.\r\n\r\nYou can only recover from a single instance of [EnergyShield|Energy Shield] Leech at a time, and all [EnergyShield|Energy Shield] Leech is removed when [EnergyShield|Energy Shield] is filled.\r\n\r\nModifiers specific to Life Leech will not apply to Energy Shield Leech.",
     "term": "Energy Shield Leech"
   },
   "Enfeeble": {
@@ -1100,7 +1104,7 @@
     "term": "Eternal Youth"
   },
   "Evasion": {
-    "definition": "Evasion Rating grants a chance to Evade enemy [HitDamage|Hits], preventing them from [HitDamage|Hitting] you at all. Exact chance to Evade also depends on the attacker's [Accuracy].",
+    "definition": "Evasion Rating grants a chance to Evade enemy [Hit|Hits], preventing them from [Hit|Hitting] you at all. Exact chance to Evade also depends on the attacker's [Accuracy].",
     "term": "Evasion"
   },
   "EverlastingSacrifice": {
@@ -1183,6 +1187,10 @@
     "definition": "Verisium Sentries are ancient remnants of Kalguuran technology found within [ContainsExpedition|Expeditions].\r\n\r\nWhen unearthed they follow the player, adding Runic [MonsterModifiers|Modifiers] to Monsters throughout the area.",
     "term": "Verisium Sentry"
   },
+  "ExpeditionVaalRelic": {
+    "definition": "Vaal Relics are found within Frigid Bluffs [GrandExpedition|Grand Expeditions] and as a modifier on [ExpeditionAugment|Expedition Tablets].\r\n\r\nThese Relics can be unearthed, similar to [ContainsExpedition2|Verisium Remnants] and add their modifiers to anything excavated with the explosive that destroys the Relic and any excavated with future explosives in the chain.\r\n\r\nUnlike Verisium Remnants, Vaal Relics have predefined modifiers that cannot be modified.",
+    "term": "Vaal Relics"
+  },
   "ExplosiveFervour": {
     "definition": "Explosive Fervour is a [Buff] that grants 15% increased Attack Speed per different [Grenade] Skill you've used [Recently], causes [Grenade] Skills to ignore their cooldown and fire an additional projectile, and makes [Grenade|Grenades] explode on any impact.\r\n\r\nYou cannot gain [ExplosiveRhythm|Explosive Rhythm] while you have Explosive Fervour. ",
     "term": "Explosive Fervour"
@@ -1200,7 +1208,7 @@
     "term": "Extra Content"
   },
   "FaerieFire": {
-    "definition": "Each Faerie Fire [Debuff] causes [HitDamage|Hits] against the affected target to [Gain] 2% of damage as [Gain|Extra] Damage of a random [ElementalDamage|Element]. The [Debuff] lasts 8 seconds, and up to 10 can be applied to each target.",
+    "definition": "Each Faerie Fire [Debuff] causes [Hit|Hits] against the affected target to [Gain] 2% of damage as [Gain|Extra] Damage of a random [ElementalDamage|Element]. The [Debuff] lasts 8 seconds, and up to 10 can be applied to each target.",
     "term": "Faerie Fire"
   },
   "FasterESRechargeStart": {
@@ -1228,7 +1236,7 @@
     "term": ""
   },
   "Fire": {
-    "definition": "Fire damage is one of the five [DamageTypes|Damage Types]. It is reduced by [Resistances|Fire Resistance]. Fire [HitDamage|Hits] inflict [Flammability] based on how much Fire damage is dealt, which provides a chance to [Ignite].",
+    "definition": "Fire damage is one of the five [DamageTypes|Damage Types]. It is reduced by [Resistances|Fire Resistance]. Fire [Hit|Hits] inflict [Flammability] based on how much Fire damage is dealt, which provides a chance to [Ignite].",
     "term": "Fire Damage"
   },
   "FireRune": {
@@ -1248,7 +1256,7 @@
     "term": "Flame of Chayula"
   },
   "Flammability": {
-    "definition": "Flammability is a [Debuff] that provides the chance for [HitDamage|Hits] to [Ignite] the target. It is not itself an [Ailments|Ailment], but is closely associated with [Ignite], which is.\r\n\r\n[Fire] damage from [HitDamage|Hits] [Contributes] to the [BuffMagnitude|Magnitude] of Flammability, so [HitDamage|Hits] that deal more [Fire] damage will [Ignite] more often.\r\n\r\nThe base [BuffMagnitude|Magnitude] of Flammability is 1% chance to Ignite the target for every 5% of the target's [AilmentThreshold|Ailment Threshold] dealt as [Fire] damage. Flammability from a [HitDamage|Hit] is applied before that hit checks whether it should [Ignite] the target, and so will affect that chance for that [HitDamage|Hit] to [Ignite].\r\n\r\nSince chance for [HitDamage|Hits] to [Ignite] comes from Flammability on the target, modifiers which increase the chance to inflict [Ailments] will increase the [BuffMagnitude|Magnitude] of Flammability inflicted.\r\n\r\nEffects which do not [HitDamage|Hit] targets, but [Ignite] as if they had, such as [IgnitedGround|Ignited Ground], also inflict Flammability, but do not roll a random chance to [Ignite]. Such effects will only [Ignite] once the total Flammability on the target reaches 50%.\r\n\r\nMultiple instances of Flammability stack, raising the chance for [HitDamage|Hits] to [Ignite] the target up to 100%. Each instance of Flammability has its own independent duration, lasting 8 seconds by default.",
+    "definition": "Flammability is a [Debuff] that provides the chance for [Hit|Hits] to [Ignite] the target. It is not itself an [Ailments|Ailment], but is closely associated with [Ignite], which is.\r\n\r\n[Fire] damage from [Hit|Hits] [Contributes] to the [BuffMagnitude|Magnitude] of Flammability, so [Hit|Hits] that deal more [Fire] damage will [Ignite] more often.\r\n\r\nThe base [BuffMagnitude|Magnitude] of Flammability is 1% chance to Ignite the target for every 5% of the target's [AilmentThreshold|Ailment Threshold] dealt as [Fire] damage. Flammability from a [Hit] is applied before that hit checks whether it should [Ignite] the target, and so will affect that chance for that [Hit] to [Ignite].\r\n\r\nSince chance for [Hit|Hits] to [Ignite] comes from Flammability on the target, modifiers which increase the chance to inflict [Ailments] will increase the [BuffMagnitude|Magnitude] of Flammability inflicted.\r\n\r\nEffects which do not [Hit] targets, but [Ignite] as if they had, such as [IgnitedGround|Ignited Ground], also inflict Flammability, but do not roll a random chance to [Ignite]. Such effects will only [Ignite] once the total Flammability on the target reaches 50%.\r\n\r\nMultiple instances of Flammability stack, raising the chance for [Hit|Hits] to [Ignite] the target up to 100%. Each instance of Flammability has its own independent duration, lasting 8 seconds by default.",
     "term": "Flammability"
   },
   "Flask": {
@@ -1344,7 +1352,7 @@
     "term": "Fragmented Mirror"
   },
   "Freeze": {
-    "definition": "Freeze is an [Ailments|Ailment] that causes targets to be unable to move or act, and lasts 4 seconds by default.\r\n\r\n[Cold] damage from [HitDamage|Hits] [Contributes] to Freeze Buildup on enemies until they become [Frozen].",
+    "definition": "Freeze is an [Ailments|Ailment] that causes targets to be unable to move or act, and lasts 4 seconds by default.\r\n\r\n[Cold] damage from [Hit|Hits] [Contributes] to Freeze Buildup on enemies until they become [Frozen].",
     "term": "Freeze"
   },
   "FreezeThreshold": {
@@ -1364,7 +1372,7 @@
     "term": "Stage-Gaining Skills"
   },
   "GaspRune": {
-    "definition": "<<ExpedRuneGasp>><rgb(219,217,206)>{Volcanic Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{Extra Fire Damage}\r\n<rgb(135,134,253)>{All Damage can Ignite}\r\n<rgb(135,134,253)>{Burning Ground Trails}",
+    "definition": "<<ExpedRuneGasp>><rgb(219,217,206)>{Volcanic Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{Extra Fire Damage}\r\n<rgb(135,134,253)>{All Damage can Ignite}\r\n<rgb(135,134,253)>{Ignited Ground Trails}",
     "term": "Gasp Rune"
   },
   "GemcuttersPrism": {
@@ -1660,7 +1668,7 @@
     "term": "Gruelling Madness"
   },
   "Guard": {
-    "definition": "Guard is a [Buff] that provides a buffer against damage from [HitDamage|Hits], taking the damage before your Life or [EnergyShield|Energy Shield] until the buff expires or is depleted.\r\n\r\nYou can only have a single Guard buff at a time. If you gain Guard when you already have it, whichever buff has the higher magnitude will be kept, and that buff's duration will be refreshed by an amount proportional to the magnitude of the discarded buff, but not to longer than its original duration. Your maximum amount of Guard is equal to 200% of your maximum Life.",
+    "definition": "Guard is a [Buff] that provides a buffer against damage from [Hit|Hits], taking the damage before your Life or [EnergyShield|Energy Shield] until the buff expires or is depleted.\r\n\r\nYou can only have a single Guard buff at a time. If you gain Guard when you already have it, whichever buff has the higher magnitude will be kept, and that buff's duration will be refreshed by an amount proportional to the magnitude of the discarded buff, but not to longer than its original duration. Your maximum amount of Guard is equal to 200% of your maximum Life.",
     "term": "Guard"
   },
   "HandWraps": {
@@ -1680,7 +1688,7 @@
     "term": "Heat"
   },
   "HeavyStun": {
-    "definition": "[HeavyStun|Heavy Stuns] occur when a target's [Stun] bar is filled, interrupts the target's current action and prevent them from taking actions for a few seconds. [HitDamage|Hits] cause Heavy Stun buildup based on the damage dealt. Players and their [Minion|Minions] usually cannot be [HeavyStun|Heavily Stunned], but players can receive [HeavyStun|Heavy Stun] buildup where specifically mentioned while taking specific actions (such as raising their [Shield], Parrying with a [Buckler], or riding a mount).\r\n\r\nWhile an enemy is Heavy Stunned, they cannot act and count as [Immobilised]. It will also be harder to Heavy Stun them again for a short time afterwards.\r\n\r\n[Physical] damage, and player (but not monster) [Melee] Damage, each cause 50% more [HeavyStun|Heavy Stun] buildup. For players, these bonuses are multiplicative with each other.",
+    "definition": "[HeavyStun|Heavy Stuns] occur when a target's [Stun] bar is filled, interrupts the target's current action and prevent them from taking actions for a few seconds. [Hit|Hits] cause Heavy Stun buildup based on the damage dealt. Players and their [Minion|Minions] usually cannot be [HeavyStun|Heavily Stunned], but players can receive [HeavyStun|Heavy Stun] buildup where specifically mentioned while taking specific actions (such as raising their [Shield], Parrying with a [Buckler], or riding a mount).\r\n\r\nWhile an enemy is Heavy Stunned, they cannot act and count as [Immobilised]. It will also be harder to Heavy Stun them again for a short time afterwards.\r\n\r\n[Physical] damage, and player (but not monster) [Melee] Damage, each cause 50% more [HeavyStun|Heavy Stun] buildup. For players, these bonuses are multiplicative with each other.",
     "term": "Heavy Stun"
   },
   "HeavyStunPlayer": {
@@ -1704,7 +1712,7 @@
     "term": "Hexproof"
   },
   "HiddenMaps": {
-    "definition": "Anomaly Maps have added requirements to access on the World Map. \r\n\r\nBosses of these maps are [DeadlyMapBoss|Deadly] and may drop an additional lineage support.",
+    "definition": "Anomaly Maps have added requirements to access on the World Map. \r\n\r\nBosses of these maps are [DeadlyMapBoss|Deadly] and may drop an additional [LineageSupports|lineage support].",
     "term": "Anomaly Map"
   },
   "HighInfernalFlame": {
@@ -1723,7 +1731,7 @@
     "definition": "You can only have one Historic Jewel socketed.",
     "term": "Historic Jewels"
   },
-  "HitDamage": {
+  "Hit": {
     "definition": "Any damage that isn't damage over time is Hit damage.\r\n\r\n[DamagingAilments|Damaging Ailments] which result from a Hit will calculate their damage from that Hit, and will not subsequently have Damage modifiers applied directly to them. As a result of this, raising Hit Damage will result in more powerful Damaging Ailments innately.",
     "term": "Hit Damage"
   },
@@ -1748,7 +1756,7 @@
     "term": "Honour Resistance"
   },
   "IceArchon": {
-    "definition": "Ice Archon is a type of [Archon] [Buff]. It grants:\r\n\u2022 25% more [Cold] Damage with [Spell|Spells]\r\n\u2022 [StatConversion|Convert] 100% of [ElementalDamage|Elemental] Damage with [Spell|Spells] to [Cold] Damage\r\n\u2022 Cannot deal [Cold|Non-Cold] Damage with [Spell|Spells]\r\n\u2022 [HitDamage|Hits] with [Spell|Spells] cause 100% more [Freeze] Buildup\r\n\r\nUsing a non-instant [Attack] causes Ice Archon to be removed immediately.",
+    "definition": "Ice Archon is a type of [Archon] [Buff]. It grants:\r\n\u2022 25% more [Cold] Damage with [Spell|Spells]\r\n\u2022 [StatConversion|Convert] 100% of [ElementalDamage|Elemental] Damage with [Spell|Spells] to [Cold] Damage\r\n\u2022 Cannot deal [Cold|Non-Cold] Damage with [Spell|Spells]\r\n\u2022 [Hit|Hits] with [Spell|Spells] cause 100% more [Freeze] Buildup\r\n\r\nUsing a non-instant [Attack] causes Ice Archon to be removed immediately.",
     "term": "Ice Archon"
   },
   "IceCrystalShatter": {
@@ -1780,7 +1788,7 @@
     "term": ""
   },
   "Ignite": {
-    "definition": "Ignite is an [Ailments|Ailment] that deals [Fire] damage over time, and lasts for 4 seconds by default.\r\n\r\nThe chance for a [HitDamage|Hit] to Ignite a target is determined by the total [BuffMagnitude|Magnitude] of [Flammability] on the target, including the amount added by that [HitDamage|Hit].\r\n\r\n[Fire] damage from [HitDamage|Hits] [Contributes] to the [BuffMagnitude|Magnitude] of Ignite, so [HitDamage|Hits] dealing more [Fire] damage inflict stronger Ignites.\r\nThe base [BuffMagnitude|Magnitude] of Ignite is [Fire] damage per second equal to 20% of the [Fire] damage dealt by the [HitDamage|Hit] that inflicted it. This is calculated using the final damage dealt by the [HitDamage|Hit], but not any modifiers on the target that affect how much damage they will take from the [HitDamage|Hit]. This [BuffMagnitude|Magnitude] is not further affected by any modifiers to the damage you deal.\r\n\r\nModifiers and [Debuff|Debuffs] that affect the enemy's ability to mitigate damage (such as [Shock]) can affect the damage the enemy takes from Ignite, but any such modifiers that specifically apply to [HitDamage|Hit] damage (such as [Penetration]) do not affect Ignite damage.",
+    "definition": "Ignite is an [Ailments|Ailment] that deals [Fire] damage over time, and lasts for 4 seconds by default.\r\n\r\nThe chance for a [Hit] to Ignite a target is determined by the total [BuffMagnitude|Magnitude] of [Flammability] on the target, including the amount added by that [Hit].\r\n\r\n[Fire] damage from [Hit|Hits] [Contributes] to the [BuffMagnitude|Magnitude] of Ignite, so [Hit|Hits] dealing more [Fire] damage inflict stronger Ignites.\r\nThe base [BuffMagnitude|Magnitude] of Ignite is [Fire] damage per second equal to 20% of the [Fire] damage dealt by the [Hit] that inflicted it. This is calculated using the final damage dealt by the [Hit], but not any modifiers on the target that affect how much damage they will take from the [Hit]. This [BuffMagnitude|Magnitude] is not further affected by any modifiers to the damage you deal.\r\n\r\nModifiers and [Debuff|Debuffs] that affect the enemy's ability to mitigate damage (such as [Shock]) can affect the damage the enemy takes from Ignite, but any such modifiers that specifically apply to [Hit] damage (such as [Penetration]) do not affect Ignite damage.",
     "term": "Ignite"
   },
   "IgnitedGround": {
@@ -1800,11 +1808,11 @@
     "term": "Immured Fury"
   },
   "Impale": {
-    "definition": "Impale is a [Debuff] inflicted by [HitDamage|Hits], which stores 30% of the [Premitigation|Pre-mitigation] [Physical] [HitDamage|Hit damage] of the Impaling hit as its [BuffMagnitude|Magnitude].\r\n\r\nSubsequent [Attack] [HitDamage|Hits] against Impaled targets will Extract the Impale debuff. When this occurs, the [BuffMagnitude|Magnitude] of the Impale is added to the [Premitigation|Pre-mitigation] [Physical] damage of that attack hit.\r\n\r\nA maximum of 60 Impale [Debuff|Debuffs] can be present on a target at once. If multiple Impales are present on a target, each [Attack|Attack's] [HitDamage|Hit] only Extracts and benefits from the strongest one of them.",
+    "definition": "Impale is a [Debuff] inflicted by [Hit|Hits], which stores 30% of the [Premitigation|Pre-mitigation] [Physical] [Hit|Hit damage] of the Impaling hit as its [BuffMagnitude|Magnitude].\r\n\r\nSubsequent [Attack] [Hit|Hits] against Impaled targets will Extract the Impale debuff. When this occurs, the [BuffMagnitude|Magnitude] of the Impale is added to the [Premitigation|Pre-mitigation] [Physical] damage of that attack hit.\r\n\r\nA maximum of 60 Impale [Debuff|Debuffs] can be present on a target at once. If multiple Impales are present on a target, each [Attack|Attack's] [Hit] only Extracts and benefits from the strongest one of them.",
     "term": "Impale"
   },
   "Incision": {
-    "definition": "Incision is a Debuff which causes the affected target to gain increasingly higher chance to be inflicted with [Bleeding] when [HitDamage|Hit]. All Incision stacks are removed when [Bleeding] is inflicted.\r\n\r\nEach stack of Incision applies 10% chance to be inflicted with [Bleeding] when [HitDamage|Hit]. A maximum of 10 Incision stacks can be present on a target at once.",
+    "definition": "Incision is a Debuff which causes the affected target to gain increasingly higher chance to be inflicted with [Bleeding] when [Hit]. All Incision stacks are removed when [Bleeding] is inflicted.\r\n\r\nEach stack of Incision applies 10% chance to be inflicted with [Bleeding] when [Hit]. A maximum of 10 Incision stacks can be present on a target at once.",
     "term": "Incision"
   },
   "IncursionAugment": {
@@ -1880,7 +1888,7 @@
     "term": "Temple Currency"
   },
   "InevitableCriticalHits": {
-    "definition": "[HitDamage|Hits] which could potentially be a [Critical|Critical Hit] but do not roll a [Critical|Critical Hit] will re-roll [Critical|Critical Hit] chance until they succeed.\r\n\r\nHits have 30% less [CriticalDamageBonus|Critical Damage Bonus] for each time [Critical|Critical Hit] chance was re-rolled.",
+    "definition": "[Hit|Hits] which could potentially be a [Critical|Critical Hit] but do not roll a [Critical|Critical Hit] will re-roll [Critical|Critical Hit] chance until they succeed.\r\n\r\nHits have 30% less [CriticalDamageBonus|Critical Damage Bonus] for each time [Critical|Critical Hit] chance was re-rolled.",
     "term": "Inevitable Critical Hits"
   },
   "Int": {
@@ -2060,7 +2068,7 @@
     "term": "Khatal's Rejuvenation"
   },
   "KillingBlow": {
-    "definition": "A Killing Blow is any [HitDamage|Hit Damage] which successfully reduces a target to zero Life, killing them. Damage over time cannot cause Killing Blows.",
+    "definition": "A Killing Blow is any [Hit|Hit Damage] which successfully reduces a target to zero Life, killing them. Damage over time cannot cause Killing Blows.",
     "term": "Killing Blow"
   },
   "KineticRing": {
@@ -2068,7 +2076,7 @@
     "term": ""
   },
   "Knockback": {
-    "definition": "Knockback pushes Enemies away when [HitDamage|Hit].",
+    "definition": "Knockback pushes Enemies away when [Hit].",
     "term": "Knockback"
   },
   "LamentAmulet": {
@@ -2080,7 +2088,7 @@
     "term": ""
   },
   "Leech": {
-    "definition": "Leech recovers an amount of [LifeLeech|Life], [ManaLeech|Mana], [EnergyShieldLeech|Energy Shield], or [RageLeech|Rage] over one second, usually as a result of [HitDamage|Hitting] an enemy and based on the damage of the [HitDamage|Hit].\r\n\r\nOnly one instance of Leech for each resource can provide recovery at a time.",
+    "definition": "Leech recovers an amount of [LifeLeech|Life], [ManaLeech|Mana], [EnergyShieldLeech|Energy Shield], or [RageLeech|Rage] over one second, usually as a result of [Hit|Hitting] an enemy and based on the damage of the [Hit].\r\n\r\nOnly one instance of Leech for each resource can provide recovery at a time.",
     "term": "Leech"
   },
   "LeechSameAmount": {
@@ -2148,7 +2156,7 @@
     "term": "Umbral Souls"
   },
   "LifeLeech": {
-    "definition": "When you deal damage with a [HitDamage|Hit], Life Leech causes you to recover an amount of Life to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [HitDamage|Hits] against them.\r\n\r\nYou can only recover from a single instance of Life Leech at a time, and all Life Leech is removed when Life is filled.",
+    "definition": "When you deal damage with a [Hit], Life Leech causes you to recover an amount of Life to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [Hit|Hits] against them.\r\n\r\nYou can only recover from a single instance of Life Leech at a time, and all Life Leech is removed when Life is filled.",
     "term": "Life Leech"
   },
   "LifeLoss": {
@@ -2168,7 +2176,7 @@
     "term": "Light Radius"
   },
   "LightStun": {
-    "definition": "Any [HitDamage|Hit] has a chance to [LightStun|Light Stun] the target, interrupting their current action and preventing them from taking actions for a fraction of a second. The chance is based on the damage dealt, up to 100% base chance for [HitDamage|Hits] that deal 100% of the target's maximum Life. Chances lower than 15% are treated as 0%.\r\n\r\n[Physical] damage, and player (but not monster) [Melee] Damage, each have 50% more [LightStun|Light Stun] chance. For players, these bonuses are multiplicative with each other.",
+    "definition": "Any [Hit] has a chance to [LightStun|Light Stun] the target, interrupting their current action and preventing them from taking actions for a fraction of a second. The chance is based on the damage dealt, up to 100% base chance for [Hit|Hits] that deal 100% of the target's maximum Life. Chances lower than 15% are treated as 0%.\r\n\r\n[Physical] damage, and player (but not monster) [Melee] Damage, each have 50% more [LightStun|Light Stun] chance. For players, these bonuses are multiplicative with each other.",
     "term": "Light Stun"
   },
   "Lightning": {
@@ -2180,7 +2188,7 @@
     "term": "Lightning Ailments"
   },
   "LightningArchon": {
-    "definition": "Lightning Archon is a type of [Archon] [Buff]. It grants:\r\n\u2022 25% more [Lightning] Damage with [Spell|Spells]\r\n\u2022 [StatConversion|Convert] 100% of [ElementalDamage|Elemental] Damage with [Spell|Spells] to [Lightning] Damage\r\n\u2022 Cannot deal [Lightning|Non-Lightning] Damage with [Spell|Spells]\r\n\u2022 [HitDamage|Hits] with [Spell|Spells] have 100% more [Shock] chance\r\n\r\nUsing a non-instant [Attack] causes Lightning Archon to be removed immediately.",
+    "definition": "Lightning Archon is a type of [Archon] [Buff]. It grants:\r\n\u2022 25% more [Lightning] Damage with [Spell|Spells]\r\n\u2022 [StatConversion|Convert] 100% of [ElementalDamage|Elemental] Damage with [Spell|Spells] to [Lightning] Damage\r\n\u2022 Cannot deal [Lightning|Non-Lightning] Damage with [Spell|Spells]\r\n\u2022 [Hit|Hits] with [Spell|Spells] have 100% more [Shock] chance\r\n\r\nUsing a non-instant [Attack] causes Lightning Archon to be removed immediately.",
     "term": "Lightning Archon"
   },
   "LightningRune": {
@@ -2260,7 +2268,7 @@
     "term": "Maim"
   },
   "ManaLeech": {
-    "definition": "When you deal damage with a [HitDamage|Hit], Mana Leech causes you to recover an amount of Mana to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [HitDamage|Hits] against them.\r\n\r\nYou can only recover from a single instance of Mana Leech at a time, and all Mana Leech is removed when Mana is filled.",
+    "definition": "When you deal damage with a [Hit], Mana Leech causes you to recover an amount of Mana to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [Hit|Hits] against them.\r\n\r\nYou can only recover from a single instance of Mana Leech at a time, and all Mana Leech is removed when Mana is filled.",
     "term": "Mana Leech"
   },
   "MapBoss": {
@@ -2348,7 +2356,7 @@
     "term": "Map Owner"
   },
   "Mark": {
-    "definition": "Marks are a family of [Debuff|Debuffs] that apply powerful effects to a single enemy, usually for a limited duration. You can have multiple Marked enemies at once, but each individual enemy can only have a single Mark applied to them at once.\r\n\r\nMarks can be [MarkActivate|Activated] when specific conditions occur, which will case some extra effect and then [Consume] the Mark.",
+    "definition": "Marks are a family of [Debuff|Debuffs] that apply powerful effects to a single enemy, usually for a limited duration. You can have multiple Marked enemies at once, but each individual enemy can only have a single Mark applied to them at once.\r\n\r\nMarks can be [MarkActivate|Activated] when specific conditions occur, which will cause some extra effect and then [Consume] the Mark.",
     "term": "Mark"
   },
   "MarkActivate": {
@@ -2388,11 +2396,11 @@
     "term": "Melee"
   },
   "MeleeSplash": {
-    "definition": "[Strike] Skills can be made to deal Splash damage when hitting an enemy, causing an additional [HitDamage|Hit] to other enemies around the one hit by the [Strike].\r\n\r\nThe base radius of Splash damage is 1.5 metres.",
+    "definition": "[Strike] Skills can be made to deal Splash damage when hitting an enemy, causing an additional [Hit] to other enemies around the one hit by the [Strike].\r\n\r\nThe base radius of Splash damage is 1.5 metres.",
     "term": "Splash Damage"
   },
   "Merging": {
-    "definition": "Merging [Crossbow] bolts have fragments that can hit the same target at the same time to combine their damage into a single [HitDamage|Hit].",
+    "definition": "Merging [Crossbow] bolts have fragments that can hit the same target at the same time to combine their damage into a single [Hit].",
     "term": "Merging"
   },
   "Meta": {
@@ -2556,11 +2564,11 @@
     "term": "Regenerates Life"
   },
   "MonsterLightningMirage1": {
-    "definition": "Monster creates a Mirage when [HitDamage|Hit] that moves towards enemies and explodes when it gets close enough, dealing [Lightning] Damage.",
+    "definition": "Monster creates a Mirage when [Hit] that moves towards enemies and explodes when it gets close enough, dealing [Lightning] Damage.",
     "term": "Lightning Mirage When Hit"
   },
   "MonsterLightningMirage2": {
-    "definition": "Monster creates Mirages when [HitDamage|Hit] that move towards enemies and explode when they get close enough, dealing [Lightning] Damage.",
+    "definition": "Monster creates Mirages when [Hit] that move towards enemies and explode when they get close enough, dealing [Lightning] Damage.",
     "term": "Lightning Mirages When Hit"
   },
   "MonsterLightningResistance1": {
@@ -2568,11 +2576,11 @@
     "term": "Lightning Resistant"
   },
   "MonsterLivingCrystals1": {
-    "definition": "Monster creates Volatile Crystals when [HitDamage|Hit], which explode upon the Monster's death, dealing [Chaos] damage.",
+    "definition": "Monster creates Volatile Crystals when [Hit], which explode upon the Monster's death, dealing [Chaos] damage.",
     "term": "Volatile Crystals"
   },
   "MonsterMagmaBarrier1": {
-    "definition": "Monster creates a 90% damage absorption barrier that explodes after taking a certain amount of damage, dealing [Fire] Damage",
+    "definition": "Monster creates a 90% damage absorption barrier that explodes after taking a certain amount of damage, dealing [Fire] Damage.",
     "term": "Magma Barrier"
   },
   "MonsterManaSiphonAura1": {
@@ -2600,7 +2608,7 @@
     "term": ""
   },
   "MonsterModReducedCritMulti1": {
-    "definition": "[HitDamage|Hits] against this Monster have 80% reduced [CriticalDamageBonus|Critical Damage Bonus].",
+    "definition": "[Hit|Hits] against this Monster have 80% reduced [CriticalDamageBonus|Critical Damage Bonus].",
     "term": "Crit Resistant"
   },
   "MonsterModifiers": {
@@ -2692,7 +2700,7 @@
     "term": "Moon Rune"
   },
   "MountainsTeachings": {
-    "definition": "While you have any amount of Mountain's Teachings:\r\n\u2022 [Attack|Attacks] you use yourself and [Attack|Attacks] granted by this Ascendancy Class deal 15% more damage\r\n\u2022 Enemy [HitDamage|Hits] you take that would deal damage less than or equal to 30% of your maximum Life (after mitigation such as [Armour] and [Resistances], but before other modifiers to damage taken) deal 40% less damage\r\n\u2022 You have 50% more [StunThreshold|Stun Threshold]\r\n\r\nAll Mountain's Teachings are lost if you go 20 seconds without gaining any.",
+    "definition": "While you have any amount of Mountain's Teachings:\r\n\u2022 [Attack|Attacks] you use yourself and [Attack|Attacks] granted by this Ascendancy Class deal 15% more damage\r\n\u2022 Enemy [Hit|Hits] you take that would deal damage less than or equal to 30% of your maximum Life (after mitigation such as [Armour] and [Resistances], but before other modifiers to damage taken) deal 40% less damage\r\n\u2022 You have 50% more [StunThreshold|Stun Threshold]\r\n\r\nAll Mountain's Teachings are lost if you go 20 seconds without gaining any.",
     "term": "Mountain's Teachings"
   },
   "MountingGreed": {
@@ -2904,7 +2912,7 @@
     "term": "Overflowing Chalice"
   },
   "Overkill": {
-    "definition": "Overkill damage is any damage from a [HitDamage|Hit] in excess of the enemy's remaining Life when it is killed.",
+    "definition": "Overkill damage is any damage from a [Hit] in excess of the enemy's remaining Life when it is killed.",
     "term": "Overkill"
   },
   "Overwhelm": {
@@ -2928,15 +2936,15 @@
     "term": "Parried"
   },
   "Parry": {
-    "definition": "Parry is a Skill granted by [Buckler|Bucklers] that allows you to [Block] and retaliate against an enemy [HitDamage|Hit], leaving them off balance and inflicting the [ParriedDebuff|Parried Debuff].",
+    "definition": "Parry is a Skill granted by [Buckler|Bucklers], [Targe|Targes] and dual wielded [Sword|Swords] that allows you to [Block] and retaliate against an enemy [Hit], leaving them off balance and inflicting the [ParriedDebuff|Parried Debuff].",
     "term": "Parry"
   },
   "Payoff": {
-    "definition": "Payoff Skills have powerful extra affects when [HitDamage|Hitting] enemies inflicted with specific [Debuff|Debuffs], often [Consume|Consuming] the [Debuff] in the process. Payoff Skills cannot inflict the [Debuff] they interact with.",
+    "definition": "Payoff Skills have powerful extra affects when [Hit|Hitting] enemies inflicted with specific [Debuff|Debuffs], often [Consume|Consuming] the [Debuff] in the process. Payoff Skills cannot inflict the [Debuff] they interact with.",
     "term": "Payoff Skills"
   },
   "Penetration": {
-    "definition": "Penetration causes the target's corresponding [Resistances|Resistance] to be treated as lower than its actual value by the specified amount when of calculating Damage taken from your [HitDamage|Hits]. [Resistances] can only be Penetrated down to a minimum of 0% by default.\r\n\r\nSince Penetration only affects [HitDamage|Hits] and applies to the target's defensive stats rather than your own offensive stats, it does not affect damage with [DamagingAilments|Ailments].",
+    "definition": "Penetration causes the target's corresponding [Resistances|Resistance] to be treated as lower than its actual value by the specified amount when of calculating Damage taken from your [Hit|Hits]. [Resistances] can only be Penetrated down to a minimum of 0% by default.\r\n\r\nSince Penetration only affects [Hit|Hits] and applies to the target's defensive stats rather than your own offensive stats, it does not affect damage with [DamagingAilments|Ailments].",
     "term": "Resistance Penetration"
   },
   "PerfectEssenceAlly": {
@@ -3076,7 +3084,7 @@
     "term": "Possessed"
   },
   "Poison": {
-    "definition": "Poison is an [Ailments|Ailment] that deals [Chaos] damage over time, and lasts 2 seconds by default. Damage from Poison bypasses [EnergyShield|Energy Shield].\r\n\r\n[Physical] and [Chaos] damage from [HitDamage|Hits] [Contributes|Contribute] to Poison [BuffMagnitude|Magnitude].\r\n\r\nDamage does not [Contributes|Contribute] to Poison chance, so it cannot be inflicted without an explicit source of Poison chance.\r\n\r\nThe base [BuffMagnitude|Magnitude] of Poison is [Chaos] damage per second equal to 20% of the [Premitigation|Pre-mitigation] [Physical] and [Chaos] damage of the [HitDamage|Hit] that inflicted it. This magnitude is not further affected by any modifiers to the damage you deal.\r\n\r\nModifiers and [Debuff|Debuffs] that affect the enemy's ability to mitigate damage (such as [Shock]) can affect the damage the enemy takes from Poison, but any such modifiers that specifically apply to [HitDamage|Hit] damage (such as [Penetration]) do not affect Poison damage.",
+    "definition": "Poison is an [Ailments|Ailment] that deals [Chaos] damage over time, and lasts 2 seconds by default. Damage from Poison bypasses [EnergyShield|Energy Shield].\r\n\r\n[Physical] and [Chaos] damage from [Hit|Hits] [Contributes|Contribute] to Poison [BuffMagnitude|Magnitude].\r\n\r\nDamage does not [Contributes|Contribute] to Poison chance, so it cannot be inflicted without an explicit source of Poison chance.\r\n\r\nThe base [BuffMagnitude|Magnitude] of Poison is [Chaos] damage per second equal to 20% of the [Premitigation|Pre-mitigation] [Physical] and [Chaos] damage of the [Hit] that inflicted it. This magnitude is not further affected by any modifiers to the damage you deal.\r\n\r\nModifiers and [Debuff|Debuffs] that affect the enemy's ability to mitigate damage (such as [Shock]) can affect the damage the enemy takes from Poison, but any such modifiers that specifically apply to [Hit] damage (such as [Penetration]) do not affect Poison damage.",
     "term": "Poison"
   },
   "PortentAmulet": {
@@ -3096,7 +3104,7 @@
     "term": "Powerful Map Boss"
   },
   "PrecursorTerraformer": {
-    "definition": "Activating a Precursor Terraformer will change a group of nearby [BasicMap|Basic Maps] to the shown Biome.\r\n\r\nThe Terraformer shows which biome it will change maps to. All maps in the Terraformed area will be replaced with maps that can appear in the shown biome.",
+    "definition": "Activating a Precursor Terraformer will change a group of nearby [BasicMap|Basic Maps] to the shown [Biome].\r\n\r\nThe Terraformer shows which biome it will change maps to. All maps in the Terraformed area will be replaced with maps that can appear in the shown biome.",
     "term": "Precursor Terraformer"
   },
   "PrecursorTower": {
@@ -3128,7 +3136,7 @@
     "term": "Primed for Stun"
   },
   "PrismaticRune": {
-    "definition": "<<ExpedRunePrismatic>><rgb(219,217,206)>{Prismatic Rune}\r\n<rgb(135,134,253)>{All Damage can Shock}\r\n<rgb(135,134,253)>{All Damage can Chill}\r\n<rgb(135,134,253)>{All Damage can Ignite}\r\n<rgb(135,134,253)>{Increased Elemental Resistances}\r\n",
+    "definition": "<<ExpedRunePrismatic>><rgb(219,217,206)>{Prismatic Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{All Damage can Shock}\r\n<rgb(135,134,253)>{All Damage can Chill}\r\n<rgb(135,134,253)>{All Damage can Ignite}\r\n<rgb(135,134,253)>{Increased Elemental Resistances}",
     "term": "Prismatic Rune"
   },
   "Projectile": {
@@ -3172,11 +3180,11 @@
     "term": "Quivers"
   },
   "Rage": {
-    "definition": "Rage grants 1% more [Attack|Attack] damage per 1 Rage. By default, you have 30 maximum Rage and lose 1 Rage every 0.2 seconds. Rage loss is paused for 4 seconds upon gaining Rage, or after taking damage.\r\n\r\nOnly one [HitDamage|Hit] every 0.5 seconds can cause you to gain Rage.",
+    "definition": "Rage grants 1% more [Attack|Attack] damage per 1 Rage. By default, you have 30 maximum Rage and lose 1 Rage every 0.2 seconds. Rage loss is paused for 4 seconds upon gaining Rage, or after taking damage.\r\n\r\nOnly one [Hit] every 0.5 seconds can cause you to gain Rage.",
     "term": "Rage"
   },
   "RageLeech": {
-    "definition": "When you deal damage with a [HitDamage|Hit], [Rage] Leech causes you to recover an amount of [Rage] to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [HitDamage|Hits] against them.\r\n\r\nYou can only recover from a single instance of [Rage] Leech at a time, and all [Rage] Leech is removed when [Rage] is filled.",
+    "definition": "When you deal damage with a [Hit], [Rage] Leech causes you to recover an amount of [Rage] to a percentage of the damage dealt, over a period of one second.\r\n\r\nHits that deal more than 40,000 total damage are treated as though they only dealt 40,000 damage for this calculation. If this damage is of multiple [DamageTypes|Damage Types], the ratios between them will stay the same.\r\n\r\nMonsters have Leech Resistance that increases with monster level, reducing how much you recover from Leech from [Hit|Hits] against them.\r\n\r\nYou can only recover from a single instance of [Rage] Leech at a time, and all [Rage] Leech is removed when [Rage] is filled.",
     "term": "Rage Leech"
   },
   "RageRune": {
@@ -3208,7 +3216,7 @@
     "term": "Recently"
   },
   "Recoup": {
-    "definition": "When you take damage from a [HitDamage|Hit], Recoup causes you to recover an amount of the stated resource equal to a percentage of the damage you took over 8 seconds.",
+    "definition": "When you take damage from a [Hit], Recoup causes you to recover an amount of the stated resource equal to a percentage of the damage you took over 8 seconds.",
     "term": "Recoup"
   },
   "RedFlamesOfChayula": {
@@ -3235,6 +3243,10 @@
     "definition": "",
     "term": ""
   },
+  "ReleaseAzmeriSpirits": {
+    "definition": "[AzmeriSpirit|Azmeri Spirits] can be released from various [SpiritPossessed|Possessed] monsters.\r\n\r\nReleased Spirits have a chance to manifest into the world with a portion of the empowerment the monster was possessed with. \r\n\r\nReleased Spirits have 1% chance to manifest per 2% empowerment. This empowerment is shared with each Spirit released, and the Released Spirit has half of this empowerment once released.",
+    "term": "Released Azmeri Spirits"
+  },
   "Relic": {
     "definition": "Relics are items that are placed in the Relic Altar before the start of the Trial of the Sekhemas.\r\nRelics influence various aspects of the Trial to make it easier. Your Relics persist between Trials.\r\nSelected Relics cannot be changed while you have an active Trial.\r\nRelics have varying dimensions, so arrange them carefully to maximise your benefits.\r\nYou can unlock more Relic slots by killing bosses deeper into the Trials.\r\nSpare Relics can be stored in the Relic Locker or any of your personal stash tabs.",
     "term": "Relics"
@@ -3260,7 +3272,7 @@
     "term": "Repeating Skills"
   },
   "RerollCrit": {
-    "definition": "Any mechanic where the calculation of a single [HitDamage|Hit] would roll [Critical|Critical Hit] Chance more than once is considered to be Rerolling. This includes anything that makes [Critical|Critical Hit] Chance [Lucky], [Unlucky], [ForksCrit|Bifurcated], or [InevitableCriticalHits|Inevitable].\r\n\r\n[Sustained] Skills using an independent [Critical|Critical Hit] Chance roll for each different time they deal damage is not Rerolling.",
+    "definition": "Any mechanic where the calculation of a single [Hit] would roll [Critical|Critical Hit] Chance more than once is considered to be Rerolling. This includes anything that makes [Critical|Critical Hit] Chance [Lucky], [Unlucky], [ForksCrit|Bifurcated], or [InevitableCriticalHits|Inevitable].\r\n\r\n[Sustained] Skills using an independent [Critical|Critical Hit] Chance roll for each different time they deal damage is not Rerolling.",
     "term": "Rerolling Critical Hit Chance"
   },
   "ResearchersStrongbox": {
@@ -3276,7 +3288,7 @@
     "term": "Resistances"
   },
   "ResistedBy": {
-    "definition": "Damage from your [HitDamage|Hits] will effectively ignore the value of the target's relevant [Resistances|Resistance], and instead be mitigated by the specified value of [Resistances|Resistance].\r\n\r\nThis will still occur even if you [IgnoreResistances|Ignore] the target's [Resistances|Resistance], as this mitigation is not based on their [Resistances|Resistance] stats. Similarly, [Penetration] will not apply to this [Resistances|Resistance] value.",
+    "definition": "Damage from your [Hit|Hits] will effectively ignore the value of the target's relevant [Resistances|Resistance], and instead be mitigated by the specified value of [Resistances|Resistance].\r\n\r\nThis will still occur even if you [IgnoreResistances|Ignore] the target's [Resistances|Resistance], as this mitigation is not based on their [Resistances|Resistance] stats. Similarly, [Penetration] will not apply to this [Resistances|Resistance] value.",
     "term": "Resisted by Other Value"
   },
   "ResoluteTechnique": {
@@ -3284,7 +3296,7 @@
     "term": "Resolute Technique"
   },
   "RetaliateAgainstAll": {
-    "definition": "This allows your [Thorns] to [ThornsRetaliation|Retaliate] against any kind of [HitDamage|Hit] dealt to you by enemies, rather than just [Melee] [Attack|Attacks], except that you can never [ThornsRetaliation|Retaliate] against the enemy's [Thorns] damage.",
+    "definition": "This allows your [Thorns] to [ThornsRetaliation|Retaliate] against any kind of [Hit] dealt to you by enemies, rather than just [Melee] [Attack|Attacks], except that you can never [ThornsRetaliation|Retaliate] against the enemy's [Thorns] damage.",
     "term": "Retaliate against all Hits"
   },
   "Return": {
@@ -3328,7 +3340,7 @@
     "term": "Rite of the Nameless"
   },
   "RivenArmour": {
-    "definition": "Riven Armour is a [Debuff] inflicted by [HitDamage|Hits], which stores 5% of the [Premitigation|Pre-mitigation] [Physical] [HitDamage|Hit damage] of the Hit that inflicts it as its [BuffMagnitude|Magnitude].\r\n\r\nThe inflicter's subsequent [Attack] [HitDamage|Hits] against the target will gain additional unscaleable added [Physical] [HitDamage|Damage] equal to that magnitude.\r\n\r\nEnemies with Riven Armour cannot get their [ArmourBreak|Armour Broken] further.",
+    "definition": "Riven Armour is a [Debuff] inflicted by [Hit|Hits], which stores 5% of the [Premitigation|Pre-mitigation] [Physical] [Hit|Hit damage] of the Hit that inflicts it as its [BuffMagnitude|Magnitude].\r\n\r\nThe inflicter's subsequent [Attack] [Hit|Hits] against the target will gain additional unscaleable added [Physical] [Hit|Damage] equal to that magnitude.\r\n\r\nEnemies with Riven Armour cannot get their [ArmourBreak|Armour Broken] further.",
     "term": "Riven Armour"
   },
   "RogueExile": {
@@ -3420,11 +3432,11 @@
     "term": "Shatter"
   },
   "Shield": {
-    "definition": "Shields are armour items that are equipped in your off hand. While holding a Shield you have a chance to passively [Block]. Most Shields can also be raised to [Block] all incoming [Strike|Strikes] and [Projectile|Projectiles] from the front.\r\n\r\n[Buckler|Bucklers] are a special type of Shield that do not grant any [Armour] and can Parry enemy skills instead of being raised to [Block].",
+    "definition": "Shields are defensive items that are equipped in your off hand, usually granting [Armour]. While holding a Shield you have a chance to passively [Block]. Shields also grant a Skill that lets you [Block] incoming [Hit|Hits] more actively, either raising your Shield to absorb the [Hit] or [Parry|Parrying] the [Hit] depending on the type of Shield.\r\n\r\n[Buckler|Bucklers] are a special type of Shield that do not grant any [Armour] and can Parry enemy skills instead of being raised to [Block].",
     "term": "Shields"
   },
   "Shock": {
-    "definition": "Shock is an [Ailments|Ailment] that causes targets to take 20% increased damage, and lasts 4 seconds on players or 8 seconds on non-players by default.\r\n\r\n[Lightning] damage from [HitDamage|Hits] [Contributes] to chance to Shock enemies. The higher the [Lightning] damage dealt, the higher the chance. By default a [HitDamage|Hit] has 1% chance to Shock for every 4% of the target's [AilmentThreshold|Ailment Threshold] dealt.",
+    "definition": "Shock is an [Ailments|Ailment] that causes targets to take 20% increased damage, and lasts 4 seconds on players or 8 seconds on non-players by default.\r\n\r\n[Lightning] damage from [Hit|Hits] [Contributes] to chance to Shock enemies. The higher the [Lightning] damage dealt, the higher the chance. By default a [Hit] has 1% chance to Shock for every 4% of the target's [AilmentThreshold|Ailment Threshold] dealt.",
     "term": "Shock"
   },
   "ShockedGround": {
@@ -3464,7 +3476,7 @@
     "term": "Slow"
   },
   "SlowMagnitudeModifier": {
-    "definition": "This is modifier applies to [Debuff|Debuffs] you inflict that [Slow|Slow] enemies, and scales only the specific [BuffMagnitude|Magnitude] that slows the target. It will not affect any other [BuffMagnitude|Magnitudes] that [Debuff] has if it does other things in addition to the [Slow].",
+    "definition": "This modifier applies to [Debuff|Debuffs] you inflict that [Slow|Slow] enemies, and scales only the specific [BuffMagnitude|Magnitude] that slows the target. It will not affect any other [BuffMagnitude|Magnitudes] that [Debuff] has if it does other things in addition to the [Slow].",
     "term": "Slow Magnitude Modifier"
   },
   "SmallPassive": {
@@ -3524,7 +3536,7 @@
     "term": "Spirit Of The Bear"
   },
   "SpiritOfTheBoarPossessedPlayer": {
-    "definition": "Players possessed by the Spirit Of The Boar [Gain] 20% of Damage as Extra [Fire] Damage, always inflict [Bleeding] on [HitDamage|Hit] and have 20% reduced damage taken.\r\nPlayers will also periodically summon spiritual Boars that explode, dealing [Fire] Damage.",
+    "definition": "Players possessed by the Spirit Of The Boar [Gain] 20% of Damage as Extra [Fire] Damage, always inflict [Bleeding] on [Hit] and have 20% reduced damage taken.\r\nPlayers will also periodically summon spiritual Boars that explode, dealing [Fire] Damage.",
     "term": "Spirit Of The Boar"
   },
   "SpiritOfTheCatPossessedPlayer": {
@@ -3540,11 +3552,11 @@
     "term": "Spirit Of The Ox"
   },
   "SpiritOfThePrimatePossessedPlayer": {
-    "definition": "Players possessed by the Spirit Of The Primate have [DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Chill] Magnitude, 60% Increased [Freeze] Buildup and 80% increased Damage.\r\nPlayers will also periodically summon a group of spiritual Primates.",
+    "definition": "Players possessed by the Spirit Of The Primate have [DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Chill] Magnitude, 60% Increased [Freeze] Buildup and 80% increased Damage.\r\nPlayers will also periodically summon a group of spiritual Primates.",
     "term": "Spirit Of The Primate"
   },
   "SpiritOfTheSerpentPossessedPlayer": {
-    "definition": "Players possessed by the Spirit Of The Serpent have [DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Poison] Magnitude, Always [Poison] on [HitDamage|Hit] and 80% increased Damage.\r\nPlayers will also be accompanied by Spiritual Snakes that periodically strike enemies.",
+    "definition": "Players possessed by the Spirit Of The Serpent have [DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Poison] Magnitude, Always [Poison] on [Hit] and 80% increased Damage.\r\nPlayers will also be accompanied by Spiritual Snakes that periodically strike enemies.",
     "term": "Spirit Of The Serpent"
   },
   "SpiritOfTheStagPossessedPlayer": {
@@ -3552,7 +3564,7 @@
     "term": "Spirit Of The Stag"
   },
   "SpiritOfTheWolfPossessedPlayer": {
-    "definition": "Players possessed by the Spirit Of The Wolf have 50% chance to [Maim|Maim] on [Attack] [HitDamage|Hit], 30% increased [SkillSpeed|Skill Speed], 15% increased Movement Speed and [ArmourBreak|Break Armour] equal to 10% of [HitDamage|Hit Damage] dealt.\r\nPlayers will also periodically summon a spiritual Wolf which uses a dash attack.",
+    "definition": "Players possessed by the Spirit Of The Wolf have 10% increased [SkillSpeed|Skill Speed], 5% increased Movement Speed and [ArmourBreak|Break Armour] equal to 10% of [Hit|Hit Damage] dealt.\r\nPlayers will also periodically summon a spiritual Wolf which uses a [Maim|Maiming] dash attack.",
     "term": "Spirit Of The Wolf"
   },
   "SpiritPossessed": {
@@ -3596,7 +3608,7 @@
     "term": "Stone Citadel"
   },
   "StoneRune": {
-    "definition": "<<ExpedRuneStone>><rgb(219,217,206)>{Stone Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{Armoured}\r\n<rgb(135,134,253)>{Increased Stun Threshold}\r\n<rgb(135,134,253)>{Earthly Prison}",
+    "definition": "<<ExpedRuneStone>><rgb(219,217,206)>{Stone Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{[Armour|Armoured]}\r\n<rgb(135,134,253)>{Increased Stun Threshold}\r\n<rgb(135,134,253)>{Earthly Prison}",
     "term": "Stone Rune"
   },
   "StoneSummoningCircle": {
@@ -3636,7 +3648,7 @@
     "term": "Strike"
   },
   "Strongbox": {
-    "definition": "Strongboxes are locked chests that contain various items.\r\nAttempting to unlock a Strongbox will unleash [Pack|Packs] of monsters that must be defeated in order to get the items within.\r\nStrongboxes can be modified to increase the difficulty and reward of the monsters and rewards within respectively.",
+    "definition": "Strongboxes are locked chests that contain various items.\r\n\r\nAttempting to unlock a Strongbox will unleash [Pack|Packs] of monsters that must be defeated in order to get the items within.\r\n\r\nStrongboxes can be modified to increase the difficulty and reward of the monsters and rewards within respectively.\r\n\r\nMost Strongboxes can be opened a single time. Some sources may allow you to open Strongboxes an additional time, these only apply to Strongboxes which return to an openable state after first opening, and do not apply if the Strongbox already allows multiple openings.",
     "term": "Strongbox"
   },
   "StrongboxKey": {
@@ -3644,7 +3656,7 @@
     "term": ""
   },
   "Stun": {
-    "definition": "[HitDamage|Hits] against any target can potentially cause a Stun on that target, depending on the damage dealt. Stunning a target interrupts their current action and prevents them from taking actions for a short time. There are two types of Stun:\r\n\r\n[LightStun|Light Stuns] last a fraction of a second but can be inflicted frequently. Any [HitDamage|Hit] has a chance to cause a [LightStun|Light Stun]. The chance is based on the damage dealt, up to 100% base chance for [HitDamage|Hits] that deal 100% of the target's maximum Life. Chances lower than 15% are treated as 0%.\r\n\r\n[HeavyStun|Heavy Stuns] occur when a target's Stun bar is filled and last multiple seconds. [HitDamage|Hits] cause Heavy Stun buildup based on the damage dealt. Players and their [Minion|Minions] usually cannot be [HeavyStun|Heavily Stunned], but players can receive [HeavyStun|Heavy Stun] buildup where specifically mentioned while taking specific actions (such as raising their [Shield], Parrying with a [Buckler], or riding a mount).\r\n\r\nPlayer [Physical] damage and [Melee] Damage each have 50% more [LightStun|Light Stun] chance and [HeavyStun|Heavy Stun] buildup. These bonuses are multiplicative with each other.\r\nMonster [Physical] damage and [Melee] Damage have 100% more and 33% more [LightStun|Light Stun] chance and [HeavyStun|Heavy Stun] buildup respectively. These bonuses are multiplicative with each other.",
+    "definition": "[Hit|Hits] against any target can potentially cause a Stun on that target, depending on the damage dealt. Stunning a target interrupts their current action and prevents them from taking actions for a short time. There are two types of Stun:\r\n\r\n[LightStun|Light Stuns] last a fraction of a second but can be inflicted frequently. Any [Hit] has a chance to cause a [LightStun|Light Stun]. The chance is based on the damage dealt, up to 100% base chance for [Hit|Hits] that deal 100% of the target's maximum Life. Chances lower than 15% are treated as 0%.\r\n\r\n[HeavyStun|Heavy Stuns] occur when a target's Stun bar is filled and last multiple seconds. [Hit|Hits] cause Heavy Stun buildup based on the damage dealt. Players and their [Minion|Minions] usually cannot be [HeavyStun|Heavily Stunned], but players can receive [HeavyStun|Heavy Stun] buildup where specifically mentioned while taking specific actions (such as raising their [Shield], Parrying with a [Buckler], or riding a mount).\r\n\r\nPlayer [Physical] damage and [Melee] Damage each have 50% more [LightStun|Light Stun] chance and [HeavyStun|Heavy Stun] buildup. These bonuses are multiplicative with each other.\r\nMonster [Physical] damage and [Melee] Damage have 100% more and 33% more [LightStun|Light Stun] chance and [HeavyStun|Heavy Stun] buildup respectively. These bonuses are multiplicative with each other.",
     "term": "Stun"
   },
   "StunRecovery": {
@@ -3652,11 +3664,11 @@
     "term": "Stun Recovery"
   },
   "StunThreshold": {
-    "definition": "Your base Stun Threshold is equal to your maximum Life. A [HitDamage|Hit] that deals damage equal to or greater than your Stun Threshold is guaranteed to [Stun] you, and the chance scales down linearly for lower damage [HitDamage|Hits]. A [Stun] chance of less than 10% is treated as 0%.",
+    "definition": "Your base Stun Threshold is equal to your maximum Life. A [Hit] that deals damage equal to or greater than your Stun Threshold is guaranteed to [Stun] you, and the chance scales down linearly for lower damage [Hit|Hits]. A [Stun] chance of less than 10% is treated as 0%.",
     "term": "Player Stun Threshold"
   },
   "SunderedArmour": {
-    "definition": "Sundered Armour is a [Debuff] that can be applied to enemies with [ArmourBreak|Fully Broken Armour] that increases the [Physical] damage they take from [HitDamage|Hits] by an additional 20%. This effect stacks with the target's normal [ArmourBreak|Fully Broken Armour].\r\n\r\nUnless otherwise specified, modifiers to [ArmourBreak|Fully Broken Armour] also apply to Sundered Armour. Enemies with Sundered Armour cannot get their [ArmourBreak|Armour Broken] further.",
+    "definition": "Sundered Armour is a [Debuff] that can be applied to enemies with [ArmourBreak|Fully Broken Armour] that increases the [Physical] damage they take from [Hit|Hits] by an additional 20%. This effect stacks with the target's normal [ArmourBreak|Fully Broken Armour].\r\n\r\nUnless otherwise specified, modifiers to [ArmourBreak|Fully Broken Armour] also apply to Sundered Armour. Enemies with Sundered Armour cannot get their [ArmourBreak|Armour Broken] further.",
     "term": "Sundered Armour"
   },
   "SupportGem": {
@@ -3688,7 +3700,7 @@
     "term": "Surrounded"
   },
   "Sustained": {
-    "definition": "Sustained skills cause a large number of [HitDamage|Hits] over a period of time. They roll for [Critical|Critical Hits] independently each time they damage enemies, rather than rolling once for the entire skill as other skills do.",
+    "definition": "Sustained skills cause a large number of [Hit|Hits] over a period of time. They roll for [Critical|Critical Hits] independently each time they damage enemies, rather than rolling once for the entire skill as other skills do.",
     "term": "Sustained Skills"
   },
   "Sword": {
@@ -3704,11 +3716,11 @@
     "term": "Embankment Auras"
   },
   "Tailwind": {
-    "definition": "Tailwind is a stacking [Buff] which grants 1% increased movement speed, 2% increased [SkillSpeed|Skill Speed], 10% increased [Evasion] Rating and prevent 1% of Damage from [Deflect|Deflected] [HitDamage|Hits] per stack. Maximum 10 stacks.",
+    "definition": "Tailwind is a stacking [Buff] which grants 1% increased movement speed, 2% increased [SkillSpeed|Skill Speed], 10% increased [Evasion] Rating and prevent 1% of Damage from [Deflect|Deflected] [Hit|Hits] per stack. Maximum 10 stacks.\r\n\r\nLose all Tailwind stacks when [Hit].",
     "term": "Tailwind"
   },
   "TakeManaCostAsDamage": {
-    "definition": "[UpfrontCost|Upfront Costs] will result in taking the damage all at once as a [HitDamage|Hit].\r\n\r\nA per-second costs will instead result in taking Damage per second, which is damage over time, and thus not a [HitDamage|Hit].",
+    "definition": "[UpfrontCost|Upfront Costs] will result in taking the damage all at once as a [Hit].\r\n\r\nA per-second costs will instead result in taking Damage per second, which is damage over time, and thus not a [Hit].",
     "term": "Take Mana Costs as Damage"
   },
   "Talisman": {
@@ -3716,11 +3728,11 @@
     "term": "Talismans"
   },
   "Taunt": {
-    "definition": "Enemies you Taunt can only target you, and deal 10% less damage with [HitDamage|hits] to anyone else. If not otherwise specified, Taunt lasts for 3 seconds.",
+    "definition": "Enemies you Taunt can only target you, and deal 10% less damage with [Hit|hits] to anyone else. If not otherwise specified, Taunt lasts for 3 seconds.",
     "term": "Taunt"
   },
   "TempestRune": {
-    "definition": "<<ExpedRuneTempest>><rgb(219,217,206)>{Tempest Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{Cannot be Shocked or Chilled}\r\n<rgb(135,134,253)>{All Damage can Shock and Chill}",
+    "definition": "<<ExpedRuneTempest>><rgb(219,217,206)>{Tempest Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{Cannot be Shocked or Chilled}\r\n<rgb(135,134,253)>{[DamageTypes|All Damage] [Contributes|contributes] to chance to [Shock] and [Chill] Magnitude}",
     "term": "Tempest Rune"
   },
   "TemporalChains": {
@@ -3744,11 +3756,11 @@
     "term": "The Burning Monolith"
   },
   "Thorns": {
-    "definition": "Thorns damage is a kind of [HitDamage|Hit] Damage you can deal. Thorns damage is not [Attack] damage or [Spell] damage and is not affected by modifiers specific to those.\r\n\r\nIf you have Thorns damage, you inherently [ThornsRetaliation|Retaliate] against [Melee] [Attack] [HitDamage|Hits], dealing your Thorns damage to the enemy that [HitDamage|Hit] you.\r\n\r\nSome skills and other effects may also deal your thorns damage to enemies at other times.",
+    "definition": "Thorns damage is a kind of [Hit] Damage you can deal. Thorns damage is not [Attack] damage or [Spell] damage and is not affected by modifiers specific to those.\r\n\r\nIf you have Thorns damage, you inherently [ThornsRetaliation|Retaliate] against [Melee] [Attack] [Hit|Hits], dealing your Thorns damage to the enemy that [Hit] you.\r\n\r\nSome skills and other effects may also deal your thorns damage to enemies at other times.",
     "term": "Thorns"
   },
   "ThornsRetaliation": {
-    "definition": "Retaliating specifically refers only to the inherent ability to deal [Thorns] damage to enemies when they [HitDamage|Hit] you.\r\n\r\nSome effects may cause you to deal [Thorns] damage in other ways, but those are not Retaliation, and effects which specifically care about when you Retaliate will ignore them.",
+    "definition": "Retaliating specifically refers only to the inherent ability to deal [Thorns] damage to enemies when they [Hit] you.\r\n\r\nSome effects may cause you to deal [Thorns] damage in other ways, but those are not Retaliation, and effects which specifically care about when you Retaliate will ignore them.",
     "term": "Retaliate with Thorns"
   },
   "ThornyGround": {
@@ -3784,7 +3796,7 @@
     "term": "Toughness"
   },
   "ToxicRune": {
-    "definition": "<<ExpedRuneToxic>><rgb(219,217,206)>{Toxic Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{Chance to Poison on Hit}\r\n<rgb(135,134,253)>{Chance for Toxic Volatiles on death}\r\n<rgb(135,134,253)>{All Damage from Hits can Poison}",
+    "definition": "<<ExpedRuneToxic>><rgb(219,217,206)>{Toxic Rune}\r\n<font:'fontin'>{<italic>{<rgb(110,87,66)>{Monsters gain:}}}\r\n<rgb(135,134,253)>{Chance to Poison on Hit}\r\n<rgb(135,134,253)>{Chance for Toxic Volatiles on death}\r\n<rgb(135,134,253)>{[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Poison] Magnitude}",
     "term": "Toxic Rune"
   },
   "Trap": {
@@ -3819,6 +3831,10 @@
     "definition": "",
     "term": ""
   },
+  "UltimatumRuin": {
+    "definition": "Ruin is gained if you are hit by a Stalking Shade inside the Trial of Chaos.\r\n\r\nFail the Trials on reaching 7 Ruin",
+    "term": "Ruin"
+  },
   "Unaffected": {
     "definition": "[Debuff|Debuffs] you are Unaffected by can still be placed on you, but will not actually apply their effect.",
     "term": "Unaffected"
@@ -3828,11 +3844,11 @@
     "term": "Unarmed"
   },
   "UnarmedAttack": {
-    "definition": "Unarmed [Attack|Attacks] are [Attack|Attacks] which are performed while [Unarmed] and use your character's base [UnarmedDamage|Unarmed Damage] where other [Attack|Attacks] would use the base [HitDamage|Damage] from a [MartialWeapon|Martial Weapon].\r\n\r\n[Attack|Attacks] which can be performed while [Unarmed] but draw their base damage from other sources, such as skills which use a [Shield] to attack, are not considered Unarmed Attacks.",
+    "definition": "Unarmed [Attack|Attacks] are [Attack|Attacks] which are performed while [Unarmed] and use your character's base [UnarmedDamage|Unarmed Damage] where other [Attack|Attacks] would use the base [Hit|Damage] from a [MartialWeapon|Martial Weapon].\r\n\r\n[Attack|Attacks] which can be performed while [Unarmed] but draw their base damage from other sources, such as skills which use a [Shield] to attack, are not considered Unarmed Attacks.",
     "term": "Unarmed Attacks"
   },
   "UnarmedDamage": {
-    "definition": "Unarmed Damage refers to the [HitDamage|Hit Damage] of [UnarmedAttack|Unarmed Attacks]. As such, Unarmed Damage is always [Attack] [HitDamage].\r\n\r\nPlayers' base Unarmed Damage is [Physical], and has a minimum roll of 2, and a maximum roll between 5 - 8, depending on how aligned their class is with [Strength].\r\n\r\nOther Damage is not considered Unarmed Damage, even if you are [Unarmed] while dealing it.",
+    "definition": "Unarmed Damage refers to the [Hit|Hit Damage] of [UnarmedAttack|Unarmed Attacks]. As such, Unarmed Damage is always [Attack] [Hit|Hit Damage].\r\n\r\nPlayers' base Unarmed Damage is [Physical], and has a minimum roll of 2, and a maximum roll between 5 - 8, depending on how aligned their class is with [Strength].\r\n\r\nOther Damage is not considered Unarmed Damage, even if you are [Unarmed] while dealing it.",
     "term": "Unarmed Damage"
   },
   "UnboundFury": {
@@ -3868,7 +3884,7 @@
     "term": "Crescendo Arrows"
   },
   "UniqueArrowModifierCrit": {
-    "definition": "All [HitDamage|Hits] with Diamond Arrows are [Critical|Critical Hits] with 60% increased [CriticalDamageBonus|Critical Damage Bonus].",
+    "definition": "All [Hit|Hits] with Diamond Arrows are [Critical|Critical Hits] with 60% increased [CriticalDamageBonus|Critical Damage Bonus].",
     "term": "Diamond Arrows"
   },
   "UniqueArrowModifierPierceReturn": {

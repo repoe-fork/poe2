@@ -1072,6 +1072,15 @@
       "tile_parent": null
     },
     {
+      "file": "Metadata/Terrain/Jungle/ChaosTemple/Arenas/arena_chimaera_03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "chimaera",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/AscendancyTrial/BossArenas/arena_chimaera_03.tgt",
+      "tile_parent": null
+    },
+    {
       "file": "Metadata/Terrain/Jungle/ChaosTemple/Arenas/arena_frog_01.tdt",
       "prefix": null,
       "suffix": null,
@@ -1416,6 +1425,24 @@
       "tile_tag": null,
       "room_tag": null,
       "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/AscendancyTrial/cliffledge_st_02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/ChaosTemple/Ledge/cliffledge_cc_treasure_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Treasure",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/AscendancyTrial/cliffledge_cc_treasure_01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Jungle/ChaosTemple/Ledge/cliffledge_st_treasure_01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Treasure",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Jungle/Tiles/AscendancyTrial/cliffledge_st_treasure_01.tgt",
       "tile_parent": null
     },
     {

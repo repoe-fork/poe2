@@ -17,7 +17,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Can [Block] [HitDamage|Damage] from enemies within {0} metre",
+        "string": "Can [Block] [Hit|Damage] from enemies within {0} metre",
         "reminder_text": null,
         "is_markup": null
       },
@@ -37,7 +37,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Can [Block] [HitDamage|Damage] from enemies within {0} metres",
+        "string": "Can [Block] [Hit|Damage] from enemies within {0} metres",
         "reminder_text": null,
         "is_markup": null
       }
@@ -75,7 +75,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Can [Block] [Projectile] [HitDamage|Damage] from enemies within {0} metre",
+        "string": "Can [Block] [Projectile] [Hit|Damage] from enemies within {0} metre",
         "reminder_text": null,
         "is_markup": null
       },
@@ -95,7 +95,7 @@
             "divide_by_ten_1dp_if_required"
           ]
         ],
-        "string": "Can [Block] [Projectile] [HitDamage|Damage] from enemies within {0} metres",
+        "string": "Can [Block] [Projectile] [Hit|Damage] from enemies within {0} metres",
         "reminder_text": null,
         "is_markup": null
       }

@@ -189,7 +189,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Debuff|Debuffed] targets [LifeLoss|lose life] equal to {0}% of [HitDamage|Hit Damage] dealt to them while [Debuff|Debuffed] when [Debuff] expires\n [CullingStrike|Culls] enemies if [Debuff] reaches [CullingStrike|Culling Strike] Threshold",
+        "string": "[Debuff|Debuffed] targets [LifeLoss|lose life] equal to {0}% of [Hit|Hit Damage] dealt to them while [Debuff|Debuffed] when [Debuff] expires\n [CullingStrike|Culls] enemies if [Debuff] reaches [CullingStrike|Culling Strike] Threshold",
         "reminder_text": null,
         "is_markup": null
       }

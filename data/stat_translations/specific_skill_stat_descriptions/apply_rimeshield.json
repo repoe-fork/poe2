@@ -171,7 +171,7 @@
             "negate"
           ]
         ],
-        "string": "Ice Armour grants {0}% reduced damage taken from [HitDamage|Hits]",
+        "string": "Ice Armour grants {0}% reduced damage taken from [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -189,7 +189,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Ice Armour grants {0}% increased damage taken from [HitDamage|Hits]",
+        "string": "Ice Armour grants {0}% increased damage taken from [Hit|Hits]",
         "reminder_text": null,
         "is_markup": null
       }

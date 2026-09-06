@@ -329,7 +329,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Deals {0}% of your [Dexterity] as [Physical] Damage on [HitDamage|Hit]",
+        "string": "Deals {0}% of your [Dexterity] as [Physical] Damage on [Hit]",
         "reminder_text": null,
         "is_markup": null
       }

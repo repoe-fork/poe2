@@ -209,7 +209,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Enemies [HitDamage|Hit] receive [Electrocute|Electrocution] buildup from\n[Lightning] damage for {0} second duration",
+        "string": "Enemies [Hit] receive [Electrocute|Electrocution] buildup from\n[Lightning] damage for {0} second duration",
         "reminder_text": null,
         "is_markup": null
       }

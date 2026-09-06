@@ -101322,7 +101322,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "In the final days of our people's history here, the Prime Remembrancer fled with the remaining survivors in a desperate bid to escape the coming doom. This is his logbook, Exile! Apparently, the Order of the Chalice found something... some unknown artifact... all he knew was that even the oldest men recognised its power and built a shrine around it.\r\n\r\nIt was to that shrine that Uhtred fled to escape Vorana's wrath. The survivors expected to meet him there, but the writing stops just short of the destination. Shall we retrace their steps?",
+    "text": "In the final days of our people's history here, the Prime Remembrancer fled with the remaining survivors in a desperate bid to escape the coming doom. This is his logbook, Exile! Apparently, the Order of the Chalice found something... some unknown artefact... all he knew was that even the oldest men recognised its power and built a shrine around it.\r\n\r\nIt was to that shrine that Uhtred fled to escape Vorana's wrath. The survivors expected to meet him there, but the writing stops just short of the destination. Shall we retrace their steps?",
     "audio": [
       "Audio/Dialogue/NPC/Dannig/Dannig_60.ogg"
     ],
@@ -161432,7 +161432,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "The Vaal used this device to operate the mechanisms in the canal, but we would need a special artifact to power it. From the translations I've made, I believe they were called 'Soul Cores'. <continue>I've never even seen an in-tact Soul Core large enough for something like this though... I suppose if you want to try and find one you could ask our guide, Servi.",
+    "text": "The Vaal used this device to operate the mechanisms in the canal, but we would need a special artefact to power it. From the translations I've made, I believe they were called 'Soul Cores'. <continue>I've never even seen an in-tact Soul Core large enough for something like this though... I suppose if you want to try and find one you could ask our guide, Servi.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Part1/Act3/Alva/Alva_03_01.ogg",
       "Audio/Dialogue/4.0/NPC/Part1/Act3/Alva/Alva_03_02.ogg"
@@ -165138,7 +165138,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "<i>{A lifeless body sits brutalized and impaled.}",
+    "text": "<i>{A lifeless body sits brutalised and impaled.}",
     "audio": [],
     "mono": null,
     "stereo": null,
@@ -170045,7 +170045,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Bring her to Doryani!\r\n\r\nAs for you, I will pay back every drop of Vaal Blood you have spilled.",
+    "text": "Bring her to Doryani!\r\n\r\nAs for you, I will pay back every drop of Vaal blood you have spilled.",
     "audio": [
       "Audio/Dialogue/Null.ogg"
     ],
@@ -172061,7 +172061,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Kingsmarch is actually our second attempt at colonising Wraeclast. Our first expedition, thousands of years back, was mysteriously lost. My colleagues and I came here two decades ago in search of that ancient historical truth, and in search of the artifact of power they brought with them to Wraeclast. It has become my life's work: the search for the Triskelion Flame!",
+    "text": "Kingsmarch is actually our second attempt at colonising Wraeclast. Our first expedition, thousands of years back, was mysteriously lost. My colleagues and I came here two decades ago in search of that ancient historical truth, and in search of the artefact of power they brought with them to Wraeclast. It has become my life's work: the search for the Triskelion Flame!",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Part1/Act4/Dannig/Dannig_04.ogg"
     ],
@@ -184733,7 +184733,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "The Faridun have never organized in such numbers before. They fight as if they no longer fear death!",
+    "text": "The Faridun have never organised in such numbers before. They fight as if they no longer fear death!",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Part1/Act2/Asala_Wild/AsalaA2_Wild_04.ogg"
     ],
@@ -264672,7 +264672,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "The most powerful artifact in our known tales was brought to this continent by the first expedition thousands of years ago. <continue>The songs tell of it incinerating evil, purifying tainted fields, and warding off those of ill intent. We could certainly use a relic like that now, in these troubled times... but to find it, we'll have to retrace the steps of those long ago souls. <continue>Only they can tell us the Triskelion Flame's unknown fate. That is why we're here. That is what we seek.",
+    "text": "The most powerful artefact in our known tales was brought to this continent by the first expedition thousands of years ago. <continue>The songs tell of it incinerating evil, purifying tainted fields, and warding off those of ill intent. We could certainly use a relic like that now, in these troubled times... but to find it, we'll have to retrace the steps of those long ago souls. <continue>Only they can tell us the Triskelion Flame's unknown fate. That is why we're here. That is what we seek.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Dannig/DannigEndgame_07_01.ogg",
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Dannig/DannigEndgame_07_02.ogg",
@@ -398853,7 +398853,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Freshly inked! Mysterious artifact found!",
+    "text": "Freshly inked! Mysterious artefact found!",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Part1/Act4/PaperBoy/Kingsmarch_PaperBoy_FirstWeaponPieceFound_01.ogg"
     ],
@@ -408527,8 +408527,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408545,8 +408545,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408563,8 +408563,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408581,8 +408581,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408599,8 +408599,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408617,8 +408617,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408635,8 +408635,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408653,8 +408653,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408671,8 +408671,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408689,8 +408689,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408707,8 +408707,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408725,8 +408725,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408743,8 +408743,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408761,8 +408761,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -408779,8 +408779,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -411037,8 +411037,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -411055,8 +411055,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -411073,8 +411073,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -411091,8 +411091,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -411109,8 +411109,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -411127,8 +411127,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -411145,8 +411145,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/LeagueIncursionNew/Garrison/VaalOverseerLiving",
-        "name": "Temoc. Drill Overseer",
-        "short_name": "Temoc. Drill Overseer"
+        "name": "Temoc, Drill Overseer",
+        "short_name": "Temoc, Drill Overseer"
       }
     ],
     "characters": null,
@@ -418496,8 +418496,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418514,8 +418514,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418532,8 +418532,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418550,8 +418550,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418568,8 +418568,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418586,8 +418586,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418604,8 +418604,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418622,8 +418622,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418640,8 +418640,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418658,8 +418658,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418676,8 +418676,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418694,8 +418694,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418712,8 +418712,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418730,8 +418730,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418748,8 +418748,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418766,8 +418766,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418784,8 +418784,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418802,8 +418802,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418820,8 +418820,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418838,8 +418838,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418856,8 +418856,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418874,8 +418874,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418892,8 +418892,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418910,8 +418910,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418928,8 +418928,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418946,8 +418946,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418964,8 +418964,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -418982,8 +418982,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419000,8 +419000,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419018,8 +419018,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419036,8 +419036,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419054,8 +419054,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419072,8 +419072,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419090,8 +419090,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419108,8 +419108,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419126,8 +419126,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -419144,8 +419144,8 @@
     "npcs": [
       {
         "id": "Metadata/Monsters/MarakethSandDjinn/MarakethSandDjinn",
-        "name": "Kelari the Tainted Sands",
-        "short_name": "Kelari the Tainted Sands"
+        "name": "Kelari, the Tainted Sands",
+        "short_name": "Kelari, the Tainted Sands"
       }
     ],
     "characters": null,
@@ -458905,7 +458905,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Oh, nice!",
+    "text": "Nice one!",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_03_01.ogg"
     ],
@@ -458933,7 +458933,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Oh, nice!",
+    "text": "Nice one!",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_03_02.ogg"
     ],
@@ -458961,7 +458961,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Oh, nice!",
+    "text": "Nice one!",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_03_03.ogg"
     ],
@@ -459073,7 +459073,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Well, what do you think?",
+    "text": "Well, what do you reckon?",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_05_01.ogg"
     ],
@@ -459101,7 +459101,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Well, what do you think?",
+    "text": "Well, what do you reckon?",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_05_02.ogg"
     ],
@@ -459129,7 +459129,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Well, what do you think?",
+    "text": "Well, what do you reckon?",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_05_03.ogg"
     ],
@@ -459157,7 +459157,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Looking good if you ask me!",
+    "text": "Not bad if you ask me.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_06_01.ogg"
     ],
@@ -459185,7 +459185,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Looking good if you ask me!",
+    "text": "Not bad if you ask me.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_06_02.ogg"
     ],
@@ -459213,7 +459213,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "Looking good if you ask me!",
+    "text": "Not bad if you ask me.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_06_03.ogg"
     ],
@@ -459241,7 +459241,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "I'm quite proud of that!",
+    "text": "There we go.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_07_01.ogg"
     ],
@@ -459269,7 +459269,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "I'm quite proud of that!",
+    "text": "There we go.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_07_02.ogg"
     ],
@@ -459297,7 +459297,7 @@
     ],
     "characters": null,
     "events": null,
-    "text": "I'm quite proud of that!",
+    "text": "There we go.",
     "audio": [
       "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Wild_CraftCallout_07_03.ogg"
     ],
@@ -459456,6 +459456,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -459535,6 +459540,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -459566,6 +459576,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -459624,6 +459639,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -459678,6 +459698,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -459736,6 +459761,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -459790,6 +459820,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -459848,6 +459883,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -459902,6 +459942,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -459981,6 +460026,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -483343,6 +483393,11 @@
         "id": "Metadata/NPC/Hideout/Farrow",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -483370,6 +483425,11 @@
       },
       {
         "id": "Metadata/NPC/Hideout/Farrow",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -483403,6 +483463,11 @@
         "id": "Metadata/NPC/Hideout/Farrow",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -483432,6 +483497,11 @@
       },
       {
         "id": "Metadata/NPC/Hideout/Farrow",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -485856,6 +485926,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -485877,6 +485952,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -485902,6 +485982,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -485923,6 +486008,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -485948,6 +486038,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -485969,6 +486064,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -485994,6 +486094,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486015,6 +486120,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486040,6 +486150,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486061,6 +486176,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486086,6 +486206,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486107,6 +486232,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486132,6 +486262,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486153,6 +486288,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486178,6 +486318,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486199,6 +486344,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486224,6 +486374,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486245,6 +486400,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486270,6 +486430,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486291,6 +486456,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486316,6 +486486,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486337,6 +486512,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486362,6 +486542,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486383,6 +486568,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486408,6 +486598,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486429,6 +486624,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486454,6 +486654,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486475,6 +486680,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486500,6 +486710,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486521,6 +486736,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486546,6 +486766,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486567,6 +486792,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486592,6 +486822,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486613,6 +486848,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486638,6 +486878,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486659,6 +486904,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486684,6 +486934,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486705,6 +486960,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486730,6 +486990,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486751,6 +487016,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486776,6 +487046,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486797,6 +487072,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486822,6 +487102,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486843,6 +487128,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486868,6 +487158,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486889,6 +487184,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486914,6 +487214,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486935,6 +487240,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -486960,6 +487270,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -486981,6 +487296,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487006,6 +487326,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487027,6 +487352,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487052,6 +487382,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487073,6 +487408,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487098,6 +487438,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487119,6 +487464,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487144,6 +487494,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487165,6 +487520,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487190,6 +487550,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487211,6 +487576,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487236,6 +487606,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487257,6 +487632,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487282,6 +487662,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487303,6 +487688,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487328,6 +487718,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487349,6 +487744,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487374,6 +487774,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487395,6 +487800,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487420,6 +487830,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487441,6 +487856,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487466,6 +487886,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487487,6 +487912,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487512,6 +487942,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487533,6 +487968,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487558,6 +487998,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487579,6 +488024,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487604,6 +488054,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487625,6 +488080,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487650,6 +488110,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487671,6 +488136,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487696,6 +488166,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487717,6 +488192,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487742,6 +488222,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487763,6 +488248,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487788,6 +488278,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487809,6 +488304,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487834,6 +488334,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487855,6 +488360,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487880,6 +488390,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487901,6 +488416,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487926,6 +488446,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487947,6 +488472,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -487972,6 +488502,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -487993,6 +488528,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488018,6 +488558,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488039,6 +488584,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488064,6 +488614,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488085,6 +488640,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488110,6 +488670,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488131,6 +488696,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488156,6 +488726,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488177,6 +488752,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488202,6 +488782,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488223,6 +488808,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488248,6 +488838,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488269,6 +488864,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488294,6 +488894,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488315,6 +488920,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488340,6 +488950,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488361,6 +488976,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488386,6 +489006,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488407,6 +489032,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488432,6 +489062,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488453,6 +489088,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488478,6 +489118,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488499,6 +489144,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488524,6 +489174,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488545,6 +489200,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488570,6 +489230,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488591,6 +489256,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488616,6 +489286,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488637,6 +489312,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488662,6 +489342,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488683,6 +489368,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488708,6 +489398,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488729,6 +489424,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488754,6 +489454,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488775,6 +489480,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488800,6 +489510,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488821,6 +489536,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488846,6 +489566,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488867,6 +489592,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488892,6 +489622,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488913,6 +489648,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488938,6 +489678,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -488959,6 +489704,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -488984,6 +489734,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489005,6 +489760,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489030,6 +489790,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489051,6 +489816,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489076,6 +489846,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489097,6 +489872,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489122,6 +489902,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489143,6 +489928,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489168,6 +489958,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489189,6 +489984,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489214,6 +490014,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489235,6 +490040,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489260,6 +490070,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489281,6 +490096,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489306,6 +490126,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489327,6 +490152,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489352,6 +490182,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489373,6 +490208,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489398,6 +490238,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489419,6 +490264,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489444,6 +490294,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489465,6 +490320,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489490,6 +490350,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489511,6 +490376,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489536,6 +490406,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489557,6 +490432,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489582,6 +490462,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489603,6 +490488,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489628,6 +490518,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489649,6 +490544,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489674,6 +490574,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489695,6 +490600,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489720,6 +490630,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489741,6 +490656,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489766,6 +490686,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489787,6 +490712,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489812,6 +490742,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489833,6 +490768,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489858,6 +490798,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489879,6 +490824,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489904,6 +490854,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489925,6 +490880,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489950,6 +490910,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -489971,6 +490936,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -489996,6 +490966,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -490017,6 +490992,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -490042,6 +491022,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -490063,6 +491048,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -490088,6 +491078,11 @@
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
         "name": "Farrow",
         "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
+        "name": "Farrow",
+        "short_name": "Farrow"
       }
     ],
     "characters": null,
@@ -490109,6 +491104,11 @@
       },
       {
         "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown_Sitting_Kingsmarch",
         "name": "Farrow",
         "short_name": "Farrow"
       }
@@ -495928,6 +496928,146 @@
     "text": "Time unwinds.",
     "audio": [
       "Audio/Dialogue/4.0/MTX/Finishers/RareFinisherBTimeRewindMTX/Zarokh_TemporalRift_TimeUnwinds_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Farrow_A4_ArrivingInKingsmarch_B2_Wild": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/NPC/FarrowActIntro",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowDock",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Let's see what we can discover together!",
+    "audio": [
+      "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/Farrow_055_Act4Intro_06wild.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Farrow_A4_VerisiumSequence_A1_Wild": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/NPC/FarrowActIntro",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowDock",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Buried knowledge... my kind of buried treasure!",
+    "audio": [
+      "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/Farrow_055_VerisiumSeq_01wild.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Farrow_A4_VerisiumSequence_A2_Wild": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/NPC/FarrowActIntro",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowDock",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "And this... liquid Verisium... it's ancient..",
+    "audio": [
+      "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/Farrow_055_VerisiumSeq_02wild.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Farrow_A4_VerisiumSequence_B1_Wild": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/NPC/FarrowActIntro",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowDock",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We can definitely use this... I'll get it back to Kingsmarch.",
+    "audio": [
+      "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/Farrow_055_VerisiumSeq_03wild.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "Farrow_A4_VerisiumSequence_B2_Wild": {
+    "npcs": [
+      {
+        "id": "Metadata/Monsters/NPC/FarrowActIntro",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowDock",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      },
+      {
+        "id": "Metadata/NPC/League/Expedition/FarrowTown",
+        "name": "Farrow",
+        "short_name": "Farrow"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Best we get a move on soon, eh?",
+    "audio": [
+      "Audio/Dialogue/4.0/NPC/Leagues/Expedition/Farrow_Wild/FarrowRev_Convo_Exp2_10_05wild.ogg"
     ],
     "mono": null,
     "stereo": null,
@@ -507013,7 +508153,7 @@
     "events": [
       "LevelUp5"
     ],
-    "text": "Savor the feeling, but keep moving forward.",
+    "text": "Savour the feeling, but keep moving forward.",
     "audio": [
       "Audio/Dialogue/4.0/Characters/DexInt/Monk/Monk_Wild/Monk_Wild_LevelUp_03.ogg"
     ],
@@ -573525,7 +574665,7 @@
     "events": [
       "BrambleBossKilled"
     ],
-    "text": "I best not tarry... if the trees here can behave like that...",
+    "text": "I best not tarry... if the trees here behave like that...",
     "audio": [
       "Audio/Dialogue/4.0/Characters/DexInt/Monk/Monk_Gameplay/Monk_Gameplay_A1_74.ogg"
     ],
@@ -579720,22 +580860,6 @@
     "text": "At long last.",
     "audio": [
       "Audio/Dialogue/4.0/Characters/StrDex/Mercenary/Mercenary_Gameplay/Mercenary_Gameplay_A3_42.ogg"
-    ],
-    "mono": null,
-    "stereo": null,
-    "video": null
-  },
-  "StrDex4b_Gameplay_A3_43": {
-    "npcs": null,
-    "characters": [
-      "Mercenary"
-    ],
-    "events": [
-      "SeeCarverWaterways"
-    ],
-    "text": "The Carver tribe are here? This is gonna get ugly.",
-    "audio": [
-      "Audio/Dialogue/4.0/Characters/StrDex/Mercenary/Mercenary_Gameplay/Mercenary_Gameplay_A3_43.ogg"
     ],
     "mono": null,
     "stereo": null,
@@ -589717,7 +590841,7 @@
     "events": [
       "DoryaniAlvaGodVoiceResponse"
     ],
-    "text": "The fool doesn't realize he's already dead.",
+    "text": "The fool doesn't realise he's already dead.",
     "audio": [
       "Audio/Dialogue/4.0/Characters/Int/Witch/Witch_Gameplay/Witch_Gameplay_A3_96.ogg"
     ],
@@ -597976,22 +599100,6 @@
     "text": "Finally.",
     "audio": [
       "Audio/Dialogue/4.0/Characters/Str/Warrior/Warrior_Gameplay/Warrior_Gameplay_A3_40.ogg"
-    ],
-    "mono": null,
-    "stereo": null,
-    "video": null
-  },
-  "Str4b_Gameplay_A3_41": {
-    "npcs": null,
-    "characters": [
-      "Warrior"
-    ],
-    "events": [
-      "SeeCarverWaterways"
-    ],
-    "text": "Are those the Carver? Servi was right.",
-    "audio": [
-      "Audio/Dialogue/4.0/Characters/Str/Warrior/Warrior_Gameplay/Warrior_Gameplay_A3_41.ogg"
     ],
     "mono": null,
     "stereo": null,
@@ -690485,7 +691593,7 @@
     "events": [
       "IncursionDefeatBlackjawRare"
     ],
-    "text": "Another Vaal laid to rest.!",
+    "text": "Another Vaal laid to rest!",
     "audio": [
       "Audio/Dialogue/4.0/Characters/Str/Warrior/Warrior_Gameplay/Warrior_Gameplay_Incursion_25.ogg"
     ],
@@ -745701,7 +746809,7 @@
     "events": [
       "DeliriumDualBossesDefeatedFirst"
     ],
-    "text": "Is it now? You're welcome to walk away!\r",
+    "text": "Is it now? You're welcome to walk away!",
     "audio": [
       "Audio/Dialogue/4.0/Characters/StrInt/Druid/Druid_Gameplay/Druid_Gameplay_Delirium_11.ogg"
     ],

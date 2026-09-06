@@ -120,7 +120,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "[HitDamage|Hits] a total of {0} times over {1} seconds",
+        "string": "[Hit|Hits] a total of {0} times over {1} seconds",
         "reminder_text": null,
         "is_markup": null
       }

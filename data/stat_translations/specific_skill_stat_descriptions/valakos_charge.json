@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Trigger|Triggers] after you take a total of {0} [Lightning] [HitDamage|Hit Damage]",
+        "string": "[Trigger|Triggers] after you take a total of {0} [Lightning] [Hit|Hit Damage]",
         "reminder_text": null,
         "is_markup": null
       }

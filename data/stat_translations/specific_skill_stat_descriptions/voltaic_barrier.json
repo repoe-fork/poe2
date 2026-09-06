@@ -209,7 +209,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Wall [HitDamage|Hit] interval@{0}s",
+        "string": "Wall [Hit] interval@{0}s",
         "reminder_text": null,
         "is_markup": null
       },
@@ -227,7 +227,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Wall [HitDamage|Hits] enemies every second",
+        "string": "Wall [Hit|Hits] enemies every second",
         "reminder_text": null,
         "is_markup": null
       },
@@ -247,7 +247,7 @@
             "milliseconds_to_seconds_2dp_if_required"
           ]
         ],
-        "string": "Wall [HitDamage|Hits] enemies every {0} seconds",
+        "string": "Wall [Hit|Hits] enemies every {0} seconds",
         "reminder_text": null,
         "is_markup": null
       }

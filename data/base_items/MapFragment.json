@@ -3237,56 +3237,6 @@
     "grants_buff": null,
     "skills_granted": null
   },
-  "Metadata/Items/MapFragments/CurrencyAfflictionFragment": {
-    "domain": "undefined",
-    "drop_level": 75,
-    "implicits": [],
-    "inventory_height": 1,
-    "inventory_width": 1,
-    "inherits_from": "Metadata/Items/MapFragments/AbstractMapFragment",
-    "item_class": "MapFragment",
-    "name": "Simulacrum",
-    "properties": {
-      "armour": null,
-      "energy_shield": null,
-      "evasion": null,
-      "ward": null,
-      "movement_speed": null,
-      "block": null,
-      "description": "",
-      "directions": "Right click this item then left click an Endgame World Area affected by at least 100% [Delirious|Delirousness] to apply it.",
-      "stack_size": 1,
-      "stack_size_currency_tab": 5000,
-      "full_stack_turns_into": null,
-      "charges_max": null,
-      "charges_per_use": null,
-      "duration": null,
-      "life_per_use": null,
-      "mana_per_use": null,
-      "attack_time": null,
-      "critical_strike_chance": null,
-      "physical_damage_max": null,
-      "physical_damage_min": null,
-      "range": null,
-      "mana_burn_ms": null,
-      "cooldown_ms": null,
-      "monster_id": null,
-      "monster_ability_text": null,
-      "monster_category": null
-    },
-    "release_state": "released",
-    "tags": [
-      "affliction_splinter",
-      "default"
-    ],
-    "visual_identity": {
-      "dds_file": "Art/2DItems/Maps/DeliriumFragment.dds",
-      "id": "AfflictionFragment"
-    },
-    "requirements": null,
-    "grants_buff": null,
-    "skills_granted": null
-  },
   "Metadata/Items/MapFragments/CurrencyOfferingToTheGoddess": {
     "domain": "undefined",
     "drop_level": 1,

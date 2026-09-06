@@ -189,7 +189,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More [HitDamage|Hit] damage per stage@{0}%",
+        "string": "More [Hit] damage per stage@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -207,7 +207,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% more damage with [HitDamage|Hits] for each stage",
+        "string": "{0}% more damage with [Hit|Hits] for each stage",
         "reminder_text": null,
         "is_markup": null
       },
@@ -227,7 +227,7 @@
             "negate"
           ]
         ],
-        "string": "{0}% less damage with [HitDamage|Hits] for each stage",
+        "string": "{0}% less damage with [Hit|Hits] for each stage",
         "reminder_text": null,
         "is_markup": null
       }

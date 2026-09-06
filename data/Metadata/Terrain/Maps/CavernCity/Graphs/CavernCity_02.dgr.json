@@ -940,109 +940,133 @@
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_02.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_03.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_ccMM_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_ccMW_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_ccSS_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_ccSW_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_ccWW_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_cvMW_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_cvSS_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_cvSW_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },
     {
       "file": "Metadata/Terrain/Maps/CavernCity/Rooms/Unique/mission_cvWW_01.arm",
-      "prefix": null,
+      "prefix": [
+        "//"
+      ],
       "suffix": null,
       "tile_tag": null,
-      "room_tag": "mission",
+      "room_tag": null,
       "tile_tgt": null,
       "tile_parent": null
     },

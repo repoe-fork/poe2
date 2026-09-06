@@ -323,14 +323,16 @@
         {
           "connections": [
             26782,
-            7074
+            7074,
+            18492
           ],
           "hash": 50796,
           "position_clockwise": 7,
           "radius": 6,
           "splines": [
             5,
-            4
+            4,
+            5
           ]
         },
         {
@@ -850,20 +852,6 @@
       "passives": [
         {
           "connections": [],
-          "hash": 58461,
-          "position_clockwise": 0,
-          "radius": 0,
-          "splines": []
-        }
-      ],
-      "x": -4087.914794921875,
-      "y": -2030.125
-    },
-    {
-      "flag": 0,
-      "passives": [
-        {
-          "connections": [],
           "hash": 13881,
           "position_clockwise": 0,
           "radius": 0,
@@ -877,19 +865,47 @@
       "flag": 0,
       "passives": [
         {
+          "connections": [],
+          "hash": 17452,
+          "position_clockwise": 0,
+          "radius": 0,
+          "splines": []
+        }
+      ],
+      "x": -3969.894775390625,
+      "y": -1727.10498046875
+    },
+    {
+      "flag": 0,
+      "passives": [
+        {
+          "connections": [],
+          "hash": 58461,
+          "position_clockwise": 0,
+          "radius": 0,
+          "splines": []
+        }
+      ],
+      "x": -3958.644775390625,
+      "y": -1982.3150634765625
+    },
+    {
+      "flag": 0,
+      "passives": [
+        {
           "connections": [
-            58461
+            17452
           ],
-          "hash": 26782,
+          "hash": 18492,
           "position_clockwise": 0,
           "radius": 0,
           "splines": [
-            5
+            4
           ]
         }
       ],
-      "x": -3825.704833984375,
-      "y": -1629.4449462890625
+      "x": -3951.014892578125,
+      "y": -1468.614990234375
     },
     {
       "flag": 0,
@@ -908,6 +924,24 @@
       ],
       "x": -3825.704833984375,
       "y": -1070.074951171875
+    },
+    {
+      "flag": 0,
+      "passives": [
+        {
+          "connections": [
+            58461
+          ],
+          "hash": 26782,
+          "position_clockwise": 0,
+          "radius": 0,
+          "splines": [
+            5
+          ]
+        }
+      ],
+      "x": -3774.35498046875,
+      "y": -1586.9449462890625
     },
     {
       "flag": 0,
@@ -933,20 +967,6 @@
       "flag": 0,
       "passives": [
         {
-          "connections": [],
-          "hash": 60870,
-          "position_clockwise": 0,
-          "radius": 0,
-          "splines": []
-        }
-      ],
-      "x": -3644.48486328125,
-      "y": -1629.4449462890625
-    },
-    {
-      "flag": 0,
-      "passives": [
-        {
           "connections": [
             59414
           ],
@@ -960,6 +980,20 @@
       ],
       "x": -3606.875,
       "y": -3548.06494140625
+    },
+    {
+      "flag": 0,
+      "passives": [
+        {
+          "connections": [],
+          "hash": 60870,
+          "position_clockwise": 0,
+          "radius": 0,
+          "splines": []
+        }
+      ],
+      "x": -3605.52490234375,
+      "y": -1611.7349853515625
     },
     {
       "flag": 0,
@@ -8039,7 +8073,7 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "Select an [ContainsAbyss|Abyss] Faction to always encounter"
+        "Select the [ContainsAbyss|Abyss] Faction you encounter in non-[AbyssCrack|Fissure Abysses]"
       ],
       "stats": {
         "dummy_display_abyss_faction_selector": 1
@@ -9998,7 +10032,7 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "[Shrine|Shrines] have a 10% chance to release an [AzmeriSpirit|Azmeri Spirit], the Shrine Buff is reapplied when it [SpiritPossessed|Possesses] a monster"
+        "[Shrine|Shrines] have a 10% chance to manifest an [AzmeriSpirit|Azmeri Spirit], the Shrine Buff is reapplied when it [SpiritPossessed|Possesses] a monster"
       ],
       "stats": {
         "map_shrine_%_chance_to_release_spirit_refresh_on_possess": 10
@@ -11777,8 +11811,8 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "Favours Deferred at [ContainsRitual|Ritual Altars] in your Maps reappear 50% sooner",
-        "Deferring Favours at [ContainsRitual|Ritual Altars] in your Maps costs 50% reduced Tribute"
+        "Favours Deferred at [ContainsRitual|Ritual Altars] reappear 50% sooner",
+        "Deferring Favours at [ContainsRitual|Ritual Altars] costs 50% reduced Tribute"
       ],
       "stats": {
         "map_ritual_defer_reward_tribute_cost_+%": -50,
@@ -12362,10 +12396,10 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "[AzmeriSpirit|Azmeri Spirits] [SpiritPossessed|Possess] a [RogueExile|Rogue Exile] in the area when Possessed Non-Unique Monsters are slain"
+        "[RogueExile|Rogue Exiles] have 15% increased chance to have equipped [ItemRarity|Unique] Items"
       ],
       "stats": {
-        "map_spirit_chance_to_possess_rogue_exile_on_possessed_death_%": 100
+        "map_rogue_exile_unique_chance_+%": 15
       },
       "weapon_set_points": 0
     },
@@ -12589,6 +12623,47 @@
       ],
       "stats": {
         "map_tormented_spirits_minimum_power": 50
+      },
+      "weapon_set_points": 0
+    },
+    "17452": {
+      "atlas_group": "",
+      "atlas_subtree": {
+        "background": "Art/2DArt/UIImages/InGame/AtlasScreen/PrecursorTheme/RitualSubTreeBG",
+        "counter": {
+          "x": 0,
+          "y": 200
+        },
+        "id": "Ritual",
+        "illustration": {
+          "x": 0,
+          "y": -750
+        },
+        "image": "Art/2DArt/UIImages/InGame/AtlasScreen/StartingPointRitualActive"
+      },
+      "flavour_text": "",
+      "hash": 17452,
+      "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/RitualNotable4.dds",
+      "id": "AtlasRitualNotable20",
+      "is_ascendancy_starting_node": false,
+      "is_atlas_root": false,
+      "is_free": false,
+      "is_icon_only": false,
+      "is_jewel_socket": false,
+      "is_keystone": false,
+      "is_multiple_choice": false,
+      "is_multiple_choice_option": false,
+      "is_notable": true,
+      "name": "Royal Lenience",
+      "reminder_text": [],
+      "skill_points": 0,
+      "stat_text": [
+        "Tribute already offered to the King may be used to Defer items",
+        "Deferring Favours using Tribute already offered to the King costs 500% more Offered Tribute"
+      ],
+      "stats": {
+        "map_ritual_can_defer_with_offered_tribute": 1,
+        "map_ritual_offered_tribute_deferral_cost_+%": 500
       },
       "weapon_set_points": 0
     },
@@ -12897,10 +12972,10 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] release the [AzmeriSpirit|Azmeri Spirit] when opened"
+        "[SpiritPossessed|Possessed] [Strongbox|Strongboxes] have 10% increased Item Rarity"
       ],
       "stats": {
-        "map_possessed_strongbox_%_chance_to_release_a_spirit": 100
+        "map_strongboxes_have_+%_rarity_if_possessed": 10
       },
       "weapon_set_points": 0
     },
@@ -13031,6 +13106,45 @@
       ],
       "stats": {
         "map_rare_beast_monster_modifiers_chance_%": 15
+      },
+      "weapon_set_points": 0
+    },
+    "18492": {
+      "atlas_group": "",
+      "atlas_subtree": {
+        "background": "Art/2DArt/UIImages/InGame/AtlasScreen/PrecursorTheme/RitualSubTreeBG",
+        "counter": {
+          "x": 0,
+          "y": 200
+        },
+        "id": "Ritual",
+        "illustration": {
+          "x": 0,
+          "y": -750
+        },
+        "image": "Art/2DArt/UIImages/InGame/AtlasScreen/StartingPointRitualActive"
+      },
+      "flavour_text": "",
+      "hash": 18492,
+      "icon": "Art/2DArt/SkillIcons/passives/AtlasTrees/RitualNode1.dds",
+      "id": "AtlasRitualSmall19",
+      "is_ascendancy_starting_node": false,
+      "is_atlas_root": false,
+      "is_free": false,
+      "is_icon_only": false,
+      "is_jewel_socket": false,
+      "is_keystone": false,
+      "is_multiple_choice": false,
+      "is_multiple_choice_option": false,
+      "is_notable": false,
+      "name": "Increased Tribute",
+      "reminder_text": [],
+      "skill_points": 0,
+      "stat_text": [
+        "Monsters Sacrificed at [ContainsRitual|Ritual Altars] grant 5% increased Tribute"
+      ],
+      "stats": {
+        "map_ritual_tribute_+%": 5
       },
       "weapon_set_points": 0
     },
@@ -13457,7 +13571,7 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "20% chance [ContainsIncursion|Vaal Beacon] [Rarity|Unique] Monsters are added to the Area for each [ContainsIncursion|Vaal Beacon] in an Area"
+        "20% chance each [ContainsIncursion|Vaal Beacon] adds a Vaal [Rarity|Unique] Monster to the Area"
       ],
       "stats": {
         "map_incursion_vaal_beacons_also_add_boss_to_area_chance_%": 20
@@ -14913,7 +15027,7 @@
       ],
       "stats": {
         "map_delirium_emotion_drop_chance_+%": 25,
-        "map_delirium_timelost_jewel_emotions_can_drop": 1
+        "map_delirium_emotions_converted_to_timelost_jewel_emotion_chance_%": 20
       },
       "weapon_set_points": 0
     },
@@ -15246,7 +15360,7 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "[Tablet|Tablets] also provide 10% increased Rarity of Items Dropped to\nMonsters from their mechanic"
+        "[Tablet|Tablets] also provide 10% increased Rarity of Items Dropped by\nMonsters from their mechanic"
       ],
       "stats": {
         "map_monster_dropped_item_rarity_+%_per_tablet_type_affecting_area": 10
@@ -20602,7 +20716,7 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "Large [ContainsAbyss|Abyssal] Chests from the final Pit are instead an Abyssal [Strongbox]"
+        "Large [ContainsAbyss|Abyssal] Chests from Abyss Pits are instead an Abyssal [Strongbox]"
       ],
       "stats": {
         "map_abyss_final_large_chest_strongbox_chance_%": 100
@@ -23356,7 +23470,7 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "[SpiritPossessed|Possessed] [Essence] Monsters release [AzmeriSpirit|Spirits] on death"
+        "[SpiritPossessed|Possessed] [Essence] Monsters [ReleaseAzmeriSpirits|Release Spirits] on death"
       ],
       "stats": {
         "map_essence_tormented_spirit_release_chance_%": 100
@@ -24663,7 +24777,7 @@
       "reminder_text": [],
       "skill_points": 0,
       "stat_text": [
-        "[SpiritPossessed|Possessed] Monsters have 25% chance to release [AzmeriSpirit|Spirits] on death"
+        "[SpiritPossessed|Possessed] Monsters have 25% chance to [ReleaseAzmeriSpirits|Release Spirits] on death"
       ],
       "stats": {
         "map_tormented_spirit_release_chance": 25
