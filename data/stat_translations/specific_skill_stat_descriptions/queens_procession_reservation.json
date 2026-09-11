@@ -15,7 +15,7 @@
         "index_handlers": [
           []
         ],
-        "string": "More [HitDamage|Damage] per Swarm's Advance@{0}%",
+        "string": "More [Hit|Damage] per Swarm's Advance@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -33,7 +33,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Swarm deals {0}% more [HitDamage|Damage] per Swarm's Advance",
+        "string": "Swarm deals {0}% more [Hit|Damage] per Swarm's Advance",
         "reminder_text": null,
         "is_markup": null
       }

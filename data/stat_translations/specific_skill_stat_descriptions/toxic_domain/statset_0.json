@@ -491,7 +491,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Projectile] [HitDamage|Hits] attach a Pustule",
+        "string": "[Projectile] [Hit|Hits] attach a Pustule",
         "reminder_text": null,
         "is_markup": null
       },
@@ -509,7 +509,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Chance for [Projectile] [HitDamage|Hits] to attach a Pustule@{0}%",
+        "string": "Chance for [Projectile] [Hit|Hits] to attach a Pustule@{0}%",
         "reminder_text": null,
         "is_markup": null
       },
@@ -527,7 +527,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[Projectile] [HitDamage|Hits] attach a Pustule",
+        "string": "[Projectile] [Hit|Hits] attach a Pustule",
         "reminder_text": null,
         "is_markup": null
       },
@@ -545,7 +545,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% chance for [Projectile] [HitDamage|Hits] to attach a Pustule",
+        "string": "{0}% chance for [Projectile] [Hit|Hits] to attach a Pustule",
         "reminder_text": null,
         "is_markup": null
       }

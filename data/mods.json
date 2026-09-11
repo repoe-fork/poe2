@@ -181711,7 +181711,7 @@
         "min": 12
       }
     ],
-    "text": "[ContainsDelirium|Delirium Fog] in Map spawns (12-26)% increased [FracturingMirrorShard|MirrorShards]",
+    "text": "[ContainsDelirium|Delirium Fog] in Map spawns (12-26)% increased [FracturingMirrorShard|Mirror Shards]",
     "type": "DeliriumAdditionalShardsChance",
     "gold_value": null
   },
@@ -483543,8 +483543,8 @@
     "stats": [
       {
         "id": "stun_threshold_+%",
-        "max": 150,
-        "min": 150
+        "max": 100,
+        "min": 100
       }
     ],
     "text": null,
@@ -519083,7 +519083,7 @@
         "min": 15
       }
     ],
-    "text": "[HitDamage|Hits] have (15-30)% chance to treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
+    "text": "[Hit|Hits] have (15-30)% chance to treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
     "type": "TreatResistsAsInvertedChance",
     "gold_value": null
   },
@@ -551032,7 +551032,7 @@
         "min": 1
       }
     ],
-    "text": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Freeze] Buildup",
+    "text": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Freeze] Buildup",
     "type": "AllDamageCanFreeze",
     "gold_value": null
   },

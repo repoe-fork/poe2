@@ -769382,7 +769382,7 @@
             "active_skill_heavy_stun_decay_after_action_delay_ms": "[HeavyStunPlayer|Stun] Buildup cannot empty while you have Swarm's Advance\nLose all Swarm's Advance 4 seconds after you finish sprinting",
             "base_cooldown_modifiable_repeat_interval_ms": "Swarm [Hit|Hits] all targets in area every 0.5 seconds",
             "cooldown_recovery_modifiers_also_apply_to_repeat_interval": "Modifiers to Cooldown Recovery Rate apply to [Hit] frequency",
-            "locust_dash_damage_+%_final_per_stack": "Swarm deals 2% more [HitDamage|Damage] per Swarm's Advance",
+            "locust_dash_damage_+%_final_per_stack": "Swarm deals 2% more [Hit|Damage] per Swarm's Advance",
             "locust_dash_self_hit_stun_multiplier_+%_final": "Damage taken this way applies 100% more [HeavyStunPlayer|Stun] buildup to you"
           },
           "stats": [
@@ -923121,7 +923121,7 @@
         },
         "static": {
           "stat_text": {
-            "companion_takes_%_damage_before_you_from_support": "10% of Damage from [HitDamage|Hits] is taken from Supported [Companion]'s Life before you",
+            "companion_takes_%_damage_before_you_from_support": "10% of Damage from [Hit|Hits] is taken from Supported [Companion]'s Life before you",
             "support_trusty_companion_minion_life_+%_final": "[Minion|Minions] from Supported Skills have 30% less maximum Life"
           },
           "stats": [
@@ -934311,7 +934311,7 @@
         },
         "static": {
           "stat_text": {
-            "companion_takes_%_damage_before_you_from_support": "10% of Damage from [HitDamage|Hits] is taken from Supported [Companion]'s Life before you",
+            "companion_takes_%_damage_before_you_from_support": "10% of Damage from [Hit|Hits] is taken from Supported [Companion]'s Life before you",
             "loyalty_%_of_redirected_damage_recouped_as_life_for_owner": "You [Recoup] 200% of Damage taken from Supported [Minion|Minion's] Life this way as Life",
             "support_trusty_companion_minion_life_+%_final": "[Minion|Minions] from Supported Skills have 30% less maximum Life"
           },
@@ -977878,7 +977878,7 @@
             "base_skill_effect_duration": "Toxic Bloom duration is 8 seconds",
             "skill_specific_stat_description_mode": "Each enemy can have up to 1 Pustule attached",
             "toxic_domain_mana_cost_+%": "Skill costs are increased by 25%",
-            "toxic_domain_pustule_chance_%": "[Projectile] [HitDamage|Hits] attach a Pustule"
+            "toxic_domain_pustule_chance_%": "[Projectile] [Hit|Hits] attach a Pustule"
           },
           "stats": [
             {

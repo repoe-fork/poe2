@@ -54491,5 +54491,53 @@
     "sources": null,
     "sounds": null,
     "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge_mastery": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge_mastery": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge_mastery": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
   }
 }

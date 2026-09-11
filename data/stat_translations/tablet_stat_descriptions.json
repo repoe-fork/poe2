@@ -2287,7 +2287,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[ContainsDelirium|Delirium Fog] in Map spawns {0}% increased [FracturingMirrorShard|MirrorShards]",
+        "string": "[ContainsDelirium|Delirium Fog] in Map spawns {0}% increased [FracturingMirrorShard|Mirror Shards]",
         "reminder_text": null,
         "is_markup": null
       },
@@ -2307,7 +2307,7 @@
             "negate"
           ]
         ],
-        "string": "[ContainsDelirium|Delirium Fog] in Map spawns {0}% reduced [FracturingMirrorShard|MirrorShards]",
+        "string": "[ContainsDelirium|Delirium Fog] in Map spawns {0}% reduced [FracturingMirrorShard|Mirror Shards]",
         "reminder_text": null,
         "is_markup": null
       }

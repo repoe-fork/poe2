@@ -118071,6 +118071,42 @@
         "index_handlers": [
           []
         ],
+        "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Flammability] and [Ignite] [BuffMagnitude|Magnitudes]",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "all_damage_can_ignite"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
         "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Chill] Magnitude",
         "reminder_text": null,
         "is_markup": null
@@ -118078,6 +118114,42 @@
     ],
     "ids": [
       "all_damage_can_chill"
+    ],
+    "trade_stats": null,
+    "hidden": null,
+    "French": null,
+    "German": null,
+    "Japanese": null,
+    "Korean": null,
+    "Portuguese": null,
+    "Russian": null,
+    "Spanish": null,
+    "Thai": null,
+    "Traditional Chinese": null
+  },
+  {
+    "English": [
+      {
+        "condition": [
+          {
+            "min": null,
+            "max": null,
+            "negated": null
+          }
+        ],
+        "format": [
+          "ignore"
+        ],
+        "index_handlers": [
+          []
+        ],
+        "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Freeze] Buildup",
+        "reminder_text": null,
+        "is_markup": null
+      }
+    ],
+    "ids": [
+      "all_damage_can_freeze"
     ],
     "trade_stats": null,
     "hidden": null,
@@ -196390,7 +196462,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Freeze] Buildup",
+        "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Freeze] Buildup",
         "reminder_text": null,
         "is_markup": null
       }
@@ -196426,7 +196498,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Flammability] and [Ignite] [BuffMagnitude|Magnitudes]",
+        "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Flammability] and [Ignite] [BuffMagnitude|Magnitudes]",
         "reminder_text": null,
         "is_markup": null
       }
@@ -196498,7 +196570,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Shock] Chance",
+        "string": "[DamageTypes|All Damage] from [Hit|Hits] [Contributes|Contributes] to [Shock] Chance",
         "reminder_text": null,
         "is_markup": null
       }
@@ -260555,7 +260627,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% of Damage from [HitDamage|Hits] is taken from your [Companion]'s Life before you",
+        "string": "{0}% of Damage from [Hit|Hits] is taken from your [Companion]'s Life before you",
         "reminder_text": null,
         "is_markup": null
       }
@@ -283900,7 +283972,7 @@
         "index_handlers": [
           []
         ],
-        "string": "Defeating the Arbiter grants completion of a section of the Fortress",
+        "string": "Defeating the Arbiter of Divinity as the Map Owner twice will complete all uncompleted Map Nodes in the Fortress",
         "reminder_text": null,
         "is_markup": null
       }
@@ -463132,7 +463204,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% increased [StunThreshold|Stun Threshold] for each time you've been [HitDamage|Hit] by an Enemy [Recently], up to 100%",
+        "string": "{0}% increased [StunThreshold|Stun Threshold] for each time you've been [Hit|Hit] by an Enemy [Recently], up to 100%",
         "reminder_text": null,
         "is_markup": null
       }
@@ -471814,7 +471886,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] have {0}% chance to treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
+        "string": "[Hit|Hits] have {0}% chance to treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
         "reminder_text": null,
         "is_markup": null
       },
@@ -471832,7 +471904,7 @@
         "index_handlers": [
           []
         ],
-        "string": "[HitDamage|Hits] treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
+        "string": "[Hit|Hits] treat Enemy Monster [ElementalDamage|Elemental] [Resistances|Resistance] values as inverted",
         "reminder_text": null,
         "is_markup": null
       }

@@ -15589,7 +15589,7 @@
     },
     "skill_name": null,
     "support_name": null,
-    "support_text": "Supports [Lightning] skills that [Hit] targets, granting them an additional level and causing them to [BooleanDamageRoll|only roll the minimum or maximum value] for [Lightning] damage. Does not support skills which do not have levels.",
+    "support_text": "Supports [Lightning] Skills that [Hit], granting them an additional level and causing them to [BooleanDamageRoll|only roll the minimum or maximum value] for [Lightning] damage. Does not Support Skills which do not have levels.",
     "tags": [
       "support",
       "lineage",
@@ -20714,7 +20714,7 @@
     },
     "skill_name": null,
     "support_name": null,
-    "support_text": "Supports Shield Skills that [Hit] enemies, causing those Hits to [Crushed|Crush] their targets, additionally causing any [Physical|Physical Damage] [Hit|Hits] against those targets while [Crushed] to [ArmourBreak|Break their Armour].",
+    "support_text": "Supports Shield Skills that [Hit], causing those Hits to [Crushed|Crush] their targets, and [Physical] [Hit|Hits] against those targets while [Crushed] to [ArmourBreak|Break their Armour].",
     "tags": [
       "support",
       "lineage",

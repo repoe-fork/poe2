@@ -814,10 +814,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -885,7 +882,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3857653722,
         [],
@@ -1032,8 +1030,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -1102,7 +1102,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           138832297,
           [],
@@ -17586,10 +17587,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -17657,7 +17655,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2068548253,
         [],
@@ -17742,10 +17741,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -17829,7 +17825,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -18659,10 +18656,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -18730,7 +18724,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3857653722,
         [],
@@ -18877,8 +18872,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -18947,7 +18944,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           138832297,
           [],
@@ -35431,10 +35429,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -35502,7 +35497,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2068548253,
         [],
@@ -35587,10 +35583,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -35674,7 +35667,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -36504,10 +36498,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -36575,7 +36566,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3857653722,
         [],
@@ -36722,8 +36714,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -36792,7 +36786,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           138832297,
           [],
@@ -53276,10 +53271,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -53347,7 +53339,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2068548253,
         [],
@@ -53432,10 +53425,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -53519,7 +53509,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -54341,10 +54332,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -54412,7 +54400,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3582319030,
         [],
@@ -54535,8 +54524,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Sword1H",
+                "OnHit_1HSwordSG"
+              ]
             ],
             10,
             [],
@@ -54605,7 +54596,8 @@
             null,
             null,
             "",
-            "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao"
+            "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao",
+            false
           ],
           2130911566,
           [],
@@ -71034,8 +71026,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Sword1H",
+              "OnHit_1HSwordSG"
+            ]
           ],
           10,
           [],
@@ -71104,7 +71098,8 @@
           null,
           null,
           "",
-          "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao"
+          "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao",
+          false
         ],
         2130911566,
         [],
@@ -71167,10 +71162,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         4,
         [],
         [],
@@ -71250,7 +71242,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -72072,10 +72065,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -72143,7 +72133,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3582319030,
         [],
@@ -72266,8 +72257,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Sword1H",
+                "OnHit_1HSwordSG"
+              ]
             ],
             10,
             [],
@@ -72336,7 +72329,8 @@
             null,
             null,
             "",
-            "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao"
+            "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao",
+            false
           ],
           2130911566,
           [],
@@ -88765,8 +88759,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Sword1H",
+              "OnHit_1HSwordSG"
+            ]
           ],
           10,
           [],
@@ -88835,7 +88831,8 @@
           null,
           null,
           "",
-          "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao"
+          "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao",
+          false
         ],
         2130911566,
         [],
@@ -88898,10 +88895,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         4,
         [],
         [],
@@ -88981,7 +88975,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -89803,10 +89798,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -89874,7 +89866,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3582319030,
         [],
@@ -89997,8 +89990,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Sword1H",
+                "OnHit_1HSwordSG"
+              ]
             ],
             10,
             [],
@@ -90067,7 +90062,8 @@
             null,
             null,
             "",
-            "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao"
+            "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao",
+            false
           ],
           2130911566,
           [],
@@ -106496,8 +106492,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Sword1H",
+              "OnHit_1HSwordSG"
+            ]
           ],
           10,
           [],
@@ -106566,7 +106564,8 @@
           null,
           null,
           "",
-          "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao"
+          "Metadata/Items/Weapons/OneHandWeapons/OneHandSwords/SwordsFour/Shortsword/ShortswordSheatheHeld.ao",
+          false
         ],
         2130911566,
         [],
@@ -106629,10 +106628,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         4,
         [],
         [],
@@ -106712,7 +106708,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -107534,10 +107531,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -107605,7 +107599,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2017960550,
         [],
@@ -107863,8 +107858,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "SpearWood",
+                "OnHit_SpearWoodSG"
+              ]
             ],
             12,
             [],
@@ -107933,7 +107930,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           4175731923,
           [],
@@ -124385,8 +124383,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldWood",
+              "OnHit_ShieldWoodSG"
+            ]
           ],
           12,
           [],
@@ -124455,7 +124455,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2311675550,
         [],
@@ -124467,7 +124468,11 @@
         null,
         false,
         null,
-        15,
+        [
+          "Buckler",
+          true,
+          null
+        ],
         false,
         false,
         [],
@@ -124540,10 +124545,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -124623,7 +124625,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -125445,10 +125448,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -125516,7 +125516,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2017960550,
         [],
@@ -125774,8 +125775,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "SpearWood",
+                "OnHit_SpearWoodSG"
+              ]
             ],
             12,
             [],
@@ -125844,7 +125847,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           4175731923,
           [],
@@ -142296,8 +142300,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldWood",
+              "OnHit_ShieldWoodSG"
+            ]
           ],
           12,
           [],
@@ -142366,7 +142372,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2311675550,
         [],
@@ -142378,7 +142385,11 @@
         null,
         false,
         null,
-        15,
+        [
+          "Buckler",
+          true,
+          null
+        ],
         false,
         false,
         [],
@@ -142451,10 +142462,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -142534,7 +142542,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -143356,10 +143365,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -143427,7 +143433,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2017960550,
         [],
@@ -143685,8 +143692,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "SpearWood",
+                "OnHit_SpearWoodSG"
+              ]
             ],
             12,
             [],
@@ -143755,7 +143764,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           4175731923,
           [],
@@ -160207,8 +160217,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldWood",
+              "OnHit_ShieldWoodSG"
+            ]
           ],
           12,
           [],
@@ -160277,7 +160289,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2311675550,
         [],
@@ -160289,7 +160302,11 @@
         null,
         false,
         null,
-        15,
+        [
+          "Buckler",
+          true,
+          null
+        ],
         false,
         false,
         [],
@@ -160362,10 +160379,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -160445,7 +160459,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -161267,10 +161282,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -161338,7 +161350,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3087763255,
         [],
@@ -161461,8 +161474,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Axe1HMetal",
+                "OnHit_1HAxeSG"
+              ]
             ],
             10,
             [],
@@ -161531,7 +161546,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           3360628346,
           [],
@@ -177960,8 +177976,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Axe1HMetal",
+              "OnHit_1HAxeSG"
+            ]
           ],
           10,
           [],
@@ -178030,7 +178048,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3360628346,
         [],
@@ -178093,10 +178112,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         5,
         [],
         [],
@@ -178176,7 +178192,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -178998,10 +179015,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -179069,7 +179083,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3087763255,
         [],
@@ -179192,8 +179207,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Axe1HMetal",
+                "OnHit_1HAxeSG"
+              ]
             ],
             10,
             [],
@@ -179262,7 +179279,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           3360628346,
           [],
@@ -195691,8 +195709,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Axe1HMetal",
+              "OnHit_1HAxeSG"
+            ]
           ],
           10,
           [],
@@ -195761,7 +195781,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3360628346,
         [],
@@ -195824,10 +195845,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         5,
         [],
         [],
@@ -195907,7 +195925,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -196729,10 +196748,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -196800,7 +196816,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3087763255,
         [],
@@ -196923,8 +196940,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Axe1HMetal",
+                "OnHit_1HAxeSG"
+              ]
             ],
             10,
             [],
@@ -196993,7 +197012,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           3360628346,
           [],
@@ -213422,8 +213442,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Axe1HMetal",
+              "OnHit_1HAxeSG"
+            ]
           ],
           10,
           [],
@@ -213492,7 +213514,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3360628346,
         [],
@@ -213555,10 +213578,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         5,
         [],
         [],
@@ -213638,7 +213658,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -214460,10 +214481,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -214531,7 +214549,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         375239246,
         [],
@@ -214652,8 +214671,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Arrow",
+                "OnHit_ArrowSG"
+              ]
             ],
             12,
             [],
@@ -214722,7 +214743,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           1309382473,
           [],
@@ -231123,10 +231145,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         4,
         [],
         [],
@@ -231206,7 +231225,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -232028,10 +232048,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -232099,7 +232116,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         375239246,
         [],
@@ -232220,8 +232238,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Arrow",
+                "OnHit_ArrowSG"
+              ]
             ],
             12,
             [],
@@ -232290,7 +232310,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           1309382473,
           [],
@@ -248691,10 +248712,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         4,
         [],
         [],
@@ -248774,7 +248792,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -249596,10 +249615,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -249667,7 +249683,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         375239246,
         [],
@@ -249788,8 +249805,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Arrow",
+                "OnHit_ArrowSG"
+              ]
             ],
             12,
             [],
@@ -249858,7 +249877,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           1309382473,
           [],
@@ -266259,10 +266279,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         4,
         [],
         [],
@@ -266342,7 +266359,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -267164,10 +267182,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -267235,7 +267250,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3504133411,
         [],
@@ -267357,8 +267373,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -267427,7 +267445,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2922948711,
           [],
@@ -283852,10 +283871,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -283935,7 +283951,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -284757,10 +284774,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -284828,7 +284842,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3504133411,
         [],
@@ -284950,8 +284965,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -285020,7 +285037,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2922948711,
           [],
@@ -301445,10 +301463,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -301528,7 +301543,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -302350,10 +302366,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -302421,7 +302434,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3504133411,
         [],
@@ -302543,8 +302557,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -302613,7 +302629,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2922948711,
           [],
@@ -319038,10 +319055,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -319121,7 +319135,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -319943,10 +319958,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -320014,7 +320026,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         409249884,
         [],
@@ -320155,8 +320168,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Arrow",
+                "OnHit_ArrowSG"
+              ]
             ],
             12,
             [],
@@ -320225,7 +320240,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           111853806,
           [],
@@ -336860,10 +336876,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -336931,7 +336944,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3726567875,
         [],
@@ -337016,10 +337030,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -337099,7 +337110,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -337921,10 +337933,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -337992,7 +338001,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         409249884,
         [],
@@ -338133,8 +338143,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Arrow",
+                "OnHit_ArrowSG"
+              ]
             ],
             12,
             [],
@@ -338203,7 +338215,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           111853806,
           [],
@@ -354838,10 +354851,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -354909,7 +354919,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3726567875,
         [],
@@ -354994,10 +355005,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -355077,7 +355085,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -355899,10 +355908,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -355970,7 +355976,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         409249884,
         [],
@@ -356111,8 +356118,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Arrow",
+                "OnHit_ArrowSG"
+              ]
             ],
             12,
             [],
@@ -356181,7 +356190,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           111853806,
           [],
@@ -372816,10 +372826,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -372887,7 +372894,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3726567875,
         [],
@@ -372972,10 +372980,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -373055,7 +373060,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -373877,10 +373883,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -373948,7 +373951,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         287959781,
         [],
@@ -374071,8 +374075,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Slice1HMetal",
+                "OnHit_ClawSG"
+              ]
             ],
             10,
             [],
@@ -374141,7 +374147,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2646281892,
           [],
@@ -390594,8 +390601,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Slice1HMetal",
+              "OnHit_ClawSG"
+            ]
           ],
           10,
           [],
@@ -390664,7 +390673,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2646281892,
         [],
@@ -390727,10 +390737,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -390810,7 +390817,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -391632,10 +391640,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -391703,7 +391708,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         287959781,
         [],
@@ -391826,8 +391832,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Slice1HMetal",
+                "OnHit_ClawSG"
+              ]
             ],
             10,
             [],
@@ -391896,7 +391904,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2646281892,
           [],
@@ -408349,8 +408358,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Slice1HMetal",
+              "OnHit_ClawSG"
+            ]
           ],
           10,
           [],
@@ -408419,7 +408430,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2646281892,
         [],
@@ -408482,10 +408494,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -408565,7 +408574,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -409387,10 +409397,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -409458,7 +409465,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         287959781,
         [],
@@ -409581,8 +409589,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Slice1HMetal",
+                "OnHit_ClawSG"
+              ]
             ],
             10,
             [],
@@ -409651,7 +409661,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2646281892,
           [],
@@ -426104,8 +426115,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "Slice1HMetal",
+              "OnHit_ClawSG"
+            ]
           ],
           10,
           [],
@@ -426174,7 +426187,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2646281892,
         [],
@@ -426237,10 +426251,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -426320,7 +426331,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -427157,10 +427169,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -427228,7 +427237,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2416772920,
         [],
@@ -427395,8 +427405,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -427465,7 +427477,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2590325085,
           [],
@@ -443866,10 +443879,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -443949,7 +443959,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -444786,10 +444797,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -444857,7 +444865,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2416772920,
         [],
@@ -445024,8 +445033,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -445094,7 +445105,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2590325085,
           [],
@@ -461495,10 +461507,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -461578,7 +461587,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -462415,10 +462425,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -462486,7 +462493,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2416772920,
         [],
@@ -462653,8 +462661,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -462723,7 +462733,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2590325085,
           [],
@@ -479124,10 +479135,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -479207,7 +479215,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -480029,10 +480038,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -480100,7 +480106,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3638998780,
         [],
@@ -480223,8 +480230,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "FlailMetal",
+                "OnHit_FlailSG"
+              ]
             ],
             12,
             [],
@@ -480293,7 +480302,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           4240381237,
           [],
@@ -496802,8 +496812,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldMetal",
+              "OnHit_ShieldMetalSG"
+            ]
           ],
           10,
           [],
@@ -496872,7 +496884,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3832987078,
         [],
@@ -496935,10 +496948,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -497022,7 +497032,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -497844,10 +497855,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -497915,7 +497923,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3638998780,
         [],
@@ -498038,8 +498047,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "FlailMetal",
+                "OnHit_FlailSG"
+              ]
             ],
             12,
             [],
@@ -498108,7 +498119,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           4240381237,
           [],
@@ -514617,8 +514629,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldMetal",
+              "OnHit_ShieldMetalSG"
+            ]
           ],
           10,
           [],
@@ -514687,7 +514701,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3832987078,
         [],
@@ -514750,10 +514765,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -514837,7 +514849,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -515659,10 +515672,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -515730,7 +515740,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3638998780,
         [],
@@ -515853,8 +515864,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "FlailMetal",
+                "OnHit_FlailSG"
+              ]
             ],
             12,
             [],
@@ -515923,7 +515936,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           4240381237,
           [],
@@ -532432,8 +532446,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldMetal",
+              "OnHit_ShieldMetalSG"
+            ]
           ],
           10,
           [],
@@ -532502,7 +532518,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3832987078,
         [],
@@ -532565,10 +532582,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -532652,7 +532666,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -533474,10 +533489,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -533545,7 +533557,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         984173153,
         [],
@@ -533668,8 +533681,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Mace1HWood",
+                "OnHit_1HBluntWoodSG"
+              ]
             ],
             12,
             [],
@@ -533738,7 +533753,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           1886603766,
           [],
@@ -550190,8 +550206,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldWood",
+              "OnHit_ShieldWoodSG"
+            ]
           ],
           12,
           [],
@@ -550260,7 +550278,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3183614851,
         [],
@@ -550345,10 +550364,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         5,
         [],
         [],
@@ -550428,7 +550444,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -551250,10 +551267,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -551321,7 +551335,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         984173153,
         [],
@@ -551444,8 +551459,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Mace1HWood",
+                "OnHit_1HBluntWoodSG"
+              ]
             ],
             12,
             [],
@@ -551514,7 +551531,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           1886603766,
           [],
@@ -567966,8 +567984,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldWood",
+              "OnHit_ShieldWoodSG"
+            ]
           ],
           12,
           [],
@@ -568036,7 +568056,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3183614851,
         [],
@@ -568121,10 +568142,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         5,
         [],
         [],
@@ -568204,7 +568222,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -569026,10 +569045,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -569097,7 +569113,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         984173153,
         [],
@@ -569220,8 +569237,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Mace1HWood",
+                "OnHit_1HBluntWoodSG"
+              ]
             ],
             12,
             [],
@@ -569290,7 +569309,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           1886603766,
           [],
@@ -585742,8 +585762,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "ShieldWood",
+              "OnHit_ShieldWoodSG"
+            ]
           ],
           12,
           [],
@@ -585812,7 +585834,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3183614851,
         [],
@@ -585897,10 +585920,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         5,
         [],
         [],
@@ -585980,7 +586000,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -586802,10 +586823,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -586873,7 +586891,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2721096530,
         [],
@@ -587022,8 +587041,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Unarmed",
+                "OnHit_UnarmedSG"
+              ]
             ],
             12,
             [],
@@ -587092,7 +587113,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           303032520,
           [],
@@ -603519,8 +603541,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "StaffWood",
+              "OnHit_StaffWoodSG"
+            ]
           ],
           12,
           [],
@@ -603589,7 +603613,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3978822596,
         [],
@@ -603674,10 +603699,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -603757,7 +603779,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 1,
@@ -604579,10 +604602,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -604650,7 +604670,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2721096530,
         [],
@@ -604799,8 +604820,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Unarmed",
+                "OnHit_UnarmedSG"
+              ]
             ],
             12,
             [],
@@ -604869,7 +604892,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           303032520,
           [],
@@ -621296,8 +621320,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "StaffWood",
+              "OnHit_StaffWoodSG"
+            ]
           ],
           12,
           [],
@@ -621366,7 +621392,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3978822596,
         [],
@@ -621451,10 +621478,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -621534,7 +621558,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 2,
@@ -622356,10 +622381,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -622427,7 +622449,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2721096530,
         [],
@@ -622576,8 +622599,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Unarmed",
+                "OnHit_UnarmedSG"
+              ]
             ],
             12,
             [],
@@ -622646,7 +622671,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           303032520,
           [],
@@ -639073,8 +639099,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "StaffWood",
+              "OnHit_StaffWoodSG"
+            ]
           ],
           12,
           [],
@@ -639143,7 +639171,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3978822596,
         [],
@@ -639228,10 +639257,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -639311,7 +639337,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 3,
@@ -640129,10 +640156,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           17,
           [],
           [],
@@ -640200,7 +640224,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         2721096530,
         [],
@@ -640349,8 +640374,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "Unarmed",
+                "OnHit_UnarmedSG"
+              ]
             ],
             12,
             [],
@@ -640419,7 +640446,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           303032520,
           [],
@@ -656846,8 +656874,10 @@
           "",
           "",
           [
-            "Unarmed",
-            "OnHit_UnarmedSG"
+            [
+              "StaffWood",
+              "OnHit_StaffWoodSG"
+            ]
           ],
           12,
           [],
@@ -656916,7 +656946,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ],
         3978822596,
         [],
@@ -657001,10 +657032,7 @@
         "",
         "",
         "",
-        [
-          "None",
-          ""
-        ],
+        [],
         2,
         [],
         [],
@@ -657084,7 +657112,8 @@
         null,
         null,
         "",
-        ""
+        "",
+        false
       ]
     ],
     "class_number": 6,
@@ -657867,10 +657896,7 @@
             "",
             "",
             "",
-            [
-              "None",
-              ""
-            ],
+            [],
             17,
             [],
             [],
@@ -657938,7 +657964,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           2721096530,
           [],
@@ -658087,8 +658114,10 @@
               "",
               "",
               [
-                "Unarmed",
-                "OnHit_UnarmedSG"
+                [
+                  "Unarmed",
+                  "OnHit_UnarmedSG"
+                ]
               ],
               12,
               [],
@@ -658157,7 +658186,8 @@
               null,
               null,
               "",
-              ""
+              "",
+              false
             ],
             303032520,
             [],
@@ -674584,8 +674614,10 @@
             "",
             "",
             [
-              "Unarmed",
-              "OnHit_UnarmedSG"
+              [
+                "StaffWood",
+                "OnHit_StaffWoodSG"
+              ]
             ],
             12,
             [],
@@ -674654,7 +674686,8 @@
             null,
             null,
             "",
-            ""
+            "",
+            false
           ],
           3978822596,
           [],
@@ -674739,10 +674772,7 @@
           "",
           "",
           "",
-          [
-            "None",
-            ""
-          ],
+          [],
           2,
           [],
           [],
@@ -674822,7 +674852,8 @@
           null,
           null,
           "",
-          ""
+          "",
+          false
         ]
       ],
       "0,400,1000,500",

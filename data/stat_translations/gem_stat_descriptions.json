@@ -21308,7 +21308,7 @@
         "index_handlers": [
           []
         ],
-        "string": "{0}% of Damage from [HitDamage|Hits] is taken from Supported [Companion]'s Life before you",
+        "string": "{0}% of Damage from [Hit|Hits] is taken from Supported [Companion]'s Life before you",
         "reminder_text": null,
         "is_markup": null
       }
