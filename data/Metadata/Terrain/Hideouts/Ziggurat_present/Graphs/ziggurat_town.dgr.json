@@ -87,8 +87,7 @@
       "numbers": [],
       "room": "town",
       "strings": [
-        "default",
-        "entrance1"
+        "default"
       ],
       "transform": "I",
       "unknown": [

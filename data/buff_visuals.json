@@ -48315,7 +48315,31 @@
     "sounds": null,
     "custom_frame": null
   },
+  "curse_enfeeble_chayula": {
+    "description": null,
+    "icon": "Art/2DArt/SkillIcons/enfeeble.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
   "curse_vulnerability_sanguine": {
+    "description": null,
+    "icon": "Art/2DArt/SkillIcons/vulnerability.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "curse_vulnerability_chayula": {
+    "description": null,
+    "icon": "Art/2DArt/SkillIcons/vulnerability.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "curse_elemental_weakness_chayula": {
     "description": null,
     "icon": "Art/2DArt/SkillIcons/vulnerability.dds",
     "name": null,
@@ -48567,6 +48591,14 @@
     "custom_frame": null
   },
   "curse_chaos_weakness_delirium": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "curse_chaos_weakness_chayula": {
     "description": null,
     "icon": null,
     "name": null,
@@ -51189,6 +51221,14 @@
     "custom_frame": null
   },
   "curse_temporal_chains_vaal_chrono_seer": {
+    "description": null,
+    "icon": "Art/2DArt/SkillIcons/temporalchains.dds",
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "curse_temporal_chains_chayula": {
     "description": null,
     "icon": "Art/2DArt/SkillIcons/temporalchains.dds",
     "name": null,
@@ -54492,7 +54532,7 @@
     "sounds": null,
     "custom_frame": null
   },
-  "mtx_stonefist_endurance_charge": {
+  "mtx_stonefist_endurance_charge_1": {
     "description": null,
     "icon": null,
     "name": null,
@@ -54500,7 +54540,7 @@
     "sounds": null,
     "custom_frame": null
   },
-  "mtx_stonefist_frenzy_charge": {
+  "mtx_stonefist_frenzy_charge_1": {
     "description": null,
     "icon": null,
     "name": null,
@@ -54508,7 +54548,7 @@
     "sounds": null,
     "custom_frame": null
   },
-  "mtx_stonefist_power_charge": {
+  "mtx_stonefist_power_charge_1": {
     "description": null,
     "icon": null,
     "name": null,
@@ -54516,7 +54556,7 @@
     "sounds": null,
     "custom_frame": null
   },
-  "mtx_stonefist_endurance_charge_mastery": {
+  "mtx_stonefist_endurance_charge_mastery_1": {
     "description": null,
     "icon": null,
     "name": null,
@@ -54524,7 +54564,7 @@
     "sounds": null,
     "custom_frame": null
   },
-  "mtx_stonefist_frenzy_charge_mastery": {
+  "mtx_stonefist_frenzy_charge_mastery_1": {
     "description": null,
     "icon": null,
     "name": null,
@@ -54532,7 +54572,183 @@
     "sounds": null,
     "custom_frame": null
   },
-  "mtx_stonefist_power_charge_mastery": {
+  "mtx_stonefist_power_charge_mastery_1": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge_mastery_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge_mastery_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge_mastery_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge_3": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge_3": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge_3": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge_mastery_3": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge_mastery_3": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge_mastery_3": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge_4": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge_4": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge_4": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_endurance_charge_mastery_4": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_frenzy_charge_mastery_4": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_stonefist_power_charge_mastery_4": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "contagion_breachflame": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "contagion_inactive_breachflame": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "siphon_breachflame": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "ritual_of_power_breachflame": {
     "description": null,
     "icon": null,
     "name": null,

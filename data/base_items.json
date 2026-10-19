@@ -140946,7 +140946,10 @@
         "max": 211,
         "min": 211
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -141013,7 +141016,10 @@
         "max": 211,
         "min": 211
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -141080,7 +141086,10 @@
         "min": 64
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -141150,7 +141159,10 @@
         "max": 124,
         "min": 124
       },
-      "ward": null,
+      "ward": {
+        "max": 215,
+        "min": 215
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -141214,7 +141226,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 150,
+        "min": 150
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -141278,7 +141293,10 @@
         "max": 384,
         "min": 384
       },
-      "ward": null,
+      "ward": {
+        "max": 150,
+        "min": 150
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -141342,7 +141360,10 @@
         "min": 117
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 150,
+        "min": 150
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -141412,7 +141433,10 @@
         "max": 124,
         "min": 124
       },
-      "ward": null,
+      "ward": {
+        "max": 322,
+        "min": 322
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -141473,7 +141497,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 550,
+        "min": 550
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -163500,7 +163527,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163562,7 +163592,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 33,
+        "min": 33
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163624,7 +163657,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163686,7 +163722,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163748,7 +163787,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 61,
+        "min": 61
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163810,7 +163852,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 64,
+        "min": 64
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163872,7 +163917,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163934,7 +163982,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -163996,7 +164047,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 76,
+        "min": 76
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -164058,7 +164112,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -164117,7 +164174,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 356,
+        "min": 356
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -164235,7 +164295,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -164358,7 +164421,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -164419,7 +164485,10 @@
         "max": 30,
         "min": 30
       },
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164481,7 +164550,10 @@
         "max": 49,
         "min": 49
       },
-      "ward": null,
+      "ward": {
+        "max": 33,
+        "min": 33
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164543,7 +164615,10 @@
         "max": 96,
         "min": 96
       },
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164605,7 +164680,10 @@
         "max": 128,
         "min": 128
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164667,7 +164745,10 @@
         "max": 168,
         "min": 168
       },
-      "ward": null,
+      "ward": {
+        "max": 65,
+        "min": 65
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164729,7 +164810,10 @@
         "max": 194,
         "min": 194
       },
-      "ward": null,
+      "ward": {
+        "max": 62,
+        "min": 62
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164791,7 +164875,10 @@
         "max": 240,
         "min": 240
       },
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164853,7 +164940,10 @@
         "max": 260,
         "min": 260
       },
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164915,7 +165005,10 @@
         "max": 320,
         "min": 320
       },
-      "ward": null,
+      "ward": {
+        "max": 76,
+        "min": 76
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -164977,7 +165070,10 @@
         "max": 359,
         "min": 359
       },
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165036,7 +165132,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 356,
+        "min": 356
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165094,7 +165193,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 378,
+        "min": 378
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165152,7 +165254,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165212,7 +165317,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165272,7 +165380,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165333,7 +165444,10 @@
         "min": 28
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165395,7 +165509,10 @@
         "min": 35
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165457,7 +165574,10 @@
         "min": 45
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165519,7 +165639,10 @@
         "min": 54
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165581,7 +165704,10 @@
         "min": 64
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 65,
+        "min": 65
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165643,7 +165769,10 @@
         "min": 74
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 66,
+        "min": 66
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165705,7 +165834,10 @@
         "min": 83
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165767,7 +165899,10 @@
         "min": 95
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 75,
+        "min": 75
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165829,7 +165964,10 @@
         "min": 103
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 76,
+        "min": 76
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165891,7 +166029,10 @@
         "min": 110
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 68,
+        "min": 68
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -165950,7 +166091,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 356,
+        "min": 356
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -166008,7 +166152,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 390,
+        "min": 390
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -166066,7 +166213,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -166126,7 +166276,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -166186,7 +166339,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -166250,7 +166406,10 @@
         "max": 16,
         "min": 16
       },
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166315,7 +166474,10 @@
         "max": 53,
         "min": 53
       },
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166380,7 +166542,10 @@
         "max": 71,
         "min": 71
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166445,7 +166610,10 @@
         "max": 107,
         "min": 107
       },
-      "ward": null,
+      "ward": {
+        "max": 73,
+        "min": 73
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166510,7 +166678,10 @@
         "max": 132,
         "min": 132
       },
-      "ward": null,
+      "ward": {
+        "max": 74,
+        "min": 74
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166575,7 +166746,10 @@
         "max": 147,
         "min": 147
       },
-      "ward": null,
+      "ward": {
+        "max": 78,
+        "min": 78
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166640,7 +166814,10 @@
         "max": 176,
         "min": 176
       },
-      "ward": null,
+      "ward": {
+        "max": 85,
+        "min": 85
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166705,7 +166882,10 @@
         "max": 194,
         "min": 194
       },
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166764,7 +166944,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 356,
+        "min": 356
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166822,7 +167005,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 390,
+        "min": 390
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166882,7 +167068,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -166942,7 +167131,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167002,7 +167194,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167062,7 +167257,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167126,7 +167324,10 @@
         "max": 199,
         "min": 199
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167190,7 +167391,10 @@
         "min": 16
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167255,7 +167459,10 @@
         "min": 24
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167320,7 +167527,10 @@
         "min": 30
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167385,7 +167595,10 @@
         "min": 41
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 77,
+        "min": 77
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167450,7 +167663,10 @@
         "min": 46
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 74,
+        "min": 74
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167515,7 +167731,10 @@
         "min": 48
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 77,
+        "min": 77
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167580,7 +167799,10 @@
         "min": 57
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 85,
+        "min": 85
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167645,7 +167867,10 @@
         "min": 63
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 87,
+        "min": 87
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167704,7 +167929,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 356,
+        "min": 356
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167762,7 +167990,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 367,
+        "min": 367
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167822,7 +168053,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167882,7 +168116,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -167940,7 +168177,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -168004,7 +168244,10 @@
         "max": 16,
         "min": 16
       },
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168069,7 +168312,10 @@
         "max": 53,
         "min": 53
       },
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168134,7 +168380,10 @@
         "max": 71,
         "min": 71
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168199,7 +168448,10 @@
         "max": 114,
         "min": 114
       },
-      "ward": null,
+      "ward": {
+        "max": 77,
+        "min": 77
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168264,7 +168516,10 @@
         "max": 132,
         "min": 132
       },
-      "ward": null,
+      "ward": {
+        "max": 74,
+        "min": 74
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168329,7 +168584,10 @@
         "max": 154,
         "min": 154
       },
-      "ward": null,
+      "ward": {
+        "max": 82,
+        "min": 82
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168394,7 +168652,10 @@
         "max": 176,
         "min": 176
       },
-      "ward": null,
+      "ward": {
+        "max": 85,
+        "min": 85
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168459,7 +168720,10 @@
         "max": 197,
         "min": 197
       },
-      "ward": null,
+      "ward": {
+        "max": 87,
+        "min": 87
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168518,7 +168782,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 356,
+        "min": 356
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168576,7 +168843,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 378,
+        "min": 378
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168634,7 +168904,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168694,7 +168967,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168754,7 +169030,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 430,
+        "min": 430
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -168812,7 +169091,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 100,
+        "min": 100
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -168879,7 +169161,10 @@
         "max": 165,
         "min": 165
       },
-      "ward": null,
+      "ward": {
+        "max": 215,
+        "min": 215
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -168948,7 +169233,10 @@
         "max": 182,
         "min": 182
       },
-      "ward": null,
+      "ward": {
+        "max": 301,
+        "min": 301
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169015,7 +169303,10 @@
         "max": 248,
         "min": 248
       },
-      "ward": null,
+      "ward": {
+        "max": 129,
+        "min": 129
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169082,7 +169373,10 @@
         "max": 248,
         "min": 248
       },
-      "ward": null,
+      "ward": {
+        "max": 129,
+        "min": 129
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169149,7 +169443,10 @@
         "min": 76
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 129,
+        "min": 129
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169210,7 +169507,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 73,
+        "min": 73
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -169271,7 +169571,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 158,
+        "min": 158
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -169332,7 +169635,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 103,
+        "min": 103
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -169393,7 +169699,10 @@
         "max": 364,
         "min": 364
       },
-      "ward": null,
+      "ward": {
+        "max": 73,
+        "min": 73
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169454,7 +169763,10 @@
         "max": 362,
         "min": 362
       },
-      "ward": null,
+      "ward": {
+        "max": 119,
+        "min": 119
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169515,7 +169827,10 @@
         "max": 345,
         "min": 345
       },
-      "ward": null,
+      "ward": {
+        "max": 144,
+        "min": 144
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169576,7 +169891,10 @@
         "min": 114
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 73,
+        "min": 73
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169637,7 +169955,10 @@
         "min": 107
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 138,
+        "min": 138
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169698,7 +170019,10 @@
         "min": 117
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 103,
+        "min": 103
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -169762,7 +170086,10 @@
         "max": 200,
         "min": 200
       },
-      "ward": null,
+      "ward": {
+        "max": 73,
+        "min": 73
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -169826,7 +170153,10 @@
         "max": 181,
         "min": 181
       },
-      "ward": null,
+      "ward": {
+        "max": 158,
+        "min": 158
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -169890,7 +170220,10 @@
         "max": 214,
         "min": 214
       },
-      "ward": null,
+      "ward": {
+        "max": 124,
+        "min": 124
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -169954,7 +170287,10 @@
         "min": 55
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 128,
+        "min": 128
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -170018,7 +170354,10 @@
         "min": 56
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 158,
+        "min": 158
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -170082,7 +170421,10 @@
         "min": 64
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 103,
+        "min": 103
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -170146,7 +170488,10 @@
         "max": 192,
         "min": 192
       },
-      "ward": null,
+      "ward": {
+        "max": 92,
+        "min": 92
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -170210,7 +170555,10 @@
         "max": 181,
         "min": 181
       },
-      "ward": null,
+      "ward": {
+        "max": 158,
+        "min": 158
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -170274,7 +170622,10 @@
         "max": 209,
         "min": 209
       },
-      "ward": null,
+      "ward": {
+        "max": 103,
+        "min": 103
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -170338,7 +170689,10 @@
         "max": 236,
         "min": 236
       },
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -170399,7 +170753,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 19,
+        "min": 19
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170461,7 +170818,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170523,7 +170883,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170585,7 +170948,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170647,7 +171013,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170709,7 +171078,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 50,
+        "min": 50
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170771,7 +171143,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170833,7 +171208,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 57,
+        "min": 57
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170892,7 +171270,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 233,
+        "min": 233
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -170950,7 +171331,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 252,
+        "min": 252
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171008,7 +171392,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 282,
+        "min": 282
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171069,7 +171456,10 @@
         "max": 19,
         "min": 19
       },
-      "ward": null,
+      "ward": {
+        "max": 19,
+        "min": 19
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171131,7 +171521,10 @@
         "max": 58,
         "min": 58
       },
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171193,7 +171586,10 @@
         "max": 84,
         "min": 84
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171255,7 +171651,10 @@
         "max": 127,
         "min": 127
       },
-      "ward": null,
+      "ward": {
+        "max": 48,
+        "min": 48
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171317,7 +171716,10 @@
         "max": 158,
         "min": 158
       },
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171379,7 +171781,10 @@
         "max": 179,
         "min": 179
       },
-      "ward": null,
+      "ward": {
+        "max": 52,
+        "min": 52
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171441,7 +171846,10 @@
         "max": 210,
         "min": 210
       },
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171503,7 +171911,10 @@
         "max": 231,
         "min": 231
       },
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171562,7 +171973,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 233,
+        "min": 233
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171620,7 +172034,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 248,
+        "min": 248
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171678,7 +172095,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 282,
+        "min": 282
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171739,7 +172159,10 @@
         "min": 19
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 19,
+        "min": 19
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171801,7 +172224,10 @@
         "min": 29
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171863,7 +172289,10 @@
         "min": 35
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171925,7 +172354,10 @@
         "min": 47
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 48,
+        "min": 48
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -171987,7 +172419,10 @@
         "min": 54
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172049,7 +172484,10 @@
         "min": 62
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 55,
+        "min": 55
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172111,7 +172549,10 @@
         "min": 68
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172173,7 +172614,10 @@
         "min": 73
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172232,7 +172676,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 233,
+        "min": 233
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172290,7 +172737,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 256,
+        "min": 256
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172348,7 +172798,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 282,
+        "min": 282
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172412,7 +172865,10 @@
         "max": 20,
         "min": 20
       },
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172477,7 +172933,10 @@
         "max": 34,
         "min": 34
       },
-      "ward": null,
+      "ward": {
+        "max": 32,
+        "min": 32
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172542,7 +173001,10 @@
         "max": 46,
         "min": 46
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172607,7 +173069,10 @@
         "max": 70,
         "min": 70
       },
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172672,7 +173137,10 @@
         "max": 87,
         "min": 87
       },
-      "ward": null,
+      "ward": {
+        "max": 44,
+        "min": 44
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172737,7 +173205,10 @@
         "max": 115,
         "min": 115
       },
-      "ward": null,
+      "ward": {
+        "max": 52,
+        "min": 52
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172796,7 +173267,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 233,
+        "min": 233
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172854,7 +173328,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 282,
+        "min": 282
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172918,7 +173395,10 @@
         "min": 13
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -172983,7 +173463,10 @@
         "min": 16
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 30,
+        "min": 30
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173048,7 +173531,10 @@
         "min": 19
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173113,7 +173599,10 @@
         "min": 27
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173178,7 +173667,10 @@
         "min": 30
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 44,
+        "min": 44
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173243,7 +173735,10 @@
         "min": 37
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 52,
+        "min": 52
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173302,7 +173797,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 233,
+        "min": 233
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173360,7 +173858,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 282,
+        "min": 282
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173424,7 +173925,10 @@
         "max": 20,
         "min": 20
       },
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173489,7 +173993,10 @@
         "max": 32,
         "min": 32
       },
-      "ward": null,
+      "ward": {
+        "max": 30,
+        "min": 30
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173554,7 +174061,10 @@
         "max": 46,
         "min": 46
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173619,7 +174129,10 @@
         "max": 75,
         "min": 75
       },
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173684,7 +174197,10 @@
         "max": 87,
         "min": 87
       },
-      "ward": null,
+      "ward": {
+        "max": 44,
+        "min": 44
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173749,7 +174265,10 @@
         "max": 115,
         "min": 115
       },
-      "ward": null,
+      "ward": {
+        "max": 52,
+        "min": 52
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173808,7 +174327,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 233,
+        "min": 233
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173866,7 +174388,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 282,
+        "min": 282
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173927,7 +174452,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 60,
+        "min": 60
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -173988,7 +174516,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 104,
+        "min": 104
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174049,7 +174580,10 @@
         "max": 219,
         "min": 219
       },
-      "ward": null,
+      "ward": {
+        "max": 72,
+        "min": 72
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174110,7 +174644,10 @@
         "max": 227,
         "min": 227
       },
-      "ward": null,
+      "ward": {
+        "max": 91,
+        "min": 91
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174171,7 +174708,10 @@
         "min": 75
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 48,
+        "min": 48
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174232,7 +174772,10 @@
         "min": 67
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 104,
+        "min": 104
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174296,7 +174839,10 @@
         "max": 109,
         "min": 109
       },
-      "ward": null,
+      "ward": {
+        "max": 96,
+        "min": 96
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174360,7 +174906,10 @@
         "max": 137,
         "min": 137
       },
-      "ward": null,
+      "ward": {
+        "max": 65,
+        "min": 65
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174424,7 +174973,10 @@
         "min": 36
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 84,
+        "min": 84
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174488,7 +175040,10 @@
         "min": 44
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 52,
+        "min": 52
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174552,7 +175107,10 @@
         "max": 126,
         "min": 126
       },
-      "ward": null,
+      "ward": {
+        "max": 60,
+        "min": 60
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174616,7 +175174,10 @@
         "max": 125,
         "min": 125
       },
-      "ward": null,
+      "ward": {
+        "max": 91,
+        "min": 91
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174683,7 +175244,10 @@
         "max": 103,
         "min": 103
       },
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174744,7 +175308,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 10,
+        "min": 10
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174806,7 +175373,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 16,
+        "min": 16
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174868,7 +175438,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174930,7 +175503,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 21,
+        "min": 21
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -174992,7 +175568,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175054,7 +175633,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175113,7 +175695,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 117,
+        "min": 117
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175171,7 +175756,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175232,7 +175820,10 @@
         "max": 10,
         "min": 10
       },
-      "ward": null,
+      "ward": {
+        "max": 10,
+        "min": 10
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175294,7 +175885,10 @@
         "max": 31,
         "min": 31
       },
-      "ward": null,
+      "ward": {
+        "max": 16,
+        "min": 16
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175356,7 +175950,10 @@
         "max": 42,
         "min": 42
       },
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175418,7 +176015,10 @@
         "max": 68,
         "min": 68
       },
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175480,7 +176080,10 @@
         "max": 79,
         "min": 79
       },
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175542,7 +176145,10 @@
         "max": 105,
         "min": 105
       },
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175601,7 +176207,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 117,
+        "min": 117
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175662,7 +176271,10 @@
         "max": 133,
         "min": 133
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175723,7 +176335,10 @@
         "min": 9
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 10,
+        "min": 10
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175785,7 +176400,10 @@
         "min": 15
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175847,7 +176465,10 @@
         "min": 18
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175909,7 +176530,10 @@
         "min": 23
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 20,
+        "min": 20
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -175971,7 +176595,10 @@
         "min": 27
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176033,7 +176660,10 @@
         "min": 34
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176092,7 +176722,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 117,
+        "min": 117
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176150,7 +176783,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176214,7 +176850,10 @@
         "max": 11,
         "min": 11
       },
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176279,7 +176918,10 @@
         "max": 23,
         "min": 23
       },
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176344,7 +176986,10 @@
         "max": 43,
         "min": 43
       },
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176409,7 +177054,10 @@
         "max": 58,
         "min": 58
       },
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176468,7 +177116,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 117,
+        "min": 117
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176526,7 +177177,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176590,7 +177244,10 @@
         "min": 6
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 11,
+        "min": 11
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176655,7 +177312,10 @@
         "min": 10
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176720,7 +177380,10 @@
         "min": 15
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176785,7 +177448,10 @@
         "min": 19
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176844,7 +177510,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 117,
+        "min": 117
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176902,7 +177571,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -176966,7 +177638,10 @@
         "max": 9,
         "min": 9
       },
-      "ward": null,
+      "ward": {
+        "max": 11,
+        "min": 11
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177031,7 +177706,10 @@
         "max": 23,
         "min": 23
       },
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177096,7 +177774,10 @@
         "max": 43,
         "min": 43
       },
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177161,7 +177842,10 @@
         "max": 58,
         "min": 58
       },
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177220,7 +177904,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 117,
+        "min": 117
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177278,7 +177965,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177339,7 +178029,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 48,
+        "min": 48
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177400,7 +178093,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 32,
+        "min": 32
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177461,7 +178157,10 @@
         "max": 119,
         "min": 119
       },
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177522,7 +178221,10 @@
         "max": 113,
         "min": 113
       },
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177583,7 +178285,10 @@
         "min": 34
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177644,7 +178349,10 @@
         "min": 33
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 52,
+        "min": 52
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177708,7 +178416,10 @@
         "max": 71,
         "min": 71
       },
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177772,7 +178483,10 @@
         "min": 19
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177836,7 +178550,10 @@
         "max": 65,
         "min": 65
       },
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177903,7 +178620,10 @@
         "max": 14,
         "min": 14
       },
-      "ward": null,
+      "ward": {
+        "max": 123,
+        "min": 123
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -177964,7 +178684,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 14,
+        "min": 14
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178026,7 +178749,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 21,
+        "min": 21
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178088,7 +178814,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178150,7 +178879,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 31,
+        "min": 31
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178212,7 +178944,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178274,7 +179009,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178333,7 +179071,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 175,
+        "min": 175
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178391,7 +179132,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 211,
+        "min": 211
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178452,7 +179196,10 @@
         "max": 15,
         "min": 15
       },
-      "ward": null,
+      "ward": {
+        "max": 14,
+        "min": 14
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178514,7 +179261,10 @@
         "max": 47,
         "min": 47
       },
-      "ward": null,
+      "ward": {
+        "max": 21,
+        "min": 21
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178576,7 +179326,10 @@
         "max": 63,
         "min": 63
       },
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178638,7 +179391,10 @@
         "max": 102,
         "min": 102
       },
-      "ward": null,
+      "ward": {
+        "max": 32,
+        "min": 32
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178700,7 +179456,10 @@
         "max": 118,
         "min": 118
       },
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178762,7 +179521,10 @@
         "max": 157,
         "min": 157
       },
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178821,7 +179583,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 175,
+        "min": 175
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178879,7 +179644,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 211,
+        "min": 211
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -178940,7 +179708,10 @@
         "min": 14
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 14,
+        "min": 14
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179002,7 +179773,10 @@
         "min": 22
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 21,
+        "min": 21
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179064,7 +179838,10 @@
         "min": 27
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179126,7 +179903,10 @@
         "min": 36
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 31,
+        "min": 31
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179188,7 +179968,10 @@
         "min": 41
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179250,7 +180033,10 @@
         "min": 51
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179309,7 +180095,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 175,
+        "min": 175
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179367,7 +180156,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 211,
+        "min": 211
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179431,7 +180223,10 @@
         "max": 17,
         "min": 17
       },
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179496,7 +180291,10 @@
         "max": 35,
         "min": 35
       },
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179561,7 +180359,10 @@
         "max": 65,
         "min": 65
       },
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179626,7 +180427,10 @@
         "max": 86,
         "min": 86
       },
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179685,7 +180489,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 175,
+        "min": 175
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179743,7 +180550,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 211,
+        "min": 211
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179807,7 +180617,10 @@
         "min": 10
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179872,7 +180685,10 @@
         "min": 15
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -179937,7 +180753,10 @@
         "min": 22
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180002,7 +180821,10 @@
         "min": 28
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180061,7 +180883,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 175,
+        "min": 175
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180119,7 +180944,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 211,
+        "min": 211
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180183,7 +181011,10 @@
         "max": 15,
         "min": 15
       },
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180248,7 +181079,10 @@
         "max": 35,
         "min": 35
       },
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180313,7 +181147,10 @@
         "max": 65,
         "min": 65
       },
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180378,7 +181215,10 @@
         "max": 86,
         "min": 86
       },
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180437,7 +181277,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 175,
+        "min": 175
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180495,7 +181338,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 211,
+        "min": 211
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180556,7 +181402,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180617,7 +181466,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 78,
+        "min": 78
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180678,7 +181530,10 @@
         "max": 179,
         "min": 179
       },
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180739,7 +181594,10 @@
         "max": 170,
         "min": 170
       },
-      "ward": null,
+      "ward": {
+        "max": 68,
+        "min": 68
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180800,7 +181658,10 @@
         "min": 51
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180861,7 +181722,10 @@
         "min": 58
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180925,7 +181789,10 @@
         "max": 107,
         "min": 107
       },
-      "ward": null,
+      "ward": {
+        "max": 39,
+        "min": 39
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -180989,7 +181856,10 @@
         "min": 32
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -181053,7 +181923,10 @@
         "max": 98,
         "min": 98
       },
-      "ward": null,
+      "ward": {
+        "max": 58,
+        "min": 58
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -181120,7 +181993,10 @@
         "max": 61,
         "min": 61
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -181181,7 +182057,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181246,7 +182125,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 15,
+        "min": 15
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181311,7 +182193,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181376,7 +182261,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181441,7 +182329,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 25,
+        "min": 25
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181506,7 +182397,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181571,7 +182465,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 30,
+        "min": 30
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181636,7 +182533,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 33,
+        "min": 33
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181701,7 +182601,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181763,7 +182666,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 148,
+        "min": 148
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181825,7 +182731,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 146,
+        "min": 146
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181886,7 +182795,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 160,
+        "min": 160
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -181947,7 +182859,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 176,
+        "min": 176
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -182014,7 +182929,10 @@
         "max": 7,
         "min": 7
       },
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182082,7 +183000,10 @@
         "max": 17,
         "min": 17
       },
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182150,7 +183071,10 @@
         "max": 29,
         "min": 29
       },
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182218,7 +183142,10 @@
         "max": 44,
         "min": 44
       },
-      "ward": null,
+      "ward": {
+        "max": 30,
+        "min": 30
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182286,7 +183213,10 @@
         "max": 54,
         "min": 54
       },
-      "ward": null,
+      "ward": {
+        "max": 33,
+        "min": 33
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182354,7 +183284,10 @@
         "max": 60,
         "min": 60
       },
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182422,7 +183355,10 @@
         "max": 74,
         "min": 74
       },
-      "ward": null,
+      "ward": {
+        "max": 38,
+        "min": 38
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182489,7 +183425,10 @@
         "max": 81,
         "min": 81
       },
-      "ward": null,
+      "ward": {
+        "max": 40,
+        "min": 40
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182550,7 +183489,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 146,
+        "min": 146
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182612,7 +183554,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 157,
+        "min": 157
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182674,7 +183619,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 176,
+        "min": 176
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182741,7 +183689,10 @@
         "max": 97,
         "min": 97
       },
-      "ward": null,
+      "ward": {
+        "max": 51,
+        "min": 51
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182808,7 +183759,10 @@
         "min": 6
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182876,7 +183830,10 @@
         "min": 9
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 16,
+        "min": 16
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -182944,7 +183901,10 @@
         "min": 12
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183012,7 +183972,10 @@
         "min": 17
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 31,
+        "min": 31
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183080,7 +184043,10 @@
         "min": 19
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 33,
+        "min": 33
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183148,7 +184114,10 @@
         "min": 20
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183216,7 +184185,10 @@
         "min": 23
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 38,
+        "min": 38
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183284,7 +184256,10 @@
         "min": 25
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 40,
+        "min": 40
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183346,7 +184321,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 146,
+        "min": 146
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183407,7 +184385,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 157,
+        "min": 157
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183468,7 +184449,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 176,
+        "min": 176
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -183532,7 +184516,10 @@
         "max": 10,
         "min": 10
       },
-      "ward": null,
+      "ward": {
+        "max": 10,
+        "min": 10
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -183598,7 +184585,10 @@
         "max": 18,
         "min": 18
       },
-      "ward": null,
+      "ward": {
+        "max": 11,
+        "min": 11
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -183664,7 +184654,10 @@
         "max": 31,
         "min": 31
       },
-      "ward": null,
+      "ward": {
+        "max": 14,
+        "min": 14
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -183730,7 +184723,10 @@
         "max": 42,
         "min": 42
       },
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -183796,7 +184792,10 @@
         "max": 55,
         "min": 55
       },
-      "ward": null,
+      "ward": {
+        "max": 21,
+        "min": 21
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -183862,7 +184861,10 @@
         "max": 64,
         "min": 64
       },
-      "ward": null,
+      "ward": {
+        "max": 20,
+        "min": 20
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -183928,7 +184930,10 @@
         "max": 79,
         "min": 79
       },
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -183994,7 +184999,10 @@
         "max": 92,
         "min": 92
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -184060,7 +185068,10 @@
         "max": 105,
         "min": 105
       },
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -184126,7 +185137,10 @@
         "max": 116,
         "min": 116
       },
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -184189,7 +185203,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 117,
+        "min": 117
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -184251,7 +185268,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 122,
+        "min": 122
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -184313,7 +185333,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -184378,7 +185401,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -184442,7 +185468,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -184506,7 +185535,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 58,
+        "min": 58
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -184573,7 +185605,10 @@
         "max": 72,
         "min": 72
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -184640,7 +185675,10 @@
         "max": 85,
         "min": 85
       },
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -184707,7 +185745,10 @@
         "max": 78,
         "min": 78
       },
-      "ward": null,
+      "ward": {
+        "max": 59,
+        "min": 59
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -184774,7 +185815,10 @@
         "min": 22
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -184841,7 +185885,10 @@
         "min": 26
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -184908,7 +185955,10 @@
         "min": 24
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 59,
+        "min": 59
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -184972,7 +186022,10 @@
         "max": 104,
         "min": 104
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -185037,7 +186090,10 @@
         "max": 124,
         "min": 124
       },
-      "ward": null,
+      "ward": {
+        "max": 32,
+        "min": 32
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -185102,7 +186158,10 @@
         "max": 111,
         "min": 111
       },
-      "ward": null,
+      "ward": {
+        "max": 47,
+        "min": 47
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -185167,7 +186226,10 @@
         "min": 12
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185229,7 +186291,10 @@
         "min": 15
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 15,
+        "min": 15
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185291,7 +186356,10 @@
         "min": 18
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 17,
+        "min": 17
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185353,7 +186421,10 @@
         "min": 22
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 22,
+        "min": 22
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185415,7 +186486,10 @@
         "min": 26
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185477,7 +186551,10 @@
         "min": 29
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 25,
+        "min": 25
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185539,7 +186616,10 @@
         "min": 34
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185601,7 +186681,10 @@
         "min": 36
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 30,
+        "min": 30
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185663,7 +186746,10 @@
         "min": 42
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 32,
+        "min": 32
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185725,7 +186811,10 @@
         "min": 47
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185784,7 +186873,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 146,
+        "min": 146
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185842,7 +186934,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 157,
+        "min": 157
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185900,7 +186995,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 176,
+        "min": 176
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -185961,7 +187059,10 @@
         "min": 43
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -186022,7 +187123,10 @@
         "min": 50
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 32,
+        "min": 32
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -186083,7 +187187,10 @@
         "min": 43
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 58,
+        "min": 58
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -186144,7 +187251,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 365,
+        "min": 365
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -186207,7 +187317,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 236,
+        "min": 236
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -186270,7 +187383,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -186333,7 +187449,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -186397,7 +187516,10 @@
         "max": 442,
         "min": 442
       },
-      "ward": null,
+      "ward": {
+        "max": 64,
+        "min": 64
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186458,7 +187580,10 @@
         "max": 226,
         "min": 226
       },
-      "ward": null,
+      "ward": {
+        "max": 378,
+        "min": 378
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186521,7 +187646,10 @@
         "max": 298,
         "min": 298
       },
-      "ward": null,
+      "ward": {
+        "max": 236,
+        "min": 236
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186584,7 +187712,10 @@
         "max": 406,
         "min": 406
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186646,7 +187777,10 @@
         "min": 66
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 387,
+        "min": 387
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186709,7 +187843,10 @@
         "min": 91
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 236,
+        "min": 236
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186772,7 +187909,10 @@
         "min": 142
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 64,
+        "min": 64
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186835,7 +187975,10 @@
         "min": 132
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 133,
+        "min": 133
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -186902,7 +188045,10 @@
         "max": 164,
         "min": 164
       },
-      "ward": null,
+      "ward": {
+        "max": 236,
+        "min": 236
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -186968,7 +188114,10 @@
         "max": 223,
         "min": 223
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187034,7 +188183,10 @@
         "max": 223,
         "min": 223
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187100,7 +188252,10 @@
         "max": 223,
         "min": 223
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187164,7 +188319,10 @@
         "max": 109,
         "min": 109
       },
-      "ward": null,
+      "ward": {
+        "max": 408,
+        "min": 408
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187230,7 +188388,10 @@
         "max": 243,
         "min": 243
       },
-      "ward": null,
+      "ward": {
+        "max": 64,
+        "min": 64
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187295,7 +188456,10 @@
         "min": 32
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 417,
+        "min": 417
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187361,7 +188525,10 @@
         "min": 68
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187427,7 +188594,10 @@
         "min": 53
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 215,
+        "min": 215
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187493,7 +188663,10 @@
         "min": 31
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 344,
+        "min": 344
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -187558,7 +188731,10 @@
         "max": 114,
         "min": 114
       },
-      "ward": null,
+      "ward": {
+        "max": 395,
+        "min": 395
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -187624,7 +188800,10 @@
         "max": 223,
         "min": 223
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -187690,7 +188869,10 @@
         "max": 186,
         "min": 186
       },
-      "ward": null,
+      "ward": {
+        "max": 189,
+        "min": 189
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -187756,7 +188938,10 @@
         "max": 246,
         "min": 246
       },
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -187818,7 +189003,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -187879,7 +189067,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 85,
+        "min": 85
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -187940,7 +189131,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188001,7 +189195,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 240,
+        "min": 240
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188063,7 +189260,10 @@
         "max": 290,
         "min": 290
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188124,7 +189324,10 @@
         "max": 243,
         "min": 243
       },
-      "ward": null,
+      "ward": {
+        "max": 99,
+        "min": 99
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188185,7 +189388,10 @@
         "max": 320,
         "min": 320
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188246,7 +189452,10 @@
         "max": 154,
         "min": 154
       },
-      "ward": null,
+      "ward": {
+        "max": 240,
+        "min": 240
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188308,7 +189517,10 @@
         "min": 85
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188369,7 +189581,10 @@
         "min": 70
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 113,
+        "min": 113
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188430,7 +189645,10 @@
         "min": 97
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188491,7 +189709,10 @@
         "min": 47
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 240,
+        "min": 240
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188556,7 +189777,10 @@
         "max": 156,
         "min": 156
       },
-      "ward": null,
+      "ward": {
+        "max": 48,
+        "min": 48
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188620,7 +189844,10 @@
         "max": 140,
         "min": 140
       },
-      "ward": null,
+      "ward": {
+        "max": 85,
+        "min": 85
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188684,7 +189911,10 @@
         "max": 169,
         "min": 169
       },
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188748,7 +189978,10 @@
         "max": 78,
         "min": 78
       },
-      "ward": null,
+      "ward": {
+        "max": 254,
+        "min": 254
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188813,7 +190046,10 @@
         "min": 47
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188877,7 +190113,10 @@
         "min": 39
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 113,
+        "min": 113
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -188941,7 +190180,10 @@
         "min": 52
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189005,7 +190247,10 @@
         "min": 24
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 254,
+        "min": 254
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189070,7 +190315,10 @@
         "max": 160,
         "min": 160
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189134,7 +190382,10 @@
         "max": 133,
         "min": 133
       },
-      "ward": null,
+      "ward": {
+        "max": 99,
+        "min": 99
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189198,7 +190449,10 @@
         "max": 169,
         "min": 169
       },
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189262,7 +190516,10 @@
         "max": 78,
         "min": 78
       },
-      "ward": null,
+      "ward": {
+        "max": 254,
+        "min": 254
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189324,7 +190581,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189385,7 +190645,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189446,7 +190709,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189507,7 +190773,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 127,
+        "min": 127
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189569,7 +190838,10 @@
         "max": 139,
         "min": 139
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189630,7 +190902,10 @@
         "max": 109,
         "min": 109
       },
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189691,7 +190966,10 @@
         "max": 148,
         "min": 148
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189752,7 +191030,10 @@
         "max": 77,
         "min": 77
       },
-      "ward": null,
+      "ward": {
+        "max": 120,
+        "min": 120
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189814,7 +191095,10 @@
         "min": 42
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189875,7 +191159,10 @@
         "min": 33
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189936,7 +191223,10 @@
         "min": 49
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 21,
+        "min": 21
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -189997,7 +191287,10 @@
         "min": 21
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 128,
+        "min": 128
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190062,7 +191355,10 @@
         "max": 76,
         "min": 76
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190126,7 +191422,10 @@
         "max": 60,
         "min": 60
       },
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190190,7 +191489,10 @@
         "max": 81,
         "min": 81
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190254,7 +191556,10 @@
         "max": 33,
         "min": 33
       },
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190319,7 +191624,10 @@
         "min": 23
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190383,7 +191691,10 @@
         "min": 18
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190447,7 +191758,10 @@
         "min": 26
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190511,7 +191825,10 @@
         "min": 11
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 134,
+        "min": 134
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190576,7 +191893,10 @@
         "max": 76,
         "min": 76
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190640,7 +191960,10 @@
         "max": 60,
         "min": 60
       },
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190704,7 +192027,10 @@
         "max": 85,
         "min": 85
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190768,7 +192094,10 @@
         "max": 34,
         "min": 34
       },
-      "ward": null,
+      "ward": {
+        "max": 138,
+        "min": 138
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190830,7 +192159,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190891,7 +192223,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 116,
+        "min": 116
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -190952,7 +192287,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191013,7 +192351,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 180,
+        "min": 180
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191075,7 +192416,10 @@
         "max": 209,
         "min": 209
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191136,7 +192480,10 @@
         "max": 146,
         "min": 146
       },
-      "ward": null,
+      "ward": {
+        "max": 116,
+        "min": 116
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191197,7 +192544,10 @@
         "max": 222,
         "min": 222
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191258,7 +192608,10 @@
         "max": 124,
         "min": 124
       },
-      "ward": null,
+      "ward": {
+        "max": 169,
+        "min": 169
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191320,7 +192673,10 @@
         "min": 64
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191381,7 +192737,10 @@
         "min": 45
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 116,
+        "min": 116
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191442,7 +192801,10 @@
         "min": 69
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191503,7 +192865,10 @@
         "min": 34
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 184,
+        "min": 184
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191568,7 +192933,10 @@
         "max": 121,
         "min": 121
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191632,7 +193000,10 @@
         "max": 87,
         "min": 87
       },
-      "ward": null,
+      "ward": {
+        "max": 116,
+        "min": 116
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191696,7 +193067,10 @@
         "max": 117,
         "min": 117
       },
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191760,7 +193134,10 @@
         "max": 59,
         "min": 59
       },
-      "ward": null,
+      "ward": {
+        "max": 190,
+        "min": 190
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191825,7 +193202,10 @@
         "min": 35
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191889,7 +193269,10 @@
         "min": 25
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 116,
+        "min": 116
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -191953,7 +193336,10 @@
         "min": 39
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -192017,7 +193403,10 @@
         "min": 16
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 201,
+        "min": 201
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -192082,7 +193471,10 @@
         "max": 115,
         "min": 115
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -192146,7 +193538,10 @@
         "max": 81,
         "min": 81
       },
-      "ward": null,
+      "ward": {
+        "max": 116,
+        "min": 116
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -192210,7 +193605,10 @@
         "max": 132,
         "min": 132
       },
-      "ward": null,
+      "ward": {
+        "max": 32,
+        "min": 32
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -192274,7 +193672,10 @@
         "max": 56,
         "min": 56
       },
-      "ward": null,
+      "ward": {
+        "max": 194,
+        "min": 194
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -192336,7 +193737,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 44,
+        "min": 44
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -192400,7 +193804,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 106,
+        "min": 106
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -192464,7 +193871,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -192528,7 +193938,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 176,
+        "min": 176
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -192596,7 +194009,10 @@
         "max": 97,
         "min": 97
       },
-      "ward": null,
+      "ward": {
+        "max": 44,
+        "min": 44
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -192663,7 +194079,10 @@
         "max": 78,
         "min": 78
       },
-      "ward": null,
+      "ward": {
+        "max": 106,
+        "min": 106
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -192730,7 +194149,10 @@
         "max": 103,
         "min": 103
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -192797,7 +194219,10 @@
         "max": 52,
         "min": 52
       },
-      "ward": null,
+      "ward": {
+        "max": 185,
+        "min": 185
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -192865,7 +194290,10 @@
         "min": 29
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 44,
+        "min": 44
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -192932,7 +194360,10 @@
         "min": 24
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 106,
+        "min": 106
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -192999,7 +194430,10 @@
         "min": 35
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 26,
+        "min": 26
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -193066,7 +194500,10 @@
         "min": 15
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 194,
+        "min": 194
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -193131,7 +194568,10 @@
         "max": 141,
         "min": 141
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -193196,7 +194636,10 @@
         "max": 114,
         "min": 114
       },
-      "ward": null,
+      "ward": {
+        "max": 85,
+        "min": 85
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -193261,7 +194704,10 @@
         "max": 155,
         "min": 155
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -193326,7 +194772,10 @@
         "max": 87,
         "min": 87
       },
-      "ward": null,
+      "ward": {
+        "max": 134,
+        "min": 134
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -193392,7 +194841,10 @@
         "min": 55
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 62,
+        "min": 62
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -193453,7 +194905,10 @@
         "min": 47
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 114,
+        "min": 114
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -193514,7 +194969,10 @@
         "min": 68
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -193575,7 +195033,10 @@
         "min": 36
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 181,
+        "min": 181
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -193637,7 +195098,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -193701,7 +195165,10 @@
         "max": 90,
         "min": 90
       },
-      "ward": null,
+      "ward": {
+        "max": 72,
+        "min": 72
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -283050,7 +284517,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 110,
+        "min": 110
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -283112,7 +284582,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 55,
+        "min": 55
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -283174,7 +284647,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 221,
+        "min": 221
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -283236,7 +284712,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -283298,7 +284777,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -283360,7 +284842,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 126,
+        "min": 126
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -283422,7 +284907,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 93,
+        "min": 93
+      },
       "movement_speed": -500,
       "block": null,
       "description": null,
@@ -283484,7 +284972,10 @@
         "max": 82,
         "min": 82
       },
-      "ward": null,
+      "ward": {
+        "max": 165,
+        "min": 165
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283546,7 +285037,10 @@
         "max": 178,
         "min": 178
       },
-      "ward": null,
+      "ward": {
+        "max": 152,
+        "min": 152
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283608,7 +285102,10 @@
         "max": 219,
         "min": 219
       },
-      "ward": null,
+      "ward": {
+        "max": 55,
+        "min": 55
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283670,7 +285167,10 @@
         "max": 164,
         "min": 164
       },
-      "ward": null,
+      "ward": {
+        "max": 138,
+        "min": 138
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283732,7 +285232,10 @@
         "max": 219,
         "min": 219
       },
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283794,7 +285297,10 @@
         "max": 301,
         "min": 301
       },
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283856,7 +285362,10 @@
         "max": 270,
         "min": 270
       },
-      "ward": null,
+      "ward": {
+        "max": 130,
+        "min": 130
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283918,7 +285427,10 @@
         "max": 385,
         "min": 385
       },
-      "ward": null,
+      "ward": {
+        "max": 19,
+        "min": 19
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -283980,7 +285492,10 @@
         "max": 406,
         "min": 406
       },
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284042,7 +285557,10 @@
         "max": 384,
         "min": 384
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284103,7 +285621,10 @@
         "max": 338,
         "min": 338
       },
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284166,7 +285687,10 @@
         "max": 361,
         "min": 361
       },
-      "ward": null,
+      "ward": {
+        "max": 129,
+        "min": 129
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284227,7 +285751,10 @@
         "min": 9
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 138,
+        "min": 138
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284289,7 +285816,10 @@
         "min": 55
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 99,
+        "min": 99
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284351,7 +285881,10 @@
         "min": 64
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 83,
+        "min": 83
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284413,7 +285946,10 @@
         "min": 46
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 138,
+        "min": 138
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284475,7 +286011,10 @@
         "min": 27
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 110,
+        "min": 110
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284537,7 +286076,10 @@
         "min": 73
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 55,
+        "min": 55
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284599,7 +286141,10 @@
         "min": 48
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 186,
+        "min": 186
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284661,7 +286206,10 @@
         "min": 72
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 149,
+        "min": 149
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284723,7 +286271,10 @@
         "min": 96
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 75,
+        "min": 75
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284785,7 +286336,10 @@
         "min": 124
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284846,7 +286400,10 @@
         "min": 96
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 129,
+        "min": 129
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284909,7 +286466,10 @@
         "min": 124
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -284973,7 +286533,10 @@
         "max": 135,
         "min": 135
       },
-      "ward": null,
+      "ward": {
+        "max": 55,
+        "min": 55
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285038,7 +286601,10 @@
         "max": 105,
         "min": 105
       },
-      "ward": null,
+      "ward": {
+        "max": 83,
+        "min": 83
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285103,7 +286669,10 @@
         "max": 128,
         "min": 128
       },
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285168,7 +286737,10 @@
         "max": 102,
         "min": 102
       },
-      "ward": null,
+      "ward": {
+        "max": 115,
+        "min": 115
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285233,7 +286805,10 @@
         "max": 180,
         "min": 180
       },
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285298,7 +286873,10 @@
         "max": 170,
         "min": 170
       },
-      "ward": null,
+      "ward": {
+        "max": 75,
+        "min": 75
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285363,7 +286941,10 @@
         "max": 159,
         "min": 159
       },
-      "ward": null,
+      "ward": {
+        "max": 93,
+        "min": 93
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285428,7 +287009,10 @@
         "max": 174,
         "min": 174
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285495,7 +287079,10 @@
         "max": 124,
         "min": 124
       },
-      "ward": null,
+      "ward": {
+        "max": 215,
+        "min": 215
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285559,7 +287146,10 @@
         "min": 60
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 55,
+        "min": 55
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285624,7 +287214,10 @@
         "min": 35
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 83,
+        "min": 83
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285689,7 +287282,10 @@
         "min": 42
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 44,
+        "min": 44
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285754,7 +287350,10 @@
         "min": 60
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 37,
+        "min": 37
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285819,7 +287418,10 @@
         "min": 60
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 37,
+        "min": 37
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285884,7 +287486,10 @@
         "min": 53
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 75,
+        "min": 75
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -285949,7 +287554,10 @@
         "min": 15
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 129,
+        "min": 129
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286014,7 +287622,10 @@
         "min": 61
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286081,7 +287692,10 @@
         "min": 64
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286148,7 +287762,10 @@
         "min": 88
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286214,7 +287831,10 @@
         "min": 45
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 301,
+        "min": 301
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286280,7 +287900,10 @@
         "min": 61
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286344,7 +287967,10 @@
         "min": 206
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 130,
+        "min": 130
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286408,7 +288034,10 @@
         "min": 61
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -286472,7 +288101,10 @@
         "max": 135,
         "min": 135
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -286537,7 +288169,10 @@
         "max": 113,
         "min": 113
       },
-      "ward": null,
+      "ward": {
+        "max": 69,
+        "min": 69
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -286602,7 +288237,10 @@
         "max": 90,
         "min": 90
       },
-      "ward": null,
+      "ward": {
+        "max": 110,
+        "min": 110
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -286667,7 +288305,10 @@
         "max": 134,
         "min": 134
       },
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -286732,7 +288373,10 @@
         "max": 138,
         "min": 138
       },
-      "ward": null,
+      "ward": {
+        "max": 130,
+        "min": 130
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -286797,7 +288441,10 @@
         "max": 170,
         "min": 170
       },
-      "ward": null,
+      "ward": {
+        "max": 75,
+        "min": 75
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -286864,7 +288511,10 @@
         "max": 223,
         "min": 223
       },
-      "ward": null,
+      "ward": {
+        "max": 43,
+        "min": 43
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -286922,7 +288572,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 99,
+        "min": 99
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -286989,7 +288642,10 @@
         "max": 132,
         "min": 132
       },
-      "ward": null,
+      "ward": {
+        "max": 86,
+        "min": 86
+      },
       "movement_speed": -400,
       "block": null,
       "description": null,
@@ -287058,7 +288714,10 @@
         "max": 124,
         "min": 124
       },
-      "ward": null,
+      "ward": {
+        "max": 215,
+        "min": 215
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
@@ -287119,7 +288778,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287181,7 +288843,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287243,7 +288908,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287305,7 +288973,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 85,
+        "min": 85
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287367,7 +289038,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 61,
+        "min": 61
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287429,7 +289103,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 147,
+        "min": 147
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287491,7 +289168,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287550,7 +289230,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 201,
+        "min": 201
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287612,7 +289295,10 @@
         "max": 134,
         "min": 134
       },
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287674,7 +289360,10 @@
         "max": 73,
         "min": 73
       },
-      "ward": null,
+      "ward": {
+        "max": 75,
+        "min": 75
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287736,7 +289425,10 @@
         "max": 139,
         "min": 139
       },
-      "ward": null,
+      "ward": {
+        "max": 110,
+        "min": 110
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287798,7 +289490,10 @@
         "max": 202,
         "min": 202
       },
-      "ward": null,
+      "ward": {
+        "max": 37,
+        "min": 37
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287860,7 +289555,10 @@
         "max": 266,
         "min": 266
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287922,7 +289620,10 @@
         "max": 222,
         "min": 222
       },
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -287983,7 +289684,10 @@
         "max": 129,
         "min": 129
       },
-      "ward": null,
+      "ward": {
+        "max": 124,
+        "min": 124
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288044,7 +289748,10 @@
         "max": 178,
         "min": 178
       },
-      "ward": null,
+      "ward": {
+        "max": 113,
+        "min": 113
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288105,7 +289812,10 @@
         "min": 48
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288167,7 +289877,10 @@
         "min": 45
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288229,7 +289942,10 @@
         "min": 24
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 72,
+        "min": 72
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288354,7 +290070,10 @@
         "min": 32
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 98,
+        "min": 98
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288416,7 +290135,10 @@
         "min": 16
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 196,
+        "min": 196
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288478,7 +290200,10 @@
         "min": 67
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 37,
+        "min": 37
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288540,7 +290265,10 @@
         "min": 45
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 141,
+        "min": 141
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288602,7 +290330,10 @@
         "min": 72
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288663,7 +290394,10 @@
         "min": 68
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288727,7 +290461,10 @@
         "max": 39,
         "min": 39
       },
-      "ward": null,
+      "ward": {
+        "max": 109,
+        "min": 109
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288792,7 +290529,10 @@
         "max": 247,
         "min": 247
       },
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288857,7 +290597,10 @@
         "max": 69,
         "min": 69
       },
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288922,7 +290665,10 @@
         "max": 93,
         "min": 93
       },
-      "ward": null,
+      "ward": {
+        "max": 19,
+        "min": 19
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -288987,7 +290733,10 @@
         "max": 97,
         "min": 97
       },
-      "ward": null,
+      "ward": {
+        "max": 122,
+        "min": 122
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289052,7 +290801,10 @@
         "max": 146,
         "min": 146
       },
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289116,7 +290868,10 @@
         "max": 153,
         "min": 153
       },
-      "ward": null,
+      "ward": {
+        "max": 59,
+        "min": 59
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289180,7 +290935,10 @@
         "min": 21
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 72,
+        "min": 72
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289245,7 +291003,10 @@
         "min": 25
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289310,7 +291071,10 @@
         "min": 50
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289375,7 +291139,10 @@
         "min": 20
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 81,
+        "min": 81
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289440,7 +291207,10 @@
         "min": 22
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 122,
+        "min": 122
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289507,7 +291277,10 @@
         "min": 32
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 113,
+        "min": 113
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289576,7 +291349,10 @@
         "min": 32
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 113,
+        "min": 113
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289643,7 +291419,10 @@
         "min": 32
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 113,
+        "min": 113
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289711,7 +291490,10 @@
         "max": 71,
         "min": 71
       },
-      "ward": null,
+      "ward": {
+        "max": 99,
+        "min": 99
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289775,7 +291557,10 @@
         "min": 40
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289839,7 +291624,10 @@
         "max": 30,
         "min": 30
       },
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289904,7 +291692,10 @@
         "max": 118,
         "min": 118
       },
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -289969,7 +291760,10 @@
         "max": 69,
         "min": 69
       },
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290034,7 +291828,10 @@
         "max": 78,
         "min": 78
       },
-      "ward": null,
+      "ward": {
+        "max": 57,
+        "min": 57
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290099,7 +291896,10 @@
         "max": 105,
         "min": 105
       },
-      "ward": null,
+      "ward": {
+        "max": 47,
+        "min": 47
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290164,7 +291964,10 @@
         "max": 125,
         "min": 125
       },
-      "ward": null,
+      "ward": {
+        "max": 37,
+        "min": 37
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290229,7 +292032,10 @@
         "max": 130,
         "min": 130
       },
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290290,7 +292096,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290352,7 +292161,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290414,7 +292226,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290476,7 +292291,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290538,7 +292356,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 61,
+        "min": 61
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290600,7 +292421,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 49,
+        "min": 49
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290661,7 +292485,10 @@
         "max": 63,
         "min": 63
       },
-      "ward": null,
+      "ward": {
+        "max": 20,
+        "min": 20
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290723,7 +292550,10 @@
         "max": 63,
         "min": 63
       },
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290785,7 +292615,10 @@
         "max": 76,
         "min": 76
       },
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290847,7 +292680,10 @@
         "max": 72,
         "min": 72
       },
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290909,7 +292745,10 @@
         "max": 52,
         "min": 52
       },
-      "ward": null,
+      "ward": {
+        "max": 52,
+        "min": 52
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -290971,7 +292810,10 @@
         "min": 18
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291033,7 +292875,10 @@
         "min": 24
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291095,7 +292940,10 @@
         "min": 30
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291157,7 +293005,10 @@
         "min": 21
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291219,7 +293070,10 @@
         "min": 47
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291281,7 +293135,10 @@
         "min": 30
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 31,
+        "min": 31
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291343,7 +293200,10 @@
         "min": 26
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291407,7 +293267,10 @@
         "max": 39,
         "min": 39
       },
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291472,7 +293335,10 @@
         "max": 47,
         "min": 47
       },
-      "ward": null,
+      "ward": {
+        "max": 14,
+        "min": 14
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291537,7 +293403,10 @@
         "max": 56,
         "min": 56
       },
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291602,7 +293471,10 @@
         "max": 63,
         "min": 63
       },
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291667,7 +293539,10 @@
         "max": 33,
         "min": 33
       },
-      "ward": null,
+      "ward": {
+        "max": 58,
+        "min": 58
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291731,7 +293606,10 @@
         "min": 10
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291796,7 +293674,10 @@
         "min": 13
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291861,7 +293742,10 @@
         "min": 22
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 37,
+        "min": 37
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291926,7 +293810,10 @@
         "min": 21
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -291985,7 +293872,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 90,
+        "min": 90
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292050,7 +293940,10 @@
         "max": 37,
         "min": 37
       },
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292115,7 +294008,10 @@
         "max": 38,
         "min": 38
       },
-      "ward": null,
+      "ward": {
+        "max": 67,
+        "min": 67
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292179,7 +294075,10 @@
         "max": 56,
         "min": 56
       },
-      "ward": null,
+      "ward": {
+        "max": 24,
+        "min": 24
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292243,7 +294142,10 @@
         "max": 49,
         "min": 49
       },
-      "ward": null,
+      "ward": {
+        "max": 56,
+        "min": 56
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292310,7 +294212,10 @@
         "max": 27,
         "min": 27
       },
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292373,7 +294278,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292437,7 +294345,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 27,
+        "min": 27
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292501,7 +294412,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 20,
+        "min": 20
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292565,7 +294479,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 71,
+        "min": 71
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292627,7 +294544,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 46,
+        "min": 46
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292691,7 +294611,10 @@
         "max": 54,
         "min": 54
       },
-      "ward": null,
+      "ward": {
+        "max": 81,
+        "min": 81
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292755,7 +294678,10 @@
         "max": 94,
         "min": 94
       },
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292817,7 +294743,10 @@
         "max": 113,
         "min": 113
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292879,7 +294808,10 @@
         "max": 99,
         "min": 99
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -292941,7 +294873,10 @@
         "max": 178,
         "min": 178
       },
-      "ward": null,
+      "ward": {
+        "max": 74,
+        "min": 74
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293004,7 +294939,10 @@
         "min": 45
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293068,7 +295006,10 @@
         "min": 41
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293132,7 +295073,10 @@
         "min": 34
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293194,7 +295138,10 @@
         "min": 36
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293256,7 +295203,10 @@
         "min": 33
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293323,7 +295273,10 @@
         "max": 44,
         "min": 44
       },
-      "ward": null,
+      "ward": {
+        "max": 54,
+        "min": 54
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293390,7 +295343,10 @@
         "max": 59,
         "min": 59
       },
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293457,7 +295413,10 @@
         "max": 155,
         "min": 155
       },
-      "ward": null,
+      "ward": {
+        "max": 21,
+        "min": 21
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293522,7 +295481,10 @@
         "max": 63,
         "min": 63
       },
-      "ward": null,
+      "ward": {
+        "max": 73,
+        "min": 73
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293589,7 +295551,10 @@
         "min": 17
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 41,
+        "min": 41
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293654,7 +295619,10 @@
         "min": 30
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293720,7 +295688,10 @@
         "max": 55,
         "min": 55
       },
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293785,7 +295756,10 @@
         "max": 70,
         "min": 70
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293850,7 +295824,10 @@
         "max": 85,
         "min": 85
       },
-      "ward": null,
+      "ward": {
+        "max": 63,
+        "min": 63
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -293911,7 +295888,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -293976,7 +295956,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 57,
+        "min": 57
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294041,7 +296024,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294106,7 +296092,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294168,7 +296157,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 113,
+        "min": 113
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294233,7 +296225,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 29,
+        "min": 29
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294298,7 +296293,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294369,7 +296367,10 @@
         "max": 41,
         "min": 41
       },
-      "ward": null,
+      "ward": {
+        "max": 106,
+        "min": 106
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -294427,7 +296428,10 @@
       "armour": null,
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 250,
+        "min": 250
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294494,7 +296498,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 100,
+        "min": 100
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294559,7 +296566,10 @@
         "max": 148,
         "min": 148
       },
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294626,7 +296636,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 35,
+        "min": 35
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294691,7 +296704,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 88,
+        "min": 88
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294755,7 +296771,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 70,
+        "min": 70
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294819,7 +296838,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -294886,7 +296908,10 @@
         "max": 49,
         "min": 49
       },
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -294954,7 +296979,10 @@
         "max": 46,
         "min": 46
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -295022,7 +297050,10 @@
         "min": 13
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 47,
+        "min": 47
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -295090,7 +297121,10 @@
         "min": 19
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -295158,7 +297192,10 @@
         "min": 14
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -295226,7 +297263,10 @@
         "min": 12
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -295294,7 +297334,10 @@
         "min": 12
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 82,
+        "min": 82
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -295359,7 +297402,10 @@
         "max": 108,
         "min": 108
       },
-      "ward": null,
+      "ward": {
+        "max": 36,
+        "min": 36
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295425,7 +297471,10 @@
         "max": 90,
         "min": 90
       },
-      "ward": null,
+      "ward": {
+        "max": 18,
+        "min": 18
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295491,7 +297540,10 @@
         "max": 67,
         "min": 67
       },
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295557,7 +297609,10 @@
         "max": 45,
         "min": 45
       },
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295623,7 +297678,10 @@
         "max": 66,
         "min": 66
       },
-      "ward": null,
+      "ward": {
+        "max": 28,
+        "min": 28
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295689,7 +297747,10 @@
         "max": 61,
         "min": 61
       },
-      "ward": null,
+      "ward": {
+        "max": 33,
+        "min": 33
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295755,7 +297816,10 @@
         "max": 114,
         "min": 114
       },
-      "ward": null,
+      "ward": {
+        "max": 12,
+        "min": 12
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295820,7 +297884,10 @@
         "max": 103,
         "min": 103
       },
-      "ward": null,
+      "ward": {
+        "max": 33,
+        "min": 33
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -295885,7 +297952,10 @@
       },
       "energy_shield": null,
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -300,
       "block": 26,
       "description": null,
@@ -295950,7 +298020,10 @@
         "min": 135
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": null,
       "block": 25,
       "description": null,
@@ -296015,7 +298088,10 @@
         "max": 148,
         "min": 148
       },
-      "ward": null,
+      "ward": {
+        "max": 42,
+        "min": 42
+      },
       "movement_speed": null,
       "block": 20,
       "description": null,
@@ -296084,7 +298160,10 @@
         "max": 102,
         "min": 102
       },
-      "ward": null,
+      "ward": {
+        "max": 53,
+        "min": 53
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -296152,7 +298231,10 @@
         "min": 22
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 62,
+        "min": 62
+      },
       "movement_speed": -150,
       "block": 25,
       "description": null,
@@ -296216,7 +298298,10 @@
         "min": 38
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 23,
+        "min": 23
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296278,7 +298363,10 @@
         "min": 23
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296340,7 +298428,10 @@
         "min": 23
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 34,
+        "min": 34
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296402,7 +298493,10 @@
         "min": 38
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 45,
+        "min": 45
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296464,7 +298558,10 @@
         "min": 19
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 57,
+        "min": 57
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296526,7 +298623,10 @@
         "min": 23
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 47,
+        "min": 47
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296588,7 +298688,10 @@
         "min": 40
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 31,
+        "min": 31
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296650,7 +298753,10 @@
         "min": 23
       },
       "evasion": null,
-      "ward": null,
+      "ward": {
+        "max": 106,
+        "min": 106
+      },
       "movement_speed": null,
       "block": null,
       "description": null,
@@ -296715,7 +298821,10 @@
         "max": 223,
         "min": 223
       },
-      "ward": null,
+      "ward": {
+        "max": 107,
+        "min": 107
+      },
       "movement_speed": -300,
       "block": null,
       "description": null,
