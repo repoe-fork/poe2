@@ -62,6 +62,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v7
         with:
+          python-version: '3.13'
           cache: poetry
       - name: clean poe2 dir
         run: find poe2/data '(' -name '*.json' -not -path '*/pob/*' -o -name '*.html' -o -name '*.txt' ')' -delete -print | wc -l
