@@ -13230,6 +13230,43 @@
     "packs": null,
     "terrain_plugins": null
   },
+  "HideoutExilecon23": {
+    "act": 1,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": "HideoutExilecon23_Level2",
+    "has_waypoint": false,
+    "id": "HideoutExilecon23",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "ExileCon 2023 Hideout",
+    "tags": [],
+    "topologies": [
+      {
+        "file": "Metadata/Terrain/Missions/Hideouts/Exilecon23/hideout.dgr",
+        "id": "HideoutExilecon23",
+        "unknown": [
+          100,
+          50,
+          100,
+          [],
+          [
+            0
+          ],
+          85,
+          57
+        ]
+      }
+    ],
+    "area_type_tags": null,
+    "parent_town": null,
+    "packs": null,
+    "terrain_plugins": null
+  },
   "HideoutBeaconOfSalvation": {
     "act": 1,
     "area_level": 65,
@@ -14585,6 +14622,119 @@
       {
         "file": "Metadata/Terrain/Hideouts/Ship/Graphs/hideout_ship.dgr",
         "id": "HideoutShip",
+        "unknown": [
+          100,
+          50,
+          100,
+          [],
+          [
+            0
+          ],
+          85,
+          57
+        ]
+      }
+    ],
+    "area_type_tags": null,
+    "parent_town": null,
+    "packs": null,
+    "terrain_plugins": null
+  },
+  "HideoutMaze": {
+    "act": 1,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": "HideoutMaze",
+    "has_waypoint": false,
+    "id": "HideoutMaze",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "Labyrinth Hideout",
+    "tags": [],
+    "topologies": [
+      {
+        "file": "Metadata/Terrain/Hideouts/Maze/Graphs/Maze_Hideout.dgr",
+        "id": "HideoutMaze",
+        "unknown": [
+          100,
+          50,
+          100,
+          [],
+          [
+            0
+          ],
+          85,
+          57
+        ]
+      }
+    ],
+    "area_type_tags": null,
+    "parent_town": null,
+    "packs": null,
+    "terrain_plugins": null
+  },
+  "HideoutDivine": {
+    "act": 1,
+    "area_level": 65,
+    "area_mods": [
+      "MapFlyingEnabled"
+    ],
+    "bosses": [],
+    "connections": [],
+    "environment": "HideoutDivine",
+    "has_waypoint": false,
+    "id": "HideoutDivine",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "Apex of Divinity Hideout",
+    "tags": [],
+    "topologies": [
+      {
+        "file": "Metadata/Terrain/Hideouts/Divine/Graphs/HideoutDivine.dgr",
+        "id": "HideoutDivine",
+        "unknown": [
+          100,
+          50,
+          100,
+          [],
+          [
+            0
+          ],
+          85,
+          57
+        ]
+      }
+    ],
+    "area_type_tags": null,
+    "parent_town": null,
+    "packs": null,
+    "terrain_plugins": null
+  },
+  "HideoutExilecon2026": {
+    "act": 1,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": "HideoutExilecon2026Level1",
+    "has_waypoint": false,
+    "id": "HideoutExilecon2026",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "Exilecon 2026 Hideout",
+    "tags": [],
+    "topologies": [
+      {
+        "file": "Metadata/Terrain/Hideouts/Exilecon26/Graphs/Exilecon26_hideout.dgr",
+        "id": "HideoutExilecon2026",
         "unknown": [
           100,
           50,
@@ -73231,6 +73381,48 @@
         ]
       }
     ],
+    "area_type_tags": null,
+    "parent_town": "G_Endgame_Town",
+    "packs": null,
+    "terrain_plugins": null
+  },
+  "PlayerAtlasHideout": {
+    "act": 10,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": null,
+    "has_waypoint": false,
+    "id": "PlayerAtlasHideout",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "Player Hideout",
+    "tags": [],
+    "topologies": null,
+    "area_type_tags": null,
+    "parent_town": "G_Endgame_Town",
+    "packs": null,
+    "terrain_plugins": null
+  },
+  "PlayerAtlasHideoutInert": {
+    "act": 10,
+    "area_level": 65,
+    "area_mods": [],
+    "bosses": [],
+    "connections": [],
+    "environment": null,
+    "has_waypoint": false,
+    "id": "PlayerAtlasHideoutInert",
+    "is_town": false,
+    "loading_screens": [
+      "Art/Textures/Interface/LoadingImages/AtlasLoadingScreen.dds"
+    ],
+    "name": "Player Hideout",
+    "tags": [],
+    "topologies": null,
     "area_type_tags": null,
     "parent_town": "G_Endgame_Town",
     "packs": null,

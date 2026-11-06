@@ -54476,6 +54476,54 @@
     "sounds": null,
     "custom_frame": null
   },
+  "mtx_edict_of_corruption_power_charge_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_endurance_charge_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_frenzy_charge_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_power_charge_mastery_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_endurance_charge_mastery_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_frenzy_charge_mastery_2": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
   "mtx_ignited_buccaneer": {
     "description": null,
     "icon": null,
@@ -54749,6 +54797,54 @@
     "custom_frame": null
   },
   "ritual_of_power_breachflame": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_power_charge": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_endurance_charge": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_frenzy_charge": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_power_charge_mastery": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_endurance_charge_mastery": {
+    "description": null,
+    "icon": null,
+    "name": null,
+    "sources": null,
+    "sounds": null,
+    "custom_frame": null
+  },
+  "mtx_edict_of_corruption_frenzy_charge_mastery": {
     "description": null,
     "icon": null,
     "name": null,

@@ -497073,6 +497073,5350 @@
     "stereo": null,
     "video": null
   },
+  "CorruptionTraderMan_OnApproach_First_One": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Finally... we are free.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_First_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_First_Two": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We have spent too long beyond the infernal veil.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_First_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You return.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You return.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You return.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come closer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come closer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come closer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Approach, human.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Approach, human.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Approach, human.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We sense your presence.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We sense your presence.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We sense your presence.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've been waiting for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've been waiting for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've been waiting for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A familiar blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A familiar blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_OnApproach_Subsequent_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A familiar blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_OnApproach_Subsequent_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "As you wish.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "As you wish.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "As you wish.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will do our best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will do our best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will do our best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The flesh yearns for more.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The flesh yearns for more.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The flesh yearns for more.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An irresistible offer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An irresistible offer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An irresistible offer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Listing_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Listing_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You have a merciful nature.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You have a merciful nature.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You have a merciful nature.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The veil lowers...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The veil lowers...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The veil lowers...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Temptation will lure them.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Temptation will lure them.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Temptation will lure them.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We do as you ask.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We do as you ask.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We do as you ask.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It was unworthy.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It was unworthy.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustLower_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It was unworthy.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustLower_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your greed pleases us.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your greed pleases us.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your greed pleases us.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You deserve... the best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You deserve... the best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You deserve... the best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will wring their corpse for coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will wring their corpse for coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will wring their corpse for coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Nothing less will serve.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Nothing less will serve.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Nothing less will serve.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Divest them of their worldly possessions.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Divest them of their worldly possessions.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_AdjustHigher_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Divest them of their worldly possessions.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_AdjustHigher_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gold flows like blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gold flows like blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gold flows like blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An oath of coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An oath of coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An oath of coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The debt is paid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The debt is paid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The debt is paid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain is struck.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain is struck.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain is struck.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A worthy exchange.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A worthy exchange.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Sold_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A worthy exchange.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Sold_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wealth wrought from afar.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wealth wrought from afar.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wealth wrought from afar.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A deal was made, from the beyond.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A deal was made, from the beyond.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A deal was made, from the beyond.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In your absence, we toil...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In your absence, we toil...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In your absence, we toil...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Our labour never ends.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Our labour never ends.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Our labour never ends.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've drawn coin from the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've drawn coin from the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_SoldAway_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've drawn coin from the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_SoldAway_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Material comfort to numb your pain.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Material comfort to numb your pain.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Material comfort to numb your pain.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fulfil your base impulse.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fulfil your base impulse.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fulfil your base impulse.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Drawn as moth to flame...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Drawn as moth to flame...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Drawn as moth to flame...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Anything to fill the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Anything to fill the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Anything to fill the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Abate despair, one coin at a time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Abate despair, one coin at a time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Abate despair, one coin at a time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Satisfaction, manifest as object.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Satisfaction, manifest as object.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Bought_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Satisfaction, manifest as object.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Bought_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "May it bring you comfort.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "May it bring you comfort.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "May it bring you comfort.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your heart beats in anticipation.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your heart beats in anticipation.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your heart beats in anticipation.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void echoes with your request.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void echoes with your request.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void echoes with your request.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your will shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your will shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_PlaceOrder_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your will shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_PlaceOrder_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Asked and answered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Asked and answered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Asked and answered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain has been fulfilled.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain has been fulfilled.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain has been fulfilled.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fortune finds you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fortune finds you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fortune finds you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your offer was accepted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your offer was accepted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_ShipmentReceived_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your offer was accepted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_ShipmentReceived_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A thousand, thousand years we've waited. You are but a drop in our ocean.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Each dawn you wake is less than a blink of our eye.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Patience, patience, always patience. There is no end in sight. Still, we wait.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Here... you could join us. If you would... here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_04.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In the veil, her voice is lost. We cannot remember her voice. Only... the imprint of sorrow.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_05.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It takes <i>{one} moment. A touch, and you could see beyond the veil.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_06.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You prefer the ignorance of your senses to the clarity of your mind. We understand.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_07.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Where are we? What is this... place?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_08.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void whispers, regret clawing at our ears. She will not stop...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_09.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Do you hear her? She cries out... a lonely whine piercing death's veil.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_10.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderMan_Idle_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "There is no end for ones such as we. Always the same. Always suffering.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderMan/CorruptionTraderMan_Idle_11.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_First_One": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Finally... we are free.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_First_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_First_Two": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We have spent too long beyond the infernal veil.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_First_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You return.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You return.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You return.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come closer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come closer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Come closer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Approach, human.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Approach, human.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Approach, human.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We sense your presence.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We sense your presence.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We sense your presence.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've been waiting for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've been waiting for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've been waiting for you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A familiar blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A familiar blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_OnApproach_Subsequent_18": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A familiar blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_OnApproach_Subsequent_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "As you wish.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "As you wish.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "As you wish.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will do our best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will do our best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will do our best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The flesh yearns for more.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The flesh yearns for more.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The flesh yearns for more.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An irresistible offer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An irresistible offer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An irresistible offer.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Listing_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Listing_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You have a merciful nature.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You have a merciful nature.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You have a merciful nature.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The veil lowers...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The veil lowers...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The veil lowers...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Temptation will lure them.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Temptation will lure them.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Temptation will lure them.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We do as you ask.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We do as you ask.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We do as you ask.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It was... unworthy.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It was... unworthy.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustLower_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It was unworthy.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustLower_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your greed pleases us.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your greed pleases us.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your greed pleases us.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You deserve... the best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You deserve... the best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You deserve... the best.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will wring their corpse for coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will wring their corpse for coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We will wring their corpse for coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Nothing less will serve.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Nothing less will serve.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Nothing less will serve.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Divest them of their worldly possessions.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Divest them of their worldly possessions.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_AdjustHigher_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Divest them of their worldly possessions.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_AdjustHigher_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gold flows like blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gold flows like blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Gold flows like blood.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An oath of coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An oath of coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "An oath of coin.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The debt is paid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The debt is paid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The debt is paid.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain is struck.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain is struck.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain is struck.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A worthy exchange.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A worthy exchange.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Sold_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A worthy exchange.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Sold_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wealth wrought from afar.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wealth wrought from afar.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Wealth wrought from afar.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A deal was made, from the beyond.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A deal was made, from the beyond.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A deal was made, from the beyond.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In your absence, we toil...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In your absence, we toil...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In your absence, we toil...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Our labour never ends.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Our labour never ends.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Our labour never ends.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've drawn coin from the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've drawn coin from the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_SoldAway_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We've drawn coin from the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_SoldAway_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Material comfort to numb your pain.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Material comfort to numb your pain.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Material comfort to numb your pain.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fulfil your base impulse.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fulfil your base impulse.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fulfil your base impulse.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Drawn as moth to flame...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Drawn as moth to flame...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Drawn as moth to flame...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Anything to fill the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Anything to fill the void.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Abate despair, one coin at a time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_05_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_13": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Abate despair, one coin at a time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_05_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_14": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Abate despair, one coin at a time.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_05_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_15": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Satisfaction, manifest as object.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_06_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_16": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Satisfaction, manifest as object.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_06_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Bought_17": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Satisfaction, manifest as object.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Bought_06_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "May it bring you comfort.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "May it bring you comfort.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "May it bring you comfort.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your heart beats in anticipation.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your heart beats in anticipation.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your heart beats in anticipation.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void echoes with your request.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void echoes with your request.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void echoes with your request.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your will shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your will shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_PlaceOrder_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your will shall be done.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_PlaceOrder_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Asked and answered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_01_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Asked and answered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_01_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Asked and answered.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_01_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain has been fulfilled.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_02_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain has been fulfilled.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_02_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A bargain has been fulfilled.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_02_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fortune finds you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_03_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fortune finds you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_03_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Fortune finds you.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_03_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your offer was accepted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_04_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your offer was accepted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_04_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_ShipmentReceived_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Your offer was accepted.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_ShipmentReceived_04_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_Random": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "A thousand, thousand years we've waited. You are but a drop in our ocean.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_01.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_2": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Each dawn you wake is less than a blink of our eye.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_02.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_3": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Patience, patience, always patience. There is no end in sight. Still, we wait.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_03.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_4": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Here... you could join us. If you would... here.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_04.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_5": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "In the veil, her voice is lost. We cannot remember her voice. Only... the imprint of sorrow.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_05.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_6": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "It takes but <i>{one} moment. A touch, and you could see beyond the veil.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_06.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_7": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "You prefer the ignorance of your senses to the clarity of your mind. We understand.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_07.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_8": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Where are we? What is this... place?",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_08.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_9": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "The void whispers, regret clawing at our ears. She will not stop...",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_09.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_10": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "Do you hear her? She cries out... a lonely whine piercing death's veil.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_10.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_11": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "There is no end for ones such as we. Always the same. Always suffering.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_11.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderWoman_Idle_12": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "We hope to serve as a pleasing facsimile of that which you seek.",
+    "audio": [
+      "Audio/Dialogue/4.0/MTX/Hideout/CorruptionTraderMTX/CorruptionTraderWoman/CorruptionTraderWoman_Idle_12.ogg"
+    ],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
+  "CorruptionTraderDummyLine": {
+    "npcs": [
+      {
+        "id": "Metadata/Terrain/HideoutDecorations/Microtransactions/EdictCorruptionTrader/EdictCorruptionTrader",
+        "name": "Puppet of Corruption",
+        "short_name": "Puppet of Corruption"
+      }
+    ],
+    "characters": null,
+    "events": null,
+    "text": "",
+    "audio": [],
+    "mono": null,
+    "stereo": null,
+    "video": null
+  },
   "Str4b_Cooldown_01_01": {
     "npcs": null,
     "characters": [

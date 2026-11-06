@@ -1,0 +1,228 @@
+{
+  "data": {
+    "Default%": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Missions/Hideouts/Exilecon23/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "BlackInsideWall",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Dungeon/black_invisible.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank_invisible.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": null,
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null,
+    "EnvironmentSector": "HideoutExilecon23_Level3\" \"level3"
+  },
+  "node_count": 3,
+  "numbers": null,
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "level2",
+      "strings": [
+        "default",
+        "telepad2",
+        "telepad3",
+        "teleport1",
+        "teleport4"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 35
+    },
+    {
+      "numbers": [],
+      "room": "level1",
+      "strings": [
+        "telepad1",
+        "teleport2"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [],
+      "room": "level3",
+      "strings": [
+        "telepad4",
+        "teleport3"
+      ],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        "N"
+      ],
+      "x": 12,
+      "y": 58
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Exilecon23/hideout_level1.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "level1",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Exilecon23/hideout_level2.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "level2",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Exilecon23/hideout_level3.arm",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "level3",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    2,
+    3
+  ],
+  "strings": [
+    "",
+    "",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/forced_blank.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "forcedblank",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/ForcedBlank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Exilecon23/Tiles/Level01.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "level1",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Exilecon23Hideout/Level01.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Exilecon23/Tiles/Level02.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "level2",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Exilecon23Hideout/Level02.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Missions/Hideouts/Exilecon23/Tiles/Level03.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "level3",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Exilecon23Hideout/Level03.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 21,
+  "subgraphs": null,
+  "file_groups": null
+}

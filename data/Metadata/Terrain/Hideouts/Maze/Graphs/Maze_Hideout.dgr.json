@@ -1,0 +1,242 @@
+{
+  "data": {
+    "Default%": [
+      0,
+      0,
+      0
+    ],
+    "MasterFile": "Metadata/Terrain/Hideouts/Maze/master.tsi"
+  },
+  "edge_count": 0,
+  "edge_types": {},
+  "edges": [],
+  "fill_tiles": [
+    {
+      "file": "default",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Blank.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Blank.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "AbyssFill",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Tiles/Abyss_Fill.tdt",
+      "prefix": [
+        "1"
+      ],
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Maze/Abyss_Fill.tgt",
+      "tile_parent": null
+    }
+  ],
+  "master": {
+    "ChestData": null,
+    "Doodads": null,
+    "EdgeCombination": null,
+    "FillTiles": "random_fill_tiles.gft",
+    "MaterialsList": "materials.mtd",
+    "OuterGroundType": "Metadata/Terrain/Hideouts/Maze/Tiles/abyss_fill.gt",
+    "Reskin": null,
+    "RoomSet": "generate.rs",
+    "TileSet": "tiles.tst",
+    "version": null,
+    "StoreyHeight": null,
+    "RoomUnitSize": null,
+    "RoomOverlap": null,
+    "OuterBufferSize": null,
+    "EdgePoints": null,
+    "Decals": null,
+    "Overlays": null,
+    "RestrictedGTs": null,
+    "EnvironmentPreload": null,
+    "Critters": null,
+    "FileGroups": null,
+    "RoofFadeMode": "Tile"
+  },
+  "node_count": 3,
+  "numbers": [
+    0
+  ],
+  "nodes": [
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/Hideouts/Maze/Graphs/_Maze_Entrance.dgr",
+        "2",
+        "2"
+      ],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 81
+    },
+    {
+      "numbers": [],
+      "room": "graph",
+      "strings": [
+        "Metadata/Terrain/Hideouts/Maze/Graphs/_Maze_Maze.dgr",
+        "2",
+        "2"
+      ],
+      "transform": "(best)",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 12
+    },
+    {
+      "numbers": [],
+      "room": "wall",
+      "strings": [],
+      "transform": "I",
+      "unknown": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        "N",
+        0
+      ],
+      "x": 12,
+      "y": 58
+    }
+  ],
+  "room_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Rooms/Maze_Entrance_01.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "entrance",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Rooms/Maze_Maze.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "maze",
+      "tile_tgt": null,
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Rooms/Maze_wall.arm",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": "wall",
+      "tile_tgt": null,
+      "tile_parent": null
+    }
+  ],
+  "size": [
+    3,
+    5
+  ],
+  "strings": [
+    "",
+    "Metadata/Terrain/Act2/Area5Level1/GroundTypes/church_floor.gt",
+    ""
+  ],
+  "tile_set": [
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Tiles/Maze_Entrance_45.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "45Maze",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Maze/Maze_Entrance_45.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Tiles/A_Mazing.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "Maze",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Maze/A_Mazing.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Tiles/OVERSIZED_Maze.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": "HugeMaze",
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Maze/OVERSIZED_Maze.tgt",
+      "tile_parent": null
+    },
+    {
+      "file": "Metadata/Terrain/Hideouts/Maze/Tiles/Abyss_Fill.tdt",
+      "prefix": null,
+      "suffix": null,
+      "tile_tag": null,
+      "room_tag": null,
+      "tile_tgt": "Art/Models/Terrain/Hideout/Maze/Abyss_Fill.tgt",
+      "tile_parent": null
+    }
+  ],
+  "version": 25,
+  "subgraphs": {
+    "Metadata/Terrain/Hideouts/Maze/Graphs/_Maze_Entrance.dgr": [
+      "Metadata/Terrain/Hideouts/Maze/Graphs/_Maze_Entrance.dgr"
+    ],
+    "Metadata/Terrain/Hideouts/Maze/Graphs/_Maze_Maze.dgr": [
+      "Metadata/Terrain/Hideouts/Maze/Graphs/_Maze_Maze.dgr"
+    ]
+  },
+  "file_groups": null
+}

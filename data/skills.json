@@ -728095,6 +728095,57 @@
     },
     "stats": {}
   },
+  "MtxCentaurTransformationPlayer": {
+    "active_skill": {
+      "description": "Merge with your deer companion to become a centaur. Only usable in town or your hideout. Use again to revert.",
+      "display_name": "Centaur Form",
+      "id": "mtx_centaur_transformation",
+      "is_manually_casted": true,
+      "is_skill_totem": false,
+      "stat_conversions": {},
+      "types": [
+        "Microtransaction",
+        "Shapeshift",
+        "AttackInPlace",
+        "Cooldown"
+      ],
+      "weapon_restrictions": []
+    },
+    "cast_time": 1000,
+    "is_support": false,
+    "per_level": {
+      "1": {}
+    },
+    "stat_sets": [
+      {
+        "id": "MtxCentaurTransformationPlayer",
+        "label": null,
+        "per_level": {
+          "1": {}
+        },
+        "static": {
+          "stats": [
+            {
+              "id": "base_deal_no_damage",
+              "type": "implicit",
+              "value": 1
+            },
+            {
+              "id": "usable_while_shapeshifted_town_or_hideout_only",
+              "type": "implicit",
+              "value": 1
+            }
+          ]
+        },
+        "translation_file": "skill_stat_descriptions.txt"
+      }
+    ],
+    "static": {
+      "cooldown": 2000,
+      "stored_uses": 1
+    },
+    "stats": {}
+  },
   "MtxCoinFlipInnocencePlayer": {
     "active_skill": {
       "description": "Throw a coin into the air, letting fate decide the outcome.",
