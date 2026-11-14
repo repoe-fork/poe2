@@ -454,6 +454,36 @@
   "canonical_stat": {
     "type": "noop"
   },
+  "alternate_tree_version_name": {
+    "type": "noop"
+  },
+  "alternate_tree_version_keystone": {
+    "type": "noop"
+  },
+  "pelagic_pearl_slot": {
+    "type": "noop"
+  },
+  "passive_jewel_radius": {
+    "type": "noop"
+  },
+  "shaper_apparition_ability": {
+    "type": "noop"
+  },
+  "minion_doubling_type": {
+    "type": "noop"
+  },
+  "atlas_exile_citadel_index": {
+    "type": "noop"
+  },
+  "fishing_lure_type": {
+    "type": "noop"
+  },
+  "fishing_hook_type": {
+    "type": "noop"
+  },
+  "elder_guardian_index": {
+    "type": "noop"
+  },
   "mod_value_to_item_class": {
     "dat_file": "ItemClasses.dat64",
     "index_column": null,
