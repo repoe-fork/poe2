@@ -995514,13 +995514,13 @@
             }
           ],
           "tooltip_order": [
+            "plant_skill_damage_+%_final_when_wet",
             "active_skill_has_%_standard_scaling_attack_damage",
             "additive_thorns_damage_modifiers_apply_to_attack_damage",
             "global_maim_on_hit",
             "hazard_damage_+%_final_for_first_500_ms_when_not_killed_by_self",
             "active_skill_base_area_of_effect_radius",
-            "base_skill_effect_duration",
-            "plant_skill_damage_+%_final_when_wet"
+            "base_skill_effect_duration"
           ]
         },
         "translation_file": "specific_skill_stat_descriptions/triggered_briar_patch.csd"
@@ -1063776,14 +1063776,14 @@
           ],
           "tooltip_order": [
             "base_chaos_damage_to_deal_per_minute",
+            "plant_skill_damage_+%_final_when_wet",
             "active_skill_quality_duration_+%_final",
             "skill_can_fire_arrows",
             "active_skill_base_area_of_effect_radius",
             "active_skill_base_slow_debuff_movement_speed_+%_final",
             "base_skill_effect_duration",
             "poison_vine_arrow_vine_stored_poison_damage_+%_final\ndisplay_statset_hide_usage_stats",
-            "vine_arrow_area_of_effect_+%_final_when_wet",
-            "plant_skill_damage_+%_final_when_wet"
+            "vine_arrow_area_of_effect_+%_final_when_wet"
           ]
         },
         "translation_file": "specific_skill_stat_descriptions/vine_arrow/statset_1.csd"
@@ -1064049,13 +1064049,13 @@
           ],
           "tooltip_order": [
             "base_chaos_damage_to_deal_per_minute",
+            "plant_skill_damage_+%_final_when_wet",
             "skill_can_fire_arrows",
             "active_skill_base_area_of_effect_radius",
             "active_skill_base_slow_debuff_movement_speed_+%_final",
             "base_skill_effect_duration",
             "poison_vine_arrow_vine_stored_poison_damage_+%_final\ndisplay_statset_hide_usage_stats",
-            "vine_arrow_area_of_effect_+%_final_when_wet",
-            "plant_skill_damage_+%_final_when_wet"
+            "vine_arrow_area_of_effect_+%_final_when_wet"
           ]
         },
         "translation_file": "specific_skill_stat_descriptions/vine_arrow/statset_1.csd"
