@@ -23,7 +23,20 @@
     "ids": [
       "spells_have_culling_strike"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2524254339",
+        "text": "Culling Strike",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_2524254339",
+        "text": "Culling Strike",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

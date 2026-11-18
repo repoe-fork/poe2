@@ -99,7 +99,14 @@
     "ids": [
       "chance_%_to_create_additional_remnant"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "rune.stat_2328443419",
+        "text": "#% chance to create an additional Remnant",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

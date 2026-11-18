@@ -2395,7 +2395,50 @@
     "ids": [
       "map_mountain_item_drop_rarity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

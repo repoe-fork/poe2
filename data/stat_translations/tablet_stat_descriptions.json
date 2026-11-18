@@ -106,7 +106,20 @@
     "ids": [
       "map_item_drop_rarity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "enchant.stat_2306002879",
+        "text": "#% increased Rarity of Items found in Map",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2306002879",
+        "text": "#% increased Rarity of Items found in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -209,7 +222,14 @@
     "ids": [
       "map_chance_for_breaches_to_contain_boss_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2433436306",
+        "text": "Unstable Breaches in Map have #% increased chance to contain Vruun, Marshal of Xesht",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -263,7 +283,14 @@
     "ids": [
       "expedition_monsters_logbook_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1083387327",
+        "text": "#% increased Quantity of Expedition Logbooks dropped by Runic Monsters in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -317,7 +344,14 @@
     "ids": [
       "map_abyss_depths_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2722831300",
+        "text": "Abysses in Map have #% increased chance to lead to an Abyssal Depths",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -373,7 +407,14 @@
     "ids": [
       "map_abyss_monster_abyssal_modifier_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2789248444",
+        "text": "#% increased chance for Abyssal monsters in Map to have Abyssal Modifiers",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -485,7 +526,14 @@
     "ids": [
       "map_abyss_monster_potency_+%_per_chasm_closed"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_664606484",
+        "text": "Abyssal Monsters have #% increased Effectiveness for each closed Pit, up to 100%",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -541,7 +589,20 @@
     "ids": [
       "map_abyss_monster_spawn_amount_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_944630113",
+        "text": "Abysses in Map spawn #% increased Monsters",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_944630113",
+        "text": "Abysses in Map spawn #% increased Monsters",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -577,7 +638,20 @@
     "ids": [
       "map_abyss_monsters_enhanced_per_chasm_closed"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_360553763",
+        "text": "Abyssal Monsters in Map have increased Difficulty and Reward for each closed Pit",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_360553763",
+        "text": "Abyssal Monsters in Map have increased Difficulty and Reward for each closed Pit",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -649,7 +723,20 @@
     "ids": [
       "map_abyss_no_reward_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_4256531808",
+        "text": "Abyss Pits in Map are twice as likely to have Rewards",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_4256531808",
+        "text": "Abyss Pits in Map are twice as likely to have Rewards",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -685,7 +772,20 @@
     "ids": [
       "map_abyss_num_additional_rare_monsters"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_243380454",
+        "text": "# additional Rare Monsters are spawned from Abysses in Map",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_243380454",
+        "text": "# additional Rare Monsters are spawned from Abysses in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -739,7 +839,26 @@
     "ids": [
       "map_abyss_overrun_extra_pits"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1070816711",
+        "text": "Map contains an additional Abyss",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_3490187949",
+        "text": "Map contains # additional Abysses",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3490187949",
+        "text": "Map contains # additional Abysses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -775,7 +894,20 @@
     "ids": [
       "map_abyss_overrun_no_monsters"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_2741291867",
+        "text": "Map is overrun by the Abyssal",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2741291867",
+        "text": "Map is overrun by the Abyssal",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -831,7 +963,14 @@
     "ids": [
       "map_abyss_ticket_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1710200734",
+        "text": "#% increased chance for Desecrated Currency from Abysses in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -885,7 +1024,14 @@
     "ids": [
       "map_addtional_rare_chest_amount"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_231864447",
+        "text": "Map contains an additional Rare Chest",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -941,7 +1087,14 @@
     "ids": [
       "map_affliction_encounter_boss_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3962960008",
+        "text": "Delirium Encounters in Map are #% more likely to spawn Unique Bosses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -997,7 +1150,14 @@
     "ids": [
       "map_affliction_encounter_monster_depth_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1769611692",
+        "text": "Delirium Fog in Map applies #% increased Deliriousness to Players",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1053,7 +1213,14 @@
     "ids": [
       "map_affliction_pack_size_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3465791711",
+        "text": "Delirium Monsters in Map have #% increased Pack Size",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1089,7 +1256,14 @@
     "ids": [
       "map_affliction_reward_progress_on_kill_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3428124128",
+        "text": "Delirious Monsters Killed in Map provide #% increased Reward Progress",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1145,7 +1319,14 @@
     "ids": [
       "map_affliction_secondary_wave_acceleration_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3350944114",
+        "text": "Delirium Fog in Map dissipates #% faster",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1183,7 +1364,20 @@
     "ids": [
       "map_affliction_secondary_wave_delay_ms_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1174954559",
+        "text": "Delirium Fog in Map lasts # additional seconds before dissipating",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3226351972",
+        "text": "Delirium Fog in Map lasts # additional seconds before dissipating",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1219,7 +1413,20 @@
     "ids": [
       "map_affliction_secondary_wave_delay_seconds_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1174954559",
+        "text": "Delirium Fog in Map lasts # additional seconds before dissipating",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3226351972",
+        "text": "Delirium Fog in Map lasts # additional seconds before dissipating",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1275,7 +1482,14 @@
     "ids": [
       "map_boss_dropped_item_quantity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3119172063",
+        "text": "#% increased Quantity of Items dropped by Map Bosses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1331,7 +1545,14 @@
     "ids": [
       "map_boss_experience_+%_final"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3860150265",
+        "text": "Map Bosses grant #% increased Experience",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1387,7 +1608,14 @@
     "ids": [
       "map_boss_item_rarity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4255069232",
+        "text": "#% increased Rarity of Items dropped by Map Bosses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1441,7 +1669,14 @@
     "ids": [
       "map_breach_%_chance_for_1_additional_breach"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3049505189",
+        "text": "Map has #% chance to contain an additional Breach",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1495,7 +1730,14 @@
     "ids": [
       "map_breach_%_chance_for_3_additional_breach"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2440265466",
+        "text": "Map has #% chance to contain three additional Breaches",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1673,7 +1915,14 @@
     "ids": [
       "map_breach_hives_additional_waves_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2734787892",
+        "text": "Breach Hives in Map have an additional wave of Hiveborn Monsters",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1729,7 +1978,14 @@
     "ids": [
       "map_breach_monster_quantity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1210760818",
+        "text": "Breaches in Map have #% increased Pack Size",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1785,7 +2041,14 @@
     "ids": [
       "map_breach_monster_splinter_quantity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_624534143",
+        "text": "#% increased Quantity of Breach Splinters dropped by Breach Monsters in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1904,7 +2167,14 @@
     "ids": [
       "map_breach_rare_monster_potency_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2895378479",
+        "text": "#% increased Effectiveness of Rare Breach Monsters in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1960,7 +2230,14 @@
     "ids": [
       "map_breach_time_passed_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2504358770",
+        "text": "Breaches in Map open and close #% faster",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1996,7 +2273,14 @@
     "ids": [
       "map_breach_wombgift_additional_item_level_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2889272422",
+        "text": "Wombgifts have #% chance to drop one Level higher in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2052,7 +2336,14 @@
     "ids": [
       "map_breach_wombgift_quantity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_472809816",
+        "text": "#% increased Quantity of Wombgifts found in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2167,7 +2458,14 @@
     "ids": [
       "map_chance_for_4_additional_abysses_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2890355696",
+        "text": "Map has #% chance to contain four additional Abysses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2203,7 +2501,14 @@
     "ids": [
       "map_delirium_additional_reward_type_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1770833858",
+        "text": "Delirium Encounters in affected Map have #% chance to generate an additional Reward",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2259,7 +2564,14 @@
     "ids": [
       "map_delirium_doodads_+%_final"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_551040294",
+        "text": "Delirium Fog in Map spawns #% increased Fracturing Mirrors",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2315,7 +2627,14 @@
     "ids": [
       "map_delirium_special_event_all_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_900933517",
+        "text": "Delirium Fog in Map spawns #% increased Mirror Shards",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2418,7 +2737,14 @@
     "ids": [
       "map_desert_biome"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3517228691",
+        "text": "Map also counts as a Desert Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2472,7 +2798,20 @@
     "ids": [
       "map_expedition_artifact_quantity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4219583418",
+        "text": "#% increased quantity of Expedition Artifacts dropped by Monsters in Map",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_4219583418",
+        "text": "#% increased quantity of Expedition Artifacts dropped by Monsters in Map",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2526,7 +2865,20 @@
     "ids": [
       "map_expedition_elite_marker_count_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1640965354",
+        "text": "Map contains #% increased number of Runic Monster Markers",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_1640965354",
+        "text": "Map contains #% increased number of Runic Monster Markers",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2562,7 +2914,14 @@
     "ids": [
       "map_expedition_explosion_area_of_effect_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3039133122",
+        "text": "#% increased Expedition Explosive Area of Effect in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2598,7 +2957,20 @@
     "ids": [
       "map_expedition_explosion_radius_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3289828378",
+        "text": "#% increased Expedition Explosive Radius in Map",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_3289828378",
+        "text": "#% increased Expedition Explosive Radius in Map",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2652,7 +3024,14 @@
     "ids": [
       "map_expedition_first_X_unearthed_runic_monsters_are_rare"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3963944561",
+        "text": "The first unearthed Runic Monster will be a Rare Monster in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2706,7 +3085,20 @@
     "ids": [
       "map_expedition_maximum_placement_distance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1539368271",
+        "text": "#% increased Expedition Explosive Placement Range in Map",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_1539368271",
+        "text": "#% increased Expedition Explosive Placement Range in Map",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2760,7 +3152,14 @@
     "ids": [
       "map_expedition_num_buried_strongboxes_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_181823691",
+        "text": "Expeditions contain 1 buried Strongbox in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2814,7 +3213,14 @@
     "ids": [
       "map_expedition_num_frozen_bosses_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1183698646",
+        "text": "Expeditions contain 1 Additional Boss encased in ice in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2868,7 +3274,14 @@
     "ids": [
       "map_expedition_num_sentinels_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1109460697",
+        "text": "Expeditions contain 1 Additional Verisium Sentry in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2922,7 +3335,14 @@
     "ids": [
       "map_expedition_num_vaal_relics_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2852112245",
+        "text": "Expeditions contain 1 Vaal Relic in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2958,7 +3378,14 @@
     "ids": [
       "map_expedition_number_of_magic_and_rare_packs_+%_and_rare_monster_modifiers_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2905096233",
+        "text": "#% increased Expedition Monster Rarity in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3012,7 +3439,14 @@
     "ids": [
       "map_expedition_rare_monsters_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2694800111",
+        "text": "#% increased number of Rare Expedition Monsters in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3066,7 +3500,14 @@
     "ids": [
       "map_expedition_relic_mod_effect_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3078574625",
+        "text": "#% increased Effect of Expedition Remnants in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3120,7 +3561,14 @@
     "ids": [
       "map_expedition_relics_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3753446846",
+        "text": "Expeditions in Map have # Remnant",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3156,7 +3604,14 @@
     "ids": [
       "map_expedition_remnants_pass_2_runic_modifiers_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3871299443",
+        "text": "Verisium Remnants have +#% chance to add an additional Runic Modifier in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3192,7 +3647,14 @@
     "ids": [
       "map_expedition_remnants_surpassing_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3653794255",
+        "text": "Expeditions have +#% Surpassing chance to contain an additional Verisium Remnant",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3228,7 +3690,14 @@
     "ids": [
       "map_expedition_twinned_elites"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2816104578",
+        "text": "Runic Monsters in your Maps are Duplicated",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3264,7 +3733,14 @@
     "ids": [
       "map_expedition_twinned_elites_surpassing_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_779964546",
+        "text": "Expeditions have +#% Surpassing chance to Duplicate Runic Monsters in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3443,7 +3919,20 @@
     "ids": [
       "map_extra_monoliths"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2162684861",
+        "text": "Map contains an additional Essence",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_395808938",
+        "text": "Map contains an additional Essence",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3551,7 +4040,14 @@
     "ids": [
       "map_forest_biome"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_864099561",
+        "text": "Map also counts as a Forest Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3587,7 +4083,14 @@
     "ids": [
       "map_grass_biome"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3160511599",
+        "text": "Map also counts as a Grass Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3623,7 +4126,14 @@
     "ids": [
       "map_incursion_token_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1940774881",
+        "text": "#% chance to gain an additional Crystal from Vaal Beacons in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3659,7 +4169,14 @@
     "ids": [
       "map_incursion_vaal_beacon_boss_added_to_area_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3937291366",
+        "text": "#% chance to add a Vaal Beacon Unique Monster to the Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3695,7 +4212,14 @@
     "ids": [
       "map_incursion_vaal_beacon_chest_rare_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2514439422",
+        "text": "#% increased chance Vaal Beacon Chests are Rare in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3749,7 +4273,14 @@
     "ids": [
       "map_incursion_vaal_beacon_extra_packs_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3294218801",
+        "text": "# extra pack of Monsters around Vaal Beacons in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3785,7 +4316,14 @@
     "ids": [
       "map_incursion_vaal_beacon_extra_packs_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1359775981",
+        "text": "#% chance for an extra packs of Monsters around Vaal Beacons in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3821,7 +4359,14 @@
     "ids": [
       "map_incursion_vaal_beacon_pack_size_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_890040946",
+        "text": "#% increased Pack Size for Monsters around Vaal Beacons in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3857,7 +4402,14 @@
     "ids": [
       "map_incursion_vaal_beacon_secondary_encounter_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_632698321",
+        "text": "#% increased chance Vaal Beacons summon additional Monsters in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3911,7 +4463,14 @@
     "ids": [
       "map_killing_rare_monsters_pauses_delirium_mirror_timer_for_x_seconds"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2323782229",
+        "text": "Slaying Rare Monsters in Map pauses the Delirium Mirror Timer for 1 second",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3967,7 +4526,14 @@
     "ids": [
       "map_map_boss_bonus_map_drop_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1457896329",
+        "text": "#% increased Quantity of Waystones dropped by Map Bosses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4003,7 +4569,14 @@
     "ids": [
       "map_map_item_drop_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2777224821",
+        "text": "#% increased Quantity of Waystones found in Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4059,7 +4632,14 @@
     "ids": [
       "map_monolith_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1825943485",
+        "text": "Map has #% increased chance to contain Essences",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4115,7 +4695,14 @@
     "ids": [
       "map_monster_potency_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2065500219",
+        "text": "Monsters have #% increased Effectiveness",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4151,7 +4738,14 @@
     "ids": [
       "map_mountain_biome"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1583884108",
+        "text": "Map also counts as a Mountain Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4205,7 +4799,26 @@
     "ids": [
       "map_num_extra_abysses"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1070816711",
+        "text": "Map contains an additional Abyss",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_3490187949",
+        "text": "Map contains # additional Abysses",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3490187949",
+        "text": "Map contains # additional Abysses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4259,7 +4872,20 @@
     "ids": [
       "map_num_extra_shrines"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1468737867",
+        "text": "Map contains an additional Shrine",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3042527515",
+        "text": "Map contains an additional Shrine",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4313,7 +4939,14 @@
     "ids": [
       "map_num_extra_stone_circles"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2839545956",
+        "text": "Map contains an additional Summoning Circle",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4367,7 +5000,20 @@
     "ids": [
       "map_num_extra_strongboxes"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3040603554",
+        "text": "Map contains an additional Strongbox",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3240183538",
+        "text": "Map contains # additional Strongboxes",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4464,7 +5110,14 @@
     "ids": [
       "map_number_of_magic_and_rare_packs_+%_and_rare_monster_modifiers_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4142653832",
+        "text": "Map has #% increased Monster Rarity",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4500,7 +5153,32 @@
     "ids": [
       "map_number_of_magic_packs_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3873704640",
+        "text": "Map has #% increased Magic Monsters",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_3873704640",
+        "text": "Map has #% increased Magic Monsters",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3873704640",
+        "text": "Map has #% increased Magic Monsters",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3873704640",
+        "text": "Map has #% increased Magic Monsters",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4536,7 +5214,32 @@
     "ids": [
       "map_number_of_rare_packs_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3793155082",
+        "text": "Map has #% increased number of Rare Monsters",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_3793155082",
+        "text": "Map has #% increased number of Rare Monsters",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3793155082",
+        "text": "Map has #% increased number of Rare Monsters",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3793155082",
+        "text": "Map has #% increased number of Rare Monsters",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4572,7 +5275,20 @@
     "ids": [
       "map_rare_monster_additional_modifier_chance_%_with_rollover"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "enchant.stat_3732878551",
+        "text": "Rare Monsters in Map have a #% Surpassing chance to have an additional Modifier",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3732878551",
+        "text": "Rare Monsters in Map have a #% Surpassing chance to have an additional Modifier",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4626,7 +5342,14 @@
     "ids": [
       "map_ritual_additional_reward_rerolls"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_120737942",
+        "text": "Ritual Altars in Map allow rerolling Favours an additional time",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4682,7 +5405,14 @@
     "ids": [
       "map_ritual_defer_reward_tribute_cost_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1345835998",
+        "text": "Deferring Favours at Ritual Altars in Map costs #% increased Tribute",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4718,7 +5448,14 @@
     "ids": [
       "map_ritual_deferred_rewards_are_offered_again_+%_sooner"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_28208665",
+        "text": "Favours Deferred at Ritual Altars in Map reappear #% sooner",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4774,7 +5511,14 @@
     "ids": [
       "map_ritual_magic_monsters_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1031644647",
+        "text": "Revived Monsters from Ritual Altars in Map have #% increased chance to be Magic",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4868,7 +5612,14 @@
     "ids": [
       "map_ritual_offered_rewards_from_rerolls_have_permyriad_chance_to_cost_no_tribute"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_937291386",
+        "text": "Favours Rerolled at Ritual Altars in Map have #% chance to cost no Tribute",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4924,7 +5675,14 @@
     "ids": [
       "map_ritual_omen_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4219853180",
+        "text": "Ritual Favours in Map have #% increased chance to be Omens",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4980,7 +5738,14 @@
     "ids": [
       "map_ritual_rare_monsters_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3979184174",
+        "text": "Revived Monsters from Ritual Altars in Map have #% increased chance to be Rare",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5036,7 +5801,14 @@
     "ids": [
       "map_ritual_rewards_reroll_cost_+%_final"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2282052746",
+        "text": "Rerolling Favours at Ritual Altars in Map costs #% increased Tribute",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5092,7 +5864,14 @@
     "ids": [
       "map_ritual_tribute_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_159726667",
+        "text": "Monsters Sacrificed at Ritual Altars in Map grant #% increased Tribute",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5148,7 +5927,14 @@
     "ids": [
       "map_rogue_exile_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1352729973",
+        "text": "Map has #% increased chance to contain Rogue Exiles",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5204,7 +5990,14 @@
     "ids": [
       "map_shrine_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_689816330",
+        "text": "Map has #% increased chance to contain Shrines",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5319,7 +6112,14 @@
     "ids": [
       "map_spawn_extra_torment_spirits"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_358129101",
+        "text": "Map contains # additional Azmeri Spirit",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5375,7 +6175,14 @@
     "ids": [
       "map_stone_circle_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_267210597",
+        "text": "Map has #% increased chance to contain a Summoning Circle",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5431,7 +6238,14 @@
     "ids": [
       "map_strongbox_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4279535856",
+        "text": "Map has #% increased chance to contain Strongboxes",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5467,7 +6281,14 @@
     "ids": [
       "map_swamp_biome"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3755999954",
+        "text": "Map also counts as a Swamp Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5523,7 +6344,14 @@
     "ids": [
       "map_tormented_spirit_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3815617979",
+        "text": "Map has #% increased chance to contain Azmeri Spirits",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5577,7 +6405,14 @@
     "ids": [
       "map_unstable_breach_additional_x_seconds_before_collapse"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4104094246",
+        "text": "Unstable Breaches in Map take an additional second to collapse after timer is filled",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5631,7 +6466,14 @@
     "ids": [
       "map_unstable_breach_enrage_x_additional_rare_monsters"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3762913035",
+        "text": "Unstable Breaches in Map spawn an additional Rare Monster when Stabilised",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5703,7 +6545,14 @@
     "ids": [
       "map_water_biome"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3271982291",
+        "text": "Map also counts as a Water Map",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5757,7 +6606,20 @@
     "ids": [
       "maps_with_powerful_bosses_additional_essence_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2162684861",
+        "text": "Map contains an additional Essence",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_395808938",
+        "text": "Map contains an additional Essence",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5811,7 +6673,20 @@
     "ids": [
       "maps_with_powerful_bosses_additional_shrine_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1468737867",
+        "text": "Map contains an additional Shrine",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3042527515",
+        "text": "Map contains an additional Shrine",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5865,7 +6740,14 @@
     "ids": [
       "maps_with_powerful_bosses_additional_spirit_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_775597083",
+        "text": "Map contains an additional Azmeri Spirit",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5919,7 +6801,20 @@
     "ids": [
       "maps_with_powerful_bosses_additional_strongbox_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3040603554",
+        "text": "Map contains an additional Strongbox",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3240183538",
+        "text": "Map contains # additional Strongboxes",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

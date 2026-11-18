@@ -205,7 +205,26 @@
     "ids": [
       "melee_damage_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_1002362373",
+        "text": "#% increased Melee Damage",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1002362373",
+        "text": "#% increased Melee Damage",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_1002362373",
+        "text": "#% increased Melee Damage",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -437,7 +456,32 @@
     "ids": [
       "critical_strike_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

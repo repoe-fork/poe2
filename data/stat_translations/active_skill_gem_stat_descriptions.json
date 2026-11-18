@@ -3076,7 +3076,38 @@
     "ids": [
       "additional_base_critical_strike_chance"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_518292764",
+        "text": "#% to Critical Hit Chance",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_518292764",
+        "text": "#% to Critical Hit Chance",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_518292764",
+        "text": "#% to Critical Hit Chance",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_518292764",
+        "text": "#% to Critical Hit Chance",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_518292764",
+        "text": "#% to Critical Hit Chance",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3745,7 +3776,14 @@
     "ids": [
       "attack_and_cast_speed_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2672805335",
+        "text": "#% increased Attack and Cast Speed",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4077,7 +4115,44 @@
     "ids": [
       "attack_speed_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4133,7 +4208,44 @@
     "ids": [
       "attack_speed_+%_granted_from_skill"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_681332047",
+        "text": "#% increased Attack Speed",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4925,7 +5037,38 @@
     "ids": [
       "base_critical_strike_multiplier_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_3556824919",
+        "text": "#% increased Critical Damage Bonus",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_3556824919",
+        "text": "#% increased Critical Damage Bonus",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_3556824919",
+        "text": "#% increased Critical Damage Bonus",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3556824919",
+        "text": "#% increased Critical Damage Bonus",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3556824919",
+        "text": "#% increased Critical Damage Bonus",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4981,7 +5124,32 @@
     "ids": [
       "base_curse_duration_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3824372849",
+        "text": "#% increased Curse Duration",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3824372849",
+        "text": "#% increased Curse Duration",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3824372849",
+        "text": "#% increased Curse Duration",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3824372849",
+        "text": "#% increased Curse Duration",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5933,7 +6101,32 @@
     "ids": [
       "base_poison_duration_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_2011656677",
+        "text": "#% increased Poison Duration",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2011656677",
+        "text": "#% increased Poison Duration",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_2011656677",
+        "text": "#% increased Poison Duration",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_2011656677",
+        "text": "#% increased Poison Duration",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5989,7 +6182,32 @@
     "ids": [
       "base_projectile_speed_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3759663284",
+        "text": "#% increased Projectile Speed",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3759663284",
+        "text": "#% increased Projectile Speed",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3759663284",
+        "text": "#% increased Projectile Speed",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3759663284",
+        "text": "#% increased Projectile Speed",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -7234,7 +7452,32 @@
     "ids": [
       "chance_to_fork_extra_projectile_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3003542304",
+        "text": "Projectiles have #% chance for an additional Projectile when Forking",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3003542304",
+        "text": "Projectiles have #% chance for an additional Projectile when Forking",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3003542304",
+        "text": "Projectiles have #% chance for an additional Projectile when Forking",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_3003542304",
+        "text": "Projectiles have #% chance for an additional Projectile when Forking",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -7575,7 +7818,26 @@
     "ids": [
       "chill_duration_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3485067555",
+        "text": "#% increased Chill Duration on Enemies",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3485067555",
+        "text": "#% increased Chill Duration on Enemies",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3485067555",
+        "text": "#% increased Chill Duration on Enemies",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -8286,7 +8548,26 @@
     "ids": [
       "critical_hit_damaging_ailment_effect_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_440490623",
+        "text": "#% increased Magnitude of Damaging Ailments you inflict with Critical Hits",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_440490623",
+        "text": "#% increased Magnitude of Damaging Ailments you inflict with Critical Hits",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_440490623",
+        "text": "#% increased Magnitude of Damaging Ailments you inflict with Critical Hits",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -8378,7 +8659,32 @@
     "ids": [
       "critical_strike_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -10374,7 +10680,14 @@
     "ids": [
       "freeze_duration_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1073942215",
+        "text": "#% increased Freeze Duration on Enemies",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -11361,7 +11674,14 @@
     "ids": [
       "ignite_duration_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1086147743",
+        "text": "#% increased Ignite Duration on Enemies",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -11509,7 +11829,26 @@
     "ids": [
       "knockback_distance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_565784293",
+        "text": "#% increased Knockback Distance",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_565784293",
+        "text": "#% increased Knockback Distance",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_565784293",
+        "text": "#% increased Knockback Distance",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -12260,7 +12599,26 @@
     "ids": [
       "melee_damage_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_1002362373",
+        "text": "#% increased Melee Damage",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1002362373",
+        "text": "#% increased Melee Damage",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_1002362373",
+        "text": "#% increased Melee Damage",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -13667,7 +14025,44 @@
     "ids": [
       "physical_damage_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -14056,7 +14451,14 @@
     "ids": [
       "projectile_number_to_split"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3464380325",
+        "text": "Projectiles Split towards # targets",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -14593,7 +14995,26 @@
     "ids": [
       "shock_duration_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3668351662",
+        "text": "#% increased Shock Duration",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3668351662",
+        "text": "#% increased Shock Duration",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3668351662",
+        "text": "#% increased Shock Duration",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -16597,7 +17018,38 @@
     "ids": [
       "warcry_speed_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_1316278494",
+        "text": "#% increased Warcry Speed",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_1316278494",
+        "text": "#% increased Warcry Speed",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_1316278494",
+        "text": "#% increased Warcry Speed",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1316278494",
+        "text": "#% increased Warcry Speed",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_1316278494",
+        "text": "#% increased Warcry Speed",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

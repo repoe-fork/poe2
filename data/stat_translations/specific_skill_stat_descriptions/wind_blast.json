@@ -137,7 +137,38 @@
     "ids": [
       "base_chance_to_daze_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3146310524",
+        "text": "Dazes on Hit",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2933846633",
+        "text": "Dazes on Hit",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3146310524",
+        "text": "Dazes on Hit",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3146310524",
+        "text": "Dazes on Hit",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_2933846633",
+        "text": "Dazes on Hit",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

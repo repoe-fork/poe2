@@ -1968,7 +1968,26 @@
     "ids": [
       "hit_damage_freeze_multiplier_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3998863698",
+        "text": "Monsters have #% increased Freeze Buildup",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3998863698",
+        "text": "Monsters have #% increased Freeze Buildup",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3998863698",
+        "text": "Monsters have #% increased Freeze Buildup",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

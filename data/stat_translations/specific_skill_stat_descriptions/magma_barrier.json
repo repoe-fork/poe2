@@ -215,7 +215,26 @@
     "ids": [
       "skill_igneous_shield_grants_block_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_4147897060",
+        "text": "#% increased Block chance",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_4147897060",
+        "text": "#% increased Block chance",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_4147897060",
+        "text": "#% increased Block chance",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

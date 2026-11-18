@@ -135,7 +135,38 @@
     "ids": [
       "curse_effect_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_2353576063",
+        "text": "#% increased Curse Magnitudes",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_2353576063",
+        "text": "#% increased Curse Magnitudes",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2353576063",
+        "text": "#% increased Curse Magnitudes",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_2353576063",
+        "text": "#% increased Curse Magnitudes",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_2353576063",
+        "text": "#% increased Curse Magnitudes",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

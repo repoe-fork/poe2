@@ -135521,13 +135521,13 @@
   "DTTSabreSpiderLeap": {
     "active_skill": {
       "description": "",
-      "display_name": "",
-      "id": "dash_to_target",
+      "display_name": "Dash",
+      "id": "dash_attack_to_target",
       "is_manually_casted": true,
       "is_skill_totem": false,
       "stat_conversions": {},
       "types": [
-        "Spell",
+        "Attack",
         "Movement",
         "AttackInPlace"
       ],
@@ -391290,6 +391290,43 @@
               "value": 1
             }
           ]
+        },
+        "translation_file": "skill_stat_descriptions.txt"
+      }
+    ],
+    "static": {},
+    "stats": {}
+  },
+  "GASabreSpiderLeap": {
+    "active_skill": {
+      "description": "",
+      "display_name": "",
+      "id": "geometry_attack",
+      "is_manually_casted": true,
+      "is_skill_totem": false,
+      "stat_conversions": {},
+      "types": [
+        "Triggerable",
+        "Attack",
+        "AttackInPlace"
+      ],
+      "weapon_restrictions": []
+    },
+    "cast_time": 1000,
+    "is_support": false,
+    "per_level": {
+      "1": {}
+    },
+    "stat_sets": [
+      {
+        "id": "GASabreSpiderLeap",
+        "label": null,
+        "per_level": {
+          "1": {}
+        },
+        "static": {
+          "damage_multiplier": 120,
+          "stats": []
         },
         "translation_file": "skill_stat_descriptions.txt"
       }

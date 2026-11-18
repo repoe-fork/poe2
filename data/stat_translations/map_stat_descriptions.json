@@ -1275,7 +1275,14 @@
     "ids": [
       "map_monster_potency_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2065500219",
+        "text": "Monsters have #% increased Effectiveness",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2127,7 +2134,14 @@
     "ids": [
       "map_tower_augment_quantity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "enchant.stat_3138466258",
+        "text": "#% increased Tablets found in Area",
+        "type": "enchant",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

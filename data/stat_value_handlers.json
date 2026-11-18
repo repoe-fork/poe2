@@ -484,6 +484,9 @@
   "elder_guardian_index": {
     "type": "noop"
   },
+  "reminderstring": {
+    "type": "string"
+  },
   "mod_value_to_item_class": {
     "dat_file": "ItemClasses.dat64",
     "index_column": null,
@@ -679,9 +682,6 @@
       "value": 8
     }
   },
-  "display_indexable_support": {
-    "type": "noop"
-  },
   "tree_expansion_jewel_passive": {
     "dat_file": "PassiveTreeExpansionJewelSizes.dat64",
     "index_column": null,
@@ -693,9 +693,6 @@
       "2": "Large"
     },
     "predicate": null
-  },
-  "affliction_reward_type": {
-    "type": "noop"
   },
   "passive_hash": {
     "dat_file": "PassiveSkills.dat64",
@@ -10242,7 +10239,16 @@
     },
     "predicate": null
   },
-  "metamorphosis_reward_description": {
+  "display_indexable_support": {
+    "type": "noop"
+  },
+  "affliction_reward_type": {
+    "type": "noop"
+  },
+  "display_indexable_skill": {
+    "type": "noop"
+  },
+  "display_indexable_non_active_support": {
     "type": "noop"
   },
   "ultimatum_wager_type_hash": {
@@ -10528,12 +10534,6 @@
     },
     "predicate": null
   },
-  "reminderstring": {
-    "type": "string"
-  },
-  "display_indexable_skill": {
-    "type": "noop"
-  },
   "passive_keystone_index": {
     "dat_file": "PassiveKeystoneList.dat64",
     "index_column": null,
@@ -10598,8 +10598,5 @@
       "13": "[LegacyOfTopaz|Topaz]"
     },
     "predicate": null
-  },
-  "display_indexable_non_active_support": {
-    "type": "noop"
   }
 }

@@ -4565,7 +4565,14 @@
     "ids": [
       "expedition_monsters_logbook_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1083387327",
+        "text": "#% increased Quantity of Expedition Logbooks dropped by Runic Monsters",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5423,7 +5430,20 @@
     "ids": [
       "map_abyss_%_chance_chasm_spawns_at_least_magic_monsters"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_4157613372",
+        "text": "Abyss Pits have #% chance to spawn all Monsters as at least Magic",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_4157613372",
+        "text": "Abyss Pits have #% chance to spawn all Monsters as at least Magic",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5567,7 +5587,20 @@
     "ids": [
       "map_abyss_%_chance_path_spawns_at_least_magic_monsters"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_1388221282",
+        "text": "Abyss Cracks have #% chance to spawn all Monsters as at least Magic",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1388221282",
+        "text": "Abyss Cracks have #% chance to spawn all Monsters as at least Magic",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -7233,7 +7266,14 @@
     "ids": [
       "map_abyss_monster_potency_+%_per_chasm_closed"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_664606484",
+        "text": "Abyssal Monsters have #% increased Effectiveness for each closed Pit, up to 100%",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -13899,7 +13939,14 @@
     "ids": [
       "map_boss_dropped_item_quantity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3119172063",
+        "text": "#% increased Quantity of Items dropped by Map Bosses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -14135,7 +14182,14 @@
     "ids": [
       "map_boss_experience_+%_final"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3860150265",
+        "text": "Map Bosses grant #% increased Experience",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -14355,7 +14409,14 @@
     "ids": [
       "map_boss_item_rarity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4255069232",
+        "text": "#% increased Rarity of Items dropped by Map Bosses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -29648,7 +29709,20 @@
     "ids": [
       "map_expedition_explosion_radius_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3289828378",
+        "text": "#% increased Expedition Explosive Radius",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_3289828378",
+        "text": "#% increased Expedition Explosive Radius",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -29704,7 +29778,14 @@
     "ids": [
       "map_expedition_explosives_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "implicit.stat_3051490307",
+        "text": "#% increased number of Expedition Explosives",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -30034,7 +30115,20 @@
     "ids": [
       "map_expedition_maximum_placement_distance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1539368271",
+        "text": "#% increased Expedition Explosive Placement Range",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_1539368271",
+        "text": "#% increased Expedition Explosive Placement Range",
+        "type": "implicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -31216,7 +31310,14 @@
     "ids": [
       "map_final_boss_map_key_of_at_least_same_tier_as_current_map_drop_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1314787770",
+        "text": "Map Boss has +#% chance to drop a Waystone of the current tier or higher",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -37248,7 +37349,50 @@
     "ids": [
       "map_item_drop_rarity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3917489142",
+        "text": "#% increased Rarity of Items found",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -39368,7 +39512,14 @@
     "ids": [
       "map_magic_chest_amount_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2898517796",
+        "text": "#% increased amount of Magic Chests",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -39778,7 +39929,14 @@
     "ids": [
       "map_map_boss_bonus_map_drop_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1457896329",
+        "text": "#% increased Quantity of Waystones dropped by Map Bosses",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -48012,7 +48170,14 @@
     "ids": [
       "map_rare_chest_amount_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_798469000",
+        "text": "#% increased amount of Rare Chests",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -63068,7 +63233,14 @@
     "ids": [
       "maps_with_powerful_bosses_additional_essence_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2162684861",
+        "text": "Areas with Powerful Map Bosses contain an additional Essence",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -63230,7 +63402,14 @@
     "ids": [
       "maps_with_powerful_bosses_additional_spirit_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_775597083",
+        "text": "Areas with Powerful Map Bosses contain an additional Azmeri Spirit",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -63340,7 +63519,14 @@
     "ids": [
       "maps_with_powerful_bosses_additional_strongbox_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3040603554",
+        "text": "Areas with Powerful Map Bosses contain an additional Strongbox",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

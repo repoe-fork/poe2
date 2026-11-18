@@ -151,7 +151,50 @@
     "ids": [
       "base_strength"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_4080418644",
+        "text": "# to Strength",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_4080418644",
+        "text": "# to Strength",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_4080418644",
+        "text": "# to Strength",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_4080418644",
+        "text": "# to Strength",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_4080418644",
+        "text": "# to Strength",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_4080418644",
+        "text": "# to Strength",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_4080418644",
+        "text": "# to Strength",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -207,7 +250,32 @@
     "ids": [
       "strength_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_734614379",
+        "text": "#% increased Strength",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_734614379",
+        "text": "#% increased Strength",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_734614379",
+        "text": "#% increased Strength",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_734614379",
+        "text": "#% increased Strength",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -243,7 +311,50 @@
     "ids": [
       "base_dexterity"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_3261801346",
+        "text": "# to Dexterity",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_3261801346",
+        "text": "# to Dexterity",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_3261801346",
+        "text": "# to Dexterity",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3261801346",
+        "text": "# to Dexterity",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3261801346",
+        "text": "# to Dexterity",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_3261801346",
+        "text": "# to Dexterity",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3261801346",
+        "text": "# to Dexterity",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -299,7 +410,32 @@
     "ids": [
       "dexterity_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_4139681126",
+        "text": "#% increased Dexterity",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_4139681126",
+        "text": "#% increased Dexterity",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_4139681126",
+        "text": "#% increased Dexterity",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_4139681126",
+        "text": "#% increased Dexterity",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -335,7 +471,50 @@
     "ids": [
       "base_intelligence"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_328541901",
+        "text": "# to Intelligence",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_328541901",
+        "text": "# to Intelligence",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_328541901",
+        "text": "# to Intelligence",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_328541901",
+        "text": "# to Intelligence",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_328541901",
+        "text": "# to Intelligence",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_328541901",
+        "text": "# to Intelligence",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_328541901",
+        "text": "# to Intelligence",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -391,7 +570,32 @@
     "ids": [
       "intelligence_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_656461285",
+        "text": "#% increased Intelligence",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_656461285",
+        "text": "#% increased Intelligence",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_656461285",
+        "text": "#% increased Intelligence",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_656461285",
+        "text": "#% increased Intelligence",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -503,7 +707,20 @@
     "ids": [
       "max_endurance_charges"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "enchant.stat_1515657623",
+        "text": "# to Maximum Endurance Charges",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1515657623",
+        "text": "# to Maximum Endurance Charges",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -539,7 +756,20 @@
     "ids": [
       "max_frenzy_charges"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "enchant.stat_4078695",
+        "text": "# to Maximum Frenzy Charges",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_4078695",
+        "text": "# to Maximum Frenzy Charges",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -575,7 +805,26 @@
     "ids": [
       "max_power_charges"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "enchant.stat_227523295",
+        "text": "# to Maximum Power Charges",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_227523295",
+        "text": "# to Maximum Power Charges",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_227523295",
+        "text": "# to Maximum Power Charges",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1279,7 +1528,32 @@
     "ids": [
       "critical_strike_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_587431675",
+        "text": "#% increased Critical Hit Chance",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1387,7 +1661,14 @@
     "ids": [
       "resolute_technique"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2161347476",
+        "text": "Accuracy Rating is Doubled",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1423,7 +1704,14 @@
     "ids": [
       "keystone_unwavering_stance"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1000739259",
+        "text": "Cannot be Light Stunned",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1495,7 +1783,20 @@
     "ids": [
       "base_strength_and_dexterity"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_538848803",
+        "text": "# to Strength and Dexterity",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_538848803",
+        "text": "# to Strength and Dexterity",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1531,7 +1832,20 @@
     "ids": [
       "base_strength_and_intelligence"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_1535626285",
+        "text": "# to Strength and Intelligence",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1535626285",
+        "text": "# to Strength and Intelligence",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1567,7 +1881,20 @@
     "ids": [
       "base_dexterity_and_intelligence"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_2300185227",
+        "text": "# to Dexterity and Intelligence",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2300185227",
+        "text": "# to Dexterity and Intelligence",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2111,7 +2438,38 @@
     "ids": [
       "global_armour_evasion_energy_shield_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "augment",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_1016362888",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3529,7 +3887,32 @@
     "ids": [
       "charge_skip_consume_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_2942439603",
+        "text": "Skills have #% chance to not remove Charges but still count as consuming them",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2942439603",
+        "text": "Skills have #% chance to not remove Charges but still count as consuming them",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_2942439603",
+        "text": "Skills have #% chance to not remove Charges but still count as consuming them",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_2942439603",
+        "text": "Skills have #% chance to not remove Charges but still count as consuming them",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3585,7 +3968,14 @@
     "ids": [
       "chill_effect_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_828179689",
+        "text": "#% increased Magnitude of Chill you inflict",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4445,7 +4835,26 @@
     "ids": [
       "elemental_skill_limit_+"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_1713927892",
+        "text": "# to Limit for Elemental Skills",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1713927892",
+        "text": "# to Limit for Elemental Skills",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_1713927892",
+        "text": "# to Limit for Elemental Skills",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4791,7 +5200,14 @@
     "ids": [
       "keystone_2_companions"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1888024332",
+        "text": "You can have two Companions of different types",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4863,7 +5279,14 @@
     "ids": [
       "keystone_crimson_assault"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_841429130",
+        "text": "Bleeding you inflict is Aggravated",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -4971,7 +5394,14 @@
     "ids": [
       "keystone_giants_blood"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3635316831",
+        "text": "You can wield Two-Handed Axes, Maces and Swords in one hand",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -5479,7 +5909,44 @@
     "ids": [
       "natures_sustenance_additional_maximum_rage"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_1181501418",
+        "text": "# to Maximum Rage",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_1181501418",
+        "text": "# to Maximum Rage",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1181501418",
+        "text": "# to Maximum Rage",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_1181501418",
+        "text": "# to Maximum Rage",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_1181501418",
+        "text": "# to Maximum Rage",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_1181501418",
+        "text": "# to Maximum Rage",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -6003,7 +6470,44 @@
     "ids": [
       "physical_damage_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_1509134228",
+        "text": "#% increased Physical Damage",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -6369,7 +6873,44 @@
     "ids": [
       "shock_effect_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_2527686725",
+        "text": "#% increased Magnitude of Shock you inflict",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_2527686725",
+        "text": "#% increased Magnitude of Shock you inflict",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2527686725",
+        "text": "#% increased Magnitude of Shock you inflict",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_2527686725",
+        "text": "#% increased Magnitude of Shock you inflict",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_2527686725",
+        "text": "#% increased Magnitude of Shock you inflict",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_2527686725",
+        "text": "#% increased Magnitude of Shock you inflict",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -6935,7 +7476,14 @@
     "ids": [
       "keystone_alternate_intelligence_bonus"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_4187571952",
+        "text": "Gain no inherent bonus from Intelligence",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -7410,7 +7958,14 @@
     "ids": [
       "keystone_emperors_heart"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2812872407",
+        "text": "Life Recovery from Flasks also applies to Energy Shield",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

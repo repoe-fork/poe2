@@ -437,7 +437,20 @@
     "ids": [
       "base_avoid_ignite_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_331731406",
+        "text": "Cannot be Ignited",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_331731406",
+        "text": "Cannot be Ignited",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -491,7 +504,14 @@
     "ids": [
       "base_avoid_shock_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_491899612",
+        "text": "Cannot be Shocked",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

@@ -155,7 +155,26 @@
     "ids": [
       "base_chance_to_poison_on_hit_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_795138349",
+        "text": "#% chance to Poison on Hit",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_795138349",
+        "text": "#% chance to Poison on Hit",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_795138349",
+        "text": "#% chance to Poison on Hit",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

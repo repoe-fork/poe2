@@ -1079,7 +1079,14 @@
     "ids": [
       "virtual_cannot_be_poisoned"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_3835551335",
+        "text": "Cannot be Poisoned",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

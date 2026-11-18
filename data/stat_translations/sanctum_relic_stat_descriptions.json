@@ -152,7 +152,14 @@
     "ids": [
       "gain_x_sanctum_gold_on_room_completion"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_4057192895",
+        "text": "Gain # Sacred Water when you complete a Room",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -188,7 +195,14 @@
     "ids": [
       "map_additional_player_maximum_resistances_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3376488707",
+        "text": "#% to all Maximum Resistances",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -682,7 +696,32 @@
     "ids": [
       "map_monster_attack_cast_and_movement_speed_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3909654181",
+        "text": "Monsters have #% increased Attack, Cast and Movement Speed",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3909654181",
+        "text": "Monsters have #% increased Attack, Cast and Movement Speed",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3909654181",
+        "text": "Monsters have #% increased Attack, Cast and Movement Speed",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_3909654181",
+        "text": "Monsters have #% increased Attack, Cast and Movement Speed",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -864,7 +903,44 @@
     "ids": [
       "map_player_armour_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_2866361420",
+        "text": "#% increased Armour",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_2866361420",
+        "text": "#% increased Armour",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_2866361420",
+        "text": "#% increased Armour",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2866361420",
+        "text": "#% increased Armour",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_2866361420",
+        "text": "#% increased Armour",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_1737465970",
+        "text": "#% increased Armour",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -987,7 +1063,50 @@
     "ids": [
       "map_player_base_self_critical_strike_multiplier_-%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_3855016469",
+        "text": "Hits against you have #% reduced Critical Damage Bonus",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_3855016469",
+        "text": "Hits against you have #% reduced Critical Damage Bonus",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3855016469",
+        "text": "Hits against you have #% reduced Critical Damage Bonus",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3855016469",
+        "text": "Hits against you have #% reduced Critical Damage Bonus",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_3855016469",
+        "text": "Hits against you have #% reduced Critical Damage Bonus",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3855016469",
+        "text": "Hits against you have #% reduced Critical Damage Bonus",
+        "type": "augment",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_2948404493",
+        "text": "Hits against you have #% reduced Critical Damage Bonus",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1043,7 +1162,56 @@
     "ids": [
       "map_player_base_slow_potency_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_924253255",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_924253255",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_924253255",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_924253255",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_924253255",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "implicit.stat_924253255",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "implicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_924253255",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "augment",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_978111083",
+        "text": "#% increased Slowing Potency of Debuffs on You",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1099,7 +1267,38 @@
     "ids": [
       "map_player_armour_evasion_energy_shield_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "desecrated.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "rune.stat_3523867985",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "augment",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_1016362888",
+        "text": "#% increased Armour, Evasion and Energy Shield",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1135,7 +1334,14 @@
     "ids": [
       "map_player_armour_evasion_energy_shield_are_zero"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_698936647",
+        "text": "Your Armour, Evasion and Energy Shield are zero",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1280,7 +1486,44 @@
     "ids": [
       "map_player_energy_shield_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_2482852589",
+        "text": "#% increased maximum Energy Shield",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_2482852589",
+        "text": "#% increased maximum Energy Shield",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_2482852589",
+        "text": "#% increased maximum Energy Shield",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2482852589",
+        "text": "#% increased maximum Energy Shield",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_2482852589",
+        "text": "#% increased maximum Energy Shield",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_1707887759",
+        "text": "#% increased maximum Energy Shield",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1336,7 +1579,44 @@
     "ids": [
       "map_player_evasion_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "crafted.stat_2106365538",
+        "text": "#% increased Evasion Rating",
+        "type": "crafted",
+        "option": null
+      },
+      {
+        "id": "desecrated.stat_2106365538",
+        "text": "#% increased Evasion Rating",
+        "type": "desecrated",
+        "option": null
+      },
+      {
+        "id": "enchant.stat_2106365538",
+        "text": "#% increased Evasion Rating",
+        "type": "enchant",
+        "option": null
+      },
+      {
+        "id": "explicit.stat_2106365538",
+        "text": "#% increased Evasion Rating",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_2106365538",
+        "text": "#% increased Evasion Rating",
+        "type": "fractured",
+        "option": null
+      },
+      {
+        "id": "sanctum.stat_3882471944",
+        "text": "#% increased Evasion Rating",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1582,7 +1862,14 @@
     "ids": [
       "map_players_resist_all_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3128852541",
+        "text": "#% to All Resistances",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1638,7 +1925,14 @@
     "ids": [
       "map_sanctum_avoid_resolve_damage_from_melee_hits_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3134588943",
+        "text": "#% increased chance to avoid Honour loss from Enemy Melee Hits",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -1757,7 +2051,14 @@
     "ids": [
       "map_sanctum_avoid_resolve_damage_if_hit_recently_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2284543592",
+        "text": "#% chance to Avoid Honour loss from Enemy Hits if you've been Hit Recently",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2068,7 +2369,14 @@
     "ids": [
       "map_sanctum_guard_damage_taken_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_408585189",
+        "text": "Rare Monsters take #% increased Damage",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2124,7 +2432,14 @@
     "ids": [
       "map_sanctum_guard_sanctum_damage_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_199414195",
+        "text": "Rare Monsters deal #% increased Damage",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2180,7 +2495,14 @@
     "ids": [
       "map_sanctum_key_drop_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_729354668",
+        "text": "#% increased quantity of Keys dropped by Monsters",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2236,7 +2558,14 @@
     "ids": [
       "map_sanctum_relic_drop_chance_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_1680962389",
+        "text": "#% increased quantity of Relics dropped by Monsters",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2398,7 +2727,14 @@
     "ids": [
       "map_sanctum_resolve_damage_reduction_based_on_+%_of_armour"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3621177126",
+        "text": "Resolve Mitigation from Enemy Hits is based on #% of Armour",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2558,7 +2894,14 @@
     "ids": [
       "sanctum_additional_key_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3170238729",
+        "text": "When you gain a Key #% chance to gain another",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2594,7 +2937,14 @@
     "ids": [
       "sanctum_additional_max_honour_resistance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3096543632",
+        "text": "#% to Maximum Honour Resistance",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2648,7 +2998,14 @@
     "ids": [
       "sanctum_avoid_affliction_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_1960517795",
+        "text": "#% chance to Avoid gaining an Affliction",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2684,7 +3041,14 @@
     "ids": [
       "sanctum_cannot_restore_honour"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2545161750",
+        "text": "Cannot restore Honour",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2720,7 +3084,14 @@
     "ids": [
       "sanctum_chance_to_prevent_zero_honour_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3870327403",
+        "text": "#% chance if you were to lose all your Honour to have 1 Honour instead",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2774,7 +3145,14 @@
     "ids": [
       "sanctum_chance_to_upgrade_key_on_floor_completed_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2155917449",
+        "text": "#% chance for each of your Keys to upgrade on completing a Floor",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2898,7 +3276,14 @@
     "ids": [
       "sanctum_fountain_double_gold_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2363402715",
+        "text": "Fountains have #% chance to grant double Sacred Water",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -2977,7 +3362,14 @@
     "ids": [
       "sanctum_honour_resistance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2287831219",
+        "text": "#% to Honour Resistance",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3033,7 +3425,14 @@
     "ids": [
       "sanctum_honour_restored_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_1583320325",
+        "text": "#% increased Honour restored",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3069,7 +3468,14 @@
     "ids": [
       "sanctum_incoming_damage_bypasses_damage_absorption"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2150725270",
+        "text": "Damage taken cannot be Absorbed",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3186,7 +3592,14 @@
     "ids": [
       "sanctum_max_honour_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3970123360",
+        "text": "#% increased maximum Honour",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3222,7 +3635,14 @@
     "ids": [
       "sanctum_maximum_honour_is_1"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_4191312223",
+        "text": "Maximum Honour is 1",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3382,7 +3802,14 @@
     "ids": [
       "sanctum_monster_double_gold_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_231205265",
+        "text": "Monsters have #% chance to drop double Sacred Water",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3461,7 +3888,14 @@
     "ids": [
       "sanctum_restore_honour_on_boss_kill"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_3865020351",
+        "text": "Restore # Honour on killing a Boss",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3497,7 +3931,14 @@
     "ids": [
       "sanctum_restore_honour_on_fountain_use"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2492340460",
+        "text": "Restore # Honour on venerating a Maraketh Shrine",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3533,7 +3974,14 @@
     "ids": [
       "sanctum_restore_honour_on_gain_key"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_521869848",
+        "text": "Restore # Honour on picking up a Key",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3569,7 +4017,14 @@
     "ids": [
       "sanctum_restore_honour_on_room_completion"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2114314842",
+        "text": "Restore # Honour on room completion",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
@@ -3605,7 +4060,14 @@
     "ids": [
       "sanctum_starting_gold"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "sanctum.stat_2393318075",
+        "text": "Gain # Sacred Water at the start of the Trial",
+        "type": "sanctum",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

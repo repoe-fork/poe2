@@ -224,7 +224,14 @@
     "ids": [
       "skill_herald_of_blood_explosion_aggravate_bleeding_chance_%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_1009412152",
+        "text": "#% chance to Aggravate Bleeding on Hit",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

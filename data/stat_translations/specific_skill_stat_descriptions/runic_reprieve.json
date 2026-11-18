@@ -59,7 +59,20 @@
     "ids": [
       "rune_ward_block_%_damage_taken"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_2905515354",
+        "text": "You take #% of damage from Blocked Hits",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "rune.stat_2905515354",
+        "text": "You take #% of damage from Blocked Hits",
+        "type": "augment",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

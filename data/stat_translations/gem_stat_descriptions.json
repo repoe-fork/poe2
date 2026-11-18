@@ -30156,7 +30156,14 @@
     "ids": [
       "local_gem_str_requirement_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_295075366",
+        "text": "#% increased Strength Requirement",
+        "type": "explicit",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,

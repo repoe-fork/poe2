@@ -322,7 +322,20 @@
     "ids": [
       "minion_movement_speed_+%"
     ],
-    "trade_stats": null,
+    "trade_stats": [
+      {
+        "id": "explicit.stat_174664100",
+        "text": "Minions have #% increased Movement Speed",
+        "type": "explicit",
+        "option": null
+      },
+      {
+        "id": "fractured.stat_174664100",
+        "text": "Minions have #% increased Movement Speed",
+        "type": "fractured",
+        "option": null
+      }
+    ],
     "hidden": null,
     "French": null,
     "German": null,
